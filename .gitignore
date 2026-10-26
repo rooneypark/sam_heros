@@ -1,0 +1,6 @@
+# 원작 분석 데이터 (로컬 전용)
+docs/planning/catalog/*.xlsx
+references/original-motion/
+references/original-tiles/
+references/original-fx/
+docs/design/production/redesign-reference-study.png

@@ -2,7 +2,23 @@
 
 2026-10-26: 사용자 확정에 따라 기본 외형과 이동을 최종본으로 정리했다. 이전 유관장 시안·실패한 모션·비교 자료·버전별 작업파일은 삭제했다.
 
+<<<<<<< Updated upstream
 ## 최종 결과
+=======
+## 장비 파츠 시험 — 2026-10-24
+
+`PARTS_GUIDE.md`에 따라 장비 컷아웃 파츠 9장을 `art/samguk/parts/SG_U0003/`에 제작했다. 같은 파츠로 기본 자세·숨쉬기·걷기·찌르기를 조립한 검수 시안이다. [파츠 제작 기록](docs/design/production/zhang-parts-v1/README.md) · [파츠 조립 비교](http://127.0.0.1:8124/samguk/docs/design/production/zhang-parts-v1/index.html). 게임 등록은 아래 이전 모션 상태를 유지하며 파츠 시안은 사용자 검수 중이다.
+
+## 현재 게임 등록 모션 — 장비 새 비율 프로토타입 변환 (2026-10-24)
+
+장비 SG_U0003를 새 비율 SG_P0003에 맞춰 다시 변환했다. 이전 장비의 옆얼굴·수염·옷맵시를 살리고 몸과 창 길이를 줄였다. 몸 46장, 이펙트 39장. 새 장팔사모 휘두르기와 장판교 포효의 motion·skills·levels·skillFx를 연결했다. [현재 제작·검수·프롬프트 기록](docs/design/production/zhang-revision2/README.md) · [장비/프로토 비교](http://127.0.0.1:8124/web/motion.html?units=SG_U0003,SG_P0003). [첫 프로토타입 변환](docs/design/production/zhang-prototype/README.md)은 이전 기록이며 유비·관우는 아직 v2다.
+
+## 이전 고유 모션 v2 — 역할·무기 중심 재설계
+
+유비(치유·쌍검), 관우(공격·언월도), 장비(탱커·장팔사모)의 숨쉬기·교대 보행·공격·스킬을 108장으로 제작했던 이전 버전이다. [이전 제작 기록](docs/design/production/MOTION_REDESIGN_V2.md) · [이전 검수 화면](http://127.0.0.1:8124/samguk/docs/design/production/motion-v2.html). 장비의 현재 등록은 위 프로토타입 변환본이며 이 화면은 이전 자료다.
+
+## 승인된 결과물
+>>>>>>> Stashed changes
 
 - [유비](liu-bei/README.md): idle / run
 - [관우](guan-yu/README.md): idle / run
@@ -10,6 +26,7 @@
 
 각 이동 폴더에 투명400×440 개별6프레임, 가로 시트, 프레임 보기, 일반/느린GIF와 animation.json이 있다. 이동18프레임은 최종 승인본과 픽셀 동일 검증 완료. 관우·장비 idle은 한 손으로 무기를 땅에 짚는 정지 자세, run은 양손 자세다. 유비 idle은 쌍검 준비 자세다.
 
+<<<<<<< Updated upstream
 ## 작업 기준과 필수 베이스
 
 - [다음 장수용 모션 가이드](docs/motion-guide/README.md): 승인18프레임·GIF, 관절·비율·합성 명세, 실패 원인과 검수 절차.
@@ -22,6 +39,32 @@
 `docs/design`에는 참고자료만 보존한다. 원작 스크린샷과 기존 승인7컷은 시행착오 이미지와 구분해 유지한다. 다음 모션의 종류는 아직 선택 전이다.
 
 정리 방식: 이전 작업폴더는 프로젝트에서 제거하고 Windows 휴지통으로 이동했다. 생성 도구의 앱 캐시나 다른 프로젝트 파일은 정리 범위에 포함하지 않았다.
+=======
+### 정지 유닛 그림 — 2026-10-23
+
+유비(`SG_U0001`)·관우(`SG_U0002`)·장비(`SG_U0003`)·황건적 졸병(`SG_M0001`)의 아이콘, 전신 초상화, 정지 그림을 `art/samguk/units/<ID>/`에 제작하고 `units.json`에 연결했다. 신규 그림은 기존 승인 기준을 대체하지 않는다. 이번 산출물에는 모션 프레임이 없다.
+
+[그림 모음](docs/design/production/unit-art-preview.png) · [제작·검수 기록과 프롬프트](docs/design/production/README.md) · [원작 유닛 비교 맵](content/samguk/maps/정지그림_검수.map.json)
+
+- [AGENTS.md](AGENTS.md): 이후 작업자가 따라야 할 지침과 보류 결정.
+- [협업 구조](docs/COLLABORATION.md): 기획·디자인·개발 역할, 폴더·파일 규칙, 맵 메이커 사용법. 그림 규격은 [art/samguk/README.md](art/samguk/README.md), 기획 규칙은 [docs/planning/README.md](docs/planning/README.md).
+- [디자인 가이드](docs/design/SAMGUK_BASE_STYLE.md): 승인 스타일, 캐릭터 외형, 카메라·지형·조감도 규칙.
+- [원작 자료와 출처](docs/design/references/original-game/README.md): 원작 스크린샷 7장과 커뮤니티 게시물 출처. 승인 목업과 구분해 유지한다.
+
+## 공격·스킬·모션 제작 — 2026-10-23 재개
+
+유비·관우·장비의 서기·걷기·공격·스킬 2종, 총 **143장**을 제작하고 `units.json`에 연결했다. [제작·원작 분석 기록](docs/design/production/MOTION_PRODUCTION.md) · [실시간 모션 비교](http://127.0.0.1:8124/samguk/docs/design/production/motion-review.html). 검수 맵은 `content/samguk/maps/<유비·관우·장비>_모션_검수.map.json`이다. 원작의 시간·판정·효과는 유지하며, 새 그림은 사용자 검수용이다.
+
+사용자 결정으로 재개했다. 원작 애니메이션 데이터(상태별 프레임 수·프레임별 시간·타격 시점)와 스킬 구성을 뽑은 [모션 제작 가이드](docs/design/motion/MOTION_GUIDE.md)와 [원작 모션 레퍼런스](docs/design/motion/reference/README.md)를 기준으로 한다. 걷기(Move)·서기(Idle)부터 그린다. 정지 화면만 보고 추측하지 않는다는 원칙은 유지한다.
+
+(이전 기록) 화면만 보고 동작을 추측하는 접근이 불충분하다고 판단해 모션 작업을 중단했었다.
+
+## 작업 가이드
+
+- 맵·캐릭터·몬스터를 맵 메이커에 넣기: [코덱스 작업 가이드](docs/CODEX_GUIDE.md)
+- 지형·집·울타리 등 맵 부품: [맵 컴포넌트 가이드](docs/design/map/MAP_COMPONENTS.md)
+- 기획(성장·진행·경제·전투 규칙과 수정 방법): [게임 체계 총정리](docs/planning/GAME_SYSTEMS.md)
+>>>>>>> Stashed changes
 
 ## 숨쉬기 최종 승인본
 
