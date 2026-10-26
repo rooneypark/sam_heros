@@ -1,0 +1,142 @@
+{
+  "status": "review",
+  "motion": "basic-attack",
+  "frame_count": 8,
+  "cell": [
+    640,
+    600
+  ],
+  "direction": "down-right",
+  "foot_anchor": [
+    320,
+    520
+  ],
+  "durations_ms": [
+    180,
+    100,
+    70,
+    60,
+    130,
+    90,
+    100,
+    180
+  ],
+  "playback": "one-shot; preview GIF loops",
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "registration": [
+    {
+      "source_box": [
+        68,
+        86,
+        344,
+        507
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        245,
+        160
+      ]
+    },
+    {
+      "source_box": [
+        404,
+        15,
+        724,
+        507
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        173,
+        97
+      ]
+    },
+    {
+      "source_box": [
+        782,
+        90,
+        1105,
+        505
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        161,
+        165
+      ]
+    },
+    {
+      "source_box": [
+        1148,
+        140,
+        1526,
+        499
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        168,
+        213
+      ]
+    },
+    {
+      "source_box": [
+        10,
+        587,
+        445,
+        994
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        216,
+        194
+      ]
+    },
+    {
+      "source_box": [
+        458,
+        560,
+        774,
+        980
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        224,
+        161
+      ]
+    },
+    {
+      "source_box": [
+        836,
+        560,
+        1096,
+        988
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        246,
+        153
+      ]
+    },
+    {
+      "source_box": [
+        1196,
+        560,
+        1483,
+        988
+      ],
+      "scale": 0.8733624454148472,
+      "placement": [
+        245,
+        153
+      ]
+    }
+  ],
+  "gameplay_values": null
+}

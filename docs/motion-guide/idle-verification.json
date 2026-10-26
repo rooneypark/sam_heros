@@ -1,0 +1,17 @@
+{
+  "liu-bei": {
+    "original_sha256": "3eedccb1beb11fc849d8baf3e05d5fb7ec171dcf1acbfd4876b7f4c01c73dc1c",
+    "fixed_pixels": 40800,
+    "fixed_regions_identical_in_all_frames": true
+  },
+  "guan-yu": {
+    "original_sha256": "5051ec7fbfb1501de72a7b81bf2ce8fbd23cfacce4e7e026c7504d5debcad4fa",
+    "fixed_pixels": 92745,
+    "fixed_regions_identical_in_all_frames": true
+  },
+  "zhang-fei": {
+    "original_sha256": "a5cc646d78f66d7e0616de03407135f9fe328cccf5063b3d096cc3bfb16d8f63",
+    "fixed_pixels": 84837,
+    "fixed_regions_identical_in_all_frames": true
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "status": "approved",
+  "motion": "basic-attack",
+  "frame_count": 8,
+  "cell": [
+    400,
+    440
+  ],
+  "direction": "down-right",
+  "durations_ms": [
+    180,
+    100,
+    70,
+    60,
+    130,
+    90,
+    100,
+    180
+  ],
+  "playback": "one-shot; preview GIF loops",
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "registration": [
+    {
+      "source_box": [
+        47,
+        51,
+        333,
+        498
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        122,
+        100
+      ]
+    },
+    {
+      "source_box": [
+        408,
+        65,
+        688,
+        498
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        119,
+        110
+      ]
+    },
+    {
+      "source_box": [
+        757,
+        62,
+        1114,
+        498
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        122,
+        108
+      ]
+    },
+    {
+      "source_box": [
+        1137,
+        68,
+        1498,
+        496
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        124,
+        113
+      ]
+    },
+    {
+      "source_box": [
+        29,
+        581,
+        422,
+        1001
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        119,
+        118
+      ]
+    },
+    {
+      "source_box": [
+        430,
+        582,
+        773,
+        1003
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        128,
+        118
+      ]
+    },
+    {
+      "source_box": [
+        796,
+        581,
+        1086,
+        1015
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        122,
+        109
+      ]
+    },
+    {
+      "source_box": [
+        1175,
+        573,
+        1463,
+        1018
+      ],
+      "scale": 0.6753246753246753,
+      "placement": [
+        122,
+        102
+      ]
+    }
+  ],
+  "gameplay_values": null,
+  "approved_on": "2026-10-26"
+}

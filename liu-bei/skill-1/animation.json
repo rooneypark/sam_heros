@@ -1,0 +1,139 @@
+{
+  "status": "approved",
+  "motion": "skill-1",
+  "frame_count": 8,
+  "cell": [
+    400,
+    440
+  ],
+  "direction": "down-right",
+  "durations_ms": [
+    180,
+    110,
+    90,
+    70,
+    140,
+    100,
+    110,
+    180
+  ],
+  "playback": "one-shot; preview GIF loops",
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "registration": [
+    {
+      "source_box": [
+        56,
+        52,
+        334,
+        491
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        119,
+        95
+      ]
+    },
+    {
+      "source_box": [
+        374,
+        52,
+        775,
+        491
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        63,
+        95
+      ]
+    },
+    {
+      "source_box": [
+        811,
+        51,
+        1123,
+        491
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        103,
+        94
+      ]
+    },
+    {
+      "source_box": [
+        1227,
+        51,
+        1466,
+        491
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        119,
+        94
+      ]
+    },
+    {
+      "source_box": [
+        66,
+        538,
+        305,
+        979
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        118,
+        93
+      ]
+    },
+    {
+      "source_box": [
+        449,
+        538,
+        685,
+        980
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        115,
+        93
+      ]
+    },
+    {
+      "source_box": [
+        782,
+        538,
+        1155,
+        980
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        82,
+        93
+      ]
+    },
+    {
+      "source_box": [
+        1229,
+        538,
+        1506,
+        980
+      ],
+      "scale": 0.7003367003367004,
+      "placement": [
+        119,
+        93
+      ]
+    }
+  ],
+  "gameplay_values": null,
+  "approved_on": "2026-10-26"
+}
