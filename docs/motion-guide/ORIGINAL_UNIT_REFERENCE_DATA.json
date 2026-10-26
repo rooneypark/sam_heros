@@ -1,0 +1,314 @@
+{
+  "source": "work/sam_heros2/re/extract/media/anims.json and sprites.json",
+  "method": "exact base Hero/Mercenary state names; longest sprite track; key counts include repeated art",
+  "stats": {
+    "Idle": {
+      "samples": 94,
+      "median": 5.0,
+      "min": 4,
+      "max": 87,
+      "common": [
+        [
+          5,
+          77
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          87,
+          1
+        ]
+      ]
+    },
+    "Move": {
+      "samples": 94,
+      "median": 7.0,
+      "min": 4,
+      "max": 9,
+      "common": [
+        [
+          7,
+          61
+        ],
+        [
+          5,
+          15
+        ],
+        [
+          6,
+          11
+        ]
+      ]
+    },
+    "Attack": {
+      "samples": 94,
+      "median": 10.0,
+      "min": 5,
+      "max": 44,
+      "common": [
+        [
+          8,
+          16
+        ],
+        [
+          10,
+          14
+        ],
+        [
+          9,
+          12
+        ]
+      ]
+    },
+    "Skill_01": {
+      "samples": 89,
+      "median": 13,
+      "min": 1,
+      "max": 46,
+      "common": [
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          10
+        ],
+        [
+          13,
+          8
+        ]
+      ]
+    },
+    "Skill_02": {
+      "samples": 73,
+      "median": 13,
+      "min": 6,
+      "max": 60,
+      "common": [
+        [
+          9,
+          10
+        ],
+        [
+          12,
+          9
+        ],
+        [
+          10,
+          8
+        ]
+      ]
+    },
+    "Gather": {
+      "samples": 94,
+      "median": 9.0,
+      "min": 9,
+      "max": 10,
+      "common": [
+        [
+          9,
+          63
+        ],
+        [
+          10,
+          31
+        ]
+      ]
+    },
+    "Die": {
+      "samples": 94,
+      "median": 1.0,
+      "min": 1,
+      "max": 1,
+      "common": [
+        [
+          1,
+          94
+        ]
+      ]
+    }
+  },
+  "hiro": {
+    "Idle": {
+      "keys": 5,
+      "unique_images": 4,
+      "duration_ms": 350,
+      "frame_ms": [
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        16.667
+      ],
+      "events": []
+    },
+    "Move": {
+      "keys": 6,
+      "unique_images": 6,
+      "duration_ms": 517,
+      "frame_ms": [
+        100.0,
+        116.667,
+        83.333,
+        100.0,
+        100.0,
+        16.667
+      ],
+      "events": []
+    },
+    "Attack": {
+      "keys": 12,
+      "unique_images": 11,
+      "duration_ms": 900,
+      "frame_ms": [
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        50.0,
+        83.333,
+        83.333,
+        83.333,
+        16.667
+      ],
+      "events": [
+        {
+          "t": 0.5833333134651184,
+          "fn": "OnAttackEvent",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        },
+        {
+          "t": 0.8833333253860474,
+          "fn": "OnAttackEnd",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        }
+      ]
+    },
+    "Skill_01": {
+      "keys": 11,
+      "unique_images": 10,
+      "duration_ms": 850,
+      "frame_ms": [
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        16.667
+      ],
+      "events": [
+        {
+          "t": 0.0,
+          "fn": "OnAttackEvent",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        },
+        {
+          "t": 0.8333333134651184,
+          "fn": "OnAttackEnd",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        }
+      ]
+    },
+    "Skill_02": {
+      "keys": 12,
+      "unique_images": 11,
+      "duration_ms": 1217,
+      "frame_ms": [
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        500.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        83.333,
+        83.333,
+        16.667
+      ],
+      "events": [
+        {
+          "t": 0.9333333373069763,
+          "fn": "OnAttackEvent",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        },
+        {
+          "t": 1.2000000476837158,
+          "fn": "OnAttackEnd",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        }
+      ]
+    },
+    "Gather": {
+      "keys": 9,
+      "unique_images": 9,
+      "duration_ms": 767,
+      "frame_ms": [
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        83.333,
+        100.0
+      ],
+      "events": [
+        {
+          "t": 0.5,
+          "fn": "OnAttackEvent",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        },
+        {
+          "t": 0.75,
+          "fn": "OnAttackEnd",
+          "s": "",
+          "f": 0.0,
+          "i": 0
+        }
+      ]
+    },
+    "Die": {
+      "keys": 1,
+      "unique_images": 1,
+      "duration_ms": 17,
+      "frame_ms": [
+        16.667
+      ],
+      "events": []
+    }
+  },
+  "idle_first_frame_samples": 94,
+  "mean_trim_rect_including_weapon": [
+    155.99,
+    160.21
+  ],
+  "example_sha256": "1c3561af4efc25ae1c01ba5366edec45d716e2dc9079fed473745c3b60279385"
+}
