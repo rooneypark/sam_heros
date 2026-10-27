@@ -1,0 +1,38 @@
+{
+  "status": "approved",
+  "frame_count": 8,
+  "cell": [
+    350,
+    350
+  ],
+  "source_scale": 0.4,
+  "jump_px": [
+    0,
+    0,
+    12,
+    26,
+    32,
+    18,
+    0,
+    0
+  ],
+  "durations_ms": [
+    220,
+    120,
+    80,
+    80,
+    100,
+    80,
+    120,
+    260
+  ],
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "start_end_identical": true,
+  "description": "In-place jumping outward sword cuts with rising sharp spiral trails. Generated raster poses require review for dimensional consistency.",
+  "approval": "User approved all except run",
+  "facing": "left"
+}

@@ -1,0 +1,31 @@
+{
+  "cell": [
+    350,
+    350
+  ],
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "art": {
+    "ppu": 100,
+    "pivot": [
+      0.5,
+      0.3
+    ],
+    "facing": "left"
+  },
+  "motion_overrides": {
+    "combat": {
+      "foot_anchor": [
+        175,
+        260
+      ],
+      "pivot": [
+        0.5,
+        0.2571428571428571
+      ]
+    }
+  },
+  "note": "Art delivery metadata only. External engine not changed."
+}

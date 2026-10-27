@@ -1,34 +1,34 @@
 {
   "status": "approved",
-  "motion": "breathing",
-  "direction": "down-right",
+  "approved_date": "2026-10-27",
+  "motion": "idle",
   "cell": [
-    400,
-    440
+    350,
+    350
   ],
   "frame_count": 4,
-  "duration_ms": 300,
-  "loop": true,
-  "upper_body_y": [
-    0,
-    -2,
-    -4,
-    -2
-  ],
-  "rig": {
-    "blend_top": 302,
-    "fixed_below": 338
-  },
-  "source": "../original/original.png",
   "frames": [
     "frame-01.png",
     "frame-02.png",
     "frame-03.png",
     "frame-04.png"
   ],
-  "fixed": [
-    "lower body"
+  "durations_ms": [
+    300,
+    300,
+    300,
+    300
   ],
-  "note": "idle.png is the original static compatibility image; use animation.json frames for breathing.",
-  "approved_on": "2026-10-26"
+  "direction": "down-left",
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.30000000000000004
+  ],
+  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
 }

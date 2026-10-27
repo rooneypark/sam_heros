@@ -1,0 +1,28 @@
+{
+  "status": "approved",
+  "approved_date": "2026-10-27",
+  "motion": "original",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 1,
+  "frames": [
+    "original.png"
+  ],
+  "durations_ms": [
+    1000
+  ],
+  "direction": "down-left",
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.30000000000000004
+  ],
+  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
+}

@@ -1,0 +1,60 @@
+{
+  "status": "approved",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    200,
+    120,
+    100,
+    70,
+    90,
+    120,
+    140,
+    240
+  ],
+  "facing": "left",
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "source_scale": 0.28,
+  "source_anchors": [
+    [
+      250,
+      410
+    ],
+    [
+      670,
+      410
+    ],
+    [
+      1100,
+      410
+    ],
+    [
+      1525,
+      410
+    ],
+    [
+      250,
+      823
+    ],
+    [
+      670,
+      823
+    ],
+    [
+      1100,
+      823
+    ],
+    [
+      1525,
+      823
+    ]
+  ],
+  "method": "Quadruped pose sheet, common scale and integer translation; not human gait rig."
+}

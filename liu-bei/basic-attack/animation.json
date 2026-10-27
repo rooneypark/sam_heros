@@ -1,23 +1,12 @@
 {
   "status": "approved",
+  "approved_date": "2026-10-27",
   "motion": "basic-attack",
-  "frame_count": 8,
   "cell": [
-    400,
-    440
+    350,
+    350
   ],
-  "direction": "down-right",
-  "durations_ms": [
-    180,
-    100,
-    70,
-    60,
-    130,
-    90,
-    100,
-    180
-  ],
-  "playback": "one-shot; preview GIF loops",
+  "frame_count": 8,
   "frames": [
     "frame-01.png",
     "frame-02.png",
@@ -28,112 +17,26 @@
     "frame-07.png",
     "frame-08.png"
   ],
-  "registration": [
-    {
-      "source_box": [
-        47,
-        51,
-        333,
-        498
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        122,
-        100
-      ]
-    },
-    {
-      "source_box": [
-        408,
-        65,
-        688,
-        498
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        119,
-        110
-      ]
-    },
-    {
-      "source_box": [
-        757,
-        62,
-        1114,
-        498
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        122,
-        108
-      ]
-    },
-    {
-      "source_box": [
-        1137,
-        68,
-        1498,
-        496
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        124,
-        113
-      ]
-    },
-    {
-      "source_box": [
-        29,
-        581,
-        422,
-        1001
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        119,
-        118
-      ]
-    },
-    {
-      "source_box": [
-        430,
-        582,
-        773,
-        1003
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        128,
-        118
-      ]
-    },
-    {
-      "source_box": [
-        796,
-        581,
-        1086,
-        1015
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        122,
-        109
-      ]
-    },
-    {
-      "source_box": [
-        1175,
-        573,
-        1463,
-        1018
-      ],
-      "scale": 0.6753246753246753,
-      "placement": [
-        122,
-        102
-      ]
-    }
+  "durations_ms": [
+    180,
+    100,
+    70,
+    60,
+    130,
+    90,
+    100,
+    180
   ],
-  "gameplay_values": null,
-  "approved_on": "2026-10-26"
+  "direction": "down-left",
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.30000000000000004
+  ],
+  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
 }

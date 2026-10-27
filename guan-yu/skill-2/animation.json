@@ -1,15 +1,21 @@
 {
-  "status": "review",
+  "status": "approved",
+  "approved_date": "2026-10-27",
   "motion": "skill-2",
-  "frame_count": 8,
   "cell": [
-    640,
-    600
+    350,
+    350
   ],
-  "direction": "down-right",
-  "foot_anchor": [
-    320,
-    520
+  "frame_count": 8,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
   ],
   "durations_ms": [
     180,
@@ -21,122 +27,16 @@
     120,
     180
   ],
-  "playback": "one-shot; preview GIF loops",
-  "frames": [
-    "frame-01.png",
-    "frame-02.png",
-    "frame-03.png",
-    "frame-04.png",
-    "frame-05.png",
-    "frame-06.png",
-    "frame-07.png",
-    "frame-08.png"
+  "direction": "down-left",
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    260
   ],
-  "registration": [
-    {
-      "source_box": [
-        38,
-        26,
-        315,
-        468
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        219,
-        112
-      ]
-    },
-    {
-      "source_box": [
-        438,
-        79,
-        784,
-        471
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        208,
-        158
-      ]
-    },
-    {
-      "source_box": [
-        836,
-        9,
-        1079,
-        473
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        212,
-        92
-      ]
-    },
-    {
-      "source_box": [
-        1212,
-        5,
-        1522,
-        473
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        178,
-        88
-      ]
-    },
-    {
-      "source_box": [
-        10,
-        499,
-        413,
-        981
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        35,
-        70
-      ]
-    },
-    {
-      "source_box": [
-        400,
-        494,
-        862,
-        992
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        125,
-        72
-      ]
-    },
-    {
-      "source_box": [
-        867,
-        541,
-        1226,
-        981
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        169,
-        128
-      ]
-    },
-    {
-      "source_box": [
-        1239,
-        550,
-        1526,
-        972
-      ],
-      "scale": 0.9389671361502347,
-      "placement": [
-        215,
-        131
-      ]
-    }
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.2571428571428571
   ],
-  "gameplay_values": null
+  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
 }

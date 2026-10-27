@@ -1,0 +1,65 @@
+{
+  "status": "approved",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    200,
+    120,
+    100,
+    70,
+    100,
+    120,
+    140,
+    250
+  ],
+  "facing": "left",
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "position_only_correction": true,
+  "translation_px": [
+    [
+      0,
+      0
+    ],
+    [
+      -2,
+      -2
+    ],
+    [
+      -5,
+      -2
+    ],
+    [
+      -12,
+      -2
+    ],
+    [
+      -34,
+      -1
+    ],
+    [
+      -2,
+      -1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "ground_target": [
+    173.0,
+    243
+  ],
+  "original_art_pixels_preserved": true,
+  "source_backup": "attack-position-correction\\guan-hai"
+}

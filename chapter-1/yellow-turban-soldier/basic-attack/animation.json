@@ -1,0 +1,65 @@
+{
+  "status": "approved",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    200,
+    120,
+    100,
+    70,
+    100,
+    120,
+    140,
+    250
+  ],
+  "facing": "left",
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "position_only_correction": true,
+  "translation_px": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      3,
+      -1
+    ],
+    [
+      -3,
+      -1
+    ],
+    [
+      -31,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ],
+  "ground_target": [
+    174.0,
+    244
+  ],
+  "original_art_pixels_preserved": true,
+  "source_backup": "attack-position-correction\\yellow-turban-soldier"
+}

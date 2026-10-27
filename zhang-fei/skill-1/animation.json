@@ -1,0 +1,60 @@
+{
+  "status": "approved",
+  "frame_count": 8,
+  "cell": [
+    350,
+    350
+  ],
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "facing": "left",
+  "durations_ms": [
+    180,
+    110,
+    90,
+    80,
+    100,
+    100,
+    120,
+    180
+  ],
+  "translation": [
+    [
+      60,
+      49
+    ],
+    [
+      48,
+      50
+    ],
+    [
+      8,
+      51
+    ],
+    [
+      60,
+      50
+    ],
+    [
+      4,
+      69
+    ],
+    [
+      82,
+      69
+    ],
+    [
+      55,
+      70
+    ],
+    [
+      54,
+      70
+    ]
+  ],
+  "timing_basis": "project proposal, not original extracted combat timing",
+  "approval_date": "2026-10-27",
+  "palette": "original-matched; GIF uses shared hero palette"
+}
