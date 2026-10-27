@@ -1,0 +1,328 @@
+{
+ "sheetName": "TableLinkSkillData",
+ "tableIndex": 0,
+ "rows": {
+  "LinkSkill610000": {
+   "key": "LinkSkill610000",
+   "category": 610,
+   "index": 0,
+   "prevSkill": "Skill610002",
+   "nextSkill": "Skill610003"
+  },
+  "LinkSkill158000": {
+   "key": "LinkSkill158000",
+   "category": 158,
+   "index": 0,
+   "prevSkill": "Skill158010",
+   "nextSkill": "Skill158011"
+  },
+  "LinkSkill171000": {
+   "key": "LinkSkill171000",
+   "category": 171,
+   "index": 0,
+   "prevSkill": "Skill171021",
+   "nextSkill": "Skill171022"
+  },
+  "LinkSkill191020": {
+   "key": "LinkSkill191020",
+   "category": 191,
+   "index": 20,
+   "prevSkill": "Skill191023",
+   "nextSkill": "Skill191024"
+  },
+  "LinkSkill036000": {
+   "key": "LinkSkill036000",
+   "category": 36,
+   "index": 0,
+   "prevSkill": "Skill036023",
+   "nextSkill": "Skill036021"
+  },
+  "LinkSkill036001": {
+   "key": "LinkSkill036001",
+   "category": 36,
+   "index": 1,
+   "prevSkill": "Skill036123",
+   "nextSkill": "Skill036121"
+  },
+  "LinkSkill036002": {
+   "key": "LinkSkill036002",
+   "category": 36,
+   "index": 2,
+   "prevSkill": "Skill036223",
+   "nextSkill": "Skill036221"
+  },
+  "LinkSkill037000": {
+   "key": "LinkSkill037000",
+   "category": 37,
+   "index": 0,
+   "prevSkill": "Skill037012",
+   "nextSkill": "Skill037022"
+  },
+  "LinkSkill037001": {
+   "key": "LinkSkill037001",
+   "category": 37,
+   "index": 1,
+   "prevSkill": "Skill037112",
+   "nextSkill": "Skill037122"
+  },
+  "LinkSkill037002": {
+   "key": "LinkSkill037002",
+   "category": 37,
+   "index": 2,
+   "prevSkill": "Skill037212",
+   "nextSkill": "Skill037222"
+  },
+  "LinkSkill037003": {
+   "key": "LinkSkill037003",
+   "category": 37,
+   "index": 3,
+   "prevSkill": "Skill037312",
+   "nextSkill": "Skill037322"
+  },
+  "LinkSkill038000": {
+   "key": "LinkSkill038000",
+   "category": 38,
+   "index": 0,
+   "prevSkill": "Skill038023",
+   "nextSkill": "Skill038033"
+  },
+  "LinkSkill038001": {
+   "key": "LinkSkill038001",
+   "category": 38,
+   "index": 1,
+   "prevSkill": "Skill038123",
+   "nextSkill": "Skill038133"
+  },
+  "LinkSkill038002": {
+   "key": "LinkSkill038002",
+   "category": 38,
+   "index": 2,
+   "prevSkill": "Skill038223",
+   "nextSkill": "Skill038233"
+  },
+  "LinkSkill038004": {
+   "key": "LinkSkill038004",
+   "category": 38,
+   "index": 4,
+   "prevSkill": "Skill038323",
+   "nextSkill": "Skill038333"
+  },
+  "LinkSkill040020": {
+   "key": "LinkSkill040020",
+   "category": 40,
+   "index": 20,
+   "prevSkill": "Skill040003",
+   "nextSkill": "Skill040014"
+  },
+  "LinkSkill040021": {
+   "key": "LinkSkill040021",
+   "category": 40,
+   "index": 21,
+   "prevSkill": "Skill040103",
+   "nextSkill": "Skill040114"
+  },
+  "LinkSkill040022": {
+   "key": "LinkSkill040022",
+   "category": 40,
+   "index": 22,
+   "prevSkill": "Skill040203",
+   "nextSkill": "Skill040214"
+  },
+  "LinkSkill040023": {
+   "key": "LinkSkill040023",
+   "category": 40,
+   "index": 23,
+   "prevSkill": "Skill040303",
+   "nextSkill": "Skill040314"
+  },
+  "LinkSkill043020": {
+   "key": "LinkSkill043020",
+   "category": 43,
+   "index": 20,
+   "prevSkill": "Skill043003",
+   "nextSkill": "Skill043013"
+  },
+  "LinkSkill043021": {
+   "key": "LinkSkill043021",
+   "category": 43,
+   "index": 21,
+   "prevSkill": "Skill043103",
+   "nextSkill": "Skill043113"
+  },
+  "LinkSkill043022": {
+   "key": "LinkSkill043022",
+   "category": 43,
+   "index": 22,
+   "prevSkill": "Skill043203",
+   "nextSkill": "Skill043213"
+  },
+  "LinkSkill043023": {
+   "key": "LinkSkill043023",
+   "category": 43,
+   "index": 23,
+   "prevSkill": "Skill043803",
+   "nextSkill": "Skill043213"
+  },
+  "LinkSkill044000": {
+   "key": "LinkSkill044000",
+   "category": 44,
+   "index": 0,
+   "prevSkill": "Skill044003",
+   "nextSkill": "Skill044013"
+  },
+  "LinkSkill044001": {
+   "key": "LinkSkill044001",
+   "category": 44,
+   "index": 1,
+   "prevSkill": "Skill044103",
+   "nextSkill": "Skill044113"
+  },
+  "LinkSkill044002": {
+   "key": "LinkSkill044002",
+   "category": 44,
+   "index": 2,
+   "prevSkill": "Skill044203",
+   "nextSkill": "Skill044213"
+  },
+  "LinkSkill044003": {
+   "key": "LinkSkill044003",
+   "category": 44,
+   "index": 3,
+   "prevSkill": "Skill044223",
+   "nextSkill": "Skill044213"
+  },
+  "LinkSkill067001": {
+   "key": "LinkSkill067001",
+   "category": 67,
+   "index": 1,
+   "prevSkill": "Skill067003",
+   "nextSkill": "Skill067013"
+  },
+  "LinkSkill067002": {
+   "key": "LinkSkill067002",
+   "category": 67,
+   "index": 2,
+   "prevSkill": "Skill067103",
+   "nextSkill": "Skill067113"
+  },
+  "LinkSkill067003": {
+   "key": "LinkSkill067003",
+   "category": 67,
+   "index": 3,
+   "prevSkill": "Skill067203",
+   "nextSkill": "Skill067213"
+  },
+  "LinkSkill174000": {
+   "key": "LinkSkill174000",
+   "category": 174,
+   "index": 0,
+   "prevSkill": "Skill611010",
+   "nextSkill": "Skill611011"
+  },
+  "LinkSkill212000": {
+   "key": "LinkSkill212000",
+   "category": 212,
+   "index": 0,
+   "prevSkill": "Skill212021",
+   "nextSkill": "Skill212022"
+  },
+  "LinkSkill364002": {
+   "key": "LinkSkill364002",
+   "category": 364,
+   "index": 2,
+   "prevSkill": "Skill364223",
+   "nextSkill": "Skill364221"
+  },
+  "LinkSkill575002": {
+   "key": "LinkSkill575002",
+   "category": 575,
+   "index": 2,
+   "prevSkill": "Skill575223",
+   "nextSkill": "Skill575221"
+  },
+  "LinkSkill038003": {
+   "key": "LinkSkill038003",
+   "category": 38,
+   "index": 3,
+   "prevSkill": "Skill573223",
+   "nextSkill": "Skill573233"
+  },
+  "LinkSkill847002": {
+   "key": "LinkSkill847002",
+   "category": 847,
+   "index": 2,
+   "prevSkill": "Skill847203",
+   "nextSkill": "Skill847204"
+  },
+  "LinkSkill843002": {
+   "key": "LinkSkill843002",
+   "category": 843,
+   "index": 2,
+   "prevSkill": "Skill843211",
+   "nextSkill": "Skill843212"
+  },
+  "LinkSkill073001": {
+   "key": "LinkSkill073001",
+   "category": 73,
+   "index": 1,
+   "prevSkill": "Skill073103",
+   "nextSkill": "Skill073303"
+  },
+  "LinkSkill073002": {
+   "key": "LinkSkill073002",
+   "category": 73,
+   "index": 2,
+   "prevSkill": "Skill073203",
+   "nextSkill": "Skill073303"
+  },
+  "LinkSkill073003": {
+   "key": "LinkSkill073003",
+   "category": 73,
+   "index": 3,
+   "prevSkill": "Skill073403",
+   "nextSkill": "Skill073503"
+  },
+  "LinkSkill076000": {
+   "key": "LinkSkill076000",
+   "category": 76,
+   "index": 0,
+   "prevSkill": "Skill076003",
+   "nextSkill": "Skill076903"
+  },
+  "LinkSkill076001": {
+   "key": "LinkSkill076001",
+   "category": 76,
+   "index": 1,
+   "prevSkill": "Skill076103",
+   "nextSkill": "Skill076913"
+  },
+  "LinkSkill076002": {
+   "key": "LinkSkill076002",
+   "category": 76,
+   "index": 2,
+   "prevSkill": "Skill076203",
+   "nextSkill": "Skill076923"
+  },
+  "LinkSkill082000": {
+   "key": "LinkSkill082000",
+   "category": 82,
+   "index": 0,
+   "prevSkill": "Skill082002",
+   "nextSkill": "Skill082012"
+  },
+  "LinkSkill082001": {
+   "key": "LinkSkill082001",
+   "category": 82,
+   "index": 1,
+   "prevSkill": "Skill082102",
+   "nextSkill": "Skill082112"
+  },
+  "LinkSkill082002": {
+   "key": "LinkSkill082002",
+   "category": 82,
+   "index": 2,
+   "prevSkill": "Skill082202",
+   "nextSkill": "Skill082212"
+  }
+ }
+}

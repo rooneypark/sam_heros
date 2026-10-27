@@ -1,0 +1,903 @@
+{
+ "sheetName": "TableEventPetData",
+ "tableIndex": 0,
+ "rows": {
+  "EventPet100": {
+   "key": "EventPet100",
+   "index": 100,
+   "grade": 1,
+   "unitKey": "Unit000102",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet101": {
+   "key": "EventPet101",
+   "index": 101,
+   "grade": 1,
+   "unitKey": "Unit000105",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet102": {
+   "key": "EventPet102",
+   "index": 102,
+   "grade": 1,
+   "unitKey": "Unit000106",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet103": {
+   "key": "EventPet103",
+   "index": 103,
+   "grade": 1,
+   "unitKey": "Unit000107",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet104": {
+   "key": "EventPet104",
+   "index": 104,
+   "grade": 1,
+   "unitKey": "Unit000108",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet105": {
+   "key": "EventPet105",
+   "index": 105,
+   "grade": 1,
+   "unitKey": "Unit000132",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet106": {
+   "key": "EventPet106",
+   "index": 106,
+   "grade": 1,
+   "unitKey": "Unit000101",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet107": {
+   "key": "EventPet107",
+   "index": 107,
+   "grade": 1,
+   "unitKey": "Unit000109",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet108": {
+   "key": "EventPet108",
+   "index": 108,
+   "grade": 1,
+   "unitKey": "Unit000110",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet109": {
+   "key": "EventPet109",
+   "index": 109,
+   "grade": 1,
+   "unitKey": "Unit000124",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet110": {
+   "key": "EventPet110",
+   "index": 110,
+   "grade": 1,
+   "unitKey": "Unit300172",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet111": {
+   "key": "EventPet111",
+   "index": 111,
+   "grade": 1,
+   "unitKey": "Unit000166",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet112": {
+   "key": "EventPet112",
+   "index": 112,
+   "grade": 1,
+   "unitKey": "Unit000163",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet113": {
+   "key": "EventPet113",
+   "index": 113,
+   "grade": 1,
+   "unitKey": "Unit000140",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet114": {
+   "key": "EventPet114",
+   "index": 114,
+   "grade": 1,
+   "unitKey": "Unit000138",
+   "needWood": 20,
+   "fireDuration": 1800,
+   "needMeat": 10,
+   "fullnessDuration": 1800,
+   "dungTime": 120,
+   "needEXP": 1000,
+   "reward_DropItem": "DropItem804000",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    80,
+    15,
+    5
+   ]
+  },
+  "EventPet200": {
+   "key": "EventPet200",
+   "index": 200,
+   "grade": 2,
+   "unitKey": "Unit000111",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet201": {
+   "key": "EventPet201",
+   "index": 201,
+   "grade": 2,
+   "unitKey": "Unit000112",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet202": {
+   "key": "EventPet202",
+   "index": 202,
+   "grade": 2,
+   "unitKey": "Unit000113",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet203": {
+   "key": "EventPet203",
+   "index": 203,
+   "grade": 2,
+   "unitKey": "Unit000114",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet204": {
+   "key": "EventPet204",
+   "index": 204,
+   "grade": 2,
+   "unitKey": "Unit000103",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet205": {
+   "key": "EventPet205",
+   "index": 205,
+   "grade": 2,
+   "unitKey": "Unit000115",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet206": {
+   "key": "EventPet206",
+   "index": 206,
+   "grade": 2,
+   "unitKey": "Unit000116",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet207": {
+   "key": "EventPet207",
+   "index": 207,
+   "grade": 2,
+   "unitKey": "Unit000117",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet208": {
+   "key": "EventPet208",
+   "index": 208,
+   "grade": 2,
+   "unitKey": "Unit000118",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet209": {
+   "key": "EventPet209",
+   "index": 209,
+   "grade": 2,
+   "unitKey": "Unit000146",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet210": {
+   "key": "EventPet210",
+   "index": 210,
+   "grade": 2,
+   "unitKey": "Unit000147",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet211": {
+   "key": "EventPet211",
+   "index": 211,
+   "grade": 2,
+   "unitKey": "Unit000148",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet212": {
+   "key": "EventPet212",
+   "index": 212,
+   "grade": 2,
+   "unitKey": "Unit000149",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet213": {
+   "key": "EventPet213",
+   "index": 213,
+   "grade": 2,
+   "unitKey": "Unit000150",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet214": {
+   "key": "EventPet214",
+   "index": 214,
+   "grade": 2,
+   "unitKey": "Unit000151",
+   "needWood": 50,
+   "fireDuration": 3600,
+   "needMeat": 25,
+   "fullnessDuration": 3600,
+   "dungTime": 360,
+   "needEXP": 3000,
+   "reward_DropItem": "DropItem804001",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    70,
+    20,
+    10
+   ]
+  },
+  "EventPet300": {
+   "key": "EventPet300",
+   "index": 300,
+   "grade": 3,
+   "unitKey": "Unit000603",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet301": {
+   "key": "EventPet301",
+   "index": 301,
+   "grade": 3,
+   "unitKey": "Unit000604",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet302": {
+   "key": "EventPet302",
+   "index": 302,
+   "grade": 3,
+   "unitKey": "Unit000609",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet303": {
+   "key": "EventPet303",
+   "index": 303,
+   "grade": 3,
+   "unitKey": "Unit000601",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet304": {
+   "key": "EventPet304",
+   "index": 304,
+   "grade": 3,
+   "unitKey": "Unit000612",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet305": {
+   "key": "EventPet305",
+   "index": 305,
+   "grade": 3,
+   "unitKey": "Unit000606",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet306": {
+   "key": "EventPet306",
+   "index": 306,
+   "grade": 3,
+   "unitKey": "Unit000613",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet307": {
+   "key": "EventPet307",
+   "index": 307,
+   "grade": 3,
+   "unitKey": "Unit000614",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  },
+  "EventPet308": {
+   "key": "EventPet308",
+   "index": 308,
+   "grade": 3,
+   "unitKey": "Unit000616",
+   "needWood": 100,
+   "fireDuration": 10800,
+   "needMeat": 50,
+   "fullnessDuration": 10800,
+   "dungTime": 600,
+   "needEXP": 6000,
+   "reward_DropItem": "DropItem804002",
+   "dungReward_DropItem": [
+    "DropItem804003",
+    "DropItem804004",
+    "DropItem804005"
+   ],
+   "dungReward_Rate": [
+    60,
+    25,
+    15
+   ]
+  }
+ }
+}

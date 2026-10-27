@@ -1,0 +1,66 @@
+{
+ "sheetName": "TableGuideQstRwdData",
+ "tableIndex": 0,
+ "rows": {
+  "GuideQstRwd001": {
+   "key": "GuideQstRwd001",
+   "category": 1,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    50
+   ]
+  },
+  "GuideQstRwd002": {
+   "key": "GuideQstRwd002",
+   "category": 2,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    30
+   ]
+  },
+  "GuideQstRwd003": {
+   "key": "GuideQstRwd003",
+   "category": 3,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    30
+   ]
+  },
+  "GuideQstRwd004": {
+   "key": "GuideQstRwd004",
+   "category": 4,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    30
+   ]
+  },
+  "GuideQstRwd005": {
+   "key": "GuideQstRwd005",
+   "category": 5,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    30
+   ]
+  },
+  "GuideQstRwd006": {
+   "key": "GuideQstRwd006",
+   "category": 6,
+   "rewardKeyList": [
+    "Item003040"
+   ],
+   "amountList": [
+    50
+   ]
+  }
+ }
+}

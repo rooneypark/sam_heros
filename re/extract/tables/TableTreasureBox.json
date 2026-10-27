@@ -1,0 +1,430 @@
+{
+ "sheetName": "TableTreasureBoxData",
+ "tableIndex": 0,
+ "rows": {
+  "TreasureBox00000": {
+   "key": "TreasureBox00000",
+   "category": 0,
+   "index": 0,
+   "rewardKey": "DropItem200000",
+   "bonusKey": "DropItem200010",
+   "minUserLv": 0
+  },
+  "TreasureBox01000": {
+   "key": "TreasureBox01000",
+   "category": 1,
+   "index": 0,
+   "rewardKey": "DropItem201000",
+   "bonusKey": "DropItem201010",
+   "minUserLv": 0
+  },
+  "TreasureBox02000": {
+   "key": "TreasureBox02000",
+   "category": 2,
+   "index": 0,
+   "rewardKey": "DropItem202000",
+   "bonusKey": "DropItem202010",
+   "minUserLv": 0
+  },
+  "TreasureBox03000": {
+   "key": "TreasureBox03000",
+   "category": 3,
+   "index": 0,
+   "rewardKey": "DropItem203000",
+   "bonusKey": "DropItem203010",
+   "minUserLv": 0
+  },
+  "TreasureBox00010": {
+   "key": "TreasureBox00010",
+   "category": 0,
+   "index": 10,
+   "rewardKey": "DropItem200001",
+   "bonusKey": "DropItem200011",
+   "minUserLv": 0
+  },
+  "TreasureBox01010": {
+   "key": "TreasureBox01010",
+   "category": 1,
+   "index": 10,
+   "rewardKey": "DropItem201001",
+   "bonusKey": "DropItem201011",
+   "minUserLv": 0
+  },
+  "TreasureBox02010": {
+   "key": "TreasureBox02010",
+   "category": 2,
+   "index": 10,
+   "rewardKey": "DropItem202001",
+   "bonusKey": "DropItem202011",
+   "minUserLv": 0
+  },
+  "TreasureBox03010": {
+   "key": "TreasureBox03010",
+   "category": 3,
+   "index": 10,
+   "rewardKey": "DropItem203001",
+   "bonusKey": "DropItem203011",
+   "minUserLv": 0
+  },
+  "TreasureBox04000": {
+   "key": "TreasureBox04000",
+   "category": 4,
+   "index": 0,
+   "rewardKey": "DropItem205000",
+   "bonusKey": "DropItem205010",
+   "minUserLv": 0
+  },
+  "TreasureBox05000": {
+   "key": "TreasureBox05000",
+   "category": 5,
+   "index": 0,
+   "rewardKey": "DropItem206000",
+   "bonusKey": "DropItem206010",
+   "minUserLv": 0
+  },
+  "TreasureBox06000": {
+   "key": "TreasureBox06000",
+   "category": 6,
+   "index": 0,
+   "rewardKey": "DropItem207000",
+   "bonusKey": "DropItem207010",
+   "minUserLv": 0
+  },
+  "TreasureBox07000": {
+   "key": "TreasureBox07000",
+   "category": 7,
+   "index": 0,
+   "rewardKey": "DropItem204004",
+   "bonusKey": "DropItem204014",
+   "minUserLv": 0
+  },
+  "TreasureBox00001": {
+   "key": "TreasureBox00001",
+   "category": 0,
+   "index": 1,
+   "rewardKey": "DropItem200001",
+   "bonusKey": "DropItem200011",
+   "minUserLv": 9
+  },
+  "TreasureBox01001": {
+   "key": "TreasureBox01001",
+   "category": 1,
+   "index": 1,
+   "rewardKey": "DropItem201001",
+   "bonusKey": "DropItem201011",
+   "minUserLv": 9
+  },
+  "TreasureBox02001": {
+   "key": "TreasureBox02001",
+   "category": 2,
+   "index": 1,
+   "rewardKey": "DropItem202001",
+   "bonusKey": "DropItem202011",
+   "minUserLv": 9
+  },
+  "TreasureBox03001": {
+   "key": "TreasureBox03001",
+   "category": 3,
+   "index": 1,
+   "rewardKey": "DropItem203001",
+   "bonusKey": "DropItem203011",
+   "minUserLv": 9
+  },
+  "TreasureBox00011": {
+   "key": "TreasureBox00011",
+   "category": 0,
+   "index": 11,
+   "rewardKey": "DropItem200002",
+   "bonusKey": "DropItem200012",
+   "minUserLv": 9
+  },
+  "TreasureBox01011": {
+   "key": "TreasureBox01011",
+   "category": 1,
+   "index": 11,
+   "rewardKey": "DropItem201002",
+   "bonusKey": "DropItem201012",
+   "minUserLv": 9
+  },
+  "TreasureBox02011": {
+   "key": "TreasureBox02011",
+   "category": 2,
+   "index": 11,
+   "rewardKey": "DropItem202002",
+   "bonusKey": "DropItem202012",
+   "minUserLv": 9
+  },
+  "TreasureBox03011": {
+   "key": "TreasureBox03011",
+   "category": 3,
+   "index": 11,
+   "rewardKey": "DropItem203002",
+   "bonusKey": "DropItem203012",
+   "minUserLv": 9
+  },
+  "TreasureBox04011": {
+   "key": "TreasureBox04011",
+   "category": 4,
+   "index": 11,
+   "rewardKey": "DropItem204000",
+   "bonusKey": "DropItem204010",
+   "minUserLv": 9
+  },
+  "TreasureBox00002": {
+   "key": "TreasureBox00002",
+   "category": 0,
+   "index": 2,
+   "rewardKey": "DropItem200002",
+   "bonusKey": "DropItem200012",
+   "minUserLv": 19
+  },
+  "TreasureBox01002": {
+   "key": "TreasureBox01002",
+   "category": 1,
+   "index": 2,
+   "rewardKey": "DropItem201002",
+   "bonusKey": "DropItem201012",
+   "minUserLv": 19
+  },
+  "TreasureBox02002": {
+   "key": "TreasureBox02002",
+   "category": 2,
+   "index": 2,
+   "rewardKey": "DropItem202002",
+   "bonusKey": "DropItem202012",
+   "minUserLv": 19
+  },
+  "TreasureBox03002": {
+   "key": "TreasureBox03002",
+   "category": 3,
+   "index": 2,
+   "rewardKey": "DropItem203002",
+   "bonusKey": "DropItem203012",
+   "minUserLv": 19
+  },
+  "TreasureBox00012": {
+   "key": "TreasureBox00012",
+   "category": 0,
+   "index": 12,
+   "rewardKey": "DropItem200003",
+   "bonusKey": "DropItem200013",
+   "minUserLv": 19
+  },
+  "TreasureBox01012": {
+   "key": "TreasureBox01012",
+   "category": 1,
+   "index": 12,
+   "rewardKey": "DropItem201003",
+   "bonusKey": "DropItem201013",
+   "minUserLv": 19
+  },
+  "TreasureBox02012": {
+   "key": "TreasureBox02012",
+   "category": 2,
+   "index": 12,
+   "rewardKey": "DropItem202003",
+   "bonusKey": "DropItem202013",
+   "minUserLv": 19
+  },
+  "TreasureBox03012": {
+   "key": "TreasureBox03012",
+   "category": 3,
+   "index": 12,
+   "rewardKey": "DropItem203003",
+   "bonusKey": "DropItem203013",
+   "minUserLv": 19
+  },
+  "TreasureBox04012": {
+   "key": "TreasureBox04012",
+   "category": 4,
+   "index": 12,
+   "rewardKey": "DropItem204000",
+   "bonusKey": "DropItem204010",
+   "minUserLv": 19
+  },
+  "TreasureBox05001": {
+   "key": "TreasureBox05001",
+   "category": 5,
+   "index": 1,
+   "rewardKey": "DropItem206001",
+   "bonusKey": "DropItem206011",
+   "minUserLv": 19
+  },
+  "TreasureBox06001": {
+   "key": "TreasureBox06001",
+   "category": 6,
+   "index": 1,
+   "rewardKey": "DropItem207000",
+   "bonusKey": "DropItem207010",
+   "minUserLv": 19
+  },
+  "TreasureBox00003": {
+   "key": "TreasureBox00003",
+   "category": 0,
+   "index": 3,
+   "rewardKey": "DropItem200003",
+   "bonusKey": "DropItem200013",
+   "minUserLv": 29
+  },
+  "TreasureBox01003": {
+   "key": "TreasureBox01003",
+   "category": 1,
+   "index": 3,
+   "rewardKey": "DropItem201003",
+   "bonusKey": "DropItem201013",
+   "minUserLv": 29
+  },
+  "TreasureBox02003": {
+   "key": "TreasureBox02003",
+   "category": 2,
+   "index": 3,
+   "rewardKey": "DropItem202003",
+   "bonusKey": "DropItem202013",
+   "minUserLv": 29
+  },
+  "TreasureBox03003": {
+   "key": "TreasureBox03003",
+   "category": 3,
+   "index": 3,
+   "rewardKey": "DropItem203003",
+   "bonusKey": "DropItem203013",
+   "minUserLv": 29
+  },
+  "TreasureBox04003": {
+   "key": "TreasureBox04003",
+   "category": 4,
+   "index": 3,
+   "rewardKey": "DropItem204002",
+   "bonusKey": "DropItem204012",
+   "minUserLv": 29
+  },
+  "TreasureBox00013": {
+   "key": "TreasureBox00013",
+   "category": 0,
+   "index": 13,
+   "rewardKey": "DropItem200004",
+   "bonusKey": "DropItem200014",
+   "minUserLv": 29
+  },
+  "TreasureBox01013": {
+   "key": "TreasureBox01013",
+   "category": 1,
+   "index": 13,
+   "rewardKey": "DropItem201004",
+   "bonusKey": "DropItem201014",
+   "minUserLv": 29
+  },
+  "TreasureBox02013": {
+   "key": "TreasureBox02013",
+   "category": 2,
+   "index": 13,
+   "rewardKey": "DropItem202004",
+   "bonusKey": "DropItem202014",
+   "minUserLv": 29
+  },
+  "TreasureBox03013": {
+   "key": "TreasureBox03013",
+   "category": 3,
+   "index": 13,
+   "rewardKey": "DropItem203004",
+   "bonusKey": "DropItem203014",
+   "minUserLv": 29
+  },
+  "TreasureBox00004": {
+   "key": "TreasureBox00004",
+   "category": 0,
+   "index": 4,
+   "rewardKey": "DropItem200004",
+   "bonusKey": "DropItem200014",
+   "minUserLv": 39
+  },
+  "TreasureBox01004": {
+   "key": "TreasureBox01004",
+   "category": 1,
+   "index": 4,
+   "rewardKey": "DropItem201004",
+   "bonusKey": "DropItem201014",
+   "minUserLv": 39
+  },
+  "TreasureBox02004": {
+   "key": "TreasureBox02004",
+   "category": 2,
+   "index": 4,
+   "rewardKey": "DropItem202004",
+   "bonusKey": "DropItem202014",
+   "minUserLv": 39
+  },
+  "TreasureBox03004": {
+   "key": "TreasureBox03004",
+   "category": 3,
+   "index": 4,
+   "rewardKey": "DropItem203004",
+   "bonusKey": "DropItem203014",
+   "minUserLv": 39
+  },
+  "TreasureBox00014": {
+   "key": "TreasureBox00014",
+   "category": 0,
+   "index": 14,
+   "rewardKey": "DropItem200004",
+   "bonusKey": "DropItem200014",
+   "minUserLv": 39
+  },
+  "TreasureBox01014": {
+   "key": "TreasureBox01014",
+   "category": 1,
+   "index": 14,
+   "rewardKey": "DropItem201004",
+   "bonusKey": "DropItem201014",
+   "minUserLv": 39
+  },
+  "TreasureBox02014": {
+   "key": "TreasureBox02014",
+   "category": 2,
+   "index": 14,
+   "rewardKey": "DropItem202004",
+   "bonusKey": "DropItem202014",
+   "minUserLv": 39
+  },
+  "TreasureBox03014": {
+   "key": "TreasureBox03014",
+   "category": 3,
+   "index": 14,
+   "rewardKey": "DropItem203004",
+   "bonusKey": "DropItem203014",
+   "minUserLv": 39
+  },
+  "TreasureBox04004": {
+   "key": "TreasureBox04004",
+   "category": 4,
+   "index": 4,
+   "rewardKey": "DropItem204003",
+   "bonusKey": "DropItem204013",
+   "minUserLv": 39
+  },
+  "TreasureBox05002": {
+   "key": "TreasureBox05002",
+   "category": 5,
+   "index": 2,
+   "rewardKey": "DropItem206002",
+   "bonusKey": "DropItem206012",
+   "minUserLv": 39
+  },
+  "TreasureBox06002": {
+   "key": "TreasureBox06002",
+   "category": 6,
+   "index": 2,
+   "rewardKey": "DropItem207002",
+   "bonusKey": "DropItem207012",
+   "minUserLv": 39
+  },
+  "TreasureBox04005": {
+   "key": "TreasureBox04005",
+   "category": 4,
+   "index": 5,
+   "rewardKey": "DropItem204004",
+   "bonusKey": "DropItem204014",
+   "minUserLv": 49
+  }
+ }
+}

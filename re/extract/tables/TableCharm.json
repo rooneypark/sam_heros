@@ -1,0 +1,774 @@
+{
+ "sheetName": "TableCharmData",
+ "tableIndex": 0,
+ "rows": {
+  "Charm000": {
+   "key": "Charm000",
+   "index": 0,
+   "aIcon": "UI_Charm_5",
+   "name": "LocalizeCharmName000000",
+   "desc": "LocalizeCharmDesc000000",
+   "skillKeys": [
+    "Passive9000"
+   ],
+   "gradeType": "UNIQUE",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000000",
+   "addValue": 2.0,
+   "available": true,
+   "drawWeight": 92
+  },
+  "Charm001": {
+   "key": "Charm001",
+   "index": 1,
+   "aIcon": "UI_Charm_8",
+   "name": "LocalizeCharmName000001",
+   "desc": "LocalizeCharmDesc000001",
+   "skillKeys": [
+    "Passive9001"
+   ],
+   "gradeType": "UNIQUE",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000000",
+   "addValue": 2.0,
+   "available": true,
+   "drawWeight": 92
+  },
+  "Charm002": {
+   "key": "Charm002",
+   "index": 2,
+   "aIcon": "UI_Charm_10",
+   "name": "LocalizeCharmName000002",
+   "desc": "LocalizeCharmDesc000002",
+   "skillKeys": [
+    "Passive9002"
+   ],
+   "gradeType": "UNIQUE",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000001",
+   "addValue": 8.0,
+   "available": true,
+   "drawWeight": 92
+  },
+  "Charm003": {
+   "key": "Charm003",
+   "index": 3,
+   "aIcon": "UI_Charm_24",
+   "name": "LocalizeCharmName000003",
+   "desc": "LocalizeCharmDesc000003",
+   "skillKeys": [
+    "Passive9003"
+   ],
+   "gradeType": "UNIQUE",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000001",
+   "addValue": 8.0,
+   "available": true,
+   "drawWeight": 92
+  },
+  "Charm004": {
+   "key": "Charm004",
+   "index": 4,
+   "aIcon": "UI_Charm_7",
+   "name": "LocalizeCharmName000004",
+   "desc": "LocalizeCharmDesc000004",
+   "skillKeys": [
+    "Passive9004"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm005": {
+   "key": "Charm005",
+   "index": 5,
+   "aIcon": "UI_Charm_12",
+   "name": "LocalizeCharmName000005",
+   "desc": "LocalizeCharmDesc000005",
+   "skillKeys": [
+    "Passive9005"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm006": {
+   "key": "Charm006",
+   "index": 6,
+   "aIcon": "UI_Charm_23",
+   "name": "LocalizeCharmName000006",
+   "desc": "LocalizeCharmDesc000006",
+   "skillKeys": [
+    "Passive9006"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm007": {
+   "key": "Charm007",
+   "index": 7,
+   "aIcon": "UI_Charm_18",
+   "name": "LocalizeCharmName000007",
+   "desc": "LocalizeCharmDesc000007",
+   "skillKeys": [
+    "Skill910000"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm008": {
+   "key": "Charm008",
+   "index": 8,
+   "aIcon": "UI_Charm_16",
+   "name": "LocalizeCharmName000008",
+   "desc": "LocalizeCharmDesc000008",
+   "skillKeys": [
+    "Skill910001"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm009": {
+   "key": "Charm009",
+   "index": 9,
+   "aIcon": "UI_Charm_25",
+   "name": "LocalizeCharmName000009",
+   "desc": "LocalizeCharmDesc000009",
+   "skillKeys": [
+    "Passive9007"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm010": {
+   "key": "Charm010",
+   "index": 10,
+   "aIcon": "UI_Charm_9",
+   "name": "LocalizeCharmName000010",
+   "desc": "LocalizeCharmDesc000010",
+   "skillKeys": [
+    "Passive9008"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm011": {
+   "key": "Charm011",
+   "index": 11,
+   "aIcon": "UI_Charm_6",
+   "name": "LocalizeCharmName000011",
+   "desc": "LocalizeCharmDesc000011",
+   "skillKeys": [
+    "Skill910002"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm012": {
+   "key": "Charm012",
+   "index": 12,
+   "aIcon": "UI_Charm_11",
+   "name": "LocalizeCharmName000012",
+   "desc": "LocalizeCharmDesc000012",
+   "skillKeys": [
+    "Passive9009"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm013": {
+   "key": "Charm013",
+   "index": 13,
+   "aIcon": "UI_Charm_4",
+   "name": "LocalizeCharmName000013",
+   "desc": "LocalizeCharmDesc000013",
+   "skillKeys": [
+    "Skill910003"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm014": {
+   "key": "Charm014",
+   "index": 14,
+   "aIcon": "UI_Charm_20",
+   "name": "LocalizeCharmName000014",
+   "desc": "LocalizeCharmDesc000014",
+   "skillKeys": [
+    "Passive9010"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm015": {
+   "key": "Charm015",
+   "index": 15,
+   "aIcon": "UI_Charm_14",
+   "name": "LocalizeCharmName000015",
+   "desc": "LocalizeCharmDesc000015",
+   "skillKeys": [
+    "Skill910004"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm016": {
+   "key": "Charm016",
+   "index": 16,
+   "aIcon": "UI_Charm_15",
+   "name": "LocalizeCharmName000016",
+   "desc": "LocalizeCharmDesc000016",
+   "skillKeys": [
+    "Skill910005"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "DEX",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm017": {
+   "key": "Charm017",
+   "index": 17,
+   "aIcon": "UI_Charm_19",
+   "name": "LocalizeCharmName000017",
+   "desc": "LocalizeCharmDesc000017",
+   "skillKeys": [
+    "Passive9011"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "DEX",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm018": {
+   "key": "Charm018",
+   "index": 18,
+   "aIcon": "UI_Charm_13",
+   "name": "LocalizeCharmName000018",
+   "desc": "LocalizeCharmDesc000018",
+   "skillKeys": [
+    "Skill910006"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm019": {
+   "key": "Charm019",
+   "index": 19,
+   "aIcon": "UI_Charm_21",
+   "name": "LocalizeCharmName000019",
+   "desc": "LocalizeCharmDesc000019",
+   "skillKeys": [
+    "Skill910007"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm020": {
+   "key": "Charm020",
+   "index": 20,
+   "aIcon": "UI_Charm_1",
+   "name": "LocalizeCharmName000020",
+   "desc": "LocalizeCharmDesc000020",
+   "skillKeys": [
+    "Skill910010"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm021": {
+   "key": "Charm021",
+   "index": 21,
+   "aIcon": "UI_Charm_2",
+   "name": "LocalizeCharmName000021",
+   "desc": "LocalizeCharmDesc000021",
+   "skillKeys": [
+    "Skill910008"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "DEX",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm022": {
+   "key": "Charm022",
+   "index": 22,
+   "aIcon": "UI_Charm_3",
+   "name": "LocalizeCharmName000022",
+   "desc": "LocalizeCharmDesc000022",
+   "skillKeys": [
+    "Passive9021"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm023": {
+   "key": "Charm023",
+   "index": 23,
+   "aIcon": "UI_Charm_22",
+   "name": "LocalizeCharmName000023",
+   "desc": "LocalizeCharmDesc000023",
+   "skillKeys": [
+    "Passive9022"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm024": {
+   "key": "Charm024",
+   "index": 24,
+   "aIcon": "UI_Charm_27",
+   "name": "LocalizeCharmName000024",
+   "desc": "LocalizeCharmDesc000024",
+   "skillKeys": [
+    "Passive9023"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "DEX",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": false,
+   "drawWeight": 0
+  },
+  "Charm025": {
+   "key": "Charm025",
+   "index": 25,
+   "aIcon": "UI_Charm_28",
+   "name": "LocalizeCharmName000025",
+   "desc": "LocalizeCharmDesc000025",
+   "skillKeys": [
+    "Passive9024"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": false,
+   "drawWeight": 0
+  },
+  "Charm026": {
+   "key": "Charm026",
+   "index": 26,
+   "aIcon": "UI_Charm_29",
+   "name": "LocalizeCharmName000026",
+   "desc": "LocalizeCharmDesc000026",
+   "skillKeys": [
+    "Skill910009"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": false,
+   "drawWeight": 0
+  },
+  "Charm027": {
+   "key": "Charm027",
+   "index": 27,
+   "aIcon": "UI_Charm_26",
+   "name": "LocalizeCharmName000027",
+   "desc": "LocalizeCharmDesc000027",
+   "skillKeys": [
+    "Passive9025"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": false,
+   "drawWeight": 0
+  },
+  "Charm028": {
+   "key": "Charm028",
+   "index": 28,
+   "aIcon": "UI_Charm_30",
+   "name": "LocalizeCharmName000028",
+   "desc": "LocalizeCharmDesc000028",
+   "skillKeys": [
+    "Passive9026"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": false,
+   "drawWeight": 0
+  },
+  "Charm029": {
+   "key": "Charm029",
+   "index": 29,
+   "aIcon": "UI_Charm_32",
+   "name": "LocalizeCharmName000029",
+   "desc": "LocalizeCharmDesc000029",
+   "skillKeys": [
+    "Skill910011"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm030": {
+   "key": "Charm030",
+   "index": 30,
+   "aIcon": "UI_Charm_31",
+   "name": "LocalizeCharmName000030",
+   "desc": "LocalizeCharmDesc000030",
+   "skillKeys": [
+    "Passive9027"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm031": {
+   "key": "Charm031",
+   "index": 31,
+   "aIcon": "UI_Charm_33",
+   "name": "LocalizeCharmName000031",
+   "desc": "LocalizeCharmDesc000031",
+   "skillKeys": [
+    "Skill910012"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm032": {
+   "key": "Charm032",
+   "index": 32,
+   "aIcon": "UI_Charm_34",
+   "name": "LocalizeCharmName000032",
+   "desc": "LocalizeCharmDesc000032",
+   "skillKeys": [
+    "Skill910013"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "INT",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm033": {
+   "key": "Charm033",
+   "index": 33,
+   "aIcon": "UI_Charm_35",
+   "name": "LocalizeCharmName000033",
+   "desc": "LocalizeCharmDesc000033",
+   "skillKeys": [
+    "Passive9030"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "DEX",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm034": {
+   "key": "Charm034",
+   "index": 34,
+   "aIcon": "UI_Charm_36",
+   "name": "LocalizeCharmName000034",
+   "desc": "LocalizeCharmDesc000034",
+   "skillKeys": [
+    "Skill910015"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm035": {
+   "key": "Charm035",
+   "index": 35,
+   "aIcon": "UI_Charm_37",
+   "name": "LocalizeCharmName000035",
+   "desc": "LocalizeCharmDesc000035",
+   "skillKeys": [
+    "Passive9031"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm036": {
+   "key": "Charm036",
+   "index": 36,
+   "aIcon": "UI_Charm_38",
+   "name": "LocalizeCharmName000036",
+   "desc": "LocalizeCharmDesc000036",
+   "skillKeys": [
+    "Skill910017"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "STR",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm037": {
+   "key": "Charm037",
+   "index": 37,
+   "aIcon": "UI_Charm_39",
+   "name": "LocalizeCharmName000037",
+   "desc": "LocalizeCharmDesc000037",
+   "skillKeys": [
+    "Passive9035"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm038": {
+   "key": "Charm038",
+   "index": 38,
+   "aIcon": "UI_Charm_40",
+   "name": "LocalizeCharmName000038",
+   "desc": "LocalizeCharmDesc000038",
+   "skillKeys": [
+    "Passive9036"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm039": {
+   "key": "Charm039",
+   "index": 39,
+   "aIcon": "UI_Charm_41",
+   "name": "LocalizeCharmName000039",
+   "desc": "LocalizeCharmDesc000039",
+   "skillKeys": [
+    "Passive9037"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm040": {
+   "key": "Charm040",
+   "index": 40,
+   "aIcon": "UI_Charm_42",
+   "name": "LocalizeCharmName000040",
+   "desc": "LocalizeCharmDesc000040",
+   "skillKeys": [
+    "Passive9043"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm041": {
+   "key": "Charm041",
+   "index": 41,
+   "aIcon": "UI_Charm_43",
+   "name": "LocalizeCharmName000041",
+   "desc": "LocalizeCharmDesc000041",
+   "skillKeys": [
+    "Passive9044"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm042": {
+   "key": "Charm042",
+   "index": 42,
+   "aIcon": "UI_Charm_17",
+   "name": "LocalizeCharmName000042",
+   "desc": "LocalizeCharmDesc000042",
+   "skillKeys": [
+    "Skill910018"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm043": {
+   "key": "Charm043",
+   "index": 43,
+   "aIcon": "UI_Charm_44",
+   "name": "LocalizeCharmName000043",
+   "desc": "LocalizeCharmDesc000043",
+   "skillKeys": [
+    "Passive9045"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm044": {
+   "key": "Charm044",
+   "index": 44,
+   "aIcon": "UI_Charm_47",
+   "name": "LocalizeCharmName000044",
+   "desc": "LocalizeCharmDesc000044",
+   "skillKeys": [
+    "Passive9046"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm045": {
+   "key": "Charm045",
+   "index": 45,
+   "aIcon": "UI_Charm_45",
+   "name": "LocalizeCharmName000045",
+   "desc": "LocalizeCharmDesc000045",
+   "skillKeys": [
+    "Passive9047"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm046": {
+   "key": "Charm046",
+   "index": 46,
+   "aIcon": "UI_Charm_46",
+   "name": "LocalizeCharmName000046",
+   "desc": "LocalizeCharmDesc000046",
+   "skillKeys": [
+    "Passive9048"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000002",
+   "addValue": 25.0,
+   "available": true,
+   "drawWeight": 8
+  },
+  "Charm047": {
+   "key": "Charm047",
+   "index": 47,
+   "aIcon": "UI_Charm_48",
+   "name": "LocalizeCharmName000047",
+   "desc": "LocalizeCharmDesc000047",
+   "skillKeys": [
+    "Skill910019"
+   ],
+   "gradeType": "LEGEND",
+   "attribute": "NONE",
+   "upgradeStat": "UpgradeStat91000003",
+   "addValue": 100.0,
+   "available": true,
+   "drawWeight": 8
+  }
+ }
+}

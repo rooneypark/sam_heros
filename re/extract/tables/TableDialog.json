@@ -1,0 +1,3249 @@
+{
+ "sheetName": "TableDialogData",
+ "tableIndex": 0,
+ "rows": {
+  "Dialog000000": {
+   "key": "Dialog000000",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000000",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000200"
+   ]
+  },
+  "Dialog000001": {
+   "key": "Dialog000001",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000001",
+   "curSpeaker": "Unit900008",
+   "lSpeaker": "Unit900008",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000002": {
+   "key": "Dialog000002",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000002",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit900008",
+   "rSpeaker": "Unit000580",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000000"
+   ]
+  },
+  "Dialog000003": {
+   "key": "Dialog000003",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000003",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit900008",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000001"
+   ]
+  },
+  "Dialog000004": {
+   "key": "Dialog000004",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000004",
+   "curSpeaker": "Unit900008",
+   "lSpeaker": "Unit900008",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000005": {
+   "key": "Dialog000005",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000005",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit900008",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000006": {
+   "key": "Dialog000006",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000006",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000003"
+   ]
+  },
+  "Dialog000007": {
+   "key": "Dialog000007",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000007",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000012",
+    "LocalizeUIStory_smalltalk000012"
+   ]
+  },
+  "Dialog000008": {
+   "key": "Dialog000008",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000008",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000400"
+   ]
+  },
+  "Dialog000009": {
+   "key": "Dialog000009",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000009",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000580",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000001"
+   ]
+  },
+  "Dialog000010": {
+   "key": "Dialog000010",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000010",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000571"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000108"
+   ]
+  },
+  "Dialog000011": {
+   "key": "Dialog000011",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000011",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000012": {
+   "key": "Dialog000012",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000310",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000013": {
+   "key": "Dialog000013",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000012",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000014": {
+   "key": "Dialog000014",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000013",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000571"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000006"
+   ]
+  },
+  "Dialog000015": {
+   "key": "Dialog000015",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000014",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000580",
+   "sTalkHero": [
+    "Unit000580",
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIHelpTalk000300",
+    "LocalizeUIHelpTalk000300"
+   ]
+  },
+  "Dialog000016": {
+   "key": "Dialog000016",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000015",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000017": {
+   "key": "Dialog000017",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000016",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000018": {
+   "key": "Dialog000018",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000017",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000019": {
+   "key": "Dialog000019",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000018",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000020": {
+   "key": "Dialog000020",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000019",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000010"
+   ]
+  },
+  "Dialog000021": {
+   "key": "Dialog000021",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000020",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog000022": {
+   "key": "Dialog000022",
+   "category": 0,
+   "talkStr": "LocalizeUIStory000021",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100"
+   ]
+  },
+  "Dialog002000": {
+   "key": "Dialog002000",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000301",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002001": {
+   "key": "Dialog002001",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000302",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002002": {
+   "key": "Dialog002002",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000303",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000581",
+    "Unit000571"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013",
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog002003": {
+   "key": "Dialog002003",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000304",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog002004": {
+   "key": "Dialog002004",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000305",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002005": {
+   "key": "Dialog002005",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000306",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002006": {
+   "key": "Dialog002006",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000307",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002007": {
+   "key": "Dialog002007",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000308",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [
+    "Unit000573"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIHelpTalk000300"
+   ]
+  },
+  "Dialog002008": {
+   "key": "Dialog002008",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000309",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002009": {
+   "key": "Dialog002009",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000310",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002010": {
+   "key": "Dialog002010",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000311",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIHelpTalk000302"
+   ]
+  },
+  "Dialog002011": {
+   "key": "Dialog002011",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000312",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [
+    "Unit000573"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIHelpTalk000300"
+   ]
+  },
+  "Dialog002012": {
+   "key": "Dialog002012",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000313",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000204"
+   ]
+  },
+  "Dialog002013": {
+   "key": "Dialog002013",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000314",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002014": {
+   "key": "Dialog002014",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000315",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002015": {
+   "key": "Dialog002015",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000316",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002016": {
+   "key": "Dialog002016",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000317",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002017": {
+   "key": "Dialog002017",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000318",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002018": {
+   "key": "Dialog002018",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000351",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002019": {
+   "key": "Dialog002019",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000352",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002021": {
+   "key": "Dialog002021",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000354",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002022": {
+   "key": "Dialog002022",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000319",
+   "curSpeaker": "Unit000590",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002023": {
+   "key": "Dialog002023",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000320",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002024": {
+   "key": "Dialog002024",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000321",
+   "curSpeaker": "Unit000590",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002025": {
+   "key": "Dialog002025",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000322",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002026": {
+   "key": "Dialog002026",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000323",
+   "curSpeaker": "Unit000590",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002027": {
+   "key": "Dialog002027",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000324",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002028": {
+   "key": "Dialog002028",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000325",
+   "curSpeaker": "Unit000590",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002029": {
+   "key": "Dialog002029",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000326",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000003"
+   ]
+  },
+  "Dialog002030": {
+   "key": "Dialog002030",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000327",
+   "curSpeaker": "Unit000590",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002031": {
+   "key": "Dialog002031",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000328",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000590",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002032": {
+   "key": "Dialog002032",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000329",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002033": {
+   "key": "Dialog002033",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000330",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000402"
+   ]
+  },
+  "Dialog002034": {
+   "key": "Dialog002034",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000331",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000107"
+   ]
+  },
+  "Dialog002035": {
+   "key": "Dialog002035",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000332",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002036": {
+   "key": "Dialog002036",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000333",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002037": {
+   "key": "Dialog002037",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000334",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002038": {
+   "key": "Dialog002038",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000335",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002039": {
+   "key": "Dialog002039",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000336",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002040": {
+   "key": "Dialog002040",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000337",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002041": {
+   "key": "Dialog002041",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000338",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog002042": {
+   "key": "Dialog002042",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000339",
+   "curSpeaker": "Unit000573",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000573",
+   "sTalkHero": [
+    "Unit000573"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000010"
+   ]
+  },
+  "Dialog002043": {
+   "key": "Dialog002043",
+   "category": 2,
+   "talkStr": "LocalizeUIStory000340",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100"
+   ]
+  },
+  "Dialog001000": {
+   "key": "Dialog001000",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000201",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001001": {
+   "key": "Dialog001001",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000202",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001002": {
+   "key": "Dialog001002",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000203",
+   "curSpeaker": "Unit900007",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001004": {
+   "key": "Dialog001004",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000204",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000000"
+   ]
+  },
+  "Dialog001005": {
+   "key": "Dialog001005",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000205",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001006": {
+   "key": "Dialog001006",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000206",
+   "curSpeaker": "Unit900007",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001007": {
+   "key": "Dialog001007",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000207",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog001008": {
+   "key": "Dialog001008",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000208",
+   "curSpeaker": "Unit900007",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001009": {
+   "key": "Dialog001009",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000209",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001010": {
+   "key": "Dialog001010",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000210",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001011": {
+   "key": "Dialog001011",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000211",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001012": {
+   "key": "Dialog001012",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000212",
+   "curSpeaker": "Unit900007",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001013": {
+   "key": "Dialog001013",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000213",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit900007",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001014": {
+   "key": "Dialog001014",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000214",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001015": {
+   "key": "Dialog001015",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000216",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000572"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000000"
+   ]
+  },
+  "Dialog001016": {
+   "key": "Dialog001016",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000217",
+   "curSpeaker": "Unit900007",
+   "lSpeaker": "Unit900007",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001017": {
+   "key": "Dialog001017",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000218",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001018": {
+   "key": "Dialog001018",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000219",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001019": {
+   "key": "Dialog001019",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000220",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [
+    "Unit000572"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000204"
+   ]
+  },
+  "Dialog001020": {
+   "key": "Dialog001020",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000221",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [
+    "Unit000570",
+    "Unit000580",
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000204",
+    "LocalizeUISmallTalk000204",
+    "LocalizeUISmallTalk000204"
+   ]
+  },
+  "Dialog001021": {
+   "key": "Dialog001021",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000222",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001022": {
+   "key": "Dialog001022",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000223",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001023": {
+   "key": "Dialog001023",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000224",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001024": {
+   "key": "Dialog001024",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000225",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001025": {
+   "key": "Dialog001025",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000226",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001026": {
+   "key": "Dialog001026",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000227",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000572",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001027": {
+   "key": "Dialog001027",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000228",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001028": {
+   "key": "Dialog001028",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000229",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001029": {
+   "key": "Dialog001029",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000230",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000571",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001030": {
+   "key": "Dialog001030",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000231",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001031": {
+   "key": "Dialog001031",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000232",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001032": {
+   "key": "Dialog001032",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000233",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001033": {
+   "key": "Dialog001033",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000234",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001034": {
+   "key": "Dialog001034",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000235",
+   "curSpeaker": "Unit000572",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000572"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000101"
+   ]
+  },
+  "Dialog001035": {
+   "key": "Dialog001035",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000236",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000572",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog001036": {
+   "key": "Dialog001036",
+   "category": 1,
+   "talkStr": "LocalizeUIStory000237",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100"
+   ]
+  },
+  "Dialog003000": {
+   "key": "Dialog003000",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000355",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog003001": {
+   "key": "Dialog003001",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000356",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003002": {
+   "key": "Dialog003002",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000357",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog003004": {
+   "key": "Dialog003004",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000358",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003005": {
+   "key": "Dialog003005",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000359",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003006": {
+   "key": "Dialog003006",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000360",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003012": {
+   "key": "Dialog003012",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000365",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000582"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000006"
+   ]
+  },
+  "Dialog003013": {
+   "key": "Dialog003013",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000366",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003014": {
+   "key": "Dialog003014",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000367",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003016": {
+   "key": "Dialog003016",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000369",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000582"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog003017": {
+   "key": "Dialog003017",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000370",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003018": {
+   "key": "Dialog003018",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000371",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003019": {
+   "key": "Dialog003019",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000372",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003020": {
+   "key": "Dialog003020",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000373",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog003021": {
+   "key": "Dialog003021",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000374",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000580",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog003022": {
+   "key": "Dialog003022",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000375",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000580",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003023": {
+   "key": "Dialog003023",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000376",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog003024": {
+   "key": "Dialog003024",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000377",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog003025": {
+   "key": "Dialog003025",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000378",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog003026": {
+   "key": "Dialog003026",
+   "category": 3,
+   "talkStr": "LocalizeUIStory000379",
+   "curSpeaker": "Unit000582",
+   "lSpeaker": "Unit000582",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004000": {
+   "key": "Dialog004000",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000400",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004001": {
+   "key": "Dialog004001",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000401",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004002": {
+   "key": "Dialog004002",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000402",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000400"
+   ]
+  },
+  "Dialog004003": {
+   "key": "Dialog004003",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000403",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000014"
+   ]
+  },
+  "Dialog004004": {
+   "key": "Dialog004004",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000404",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004005": {
+   "key": "Dialog004005",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000405",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004006": {
+   "key": "Dialog004006",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000406",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004007": {
+   "key": "Dialog004007",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000407",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004008": {
+   "key": "Dialog004008",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000408",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog004009": {
+   "key": "Dialog004009",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000409",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004010": {
+   "key": "Dialog004010",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000410",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000012"
+   ]
+  },
+  "Dialog004011": {
+   "key": "Dialog004011",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000411",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004012": {
+   "key": "Dialog004012",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000412",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004013": {
+   "key": "Dialog004013",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000413",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000204"
+   ]
+  },
+  "Dialog004014": {
+   "key": "Dialog004014",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000414",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000575",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004015": {
+   "key": "Dialog004015",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000415",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000575",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000204"
+   ]
+  },
+  "Dialog004016": {
+   "key": "Dialog004016",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000416",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000575",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004017": {
+   "key": "Dialog004017",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000417",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000575",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004018": {
+   "key": "Dialog004018",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000418",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004019": {
+   "key": "Dialog004019",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000419",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIHelpTalk000301"
+   ]
+  },
+  "Dialog004020": {
+   "key": "Dialog004020",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000420",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004021": {
+   "key": "Dialog004021",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000421",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004022": {
+   "key": "Dialog004022",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000422",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004023": {
+   "key": "Dialog004023",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000423",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog004024": {
+   "key": "Dialog004024",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000424",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog004025": {
+   "key": "Dialog004025",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000425",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004026": {
+   "key": "Dialog004026",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000426",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000575"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000014"
+   ]
+  },
+  "Dialog004027": {
+   "key": "Dialog004027",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000427",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004028": {
+   "key": "Dialog004028",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000428",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog004029": {
+   "key": "Dialog004029",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000429",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [
+    "Unit000579",
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000000",
+    "LocalizeUITownTalk000000"
+   ]
+  },
+  "Dialog004030": {
+   "key": "Dialog004030",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000430",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000402"
+   ]
+  },
+  "Dialog004031": {
+   "key": "Dialog004031",
+   "category": 4,
+   "talkStr": "LocalizeUIStory000431",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog005000": {
+   "key": "Dialog005000",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000500",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005001": {
+   "key": "Dialog005001",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000501",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog005002": {
+   "key": "Dialog005002",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000502",
+   "curSpeaker": "Unit000999",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000999",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005003": {
+   "key": "Dialog005003",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000503",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000999",
+   "sTalkHero": [
+    "Unit000570",
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207",
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog005004": {
+   "key": "Dialog005004",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000504",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005005": {
+   "key": "Dialog005005",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000505",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005006": {
+   "key": "Dialog005006",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000506",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005007": {
+   "key": "Dialog005007",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000507",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000002"
+   ]
+  },
+  "Dialog005008": {
+   "key": "Dialog005008",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000508",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [
+    "Unit000577"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000001"
+   ]
+  },
+  "Dialog005009": {
+   "key": "Dialog005009",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000509",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005010": {
+   "key": "Dialog005010",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000510",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005011": {
+   "key": "Dialog005011",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000511",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005012": {
+   "key": "Dialog005012",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000512",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005013": {
+   "key": "Dialog005013",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000513",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005014": {
+   "key": "Dialog005014",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000514",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005015": {
+   "key": "Dialog005015",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000515",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005016": {
+   "key": "Dialog005016",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000516",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005017": {
+   "key": "Dialog005017",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000517",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000006"
+   ]
+  },
+  "Dialog005018": {
+   "key": "Dialog005018",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000518",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000575",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005019": {
+   "key": "Dialog005019",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000519",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005020": {
+   "key": "Dialog005020",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000521",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000105"
+   ]
+  },
+  "Dialog005021": {
+   "key": "Dialog005021",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000522",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [
+    "Unit000577"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000400"
+   ]
+  },
+  "Dialog005022": {
+   "key": "Dialog005022",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000523",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005023": {
+   "key": "Dialog005023",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000524",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005024": {
+   "key": "Dialog005024",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000525",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005025": {
+   "key": "Dialog005025",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000526",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005026": {
+   "key": "Dialog005026",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000527",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000581",
+    "Unit000580",
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403",
+    "LocalizeUIDieTalk000403",
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog005027": {
+   "key": "Dialog005027",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000528",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000012"
+   ]
+  },
+  "Dialog005028": {
+   "key": "Dialog005028",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000533",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000006"
+   ]
+  },
+  "Dialog005029": {
+   "key": "Dialog005029",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000534",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005030": {
+   "key": "Dialog005030",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000535",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005031": {
+   "key": "Dialog005031",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000536",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000577",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000003"
+   ]
+  },
+  "Dialog005032": {
+   "key": "Dialog005032",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000537",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005033": {
+   "key": "Dialog005033",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000538",
+   "curSpeaker": "Unit000575",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000575"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000014"
+   ]
+  },
+  "Dialog005034": {
+   "key": "Dialog005034",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000539",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000575",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog005035": {
+   "key": "Dialog005035",
+   "category": 5,
+   "talkStr": "LocalizeUIStory000540",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000570",
+    "Unit000579",
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100",
+    "LocalizeUIBattleTalk000104",
+    "LocalizeUIStory_smalltalk000010"
+   ]
+  },
+  "Dialog006000": {
+   "key": "Dialog006000",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000600",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006001": {
+   "key": "Dialog006001",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000601",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006002": {
+   "key": "Dialog006002",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000602",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog006003": {
+   "key": "Dialog006003",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000603",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog006004": {
+   "key": "Dialog006004",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000604",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000012"
+   ]
+  },
+  "Dialog006006": {
+   "key": "Dialog006006",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000606",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006007": {
+   "key": "Dialog006007",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000607",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006008": {
+   "key": "Dialog006008",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000608",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006009": {
+   "key": "Dialog006009",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000609",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000014"
+   ]
+  },
+  "Dialog006010": {
+   "key": "Dialog006010",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000610",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006011": {
+   "key": "Dialog006011",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000611",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [
+    "Unit000581",
+    "Unit000580",
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013",
+    "LocalizeUIStory_smalltalk000013",
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog006012": {
+   "key": "Dialog006012",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000612",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [
+    "Unit000363"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000101"
+   ]
+  },
+  "Dialog006013": {
+   "key": "Dialog006013",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000613",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006014": {
+   "key": "Dialog006014",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000614",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006015": {
+   "key": "Dialog006015",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000615",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000400"
+   ]
+  },
+  "Dialog006016": {
+   "key": "Dialog006016",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000616",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006017": {
+   "key": "Dialog006017",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000617",
+   "curSpeaker": "Unit000999",
+   "lSpeaker": "Unit000999",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006018": {
+   "key": "Dialog006018",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000618",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006019": {
+   "key": "Dialog006019",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000619",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog006020": {
+   "key": "Dialog006020",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000620",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006021": {
+   "key": "Dialog006021",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000621",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006022": {
+   "key": "Dialog006022",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000622",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000362",
+   "sTalkHero": [
+    "Unit000570",
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000012",
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog006023": {
+   "key": "Dialog006023",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000623",
+   "curSpeaker": "Unit000019",
+   "lSpeaker": "",
+   "rSpeaker": "Unit000019",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006024": {
+   "key": "Dialog006024",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000624",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000019",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006025": {
+   "key": "Dialog006025",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000625",
+   "curSpeaker": "Unit000019",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000019",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006026": {
+   "key": "Dialog006026",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000626",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006027": {
+   "key": "Dialog006027",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000627",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006028": {
+   "key": "Dialog006028",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000628",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog006029": {
+   "key": "Dialog006029",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000629",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000583"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog006030": {
+   "key": "Dialog006030",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000630",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000107"
+   ]
+  },
+  "Dialog006031": {
+   "key": "Dialog006031",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000631",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog006032": {
+   "key": "Dialog006032",
+   "category": 6,
+   "talkStr": "LocalizeUIStory000632",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007000": {
+   "key": "Dialog007000",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000700",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000404"
+   ]
+  },
+  "Dialog007001": {
+   "key": "Dialog007001",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000701",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007002": {
+   "key": "Dialog007002",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000702",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007003": {
+   "key": "Dialog007003",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000703",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog007004": {
+   "key": "Dialog007004",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000704",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog007005": {
+   "key": "Dialog007005",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000705",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000001"
+   ]
+  },
+  "Dialog007006": {
+   "key": "Dialog007006",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000706",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007007": {
+   "key": "Dialog007007",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000707",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007008": {
+   "key": "Dialog007008",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000708",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570",
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013",
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog007009": {
+   "key": "Dialog007009",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000710",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007010": {
+   "key": "Dialog007010",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000711",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000571",
+    "Unit000583"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000104",
+    "LocalizeUIBattleTalk000104"
+   ]
+  },
+  "Dialog007012": {
+   "key": "Dialog007012",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000712",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007013": {
+   "key": "Dialog007013",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000713",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [
+    "Unit000363"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog007014": {
+   "key": "Dialog007014",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000714",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007015": {
+   "key": "Dialog007015",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000715",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007016": {
+   "key": "Dialog007016",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000716",
+   "curSpeaker": "Unit000363",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000363",
+   "sTalkHero": [
+    "Unit000363"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000108"
+   ]
+  },
+  "Dialog007018": {
+   "key": "Dialog007018",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000718",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007019": {
+   "key": "Dialog007019",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000719",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007020": {
+   "key": "Dialog007020",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000720",
+   "curSpeaker": "Unit000019",
+   "lSpeaker": "Unit000019",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007021": {
+   "key": "Dialog007021",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000721",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000579",
+    "Unit000580"
+   ],
+   "sTalkLocal": [
+    "LocalizeUITownTalk000000",
+    "LocalizeUITownTalk000000"
+   ]
+  },
+  "Dialog007022": {
+   "key": "Dialog007022",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000722",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007023": {
+   "key": "Dialog007023",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000723",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007024": {
+   "key": "Dialog007024",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000724",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000577",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007025": {
+   "key": "Dialog007025",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000725",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000577",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [
+    "Unit000574"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000106"
+   ]
+  },
+  "Dialog007026": {
+   "key": "Dialog007026",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000726",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007027": {
+   "key": "Dialog007027",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000727",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000574",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog007028": {
+   "key": "Dialog007028",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000728",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000581",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000200"
+   ]
+  },
+  "Dialog007029": {
+   "key": "Dialog007029",
+   "category": 7,
+   "talkStr": "LocalizeUIStory000729",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100"
+   ]
+  },
+  "Dialog008000": {
+   "key": "Dialog008000",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000800",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008001": {
+   "key": "Dialog008001",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000801",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000571",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008002": {
+   "key": "Dialog008002",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000802",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "",
+   "sTalkHero": [
+    "Unit000583"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000403"
+   ]
+  },
+  "Dialog008003": {
+   "key": "Dialog008003",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000803",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000570",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008004": {
+   "key": "Dialog008004",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000804",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008005": {
+   "key": "Dialog008005",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000805",
+   "curSpeaker": "Unit000160",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000160",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008006": {
+   "key": "Dialog008006",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000806",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000160",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008007": {
+   "key": "Dialog008007",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000807",
+   "curSpeaker": "Unit000160",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000160",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008008": {
+   "key": "Dialog008008",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000808",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000160",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008009": {
+   "key": "Dialog008009",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000809",
+   "curSpeaker": "Unit000160",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000160",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008010": {
+   "key": "Dialog008010",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000810",
+   "curSpeaker": "Unit000580",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008011": {
+   "key": "Dialog008011",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000811",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000580",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000400"
+   ]
+  },
+  "Dialog008012": {
+   "key": "Dialog008012",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000812",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000579",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008013": {
+   "key": "Dialog008013",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000813",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008014": {
+   "key": "Dialog008014",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000814",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008015": {
+   "key": "Dialog008015",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000815",
+   "curSpeaker": "Unit000571",
+   "lSpeaker": "Unit000571",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008016": {
+   "key": "Dialog008016",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000816",
+   "curSpeaker": "Unit000574",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008017": {
+   "key": "Dialog008017",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000817",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000574",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000045"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000003"
+   ]
+  },
+  "Dialog008018": {
+   "key": "Dialog008018",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000818",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000581"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog008019": {
+   "key": "Dialog008019",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000819",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008020": {
+   "key": "Dialog008020",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000820",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008021": {
+   "key": "Dialog008021",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000821",
+   "curSpeaker": "Unit000583",
+   "lSpeaker": "Unit000583",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000583"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIDieTalk000402"
+   ]
+  },
+  "Dialog008022": {
+   "key": "Dialog008022",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000822",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog008023": {
+   "key": "Dialog008023",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000823",
+   "curSpeaker": "Unit000579",
+   "lSpeaker": "Unit000579",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000579"
+   ],
+   "sTalkLocal": [
+    "LocalizeUISmallTalk000207"
+   ]
+  },
+  "Dialog008024": {
+   "key": "Dialog008024",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000824",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008025": {
+   "key": "Dialog008025",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000825",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000045"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000014"
+   ]
+  },
+  "Dialog008026": {
+   "key": "Dialog008026",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000826",
+   "curSpeaker": "Unit000577",
+   "lSpeaker": "Unit000577",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008027": {
+   "key": "Dialog008027",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000827",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000577",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008028": {
+   "key": "Dialog008028",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000828",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIStory_smalltalk000013"
+   ]
+  },
+  "Dialog008029": {
+   "key": "Dialog008029",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000829",
+   "curSpeaker": "Unit000581",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008030": {
+   "key": "Dialog008030",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000830",
+   "curSpeaker": "Unit000045",
+   "lSpeaker": "Unit000581",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [],
+   "sTalkLocal": []
+  },
+  "Dialog008031": {
+   "key": "Dialog008031",
+   "category": 8,
+   "talkStr": "LocalizeUIStory000831",
+   "curSpeaker": "Unit000570",
+   "lSpeaker": "Unit000570",
+   "rSpeaker": "Unit000045",
+   "sTalkHero": [
+    "Unit000570"
+   ],
+   "sTalkLocal": [
+    "LocalizeUIBattleTalk000100"
+   ]
+  }
+ }
+}

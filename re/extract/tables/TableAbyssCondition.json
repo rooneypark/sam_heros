@@ -1,0 +1,141 @@
+{
+ "sheetName": "TableAbyssConditionData",
+ "tableIndex": 0,
+ "rows": {
+  "AbyssCondition000": {
+   "key": "AbyssCondition000",
+   "category": 0,
+   "upgradeStat": [
+    "UpgradeStat700001",
+    "UpgradeStat700009",
+    "UpgradeStat700010",
+    "UpgradeStat700011",
+    "UpgradeStat700012"
+   ],
+   "turn": 3
+  },
+  "AbyssCondition001": {
+   "key": "AbyssCondition001",
+   "category": 1,
+   "upgradeStat": [
+    "UpgradeStat700003",
+    "UpgradeStat700004",
+    "UpgradeStat700005"
+   ],
+   "turn": 2
+  },
+  "AbyssCondition002": {
+   "key": "AbyssCondition002",
+   "category": 2,
+   "upgradeStat": [
+    "UpgradeStat700002",
+    "UpgradeStat700013",
+    "UpgradeStat700014"
+   ],
+   "turn": 3
+  },
+  "AbyssCondition003": {
+   "key": "AbyssCondition003",
+   "category": 3,
+   "upgradeStat": [
+    "UpgradeStat700007",
+    "UpgradeStat700008"
+   ],
+   "turn": 2
+  },
+  "AbyssCondition004": {
+   "key": "AbyssCondition004",
+   "category": 4,
+   "upgradeStat": [
+    "UpgradeStat700026",
+    "UpgradeStat700027"
+   ],
+   "turn": 2
+  },
+  "AbyssCondition005": {
+   "key": "AbyssCondition005",
+   "category": 5,
+   "upgradeStat": [
+    "UpgradeStat700015",
+    "UpgradeStat700016",
+    "UpgradeStat700017",
+    "UpgradeStat700018",
+    "UpgradeStat700019",
+    "UpgradeStat700020"
+   ],
+   "turn": 1
+  },
+  "AbyssCondition006": {
+   "key": "AbyssCondition006",
+   "category": 6,
+   "upgradeStat": [
+    "UpgradeStat700022",
+    "UpgradeStat700023",
+    "UpgradeStat700024",
+    "UpgradeStat700025"
+   ],
+   "turn": 1
+  },
+  "AbyssCondition007": {
+   "key": "AbyssCondition007",
+   "category": 7,
+   "upgradeStat": [
+    "UpgradeStat700022",
+    "UpgradeStat700023"
+   ],
+   "turn": 1
+  },
+  "AbyssCondition008": {
+   "key": "AbyssCondition008",
+   "category": 8,
+   "upgradeStat": [
+    "UpgradeStat700021"
+   ],
+   "turn": 1
+  },
+  "AbyssCondition009": {
+   "key": "AbyssCondition009",
+   "category": 9,
+   "upgradeStat": [
+    "UpgradeStat700001",
+    "UpgradeStat700010",
+    "UpgradeStat700011",
+    "UpgradeStat700012"
+   ],
+   "turn": 3
+  },
+  "AbyssCondition010": {
+   "key": "AbyssCondition010",
+   "category": 10,
+   "upgradeStat": [
+    "UpgradeStat700001",
+    "UpgradeStat700009",
+    "UpgradeStat700011",
+    "UpgradeStat700012"
+   ],
+   "turn": 3
+  },
+  "AbyssCondition011": {
+   "key": "AbyssCondition011",
+   "category": 11,
+   "upgradeStat": [
+    "UpgradeStat700001",
+    "UpgradeStat700009",
+    "UpgradeStat700010",
+    "UpgradeStat700012"
+   ],
+   "turn": 3
+  },
+  "AbyssCondition012": {
+   "key": "AbyssCondition012",
+   "category": 12,
+   "upgradeStat": [
+    "UpgradeStat700001",
+    "UpgradeStat700009",
+    "UpgradeStat700010",
+    "UpgradeStat700011"
+   ],
+   "turn": 3
+  }
+ }
+}

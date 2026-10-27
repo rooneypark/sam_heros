@@ -1,0 +1,1042 @@
+{
+ "sheetName": "TablePlaceGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "PlaceGroup101000": {
+   "key": "PlaceGroup101000",
+   "category": 101,
+   "index": 0,
+   "bossPlace": "Place101901",
+   "placeList": [
+    "Place101001",
+    "Place101002",
+    "Place101003",
+    "Place101004",
+    "Place101005",
+    "Place101006",
+    "Place101007",
+    "Place101008",
+    "Place101009"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup101001": {
+   "key": "PlaceGroup101001",
+   "category": 101,
+   "index": 1,
+   "bossPlace": "Place101902",
+   "placeList": [
+    "Place101001",
+    "Place101002",
+    "Place101003",
+    "Place101004",
+    "Place101005",
+    "Place101006",
+    "Place101007",
+    "Place101008",
+    "Place101009"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup101002": {
+   "key": "PlaceGroup101002",
+   "category": 101,
+   "index": 2,
+   "bossPlace": "Place101903",
+   "placeList": [
+    "Place101001",
+    "Place101002",
+    "Place101003",
+    "Place101004",
+    "Place101005",
+    "Place101006",
+    "Place101007",
+    "Place101008",
+    "Place101009"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup102000": {
+   "key": "PlaceGroup102000",
+   "category": 102,
+   "index": 0,
+   "bossPlace": "Place102901",
+   "placeList": [
+    "Place102001",
+    "Place102002",
+    "Place102003",
+    "Place102004",
+    "Place102005",
+    "Place102006",
+    "Place102007",
+    "Place102008",
+    "Place102009"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup103000": {
+   "key": "PlaceGroup103000",
+   "category": 103,
+   "index": 0,
+   "bossPlace": "Place103901",
+   "placeList": [
+    "Place103001",
+    "Place103002",
+    "Place103003",
+    "Place103004",
+    "Place103005",
+    "Place103006",
+    "Place103007",
+    "Place103008",
+    "Place103009"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup104000": {
+   "key": "PlaceGroup104000",
+   "category": 104,
+   "index": 0,
+   "bossPlace": "Place104901",
+   "placeList": [
+    "Place104001",
+    "Place104002",
+    "Place104003",
+    "Place104004",
+    "Place104005",
+    "Place104006",
+    "Place104007",
+    "Place104008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup105000": {
+   "key": "PlaceGroup105000",
+   "category": 105,
+   "index": 0,
+   "bossPlace": "Place105901",
+   "placeList": [
+    "Place105001",
+    "Place105002",
+    "Place105003",
+    "Place105004",
+    "Place105005",
+    "Place105006",
+    "Place105007",
+    "Place105008",
+    "Place105009",
+    "Place105010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup901000": {
+   "key": "PlaceGroup901000",
+   "category": 901,
+   "index": 0,
+   "bossPlace": "Place901001",
+   "placeList": [
+    "Place901001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup901001": {
+   "key": "PlaceGroup901001",
+   "category": 901,
+   "index": 1,
+   "bossPlace": "Place901003",
+   "placeList": [
+    "Place901003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup901002": {
+   "key": "PlaceGroup901002",
+   "category": 901,
+   "index": 2,
+   "bossPlace": "Place901004",
+   "placeList": [
+    "Place901004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup901003": {
+   "key": "PlaceGroup901003",
+   "category": 901,
+   "index": 3,
+   "bossPlace": "Place901005",
+   "placeList": [
+    "Place901005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup902000": {
+   "key": "PlaceGroup902000",
+   "category": 902,
+   "index": 0,
+   "bossPlace": "Place902001",
+   "placeList": [
+    "Place902001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup903000": {
+   "key": "PlaceGroup903000",
+   "category": 903,
+   "index": 0,
+   "bossPlace": "Place903001",
+   "placeList": [
+    "Place903001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup904000": {
+   "key": "PlaceGroup904000",
+   "category": 904,
+   "index": 0,
+   "bossPlace": "Place904901",
+   "placeList": [
+    "Place904001",
+    "Place904002",
+    "Place904003",
+    "Place904004",
+    "Place904005",
+    "Place904006",
+    "Place904007",
+    "Place904008",
+    "Place904009",
+    "Place904010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup905000": {
+   "key": "PlaceGroup905000",
+   "category": 905,
+   "index": 0,
+   "bossPlace": "Place901002",
+   "placeList": [
+    "Place901002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup906000": {
+   "key": "PlaceGroup906000",
+   "category": 906,
+   "index": 0,
+   "bossPlace": "Place905001",
+   "placeList": [
+    "Place905001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup906001": {
+   "key": "PlaceGroup906001",
+   "category": 906,
+   "index": 1,
+   "bossPlace": "Place905004",
+   "placeList": [
+    "Place905004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup906002": {
+   "key": "PlaceGroup906002",
+   "category": 906,
+   "index": 2,
+   "bossPlace": "Place905003",
+   "placeList": [
+    "Place905003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup888888": {
+   "key": "PlaceGroup888888",
+   "category": 888,
+   "index": 888,
+   "bossPlace": "",
+   "placeList": [
+    "Place105001",
+    "Place105002",
+    "Place105003",
+    "Place105004",
+    "Place105005",
+    "Place105006",
+    "Place105007",
+    "Place105008",
+    "Place105009",
+    "Place105010"
+   ],
+   "sortType": "INSTANT"
+  },
+  "PlaceGroup907000": {
+   "key": "PlaceGroup907000",
+   "category": 907,
+   "index": 0,
+   "bossPlace": "Place902001",
+   "placeList": [
+    "Place907001",
+    "Place907002",
+    "Place907003",
+    "Place907004",
+    "Place907005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup907001": {
+   "key": "PlaceGroup907001",
+   "category": 907,
+   "index": 1,
+   "bossPlace": "Place902001",
+   "placeList": [
+    "Place907001",
+    "Place907002",
+    "Place907003",
+    "Place907004",
+    "Place907005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup907002": {
+   "key": "PlaceGroup907002",
+   "category": 907,
+   "index": 2,
+   "bossPlace": "Place902001",
+   "placeList": [
+    "Place907001",
+    "Place907002",
+    "Place907003",
+    "Place907004",
+    "Place907005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup907011": {
+   "key": "PlaceGroup907011",
+   "category": 907,
+   "index": 11,
+   "bossPlace": "Place905004",
+   "placeList": [
+    "Place907006",
+    "Place907007",
+    "Place907008",
+    "Place907009",
+    "Place907010",
+    "Place907011"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup907012": {
+   "key": "PlaceGroup907012",
+   "category": 907,
+   "index": 12,
+   "bossPlace": "Place905004",
+   "placeList": [
+    "Place907101",
+    "Place907102",
+    "Place907103",
+    "Place907104",
+    "Place907105",
+    "Place907106"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700000": {
+   "key": "PlaceGroup700000",
+   "category": 700,
+   "index": 0,
+   "bossPlace": "Place700000",
+   "placeList": [
+    "Place700000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700001": {
+   "key": "PlaceGroup700001",
+   "category": 700,
+   "index": 1,
+   "bossPlace": "Place700001",
+   "placeList": [
+    "Place700001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700002": {
+   "key": "PlaceGroup700002",
+   "category": 700,
+   "index": 2,
+   "bossPlace": "Place700002",
+   "placeList": [
+    "Place700002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700003": {
+   "key": "PlaceGroup700003",
+   "category": 700,
+   "index": 3,
+   "bossPlace": "Place700003",
+   "placeList": [
+    "Place700003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700004": {
+   "key": "PlaceGroup700004",
+   "category": 700,
+   "index": 4,
+   "bossPlace": "Place700004",
+   "placeList": [
+    "Place700004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700005": {
+   "key": "PlaceGroup700005",
+   "category": 700,
+   "index": 5,
+   "bossPlace": "Place700005",
+   "placeList": [
+    "Place700005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700006": {
+   "key": "PlaceGroup700006",
+   "category": 700,
+   "index": 6,
+   "bossPlace": "Place700006",
+   "placeList": [
+    "Place700006"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700007": {
+   "key": "PlaceGroup700007",
+   "category": 700,
+   "index": 7,
+   "bossPlace": "Place700007",
+   "placeList": [
+    "Place700007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700008": {
+   "key": "PlaceGroup700008",
+   "category": 700,
+   "index": 8,
+   "bossPlace": "Place700008",
+   "placeList": [
+    "Place700008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700010": {
+   "key": "PlaceGroup700010",
+   "category": 700,
+   "index": 10,
+   "bossPlace": "Place700010",
+   "placeList": [
+    "Place700010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup700100": {
+   "key": "PlaceGroup700100",
+   "category": 700,
+   "index": 100,
+   "bossPlace": "Place700100",
+   "placeList": [
+    "Place700100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701000": {
+   "key": "PlaceGroup701000",
+   "category": 701,
+   "index": 0,
+   "bossPlace": "Place701000",
+   "placeList": [
+    "Place701000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701001": {
+   "key": "PlaceGroup701001",
+   "category": 701,
+   "index": 1,
+   "bossPlace": "Place701001",
+   "placeList": [
+    "Place701001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701002": {
+   "key": "PlaceGroup701002",
+   "category": 701,
+   "index": 2,
+   "bossPlace": "Place701002",
+   "placeList": [
+    "Place701002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701003": {
+   "key": "PlaceGroup701003",
+   "category": 701,
+   "index": 3,
+   "bossPlace": "Place701003",
+   "placeList": [
+    "Place701003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701004": {
+   "key": "PlaceGroup701004",
+   "category": 701,
+   "index": 4,
+   "bossPlace": "Place701004",
+   "placeList": [
+    "Place701004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701005": {
+   "key": "PlaceGroup701005",
+   "category": 701,
+   "index": 5,
+   "bossPlace": "Place701005",
+   "placeList": [
+    "Place701005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701006": {
+   "key": "PlaceGroup701006",
+   "category": 701,
+   "index": 6,
+   "bossPlace": "Place701006",
+   "placeList": [
+    "Place701006"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701007": {
+   "key": "PlaceGroup701007",
+   "category": 701,
+   "index": 7,
+   "bossPlace": "Place701007",
+   "placeList": [
+    "Place701007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701008": {
+   "key": "PlaceGroup701008",
+   "category": 701,
+   "index": 8,
+   "bossPlace": "Place701008",
+   "placeList": [
+    "Place701008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701010": {
+   "key": "PlaceGroup701010",
+   "category": 701,
+   "index": 10,
+   "bossPlace": "Place701010",
+   "placeList": [
+    "Place701010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup701100": {
+   "key": "PlaceGroup701100",
+   "category": 701,
+   "index": 100,
+   "bossPlace": "Place701100",
+   "placeList": [
+    "Place701100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702000": {
+   "key": "PlaceGroup702000",
+   "category": 702,
+   "index": 0,
+   "bossPlace": "Place702000",
+   "placeList": [
+    "Place702000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702001": {
+   "key": "PlaceGroup702001",
+   "category": 702,
+   "index": 1,
+   "bossPlace": "Place702001",
+   "placeList": [
+    "Place702001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702002": {
+   "key": "PlaceGroup702002",
+   "category": 702,
+   "index": 2,
+   "bossPlace": "Place702002",
+   "placeList": [
+    "Place702002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702003": {
+   "key": "PlaceGroup702003",
+   "category": 702,
+   "index": 3,
+   "bossPlace": "Place702003",
+   "placeList": [
+    "Place702003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702004": {
+   "key": "PlaceGroup702004",
+   "category": 702,
+   "index": 4,
+   "bossPlace": "Place702004",
+   "placeList": [
+    "Place702004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702005": {
+   "key": "PlaceGroup702005",
+   "category": 702,
+   "index": 5,
+   "bossPlace": "Place702005",
+   "placeList": [
+    "Place702005"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702006": {
+   "key": "PlaceGroup702006",
+   "category": 702,
+   "index": 6,
+   "bossPlace": "Place702006",
+   "placeList": [
+    "Place702006"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702007": {
+   "key": "PlaceGroup702007",
+   "category": 702,
+   "index": 7,
+   "bossPlace": "Place702007",
+   "placeList": [
+    "Place702007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup702008": {
+   "key": "PlaceGroup702008",
+   "category": 702,
+   "index": 8,
+   "bossPlace": "Place702008",
+   "placeList": [
+    "Place702008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703000": {
+   "key": "PlaceGroup703000",
+   "category": 703,
+   "index": 0,
+   "bossPlace": "Place703000",
+   "placeList": [
+    "Place703000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703001": {
+   "key": "PlaceGroup703001",
+   "category": 703,
+   "index": 1,
+   "bossPlace": "Place703001",
+   "placeList": [
+    "Place703001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703002": {
+   "key": "PlaceGroup703002",
+   "category": 703,
+   "index": 2,
+   "bossPlace": "Place703002",
+   "placeList": [
+    "Place703002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703003": {
+   "key": "PlaceGroup703003",
+   "category": 703,
+   "index": 3,
+   "bossPlace": "Place703003",
+   "placeList": [
+    "Place703003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703007": {
+   "key": "PlaceGroup703007",
+   "category": 703,
+   "index": 7,
+   "bossPlace": "Place703007",
+   "placeList": [
+    "Place703007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703008": {
+   "key": "PlaceGroup703008",
+   "category": 703,
+   "index": 8,
+   "bossPlace": "Place703008",
+   "placeList": [
+    "Place703008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703010": {
+   "key": "PlaceGroup703010",
+   "category": 703,
+   "index": 10,
+   "bossPlace": "Place703010",
+   "placeList": [
+    "Place703010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup703100": {
+   "key": "PlaceGroup703100",
+   "category": 703,
+   "index": 100,
+   "bossPlace": "Place703100",
+   "placeList": [
+    "Place703100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704000": {
+   "key": "PlaceGroup704000",
+   "category": 704,
+   "index": 0,
+   "bossPlace": "Place704000",
+   "placeList": [
+    "Place704000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704001": {
+   "key": "PlaceGroup704001",
+   "category": 704,
+   "index": 1,
+   "bossPlace": "Place704001",
+   "placeList": [
+    "Place704001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704002": {
+   "key": "PlaceGroup704002",
+   "category": 704,
+   "index": 2,
+   "bossPlace": "Place704002",
+   "placeList": [
+    "Place704002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704007": {
+   "key": "PlaceGroup704007",
+   "category": 704,
+   "index": 7,
+   "bossPlace": "Place704007",
+   "placeList": [
+    "Place704007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704008": {
+   "key": "PlaceGroup704008",
+   "category": 704,
+   "index": 8,
+   "bossPlace": "Place704008",
+   "placeList": [
+    "Place704008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704010": {
+   "key": "PlaceGroup704010",
+   "category": 704,
+   "index": 10,
+   "bossPlace": "Place704010",
+   "placeList": [
+    "Place704010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup704100": {
+   "key": "PlaceGroup704100",
+   "category": 704,
+   "index": 100,
+   "bossPlace": "Place704100",
+   "placeList": [
+    "Place704100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705000": {
+   "key": "PlaceGroup705000",
+   "category": 705,
+   "index": 0,
+   "bossPlace": "Place705000",
+   "placeList": [
+    "Place705000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705001": {
+   "key": "PlaceGroup705001",
+   "category": 705,
+   "index": 1,
+   "bossPlace": "Place705001",
+   "placeList": [
+    "Place705001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705002": {
+   "key": "PlaceGroup705002",
+   "category": 705,
+   "index": 2,
+   "bossPlace": "Place705002",
+   "placeList": [
+    "Place705002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705007": {
+   "key": "PlaceGroup705007",
+   "category": 705,
+   "index": 7,
+   "bossPlace": "Place705007",
+   "placeList": [
+    "Place705007"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705008": {
+   "key": "PlaceGroup705008",
+   "category": 705,
+   "index": 8,
+   "bossPlace": "Place705008",
+   "placeList": [
+    "Place705008"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705010": {
+   "key": "PlaceGroup705010",
+   "category": 705,
+   "index": 10,
+   "bossPlace": "Place705010",
+   "placeList": [
+    "Place705010"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup705100": {
+   "key": "PlaceGroup705100",
+   "category": 705,
+   "index": 100,
+   "bossPlace": "Place705100",
+   "placeList": [
+    "Place705100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup999998": {
+   "key": "PlaceGroup999998",
+   "category": 999,
+   "index": 998,
+   "bossPlace": "Place999998",
+   "placeList": [
+    "Place999998"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110100": {
+   "key": "PlaceGroup110100",
+   "category": 110,
+   "index": 100,
+   "bossPlace": "Place110100",
+   "placeList": [
+    "Place110100"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110101": {
+   "key": "PlaceGroup110101",
+   "category": 110,
+   "index": 101,
+   "bossPlace": "Place110101",
+   "placeList": [
+    "Place110101"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110102": {
+   "key": "PlaceGroup110102",
+   "category": 110,
+   "index": 102,
+   "bossPlace": "Place110102",
+   "placeList": [
+    "Place110102"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110103": {
+   "key": "PlaceGroup110103",
+   "category": 110,
+   "index": 103,
+   "bossPlace": "Place110103",
+   "placeList": [
+    "Place110103"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110104": {
+   "key": "PlaceGroup110104",
+   "category": 110,
+   "index": 104,
+   "bossPlace": "Place110104",
+   "placeList": [
+    "Place110104"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110105": {
+   "key": "PlaceGroup110105",
+   "category": 110,
+   "index": 105,
+   "bossPlace": "Place110105",
+   "placeList": [
+    "Place110105"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110106": {
+   "key": "PlaceGroup110106",
+   "category": 110,
+   "index": 106,
+   "bossPlace": "Place110106",
+   "placeList": [
+    "Place110106"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup110107": {
+   "key": "PlaceGroup110107",
+   "category": 110,
+   "index": 107,
+   "bossPlace": "Place110107",
+   "placeList": [
+    "Place110107"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup908000": {
+   "key": "PlaceGroup908000",
+   "category": 908,
+   "index": 0,
+   "bossPlace": "Place908000",
+   "placeList": [
+    "Place908000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup908001": {
+   "key": "PlaceGroup908001",
+   "category": 908,
+   "index": 1,
+   "bossPlace": "Place908001",
+   "placeList": [
+    "Place908001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup908002": {
+   "key": "PlaceGroup908002",
+   "category": 908,
+   "index": 2,
+   "bossPlace": "Place908002",
+   "placeList": [
+    "Place908002"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup908003": {
+   "key": "PlaceGroup908003",
+   "category": 908,
+   "index": 3,
+   "bossPlace": "Place908003",
+   "placeList": [
+    "Place908003"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup908004": {
+   "key": "PlaceGroup908004",
+   "category": 908,
+   "index": 4,
+   "bossPlace": "Place908004",
+   "placeList": [
+    "Place908004"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup370000": {
+   "key": "PlaceGroup370000",
+   "category": 370,
+   "index": 0,
+   "bossPlace": "Place370000",
+   "placeList": [
+    "Place370000"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup370001": {
+   "key": "PlaceGroup370001",
+   "category": 370,
+   "index": 1,
+   "bossPlace": "Place370001",
+   "placeList": [
+    "Place370001"
+   ],
+   "sortType": "RANDOM"
+  },
+  "PlaceGroup370002": {
+   "key": "PlaceGroup370002",
+   "category": 370,
+   "index": 2,
+   "bossPlace": "Place370002",
+   "placeList": [
+    "Place370002"
+   ],
+   "sortType": "RANDOM"
+  }
+ }
+}

@@ -1,0 +1,5049 @@
+{
+ "sheetName": "TableBulletData",
+ "tableIndex": 0,
+ "rows": {
+  "Bullet000000": {
+   "key": "Bullet000000",
+   "category": 0,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 50.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Test",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet000001": {
+   "key": "Bullet000001",
+   "category": 0,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Test",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.5,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet000002": {
+   "key": "Bullet000002",
+   "category": 0,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "CHAIN",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Test",
+   "paramTypes": [
+    "CHAIN_COUNT",
+    "CHAIN_DIST",
+    "IGNORE_TARGET"
+   ],
+   "paramValues": [
+    3.0,
+    3.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet000003": {
+   "key": "Bullet000003",
+   "category": 0,
+   "index": 3,
+   "shootType": "SHOTGUN",
+   "bulletType": "DEFAULT",
+   "skill": "Skill010900",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_Bullet_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect010002"
+  },
+  "Bullet000103": {
+   "key": "Bullet000103",
+   "category": 0,
+   "index": 103,
+   "shootType": "SHOTGUN",
+   "bulletType": "DEFAULT",
+   "skill": "Skill010900",
+   "colPos": "TARGET",
+   "bulletAngle": 60.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 7,
+   "prefab": "Bullet_Bullet_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect010002"
+  },
+  "Bullet000203": {
+   "key": "Bullet000203",
+   "category": 0,
+   "index": 203,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill010900",
+   "colPos": "TARGET",
+   "bulletAngle": 60.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 7,
+   "prefab": "Bullet_Bullet_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.5,
+    0.5
+   ],
+   "hitEffect": "Effect010002"
+  },
+  "Bullet001001": {
+   "key": "Bullet001001",
+   "category": 1,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet001002": {
+   "key": "Bullet001002",
+   "category": 1,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill004098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect014003"
+  },
+  "Bullet001003": {
+   "key": "Bullet001003",
+   "category": 1,
+   "index": 3,
+   "shootType": "SHOTGUN",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_Arrow_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet001004": {
+   "key": "Bullet001004",
+   "category": 1,
+   "index": 4,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill014900",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SkillArrow_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet001007": {
+   "key": "Bullet001007",
+   "category": 1,
+   "index": 7,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet002001": {
+   "key": "Bullet002001",
+   "category": 2,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet002002": {
+   "key": "Bullet002002",
+   "category": 2,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet002003": {
+   "key": "Bullet002003",
+   "category": 2,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill004098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect008003"
+  },
+  "Bullet002004": {
+   "key": "Bullet002004",
+   "category": 2,
+   "index": 4,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill004098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect007004"
+  },
+  "Bullet002104": {
+   "key": "Bullet002104",
+   "category": 2,
+   "index": 104,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill007900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect007004"
+  },
+  "Bullet002105": {
+   "key": "Bullet002105",
+   "category": 2,
+   "index": 105,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill007900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.699999988079071,
+    1.0
+   ],
+   "hitEffect": "Effect007004"
+  },
+  "Bullet002106": {
+   "key": "Bullet002106",
+   "category": 2,
+   "index": 106,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill807900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect007004"
+  },
+  "Bullet002005": {
+   "key": "Bullet002005",
+   "category": 2,
+   "index": 5,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet002006": {
+   "key": "Bullet002006",
+   "category": 2,
+   "index": 6,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_06",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet002007": {
+   "key": "Bullet002007",
+   "category": 2,
+   "index": 7,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_07",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet002008": {
+   "key": "Bullet002008",
+   "category": 2,
+   "index": 8,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_14",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet003001": {
+   "key": "Bullet003001",
+   "category": 3,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Rock_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet003002": {
+   "key": "Bullet003002",
+   "category": 3,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 4.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Rock_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet003003": {
+   "key": "Bullet003003",
+   "category": 3,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Rock_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet003004": {
+   "key": "Bullet003004",
+   "category": 3,
+   "index": 4,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Rock_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet004001": {
+   "key": "Bullet004001",
+   "category": 4,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill020900",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_CannonBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet004003": {
+   "key": "Bullet004003",
+   "category": 4,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill020910",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_CannonBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet004002": {
+   "key": "Bullet004002",
+   "category": 4,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill020902",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_CannonBall_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet004005": {
+   "key": "Bullet004005",
+   "category": 4,
+   "index": 5,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill020912",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_CannonBall_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet004006": {
+   "key": "Bullet004006",
+   "category": 4,
+   "index": 6,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill020922",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_CannonBall_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet005001": {
+   "key": "Bullet005001",
+   "category": 5,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet005002": {
+   "key": "Bullet005002",
+   "category": 5,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002003"
+  },
+  "Bullet005003": {
+   "key": "Bullet005003",
+   "category": 5,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill136900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect300001"
+  },
+  "Bullet005004": {
+   "key": "Bullet005004",
+   "category": 5,
+   "index": 4,
+   "shootType": "ARC",
+   "bulletType": "CHAIN",
+   "skill": "Skill002902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_01",
+   "paramTypes": [
+    "CHAIN_COUNT",
+    "CHAIN_DIST"
+   ],
+   "paramValues": [
+    1.0,
+    3.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet005005": {
+   "key": "Bullet005005",
+   "category": 5,
+   "index": 5,
+   "shootType": "ARC",
+   "bulletType": "CHAIN",
+   "skill": "Skill002912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_01",
+   "paramTypes": [
+    "CHAIN_COUNT",
+    "CHAIN_DIST"
+   ],
+   "paramValues": [
+    2.0,
+    3.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet005006": {
+   "key": "Bullet005006",
+   "category": 5,
+   "index": 6,
+   "shootType": "ARC",
+   "bulletType": "CHAIN",
+   "skill": "Skill002922",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_01",
+   "paramTypes": [
+    "CHAIN_COUNT",
+    "CHAIN_DIST"
+   ],
+   "paramValues": [
+    3.0,
+    3.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet005007": {
+   "key": "Bullet005007",
+   "category": 5,
+   "index": 7,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet006011": {
+   "key": "Bullet006011",
+   "category": 6,
+   "index": 11,
+   "shootType": "GUIDE",
+   "bulletType": "DEFAULT",
+   "skill": "Skill004902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 5.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Crow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet006012": {
+   "key": "Bullet006012",
+   "category": 6,
+   "index": 12,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill004902",
+   "colPos": "TARGET",
+   "bulletAngle": 90.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Crow_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet006013": {
+   "key": "Bullet006013",
+   "category": 6,
+   "index": 13,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill004902",
+   "colPos": "TARGET",
+   "bulletAngle": 360.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 12,
+   "prefab": "Bullet_Crow_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet007001": {
+   "key": "Bullet007001",
+   "category": 7,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill006900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.30000001192092896,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet007101": {
+   "key": "Bullet007101",
+   "category": 7,
+   "index": 101,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill006900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.6000000238418579,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet007201": {
+   "key": "Bullet007201",
+   "category": 7,
+   "index": 201,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill006900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet007002": {
+   "key": "Bullet007002",
+   "category": 7,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill006902",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SkillJavelin_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet008001": {
+   "key": "Bullet008001",
+   "category": 8,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet009001": {
+   "key": "Bullet009001",
+   "category": 9,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill019900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SickleWave_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    0.5,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet009003": {
+   "key": "Bullet009003",
+   "category": 9,
+   "index": 3,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill019900",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 10.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_SickleWave_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    0.5,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet009004": {
+   "key": "Bullet009004",
+   "category": 9,
+   "index": 4,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill019900",
+   "colPos": "TARGET",
+   "bulletAngle": 90.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 10.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_SickleWave_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    0.5,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet010001": {
+   "key": "Bullet010001",
+   "category": 10,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Hart_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect022002"
+  },
+  "Bullet011001": {
+   "key": "Bullet011001",
+   "category": 11,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill008902",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_08",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet011002": {
+   "key": "Bullet011002",
+   "category": 11,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill008912",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_08",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet012001": {
+   "key": "Bullet012001",
+   "category": 12,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet012002": {
+   "key": "Bullet012002",
+   "category": 12,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet013001": {
+   "key": "Bullet013001",
+   "category": 13,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill007903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_IceFire_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet013002": {
+   "key": "Bullet013002",
+   "category": 13,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill007904",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_IceFire_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet013003": {
+   "key": "Bullet013003",
+   "category": 13,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill007905",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_IceFire_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet014001": {
+   "key": "Bullet014001",
+   "category": 14,
+   "index": 1,
+   "shootType": "GUIDE",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Mace_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect021002"
+  },
+  "Bullet024001": {
+   "key": "Bullet024001",
+   "category": 24,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill024902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 2.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect024003"
+  },
+  "Bullet025001": {
+   "key": "Bullet025001",
+   "category": 25,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_10",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet026001": {
+   "key": "Bullet026001",
+   "category": 26,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_09",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990003"
+  },
+  "Bullet032001": {
+   "key": "Bullet032001",
+   "category": 32,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect032000"
+  },
+  "Bullet032002": {
+   "key": "Bullet032002",
+   "category": 32,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill032902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect032000"
+  },
+  "Bullet032012": {
+   "key": "Bullet032012",
+   "category": 32,
+   "index": 12,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill032912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect032000"
+  },
+  "Bullet032003": {
+   "key": "Bullet032003",
+   "category": 32,
+   "index": 3,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill032903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect032000"
+  },
+  "Bullet032013": {
+   "key": "Bullet032013",
+   "category": 32,
+   "index": 13,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill032913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect032000"
+  },
+  "Bullet033003": {
+   "key": "Bullet033003",
+   "category": 33,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect033000"
+  },
+  "Bullet033004": {
+   "key": "Bullet033004",
+   "category": 33,
+   "index": 4,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033901",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet033005": {
+   "key": "Bullet033005",
+   "category": 33,
+   "index": 5,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_06",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet033006": {
+   "key": "Bullet033006",
+   "category": 33,
+   "index": 6,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_07",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect600010"
+  },
+  "Bullet033007": {
+   "key": "Bullet033007",
+   "category": 33,
+   "index": 7,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033904",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_08",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet033008": {
+   "key": "Bullet033008",
+   "category": 33,
+   "index": 8,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill033905",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_09",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002002"
+  },
+  "Bullet035001": {
+   "key": "Bullet035001",
+   "category": 35,
+   "index": 1,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill002097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Boomerang_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect035001"
+  },
+  "Bullet035002": {
+   "key": "Bullet035002",
+   "category": 35,
+   "index": 2,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill035903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Boomerang_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet036001": {
+   "key": "Bullet036001",
+   "category": 36,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill036902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect036000"
+  },
+  "Bullet040000": {
+   "key": "Bullet040000",
+   "category": 40,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    0.800000011920929,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet040001": {
+   "key": "Bullet040001",
+   "category": 40,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet040002": {
+   "key": "Bullet040002",
+   "category": 40,
+   "index": 2,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 60.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 10.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_Javelin_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet040010": {
+   "key": "Bullet040010",
+   "category": 40,
+   "index": 10,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill040902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 30.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet041000": {
+   "key": "Bullet041000",
+   "category": 41,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet041020": {
+   "key": "Bullet041020",
+   "category": 41,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill041903",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 5.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_FireBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet041120": {
+   "key": "Bullet041120",
+   "category": 41,
+   "index": 120,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill041913",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 5.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_FireBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet042000": {
+   "key": "Bullet042000",
+   "category": 42,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill005097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042010": {
+   "key": "Bullet042010",
+   "category": 42,
+   "index": 10,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    3.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042012": {
+   "key": "Bullet042012",
+   "category": 42,
+   "index": 12,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 3.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    3.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042013": {
+   "key": "Bullet042013",
+   "category": 42,
+   "index": 13,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 3.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    5.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042014": {
+   "key": "Bullet042014",
+   "category": 42,
+   "index": 14,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 3.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    5.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042020": {
+   "key": "Bullet042020",
+   "category": 42,
+   "index": 20,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill042903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 4.5,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042021": {
+   "key": "Bullet042021",
+   "category": 42,
+   "index": 21,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill042913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 4.5,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet042022": {
+   "key": "Bullet042022",
+   "category": 42,
+   "index": 22,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill042313",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 4.5,
+   "bulletDist": 7.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet043010": {
+   "key": "Bullet043010",
+   "category": 43,
+   "index": 10,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill043900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_05",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet043011": {
+   "key": "Bullet043011",
+   "category": 43,
+   "index": 11,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill043901",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_05",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet044020": {
+   "key": "Bullet044020",
+   "category": 44,
+   "index": 20,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill044903",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Missile_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect044021"
+  },
+  "Bullet044021": {
+   "key": "Bullet044021",
+   "category": 44,
+   "index": 21,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill044323",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Missile_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect044200"
+  },
+  "Bullet045001": {
+   "key": "Bullet045001",
+   "category": 45,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Highheel_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet045002": {
+   "key": "Bullet045002",
+   "category": 45,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Axe_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet045003": {
+   "key": "Bullet045003",
+   "category": 45,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill045900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Anvil_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet045004": {
+   "key": "Bullet045004",
+   "category": 45,
+   "index": 4,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Box_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet045005": {
+   "key": "Bullet045005",
+   "category": 45,
+   "index": 5,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 50.0,
+   "bulletDist": 1.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Helmet_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet047010": {
+   "key": "Bullet047010",
+   "category": 47,
+   "index": 10,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill047902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_10",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002003"
+  },
+  "Bullet047011": {
+   "key": "Bullet047011",
+   "category": 47,
+   "index": 11,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill047912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_10",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002003"
+  },
+  "Bullet047012": {
+   "key": "Bullet047012",
+   "category": 47,
+   "index": 12,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill047922",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_10",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002003"
+  },
+  "Bullet047013": {
+   "key": "Bullet047013",
+   "category": 47,
+   "index": 13,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill047932",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_10",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect002003"
+  },
+  "Bullet050000": {
+   "key": "Bullet050000",
+   "category": 50,
+   "index": 0,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill004097",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet050300": {
+   "key": "Bullet050300",
+   "category": 50,
+   "index": 300,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill050900",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 3,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet050010": {
+   "key": "Bullet050010",
+   "category": 50,
+   "index": 10,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill004096",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 40.0,
+   "bulletDist": 3.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    3.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet050011": {
+   "key": "Bullet050011",
+   "category": 50,
+   "index": 11,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill004096",
+   "colPos": "TARGET",
+   "bulletAngle": 3.0,
+   "bulletSpeed": 30.0,
+   "bulletDist": 3.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Fan_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    5.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet050020": {
+   "key": "Bullet050020",
+   "category": 50,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill004097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 25.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet050021": {
+   "key": "Bullet050021",
+   "category": 50,
+   "index": 21,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill004097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 20.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet050320": {
+   "key": "Bullet050320",
+   "category": 50,
+   "index": 320,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill004098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 25.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet053010": {
+   "key": "Bullet053010",
+   "category": 53,
+   "index": 10,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill053902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Axe_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet053013": {
+   "key": "Bullet053013",
+   "category": 53,
+   "index": 13,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill053912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Axe_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet053011": {
+   "key": "Bullet053011",
+   "category": 53,
+   "index": 11,
+   "shootType": "ARC",
+   "bulletType": "PIERCE",
+   "skill": "Skill053011",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Axe_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect053010"
+  },
+  "Bullet053310": {
+   "key": "Bullet053310",
+   "category": 53,
+   "index": 310,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill053922",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Axe_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet054000": {
+   "key": "Bullet054000",
+   "category": 54,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill003097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_28",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect054000"
+  },
+  "Bullet056001": {
+   "key": "Bullet056001",
+   "category": 56,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill056010",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Bomb_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet056002": {
+   "key": "Bullet056002",
+   "category": 56,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill056020",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Bomb_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet057001": {
+   "key": "Bullet057001",
+   "category": 57,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill057010",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058101": {
+   "key": "Bullet058101",
+   "category": 58,
+   "index": 101,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058010",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058102": {
+   "key": "Bullet058102",
+   "category": 58,
+   "index": 102,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058011",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058103": {
+   "key": "Bullet058103",
+   "category": 58,
+   "index": 103,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058012",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058201": {
+   "key": "Bullet058201",
+   "category": 58,
+   "index": 201,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058020",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058202": {
+   "key": "Bullet058202",
+   "category": 58,
+   "index": 202,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058021",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet058203": {
+   "key": "Bullet058203",
+   "category": 58,
+   "index": 203,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill058022",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet060000": {
+   "key": "Bullet060000",
+   "category": 60,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill060903",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet061000": {
+   "key": "Bullet061000",
+   "category": 61,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill003098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 30.0,
+   "bulletDist": 2.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect061000"
+  },
+  "Bullet061001": {
+   "key": "Bullet061001",
+   "category": 61,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill061900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 30.0,
+   "bulletDist": 2.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect061000"
+  },
+  "Bullet061002": {
+   "key": "Bullet061002",
+   "category": 61,
+   "index": 2,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill061103",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Arrow_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.800000011920929
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet061003": {
+   "key": "Bullet061003",
+   "category": 61,
+   "index": 3,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill061903",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Arrow_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.800000011920929
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet065000": {
+   "key": "Bullet065000",
+   "category": 65,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill065010",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet065002": {
+   "key": "Bullet065002",
+   "category": 65,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill065012",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect065022"
+  },
+  "Bullet065102": {
+   "key": "Bullet065102",
+   "category": 65,
+   "index": 102,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill065112",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect065022"
+  },
+  "Bullet065202": {
+   "key": "Bullet065202",
+   "category": 65,
+   "index": 202,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill065212",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect065012"
+  },
+  "Bullet065003": {
+   "key": "Bullet065003",
+   "category": 65,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill065013",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 12.0,
+   "bulletDist": 20.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet065203": {
+   "key": "Bullet065203",
+   "category": 65,
+   "index": 203,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill065213",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 12.0,
+   "bulletDist": 20.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Javelin_06",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet066003": {
+   "key": "Bullet066003",
+   "category": 66,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill066013",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Sword_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect400924"
+  },
+  "Bullet066013": {
+   "key": "Bullet066013",
+   "category": 66,
+   "index": 13,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill066023",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Sword_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect400925"
+  },
+  "Bullet066103": {
+   "key": "Bullet066103",
+   "category": 66,
+   "index": 103,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill066113",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Sword_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect400924"
+  },
+  "Bullet069000": {
+   "key": "Bullet069000",
+   "category": 69,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill069900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Fx_Hero_69_Attack_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect400924"
+  },
+  "Bullet069002": {
+   "key": "Bullet069002",
+   "category": 69,
+   "index": 2,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill069902",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Hero_69_Skill_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet069012": {
+   "key": "Bullet069012",
+   "category": 69,
+   "index": 12,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill069912",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Hero_69_Skill_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet070000": {
+   "key": "Bullet070000",
+   "category": 70,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill070900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_07",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet071000": {
+   "key": "Bullet071000",
+   "category": 71,
+   "index": 0,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill071902",
+   "colPos": "TARGET",
+   "bulletAngle": 90.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 10.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Okong_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    0.5,
+    0.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet071002": {
+   "key": "Bullet071002",
+   "category": 71,
+   "index": 2,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill071902",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 10.0,
+   "bulletCount": 6,
+   "prefab": "Bullet_Okong_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    0.5,
+    0.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet072000": {
+   "key": "Bullet072000",
+   "category": 72,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill072900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 13.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_08",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet072002": {
+   "key": "Bullet072002",
+   "category": 72,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill072902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_11",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet072003": {
+   "key": "Bullet072003",
+   "category": 72,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill072903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 8.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Flask_11",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect070000"
+  },
+  "Bullet073000": {
+   "key": "Bullet073000",
+   "category": 73,
+   "index": 0,
+   "shootType": "DIRECT_EXP",
+   "bulletType": "PIERCE",
+   "skill": "Skill073900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 13.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_Skull",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect700001"
+  },
+  "Bullet075000": {
+   "key": "Bullet075000",
+   "category": 75,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill075900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Worm_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect075000"
+  },
+  "Bullet075010": {
+   "key": "Bullet075010",
+   "category": 75,
+   "index": 10,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill075910",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Worm_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect075002"
+  },
+  "Bullet075002": {
+   "key": "Bullet075002",
+   "category": 75,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill075902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Web",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet075012": {
+   "key": "Bullet075012",
+   "category": 75,
+   "index": 12,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill075912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Web",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet078000": {
+   "key": "Bullet078000",
+   "category": 78,
+   "index": 0,
+   "shootType": "DIRECT_EXP",
+   "bulletType": "PIERCE",
+   "skill": "Skill078900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 4.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Hero_78",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet078003": {
+   "key": "Bullet078003",
+   "category": 78,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill078903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect078013"
+  },
+  "Bullet078103": {
+   "key": "Bullet078103",
+   "category": 78,
+   "index": 103,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill078913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect078013"
+  },
+  "Bullet079012": {
+   "key": "Bullet079012",
+   "category": 79,
+   "index": 12,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill079902",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_Bat_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet079013": {
+   "key": "Bullet079013",
+   "category": 79,
+   "index": 13,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill079902",
+   "colPos": "TARGET",
+   "bulletAngle": 90.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 4,
+   "prefab": "Bullet_Bat_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet079014": {
+   "key": "Bullet079014",
+   "category": 79,
+   "index": 14,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill079902",
+   "colPos": "TARGET",
+   "bulletAngle": 60.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 6.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Bat_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet079015": {
+   "key": "Bullet079015",
+   "category": 79,
+   "index": 15,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill079902",
+   "colPos": "TARGET",
+   "bulletAngle": 70.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 6.0,
+   "bulletCount": 4,
+   "prefab": "Bullet_Bat_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet079016": {
+   "key": "Bullet079016",
+   "category": 79,
+   "index": 16,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill079902",
+   "colPos": "TARGET",
+   "bulletAngle": 100.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Bat_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect004002"
+  },
+  "Bullet080002": {
+   "key": "Bullet080002",
+   "category": 80,
+   "index": 2,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill080902",
+   "colPos": "TARGET",
+   "bulletAngle": 2.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 2.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_07",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    4.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet080012": {
+   "key": "Bullet080012",
+   "category": 80,
+   "index": 12,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill080902",
+   "colPos": "TARGET",
+   "bulletAngle": 2.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 2.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_Fan_07",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    4.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet080003": {
+   "key": "Bullet080003",
+   "category": 80,
+   "index": 3,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill080903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Phoenix",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet080013": {
+   "key": "Bullet080013",
+   "category": 80,
+   "index": 13,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill080913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Phoenix",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet081002": {
+   "key": "Bullet081002",
+   "category": 81,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill081902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Lion",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.20000000298023224
+   ],
+   "hitEffect": ""
+  },
+  "Bullet081012": {
+   "key": "Bullet081012",
+   "category": 81,
+   "index": 12,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill081912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Lion",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.20000000298023224
+   ],
+   "hitEffect": ""
+  },
+  "Bullet082000": {
+   "key": "Bullet082000",
+   "category": 82,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill082900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085000": {
+   "key": "Bullet085000",
+   "category": 85,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Apple",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085002": {
+   "key": "Bullet085002",
+   "category": 85,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085012": {
+   "key": "Bullet085012",
+   "category": 85,
+   "index": 12,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085022": {
+   "key": "Bullet085022",
+   "category": 85,
+   "index": 22,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085922",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085003": {
+   "key": "Bullet085003",
+   "category": 85,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085903",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085013": {
+   "key": "Bullet085013",
+   "category": 85,
+   "index": 13,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet085023": {
+   "key": "Bullet085023",
+   "category": 85,
+   "index": 23,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill085923",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Monkey",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet608000": {
+   "key": "Bullet608000",
+   "category": 608,
+   "index": 0,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill608902",
+   "colPos": "TARGET",
+   "bulletAngle": 360.0,
+   "bulletSpeed": 3.0,
+   "bulletDist": 10.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_MagicBall_11",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet630000": {
+   "key": "Bullet630000",
+   "category": 630,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill612900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_16",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet360001": {
+   "key": "Bullet360001",
+   "category": 360,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 8.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_17",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet632000": {
+   "key": "Bullet632000",
+   "category": 632,
+   "index": 0,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Ax_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet170002": {
+   "key": "Bullet170002",
+   "category": 170,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill170900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 4.0,
+   "bulletDist": 25.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_15",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet173000": {
+   "key": "Bullet173000",
+   "category": 173,
+   "index": 0,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill173900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Boomerang_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet522000": {
+   "key": "Bullet522000",
+   "category": 522,
+   "index": 0,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill522900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Boomerang_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet224000": {
+   "key": "Bullet224000",
+   "category": 224,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill224900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect178000"
+  },
+  "Bullet178000": {
+   "key": "Bullet178000",
+   "category": 178,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill178900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect178000"
+  },
+  "Bullet180000": {
+   "key": "Bullet180000",
+   "category": 180,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill180900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Spider_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect180022"
+  },
+  "Bullet180010": {
+   "key": "Bullet180010",
+   "category": 180,
+   "index": 10,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill180902",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Spider_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect180022"
+  },
+  "Bullet181000": {
+   "key": "Bullet181000",
+   "category": 181,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill181900",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect300001"
+  },
+  "Bullet184020": {
+   "key": "Bullet184020",
+   "category": 184,
+   "index": 20,
+   "shootType": "SHOTGUN",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001097",
+   "colPos": "TARGET",
+   "bulletAngle": 260.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 20,
+   "prefab": "Bullet_Poison_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect184020"
+  },
+  "Bullet185000": {
+   "key": "Bullet185000",
+   "category": 185,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill185900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect185000"
+  },
+  "Bullet187000": {
+   "key": "Bullet187000",
+   "category": 187,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill187900",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet188020": {
+   "key": "Bullet188020",
+   "category": 188,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill188900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet193000": {
+   "key": "Bullet193000",
+   "category": 193,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill193900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SwordWave_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect193000"
+  },
+  "Bullet195000": {
+   "key": "Bullet195000",
+   "category": 195,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_18",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect195000"
+  },
+  "Bullet201000": {
+   "key": "Bullet201000",
+   "category": 201,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill201900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect193000"
+  },
+  "Bullet201001": {
+   "key": "Bullet201001",
+   "category": 201,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill680900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect193000"
+  },
+  "Bullet203000": {
+   "key": "Bullet203000",
+   "category": 203,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill203900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 6.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_19",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect008002"
+  },
+  "Bullet203010": {
+   "key": "Bullet203010",
+   "category": 203,
+   "index": 10,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_MagicBall_20",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect007004"
+  },
+  "Bullet204020": {
+   "key": "Bullet204020",
+   "category": 204,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill014900",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SkillArrow_01",
+   "paramTypes": [
+    "REMAIN_TIME",
+    "ATTACH"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet208000": {
+   "key": "Bullet208000",
+   "category": 208,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill008902",
+   "colPos": "BULLET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_08",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet208010": {
+   "key": "Bullet208010",
+   "category": 208,
+   "index": 10,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill208910",
+   "colPos": "TARGET",
+   "bulletAngle": 5.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 5.0,
+   "bulletCount": 2,
+   "prefab": "Bullet_MagicBall_21",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    20.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet208020": {
+   "key": "Bullet208020",
+   "category": 208,
+   "index": 20,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill208920",
+   "colPos": "TARGET",
+   "bulletAngle": 360.0,
+   "bulletSpeed": 3.0,
+   "bulletDist": 15.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_MagicBall_22",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet141000": {
+   "key": "Bullet141000",
+   "category": 141,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill141900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Poison_03",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect185000"
+  },
+  "Bullet216000": {
+   "key": "Bullet216000",
+   "category": 216,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill216010",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_26",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet218000": {
+   "key": "Bullet218000",
+   "category": 218,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_27",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect198011"
+  },
+  "Bullet219000": {
+   "key": "Bullet219000",
+   "category": 219,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet220000": {
+   "key": "Bullet220000",
+   "category": 220,
+   "index": 0,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill002098",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_04",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet221000": {
+   "key": "Bullet221000",
+   "category": 221,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Rock_05",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect029002"
+  },
+  "Bullet227000": {
+   "key": "Bullet227000",
+   "category": 227,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_23",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect227000"
+  },
+  "Bullet227010": {
+   "key": "Bullet227010",
+   "category": 227,
+   "index": 10,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill227910",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect227010"
+  },
+  "Bullet227020": {
+   "key": "Bullet227020",
+   "category": 227,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill227920",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 1.0,
+   "bulletDist": 30.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_24",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet228020": {
+   "key": "Bullet228020",
+   "category": 228,
+   "index": 20,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 5.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 4,
+   "prefab": "Bullet_Fan_05",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    10.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet240001": {
+   "key": "Bullet240001",
+   "category": 240,
+   "index": 1,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill240100",
+   "colPos": "TARGET",
+   "bulletAngle": 200.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 10.0,
+   "bulletCount": 8,
+   "prefab": "Bullet_SickleWave_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet241001": {
+   "key": "Bullet241001",
+   "category": 241,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill241200",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 3.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_29",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect241298"
+  },
+  "Bullet242001": {
+   "key": "Bullet242001",
+   "category": 242,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill242010",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect242001"
+  },
+  "Bullet244000": {
+   "key": "Bullet244000",
+   "category": 244,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Needle_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect193000"
+  },
+  "Bullet245020": {
+   "key": "Bullet245020",
+   "category": 245,
+   "index": 20,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill246900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 5.0,
+   "bulletDist": 6.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_SickleWave_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet500001": {
+   "key": "Bullet500001",
+   "category": 500,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990003"
+  },
+  "Bullet500002": {
+   "key": "Bullet500002",
+   "category": 500,
+   "index": 2,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990004"
+  },
+  "Bullet500003": {
+   "key": "Bullet500003",
+   "category": 500,
+   "index": 3,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990004"
+  },
+  "Bullet500004": {
+   "key": "Bullet500004",
+   "category": 500,
+   "index": 4,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill504902",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet500005": {
+   "key": "Bullet500005",
+   "category": 500,
+   "index": 5,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill504912",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Arrow_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990004"
+  },
+  "Bullet900001": {
+   "key": "Bullet900001",
+   "category": 900,
+   "index": 1,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill900900",
+   "colPos": "TARGET",
+   "bulletAngle": 150.0,
+   "bulletSpeed": 7.0,
+   "bulletDist": 4.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Artifact_01",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect900101"
+  },
+  "Bullet999000": {
+   "key": "Bullet999000",
+   "category": 999,
+   "index": 0,
+   "shootType": "ROT_EXPAND",
+   "bulletType": "PIERCE",
+   "skill": "Skill042902",
+   "colPos": "TARGET",
+   "bulletAngle": 200.0,
+   "bulletSpeed": 1.0,
+   "bulletDist": 0.10000000149011612,
+   "bulletCount": 4,
+   "prefab": "Bullet_Fan_03",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    10.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet999001": {
+   "key": "Bullet999001",
+   "category": 999,
+   "index": 1,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill9999998",
+   "colPos": "TARGET",
+   "bulletAngle": 0.5,
+   "bulletSpeed": 1.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_01",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet999002": {
+   "key": "Bullet999002",
+   "category": 999,
+   "index": 2,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill004097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "ATTACH",
+    "DIRECTION"
+   ],
+   "paramValues": [
+    0.0,
+    1.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet800000": {
+   "key": "Bullet800000",
+   "category": 800,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill001099",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": ""
+  },
+  "Bullet800025": {
+   "key": "Bullet800025",
+   "category": 800,
+   "index": 25,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "SkillAction025011",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.10000000149011612
+   ],
+   "hitEffect": ""
+  },
+  "Bullet901001": {
+   "key": "Bullet901001",
+   "category": 901,
+   "index": 1,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill901900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 3.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Artifact_02",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect178000"
+  },
+  "Bullet999401": {
+   "key": "Bullet999401",
+   "category": 999,
+   "index": 401,
+   "shootType": "ARC",
+   "bulletType": "DEFAULT",
+   "skill": "Skill227910",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "lnvisibleBullet",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect999040"
+  },
+  "Bullet842000": {
+   "key": "Bullet842000",
+   "category": 842,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "DEFAULT",
+   "skill": "Skill005097",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 10.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_02_Boss",
+   "paramTypes": [],
+   "paramValues": [
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet842012": {
+   "key": "Bullet842012",
+   "category": 842,
+   "index": 12,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill812902",
+   "colPos": "TARGET",
+   "bulletAngle": 4.0,
+   "bulletSpeed": 12.0,
+   "bulletDist": 6.0,
+   "bulletCount": 4,
+   "prefab": "Bullet_Fan_03_Boss",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    6.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet842013": {
+   "key": "Bullet842013",
+   "category": 842,
+   "index": 13,
+   "shootType": "ROTATION",
+   "bulletType": "PIERCE",
+   "skill": "Skill842903",
+   "colPos": "TARGET",
+   "bulletAngle": 1.0,
+   "bulletSpeed": 12.0,
+   "bulletDist": 3.0,
+   "bulletCount": 4,
+   "prefab": "Bullet_Fan_03_Boss",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "REMAIN_TIME",
+    "ATTACH",
+    "TARGET"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    6.0,
+    1.0,
+    4.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet842021": {
+   "key": "Bullet842021",
+   "category": 842,
+   "index": 21,
+   "shootType": "BOOMERANG",
+   "bulletType": "PIERCE",
+   "skill": "Skill812913",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 2.0,
+   "bulletDist": 5.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fan_04",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE",
+    "PIERCE_ACTION"
+   ],
+   "paramValues": [
+    1.0,
+    1.0,
+    0.0
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet850020": {
+   "key": "Bullet850020",
+   "category": 850,
+   "index": 20,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill850233",
+   "colPos": "TARGET",
+   "bulletAngle": 260.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 20,
+   "prefab": "Bullet_MagicBall_25",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    0.5
+   ],
+   "hitEffect": "Effect990001"
+  },
+  "Bullet400000": {
+   "key": "Bullet400000",
+   "category": 400,
+   "index": 0,
+   "shootType": "DIRECT",
+   "bulletType": "PIERCE",
+   "skill": "Skill801900",
+   "colPos": "TARGET",
+   "bulletAngle": 0.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 1,
+   "prefab": "Bullet_Fire_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet400001": {
+   "key": "Bullet400001",
+   "category": 400,
+   "index": 1,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill801900",
+   "colPos": "TARGET",
+   "bulletAngle": 45.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 3,
+   "prefab": "Bullet_Fire_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet400002": {
+   "key": "Bullet400002",
+   "category": 400,
+   "index": 2,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill801900",
+   "colPos": "TARGET",
+   "bulletAngle": 90.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 5,
+   "prefab": "Bullet_Fire_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  },
+  "Bullet400003": {
+   "key": "Bullet400003",
+   "category": 400,
+   "index": 3,
+   "shootType": "SHOTGUN",
+   "bulletType": "PIERCE",
+   "skill": "Skill801900",
+   "colPos": "TARGET",
+   "bulletAngle": 120.0,
+   "bulletSpeed": 15.0,
+   "bulletDist": 10.0,
+   "bulletCount": 9,
+   "prefab": "Bullet_Fire_02",
+   "paramTypes": [
+    "PIERCE_RATE",
+    "PIERCE_DECREASE"
+   ],
+   "paramValues": [
+    1.0,
+    1.0
+   ],
+   "hitEffect": ""
+  }
+ }
+}

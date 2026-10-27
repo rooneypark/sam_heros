@@ -1,0 +1,702 @@
+{
+ "sheetName": "TableDialogGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "DialogGroup0000": {
+   "key": "DialogGroup0000",
+   "category": 0,
+   "tutorials": [
+    "Dialog000000",
+    "Dialog000001",
+    "Dialog000002",
+    "Dialog000003",
+    "Dialog000004",
+    "Dialog000005"
+   ]
+  },
+  "DialogGroup0001": {
+   "key": "DialogGroup0001",
+   "category": 1,
+   "tutorials": [
+    "Dialog000006",
+    "Dialog000007"
+   ]
+  },
+  "DialogGroup0002": {
+   "key": "DialogGroup0002",
+   "category": 2,
+   "tutorials": [
+    "Dialog000008",
+    "Dialog000009"
+   ]
+  },
+  "DialogGroup0003": {
+   "key": "DialogGroup0003",
+   "category": 3,
+   "tutorials": [
+    "Dialog000010"
+   ]
+  },
+  "DialogGroup0004": {
+   "key": "DialogGroup0004",
+   "category": 4,
+   "tutorials": [
+    "Dialog000011",
+    "Dialog000012"
+   ]
+  },
+  "DialogGroup0005": {
+   "key": "DialogGroup0005",
+   "category": 5,
+   "tutorials": [
+    "Dialog000013"
+   ]
+  },
+  "DialogGroup0006": {
+   "key": "DialogGroup0006",
+   "category": 6,
+   "tutorials": [
+    "Dialog000014",
+    "Dialog000015",
+    "Dialog000016",
+    "Dialog000017",
+    "Dialog000018",
+    "Dialog000019",
+    "Dialog000020"
+   ]
+  },
+  "DialogGroup0007": {
+   "key": "DialogGroup0007",
+   "category": 7,
+   "tutorials": [
+    "Dialog000021",
+    "Dialog000022"
+   ]
+  },
+  "DialogGroup0011": {
+   "key": "DialogGroup0011",
+   "category": 11,
+   "tutorials": [
+    "Dialog001000",
+    "Dialog001001",
+    "Dialog001002",
+    "Dialog001004",
+    "Dialog001005",
+    "Dialog001006",
+    "Dialog001007",
+    "Dialog001008"
+   ]
+  },
+  "DialogGroup0012": {
+   "key": "DialogGroup0012",
+   "category": 12,
+   "tutorials": [
+    "Dialog001009"
+   ]
+  },
+  "DialogGroup0013": {
+   "key": "DialogGroup0013",
+   "category": 13,
+   "tutorials": [
+    "Dialog001010",
+    "Dialog001011",
+    "Dialog001012",
+    "Dialog001013"
+   ]
+  },
+  "DialogGroup0014": {
+   "key": "DialogGroup0014",
+   "category": 14,
+   "tutorials": [
+    "Dialog001014"
+   ]
+  },
+  "DialogGroup0015": {
+   "key": "DialogGroup0015",
+   "category": 15,
+   "tutorials": [
+    "Dialog001015",
+    "Dialog001016",
+    "Dialog001017",
+    "Dialog001018",
+    "Dialog001019",
+    "Dialog001020",
+    "Dialog001021",
+    "Dialog001022",
+    "Dialog001023",
+    "Dialog001024",
+    "Dialog001025",
+    "Dialog001026"
+   ]
+  },
+  "DialogGroup0016": {
+   "key": "DialogGroup0016",
+   "category": 16,
+   "tutorials": [
+    "Dialog001027"
+   ]
+  },
+  "DialogGroup0017": {
+   "key": "DialogGroup0017",
+   "category": 17,
+   "tutorials": [
+    "Dialog001028",
+    "Dialog001029",
+    "Dialog001030",
+    "Dialog001031",
+    "Dialog001032",
+    "Dialog001033",
+    "Dialog001034",
+    "Dialog001035",
+    "Dialog001036"
+   ]
+  },
+  "DialogGroup0021": {
+   "key": "DialogGroup0021",
+   "category": 21,
+   "tutorials": [
+    "Dialog002000",
+    "Dialog002001"
+   ]
+  },
+  "DialogGroup0022": {
+   "key": "DialogGroup0022",
+   "category": 22,
+   "tutorials": [
+    "Dialog002002"
+   ]
+  },
+  "DialogGroup0023": {
+   "key": "DialogGroup0023",
+   "category": 23,
+   "tutorials": [
+    "Dialog002003"
+   ]
+  },
+  "DialogGroup0024": {
+   "key": "DialogGroup0024",
+   "category": 24,
+   "tutorials": [
+    "Dialog002004",
+    "Dialog002005",
+    "Dialog002006",
+    "Dialog002007"
+   ]
+  },
+  "DialogGroup0025": {
+   "key": "DialogGroup0025",
+   "category": 25,
+   "tutorials": [
+    "Dialog002008",
+    "Dialog002009"
+   ]
+  },
+  "DialogGroup0026": {
+   "key": "DialogGroup0026",
+   "category": 26,
+   "tutorials": [
+    "Dialog002010",
+    "Dialog002011",
+    "Dialog002012",
+    "Dialog002013",
+    "Dialog002014",
+    "Dialog002015",
+    "Dialog002016",
+    "Dialog002017",
+    "Dialog002018",
+    "Dialog002019"
+   ]
+  },
+  "DialogGroup0027": {
+   "key": "DialogGroup0027",
+   "category": 27,
+   "tutorials": [
+    "Dialog002021"
+   ]
+  },
+  "DialogGroup0028": {
+   "key": "DialogGroup0028",
+   "category": 28,
+   "tutorials": [
+    "Dialog002022",
+    "Dialog002023",
+    "Dialog002024",
+    "Dialog002025",
+    "Dialog002026",
+    "Dialog002027",
+    "Dialog002028",
+    "Dialog002029",
+    "Dialog002030",
+    "Dialog002031"
+   ]
+  },
+  "DialogGroup0029": {
+   "key": "DialogGroup0029",
+   "category": 29,
+   "tutorials": [
+    "Dialog002032",
+    "Dialog002033",
+    "Dialog002034"
+   ]
+  },
+  "DialogGroup0030": {
+   "key": "DialogGroup0030",
+   "category": 30,
+   "tutorials": [
+    "Dialog002035",
+    "Dialog002036",
+    "Dialog002037",
+    "Dialog002038",
+    "Dialog002039",
+    "Dialog002040",
+    "Dialog002041",
+    "Dialog002042",
+    "Dialog002043"
+   ]
+  },
+  "DialogGroup0031": {
+   "key": "DialogGroup0031",
+   "category": 31,
+   "tutorials": [
+    "Dialog003000",
+    "Dialog003001",
+    "Dialog003002"
+   ]
+  },
+  "DialogGroup0032": {
+   "key": "DialogGroup0032",
+   "category": 32,
+   "tutorials": [
+    "Dialog003004",
+    "Dialog003005",
+    "Dialog003006"
+   ]
+  },
+  "DialogGroup0033": {
+   "key": "DialogGroup0033",
+   "category": 33,
+   "tutorials": [
+    "Dialog003012",
+    "Dialog003013",
+    "Dialog003014",
+    "Dialog003016"
+   ]
+  },
+  "DialogGroup0034": {
+   "key": "DialogGroup0034",
+   "category": 34,
+   "tutorials": [
+    "Dialog003017",
+    "Dialog003018"
+   ]
+  },
+  "DialogGroup0035": {
+   "key": "DialogGroup0035",
+   "category": 35,
+   "tutorials": [
+    "Dialog003020",
+    "Dialog003021",
+    "Dialog003022",
+    "Dialog003023",
+    "Dialog003024",
+    "Dialog003025",
+    "Dialog003026"
+   ]
+  },
+  "DialogGroup0040": {
+   "key": "DialogGroup0040",
+   "category": 40,
+   "tutorials": [
+    "Dialog004000",
+    "Dialog004001",
+    "Dialog004002",
+    "Dialog004003"
+   ]
+  },
+  "DialogGroup0041": {
+   "key": "DialogGroup0041",
+   "category": 41,
+   "tutorials": [
+    "Dialog004004",
+    "Dialog004005",
+    "Dialog004006",
+    "Dialog004007"
+   ]
+  },
+  "DialogGroup0042": {
+   "key": "DialogGroup0042",
+   "category": 42,
+   "tutorials": [
+    "Dialog004008",
+    "Dialog004009",
+    "Dialog004010"
+   ]
+  },
+  "DialogGroup0043": {
+   "key": "DialogGroup0043",
+   "category": 43,
+   "tutorials": [
+    "Dialog004011",
+    "Dialog004012",
+    "Dialog004013",
+    "Dialog004014",
+    "Dialog004015"
+   ]
+  },
+  "DialogGroup0044": {
+   "key": "DialogGroup0044",
+   "category": 44,
+   "tutorials": [
+    "Dialog004016",
+    "Dialog004017",
+    "Dialog004018"
+   ]
+  },
+  "DialogGroup0045": {
+   "key": "DialogGroup0045",
+   "category": 45,
+   "tutorials": [
+    "Dialog004019",
+    "Dialog004020",
+    "Dialog004021",
+    "Dialog004022",
+    "Dialog004023"
+   ]
+  },
+  "DialogGroup0046": {
+   "key": "DialogGroup0046",
+   "category": 46,
+   "tutorials": [
+    "Dialog004024",
+    "Dialog004025",
+    "Dialog004026",
+    "Dialog004027",
+    "Dialog004028",
+    "Dialog004029",
+    "Dialog004030",
+    "Dialog004031"
+   ]
+  },
+  "DialogGroup0050": {
+   "key": "DialogGroup0050",
+   "category": 50,
+   "tutorials": [
+    "Dialog005000",
+    "Dialog005001",
+    "Dialog005002",
+    "Dialog005003"
+   ]
+  },
+  "DialogGroup0051": {
+   "key": "DialogGroup0051",
+   "category": 51,
+   "tutorials": [
+    "Dialog005004",
+    "Dialog005005",
+    "Dialog005006",
+    "Dialog005007",
+    "Dialog005008",
+    "Dialog005009",
+    "Dialog005010",
+    "Dialog005011",
+    "Dialog005012"
+   ]
+  },
+  "DialogGroup0052": {
+   "key": "DialogGroup0052",
+   "category": 52,
+   "tutorials": [
+    "Dialog005013"
+   ]
+  },
+  "DialogGroup0053": {
+   "key": "DialogGroup0053",
+   "category": 53,
+   "tutorials": [
+    "Dialog005014",
+    "Dialog005015",
+    "Dialog005016"
+   ]
+  },
+  "DialogGroup0054": {
+   "key": "DialogGroup0054",
+   "category": 54,
+   "tutorials": [
+    "Dialog005017",
+    "Dialog005018",
+    "Dialog005019",
+    "Dialog005020"
+   ]
+  },
+  "DialogGroup0055": {
+   "key": "DialogGroup0055",
+   "category": 55,
+   "tutorials": [
+    "Dialog005021",
+    "Dialog005022",
+    "Dialog005023",
+    "Dialog005024",
+    "Dialog005025"
+   ]
+  },
+  "DialogGroup0056": {
+   "key": "DialogGroup0056",
+   "category": 56,
+   "tutorials": [
+    "Dialog005026",
+    "Dialog005027"
+   ]
+  },
+  "DialogGroup0057": {
+   "key": "DialogGroup0057",
+   "category": 57,
+   "tutorials": [
+    "Dialog005028",
+    "Dialog005029",
+    "Dialog005030",
+    "Dialog005031",
+    "Dialog005032",
+    "Dialog005033",
+    "Dialog005034",
+    "Dialog005035"
+   ]
+  },
+  "DialogGroup0060": {
+   "key": "DialogGroup0060",
+   "category": 60,
+   "tutorials": [
+    "Dialog006000",
+    "Dialog006001",
+    "Dialog006002"
+   ]
+  },
+  "DialogGroup0061": {
+   "key": "DialogGroup0061",
+   "category": 61,
+   "tutorials": [
+    "Dialog006003",
+    "Dialog006004"
+   ]
+  },
+  "DialogGroup0062": {
+   "key": "DialogGroup0062",
+   "category": 62,
+   "tutorials": [
+    "Dialog006005"
+   ]
+  },
+  "DialogGroup0063": {
+   "key": "DialogGroup0063",
+   "category": 63,
+   "tutorials": [
+    "Dialog006006",
+    "Dialog006007",
+    "Dialog006008",
+    "Dialog006009",
+    "Dialog006010"
+   ]
+  },
+  "DialogGroup0064": {
+   "key": "DialogGroup0064",
+   "category": 64,
+   "tutorials": [
+    "Dialog006011",
+    "Dialog006012",
+    "Dialog006013",
+    "Dialog006014"
+   ]
+  },
+  "DialogGroup0065": {
+   "key": "DialogGroup0065",
+   "category": 65,
+   "tutorials": [
+    "Dialog006015",
+    "Dialog006016",
+    "Dialog006017"
+   ]
+  },
+  "DialogGroup0066": {
+   "key": "DialogGroup0066",
+   "category": 66,
+   "tutorials": [
+    "Dialog006018",
+    "Dialog006019",
+    "Dialog006020",
+    "Dialog006021",
+    "Dialog006022"
+   ]
+  },
+  "DialogGroup0067": {
+   "key": "DialogGroup0067",
+   "category": 67,
+   "tutorials": [
+    "Dialog006023",
+    "Dialog006024",
+    "Dialog006025"
+   ]
+  },
+  "DialogGroup0068": {
+   "key": "DialogGroup0068",
+   "category": 68,
+   "tutorials": [
+    "Dialog006026"
+   ]
+  },
+  "DialogGroup0069": {
+   "key": "DialogGroup0069",
+   "category": 69,
+   "tutorials": [
+    "Dialog006027",
+    "Dialog006028"
+   ]
+  },
+  "DialogGroup0070": {
+   "key": "DialogGroup0070",
+   "category": 70,
+   "tutorials": [
+    "Dialog006029",
+    "Dialog006030",
+    "Dialog006031",
+    "Dialog006032"
+   ]
+  },
+  "DialogGroup0071": {
+   "key": "DialogGroup0071",
+   "category": 71,
+   "tutorials": [
+    "Dialog007000",
+    "Dialog007001",
+    "Dialog007002",
+    "Dialog007003"
+   ]
+  },
+  "DialogGroup0072": {
+   "key": "DialogGroup0072",
+   "category": 72,
+   "tutorials": [
+    "Dialog007004",
+    "Dialog007005"
+   ]
+  },
+  "DialogGroup0073": {
+   "key": "DialogGroup0073",
+   "category": 73,
+   "tutorials": [
+    "Dialog007006",
+    "Dialog007007"
+   ]
+  },
+  "DialogGroup0074": {
+   "key": "DialogGroup0074",
+   "category": 74,
+   "tutorials": [
+    "Dialog007008",
+    "Dialog007009",
+    "Dialog007010"
+   ]
+  },
+  "DialogGroup0075": {
+   "key": "DialogGroup0075",
+   "category": 75,
+   "tutorials": [
+    "Dialog007012",
+    "Dialog007013",
+    "Dialog007014",
+    "Dialog007015",
+    "Dialog007016"
+   ]
+  },
+  "DialogGroup0077": {
+   "key": "DialogGroup0077",
+   "category": 77,
+   "tutorials": [
+    "Dialog007018",
+    "Dialog007019"
+   ]
+  },
+  "DialogGroup0078": {
+   "key": "DialogGroup0078",
+   "category": 78,
+   "tutorials": [
+    "Dialog007020",
+    "Dialog007021"
+   ]
+  },
+  "DialogGroup0079": {
+   "key": "DialogGroup0079",
+   "category": 79,
+   "tutorials": [
+    "Dialog007022",
+    "Dialog007023",
+    "Dialog007024",
+    "Dialog007025",
+    "Dialog007026",
+    "Dialog007027",
+    "Dialog007028",
+    "Dialog007029"
+   ]
+  },
+  "DialogGroup0080": {
+   "key": "DialogGroup0080",
+   "category": 80,
+   "tutorials": [
+    "Dialog008000",
+    "Dialog008001"
+   ]
+  },
+  "DialogGroup0081": {
+   "key": "DialogGroup0081",
+   "category": 81,
+   "tutorials": [
+    "Dialog008002",
+    "Dialog008003"
+   ]
+  },
+  "DialogGroup0082": {
+   "key": "DialogGroup0082",
+   "category": 82,
+   "tutorials": [
+    "Dialog008004",
+    "Dialog008005",
+    "Dialog008006",
+    "Dialog008007",
+    "Dialog008008",
+    "Dialog008009"
+   ]
+  },
+  "DialogGroup0083": {
+   "key": "DialogGroup0083",
+   "category": 83,
+   "tutorials": [
+    "Dialog008010",
+    "Dialog008011",
+    "Dialog008012"
+   ]
+  },
+  "DialogGroup0084": {
+   "key": "DialogGroup0084",
+   "category": 84,
+   "tutorials": [
+    "Dialog008013",
+    "Dialog008014",
+    "Dialog008015",
+    "Dialog008016",
+    "Dialog008017",
+    "Dialog008018",
+    "Dialog008019",
+    "Dialog008020",
+    "Dialog008021",
+    "Dialog008022",
+    "Dialog008023",
+    "Dialog008024",
+    "Dialog008025",
+    "Dialog008026",
+    "Dialog008027",
+    "Dialog008028",
+    "Dialog008029",
+    "Dialog008030",
+    "Dialog008031"
+   ]
+  }
+ }
+}

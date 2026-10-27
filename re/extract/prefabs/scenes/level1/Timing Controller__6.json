@@ -1,0 +1,1 @@
+{"id":0,"name":"Timing Controller","active":true,"layer":0,"tf":{"type":"Transform","p":[0.0,0.0,0.0],"r":[0.0,0.0,0.0,1.0],"s":[1.0,1.0,1.0]},"comps":[{"type":"MB","script":"MEC.Timing","err":"error('unpack_from requires a buffer of at least 88 bytes for unpacking 4 bytes at offset 84 (actual buffer size is 84)')"}]}

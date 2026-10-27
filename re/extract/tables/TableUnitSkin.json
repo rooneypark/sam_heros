@@ -1,0 +1,138 @@
+{
+ "sheetName": "TableUnitSkinData",
+ "tableIndex": 0,
+ "rows": {
+  "UnitSkin024000": {
+   "key": "UnitSkin024000",
+   "category": 24,
+   "index": 0,
+   "skin": "Rabbit",
+   "name": "LocalizeUISkinName000000",
+   "desc": "LocalizeUISkinInfo000001",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin018000": {
+   "key": "UnitSkin018000",
+   "category": 18,
+   "index": 0,
+   "skin": "Sheep",
+   "name": "LocalizeUISkinName000001",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.75,
+   "pubPivot": 0.8999999761581421,
+   "available": true,
+   "iapKey": "Consumable_hc_skin_2"
+  },
+  "UnitSkin018001": {
+   "key": "UnitSkin018001",
+   "category": 18,
+   "index": 1,
+   "skin": "Viking",
+   "name": "LocalizeUISkinName000002",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": "Consumable_hc_skin_2"
+  },
+  "UnitSkin057000": {
+   "key": "UnitSkin057000",
+   "category": 57,
+   "index": 0,
+   "skin": "Evil",
+   "name": "LocalizeUISkinName000003",
+   "desc": "LocalizeUISkinInfo000001",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin039000": {
+   "key": "UnitSkin039000",
+   "category": 39,
+   "index": 0,
+   "skin": "Heartfire",
+   "name": "LocalizeUISkinName000004",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin019000": {
+   "key": "UnitSkin019000",
+   "category": 19,
+   "index": 0,
+   "skin": "Crow",
+   "name": "LocalizeUISkinName000006",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": "Consumable_hc_skin_4"
+  },
+  "UnitSkin042000": {
+   "key": "UnitSkin042000",
+   "category": 42,
+   "index": 0,
+   "skin": "Panda",
+   "name": "LocalizeUISkinName000007",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin038000": {
+   "key": "UnitSkin038000",
+   "category": 38,
+   "index": 0,
+   "skin": "Snowman",
+   "name": "LocalizeUISkinName000008",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin025000": {
+   "key": "UnitSkin025000",
+   "category": 25,
+   "index": 0,
+   "skin": "Rudolph",
+   "name": "LocalizeUISkinName000009",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin026000": {
+   "key": "UnitSkin026000",
+   "category": 26,
+   "index": 0,
+   "skin": "Hanbok",
+   "name": "LocalizeUISkinName000010",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  },
+  "UnitSkin049000": {
+   "key": "UnitSkin049000",
+   "category": 49,
+   "index": 0,
+   "skin": "Purple",
+   "name": "LocalizeUISkinName000011",
+   "desc": "LocalizeUISkinInfo000002",
+   "illuPivot": 0.5,
+   "pubPivot": 0.5,
+   "available": true,
+   "iapKey": ""
+  }
+ }
+}

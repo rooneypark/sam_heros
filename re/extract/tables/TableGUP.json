@@ -1,0 +1,261 @@
+{
+ "sheetName": "TableGUPData",
+ "tableIndex": 0,
+ "rows": {
+  "GUP0000": {
+   "key": "GUP0000",
+   "category": 0,
+   "index": 0,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "5",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    300.0
+   ]
+  },
+  "GUP0001": {
+   "key": "GUP0001",
+   "category": 0,
+   "index": 1,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "10",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    600.0
+   ]
+  },
+  "GUP0002": {
+   "key": "GUP0002",
+   "category": 0,
+   "index": 2,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "15",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    900.0
+   ]
+  },
+  "GUP0003": {
+   "key": "GUP0003",
+   "category": 0,
+   "index": 3,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "20",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    1200.0
+   ]
+  },
+  "GUP0004": {
+   "key": "GUP0004",
+   "category": 0,
+   "index": 4,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "25",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    1500.0
+   ]
+  },
+  "GUP0005": {
+   "key": "GUP0005",
+   "category": 0,
+   "index": 5,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "30",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    1800.0
+   ]
+  },
+  "GUP0006": {
+   "key": "GUP0006",
+   "category": 0,
+   "index": 6,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "35",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    2100.0
+   ]
+  },
+  "GUP0007": {
+   "key": "GUP0007",
+   "category": 0,
+   "index": 7,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "40",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    2400.0
+   ]
+  },
+  "GUP0008": {
+   "key": "GUP0008",
+   "category": 0,
+   "index": 8,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "45",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    2700.0
+   ]
+  },
+  "GUP0009": {
+   "key": "GUP0009",
+   "category": 0,
+   "index": 9,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "50",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    300.0,
+    3000.0
+   ]
+  },
+  "GUP0110": {
+   "key": "GUP0110",
+   "category": 1,
+   "index": 10,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "52",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    900.0,
+    3000.0
+   ]
+  },
+  "GUP0111": {
+   "key": "GUP0111",
+   "category": 1,
+   "index": 11,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "54",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    900.0,
+    3000.0
+   ]
+  },
+  "GUP0112": {
+   "key": "GUP0112",
+   "category": 1,
+   "index": 12,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "56",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    900.0,
+    3000.0
+   ]
+  },
+  "GUP0113": {
+   "key": "GUP0113",
+   "category": 1,
+   "index": 13,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "58",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    900.0,
+    3000.0
+   ]
+  },
+  "GUP0114": {
+   "key": "GUP0114",
+   "category": 1,
+   "index": 14,
+   "desc": "LocalizeShopCommon000011",
+   "image": "",
+   "rewardCondi": "LEVEL",
+   "rewardParam": "60",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002"
+   ],
+   "amountList": [
+    900.0,
+    3000.0
+   ]
+  }
+ }
+}

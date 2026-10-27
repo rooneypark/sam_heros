@@ -1,0 +1,5622 @@
+{
+ "sheetName": "TableOptionData",
+ "tableIndex": 0,
+ "rows": {
+  "Option00000000": {
+   "key": "Option00000000",
+   "category": 0,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000000",
+    "UpgradeStat20000001",
+    "UpgradeStat20000002",
+    "UpgradeStat20000003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00000001": {
+   "key": "Option00000001",
+   "category": 0,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000001",
+    "UpgradeStat20000002",
+    "UpgradeStat20000003",
+    "UpgradeStat20000004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00000002": {
+   "key": "Option00000002",
+   "category": 0,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000002",
+    "UpgradeStat20000003",
+    "UpgradeStat20000004",
+    "UpgradeStat20000005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00000003": {
+   "key": "Option00000003",
+   "category": 0,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000003",
+    "UpgradeStat20000004",
+    "UpgradeStat20000005",
+    "UpgradeStat20000006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00000004": {
+   "key": "Option00000004",
+   "category": 0,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000004",
+    "UpgradeStat20000005",
+    "UpgradeStat20000006",
+    "UpgradeStat20000007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00000005": {
+   "key": "Option00000005",
+   "category": 0,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000005",
+    "UpgradeStat20000006",
+    "UpgradeStat20000007",
+    "UpgradeStat20000008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00000006": {
+   "key": "Option00000006",
+   "category": 0,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000006",
+    "UpgradeStat20000007",
+    "UpgradeStat20000008",
+    "UpgradeStat20000009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00000998": {
+   "key": "Option00000998",
+   "category": 0,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000101",
+    "UpgradeStat20000102",
+    "UpgradeStat20000103",
+    "UpgradeStat20000104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00000999": {
+   "key": "Option00000999",
+   "category": 0,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000102",
+    "UpgradeStat20000103",
+    "UpgradeStat20000104",
+    "UpgradeStat20000105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00000997": {
+   "key": "Option00000997",
+   "category": 0,
+   "index": 997,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000103",
+    "UpgradeStat20000104",
+    "UpgradeStat20000105",
+    "UpgradeStat20000106"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00000996": {
+   "key": "Option00000996",
+   "category": 0,
+   "index": 996,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20000104",
+    "UpgradeStat20000105",
+    "UpgradeStat20000106",
+    "UpgradeStat20000107"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00100000": {
+   "key": "Option00100000",
+   "category": 1,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100000",
+    "UpgradeStat20100001",
+    "UpgradeStat20100002",
+    "UpgradeStat20100003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00100001": {
+   "key": "Option00100001",
+   "category": 1,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100001",
+    "UpgradeStat20100002",
+    "UpgradeStat20100003",
+    "UpgradeStat20100004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00100002": {
+   "key": "Option00100002",
+   "category": 1,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100002",
+    "UpgradeStat20100003",
+    "UpgradeStat20100004",
+    "UpgradeStat20100005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00100003": {
+   "key": "Option00100003",
+   "category": 1,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100003",
+    "UpgradeStat20100004",
+    "UpgradeStat20100005",
+    "UpgradeStat20100006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00100004": {
+   "key": "Option00100004",
+   "category": 1,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100004",
+    "UpgradeStat20100005",
+    "UpgradeStat20100006",
+    "UpgradeStat20100007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00100005": {
+   "key": "Option00100005",
+   "category": 1,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100005",
+    "UpgradeStat20100006",
+    "UpgradeStat20100007",
+    "UpgradeStat20100008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00100006": {
+   "key": "Option00100006",
+   "category": 1,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100006",
+    "UpgradeStat20100007",
+    "UpgradeStat20100008",
+    "UpgradeStat20100009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00100100": {
+   "key": "Option00100100",
+   "category": 1,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100001",
+    "UpgradeStat20100002",
+    "UpgradeStat20100003",
+    "UpgradeStat20100004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00100998": {
+   "key": "Option00100998",
+   "category": 1,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100101",
+    "UpgradeStat20100102",
+    "UpgradeStat20100103",
+    "UpgradeStat20100104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00100999": {
+   "key": "Option00100999",
+   "category": 1,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100102",
+    "UpgradeStat20100103",
+    "UpgradeStat20100104",
+    "UpgradeStat20100105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00100997": {
+   "key": "Option00100997",
+   "category": 1,
+   "index": 997,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100103",
+    "UpgradeStat20100104",
+    "UpgradeStat20100105",
+    "UpgradeStat20100106"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00100996": {
+   "key": "Option00100996",
+   "category": 1,
+   "index": 996,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20100104",
+    "UpgradeStat20100105",
+    "UpgradeStat20100106",
+    "UpgradeStat20100107"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00200000": {
+   "key": "Option00200000",
+   "category": 2,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200000",
+    "UpgradeStat20200001",
+    "UpgradeStat20200002",
+    "UpgradeStat20200003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00200001": {
+   "key": "Option00200001",
+   "category": 2,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200001",
+    "UpgradeStat20200002",
+    "UpgradeStat20200003",
+    "UpgradeStat20200004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00200002": {
+   "key": "Option00200002",
+   "category": 2,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200002",
+    "UpgradeStat20200003",
+    "UpgradeStat20200004",
+    "UpgradeStat20200005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00200003": {
+   "key": "Option00200003",
+   "category": 2,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200003",
+    "UpgradeStat20200004",
+    "UpgradeStat20200005",
+    "UpgradeStat20200006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00200004": {
+   "key": "Option00200004",
+   "category": 2,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200004",
+    "UpgradeStat20200005",
+    "UpgradeStat20200006",
+    "UpgradeStat20200007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00200005": {
+   "key": "Option00200005",
+   "category": 2,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200005",
+    "UpgradeStat20200006",
+    "UpgradeStat20200007",
+    "UpgradeStat20200008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00200006": {
+   "key": "Option00200006",
+   "category": 2,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200006",
+    "UpgradeStat20200007",
+    "UpgradeStat20200008",
+    "UpgradeStat20200009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00200998": {
+   "key": "Option00200998",
+   "category": 2,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200101",
+    "UpgradeStat20200102",
+    "UpgradeStat20200103",
+    "UpgradeStat20200104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00200999": {
+   "key": "Option00200999",
+   "category": 2,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20200102",
+    "UpgradeStat20200103",
+    "UpgradeStat20200104",
+    "UpgradeStat20200105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00300000": {
+   "key": "Option00300000",
+   "category": 3,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300000",
+    "UpgradeStat20300001",
+    "UpgradeStat20300002",
+    "UpgradeStat20300003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00300001": {
+   "key": "Option00300001",
+   "category": 3,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300001",
+    "UpgradeStat20300002",
+    "UpgradeStat20300003",
+    "UpgradeStat20300004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00300002": {
+   "key": "Option00300002",
+   "category": 3,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300002",
+    "UpgradeStat20300003",
+    "UpgradeStat20300004",
+    "UpgradeStat20300005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00300003": {
+   "key": "Option00300003",
+   "category": 3,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300003",
+    "UpgradeStat20300004",
+    "UpgradeStat20300005",
+    "UpgradeStat20300006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00300004": {
+   "key": "Option00300004",
+   "category": 3,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300004",
+    "UpgradeStat20300005",
+    "UpgradeStat20300006",
+    "UpgradeStat20300007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00300005": {
+   "key": "Option00300005",
+   "category": 3,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300005",
+    "UpgradeStat20300006",
+    "UpgradeStat20300007",
+    "UpgradeStat20300008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00300006": {
+   "key": "Option00300006",
+   "category": 3,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300006",
+    "UpgradeStat20300007",
+    "UpgradeStat20300008",
+    "UpgradeStat20300009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00300100": {
+   "key": "Option00300100",
+   "category": 3,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300001",
+    "UpgradeStat20300002",
+    "UpgradeStat20300003",
+    "UpgradeStat20300004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00300998": {
+   "key": "Option00300998",
+   "category": 3,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300101",
+    "UpgradeStat20300102",
+    "UpgradeStat20300103",
+    "UpgradeStat20300104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00300999": {
+   "key": "Option00300999",
+   "category": 3,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20300102",
+    "UpgradeStat20300103",
+    "UpgradeStat20300104",
+    "UpgradeStat20300105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00400000": {
+   "key": "Option00400000",
+   "category": 4,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400000",
+    "UpgradeStat20400001",
+    "UpgradeStat20400002",
+    "UpgradeStat20400003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00400001": {
+   "key": "Option00400001",
+   "category": 4,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400001",
+    "UpgradeStat20400002",
+    "UpgradeStat20400003",
+    "UpgradeStat20400004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00400002": {
+   "key": "Option00400002",
+   "category": 4,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400002",
+    "UpgradeStat20400003",
+    "UpgradeStat20400004",
+    "UpgradeStat20400005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00400003": {
+   "key": "Option00400003",
+   "category": 4,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400003",
+    "UpgradeStat20400004",
+    "UpgradeStat20400005",
+    "UpgradeStat20400006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00400004": {
+   "key": "Option00400004",
+   "category": 4,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400004",
+    "UpgradeStat20400005",
+    "UpgradeStat20400006",
+    "UpgradeStat20400007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00400005": {
+   "key": "Option00400005",
+   "category": 4,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400005",
+    "UpgradeStat20400006",
+    "UpgradeStat20400007",
+    "UpgradeStat20400008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00400006": {
+   "key": "Option00400006",
+   "category": 4,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400006",
+    "UpgradeStat20400007",
+    "UpgradeStat20400008",
+    "UpgradeStat20400009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00400100": {
+   "key": "Option00400100",
+   "category": 4,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400001",
+    "UpgradeStat20400002",
+    "UpgradeStat20400003",
+    "UpgradeStat20400004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00400998": {
+   "key": "Option00400998",
+   "category": 4,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400101",
+    "UpgradeStat20400102",
+    "UpgradeStat20400103",
+    "UpgradeStat20400104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00400999": {
+   "key": "Option00400999",
+   "category": 4,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400102",
+    "UpgradeStat20400103",
+    "UpgradeStat20400104",
+    "UpgradeStat20400105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00500000": {
+   "key": "Option00500000",
+   "category": 5,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500000",
+    "UpgradeStat20500001",
+    "UpgradeStat20500002",
+    "UpgradeStat20500003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00500001": {
+   "key": "Option00500001",
+   "category": 5,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500001",
+    "UpgradeStat20500002",
+    "UpgradeStat20500003",
+    "UpgradeStat20500004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00500002": {
+   "key": "Option00500002",
+   "category": 5,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500002",
+    "UpgradeStat20500003",
+    "UpgradeStat20500004",
+    "UpgradeStat20500005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00500003": {
+   "key": "Option00500003",
+   "category": 5,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500003",
+    "UpgradeStat20500004",
+    "UpgradeStat20500005",
+    "UpgradeStat20500006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00500004": {
+   "key": "Option00500004",
+   "category": 5,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500004",
+    "UpgradeStat20500005",
+    "UpgradeStat20500006",
+    "UpgradeStat20500007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00500005": {
+   "key": "Option00500005",
+   "category": 5,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500005",
+    "UpgradeStat20500006",
+    "UpgradeStat20500007",
+    "UpgradeStat20500008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00500006": {
+   "key": "Option00500006",
+   "category": 5,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500006",
+    "UpgradeStat20500007",
+    "UpgradeStat20500008",
+    "UpgradeStat20500009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00500100": {
+   "key": "Option00500100",
+   "category": 5,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500001",
+    "UpgradeStat20500002",
+    "UpgradeStat20500003",
+    "UpgradeStat20500004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00500998": {
+   "key": "Option00500998",
+   "category": 5,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500101",
+    "UpgradeStat20500102",
+    "UpgradeStat20500103",
+    "UpgradeStat20500104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00500999": {
+   "key": "Option00500999",
+   "category": 5,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500102",
+    "UpgradeStat20500103",
+    "UpgradeStat20500104",
+    "UpgradeStat20500105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00600000": {
+   "key": "Option00600000",
+   "category": 6,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600000",
+    "UpgradeStat20600001",
+    "UpgradeStat20600002",
+    "UpgradeStat20600003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00600001": {
+   "key": "Option00600001",
+   "category": 6,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600001",
+    "UpgradeStat20600002",
+    "UpgradeStat20600003",
+    "UpgradeStat20600004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00600002": {
+   "key": "Option00600002",
+   "category": 6,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600002",
+    "UpgradeStat20600003",
+    "UpgradeStat20600004",
+    "UpgradeStat20600005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00600003": {
+   "key": "Option00600003",
+   "category": 6,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600003",
+    "UpgradeStat20600004",
+    "UpgradeStat20600005",
+    "UpgradeStat20600006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00600004": {
+   "key": "Option00600004",
+   "category": 6,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600004",
+    "UpgradeStat20600005",
+    "UpgradeStat20600006",
+    "UpgradeStat20600007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00600005": {
+   "key": "Option00600005",
+   "category": 6,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600005",
+    "UpgradeStat20600006",
+    "UpgradeStat20600007",
+    "UpgradeStat20600008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00600006": {
+   "key": "Option00600006",
+   "category": 6,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600006",
+    "UpgradeStat20600007",
+    "UpgradeStat20600008",
+    "UpgradeStat20600009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00600100": {
+   "key": "Option00600100",
+   "category": 6,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600001",
+    "UpgradeStat20600002",
+    "UpgradeStat20600003",
+    "UpgradeStat20600004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00600998": {
+   "key": "Option00600998",
+   "category": 6,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600101",
+    "UpgradeStat20600102",
+    "UpgradeStat20600103",
+    "UpgradeStat20600104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00600999": {
+   "key": "Option00600999",
+   "category": 6,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600102",
+    "UpgradeStat20600103",
+    "UpgradeStat20600104",
+    "UpgradeStat20600105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00700000": {
+   "key": "Option00700000",
+   "category": 7,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700000",
+    "UpgradeStat20700001",
+    "UpgradeStat20700002",
+    "UpgradeStat20700003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00700001": {
+   "key": "Option00700001",
+   "category": 7,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700001",
+    "UpgradeStat20700002",
+    "UpgradeStat20700003",
+    "UpgradeStat20700004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00700002": {
+   "key": "Option00700002",
+   "category": 7,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700002",
+    "UpgradeStat20700003",
+    "UpgradeStat20700004",
+    "UpgradeStat20700005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00700003": {
+   "key": "Option00700003",
+   "category": 7,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700003",
+    "UpgradeStat20700004",
+    "UpgradeStat20700005",
+    "UpgradeStat20700006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00700004": {
+   "key": "Option00700004",
+   "category": 7,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700004",
+    "UpgradeStat20700005",
+    "UpgradeStat20700006",
+    "UpgradeStat20700007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00700005": {
+   "key": "Option00700005",
+   "category": 7,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700005",
+    "UpgradeStat20700006",
+    "UpgradeStat20700007",
+    "UpgradeStat20700008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00700006": {
+   "key": "Option00700006",
+   "category": 7,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700006",
+    "UpgradeStat20700007",
+    "UpgradeStat20700008",
+    "UpgradeStat20700009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00700100": {
+   "key": "Option00700100",
+   "category": 7,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700001",
+    "UpgradeStat20700002",
+    "UpgradeStat20700003",
+    "UpgradeStat20700004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00700998": {
+   "key": "Option00700998",
+   "category": 7,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700101",
+    "UpgradeStat20700102",
+    "UpgradeStat20700103",
+    "UpgradeStat20700104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00700999": {
+   "key": "Option00700999",
+   "category": 7,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700102",
+    "UpgradeStat20700103",
+    "UpgradeStat20700104",
+    "UpgradeStat20700105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option00800000": {
+   "key": "Option00800000",
+   "category": 8,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800000",
+    "UpgradeStat20800001",
+    "UpgradeStat20800002",
+    "UpgradeStat20800003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00800001": {
+   "key": "Option00800001",
+   "category": 8,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800001",
+    "UpgradeStat20800002",
+    "UpgradeStat20800003",
+    "UpgradeStat20800004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00800002": {
+   "key": "Option00800002",
+   "category": 8,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800002",
+    "UpgradeStat20800003",
+    "UpgradeStat20800004",
+    "UpgradeStat20800005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00800003": {
+   "key": "Option00800003",
+   "category": 8,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800003",
+    "UpgradeStat20800004",
+    "UpgradeStat20800005",
+    "UpgradeStat20800006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00800004": {
+   "key": "Option00800004",
+   "category": 8,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800004",
+    "UpgradeStat20800005",
+    "UpgradeStat20800006",
+    "UpgradeStat20800007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00800005": {
+   "key": "Option00800005",
+   "category": 8,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800005",
+    "UpgradeStat20800006",
+    "UpgradeStat20800007",
+    "UpgradeStat20800008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00800006": {
+   "key": "Option00800006",
+   "category": 8,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800006",
+    "UpgradeStat20800007",
+    "UpgradeStat20800008",
+    "UpgradeStat20800009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00800999": {
+   "key": "Option00800999",
+   "category": 8,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800101",
+    "UpgradeStat20800102",
+    "UpgradeStat20800103",
+    "UpgradeStat20800104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00900000": {
+   "key": "Option00900000",
+   "category": 9,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900000",
+    "UpgradeStat20900001",
+    "UpgradeStat20900002",
+    "UpgradeStat20900003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option00900001": {
+   "key": "Option00900001",
+   "category": 9,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900001",
+    "UpgradeStat20900002",
+    "UpgradeStat20900003",
+    "UpgradeStat20900004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00900002": {
+   "key": "Option00900002",
+   "category": 9,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900002",
+    "UpgradeStat20900003",
+    "UpgradeStat20900004",
+    "UpgradeStat20900005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option00900003": {
+   "key": "Option00900003",
+   "category": 9,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900003",
+    "UpgradeStat20900004",
+    "UpgradeStat20900005",
+    "UpgradeStat20900006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option00900004": {
+   "key": "Option00900004",
+   "category": 9,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900004",
+    "UpgradeStat20900005",
+    "UpgradeStat20900006",
+    "UpgradeStat20900007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option00900005": {
+   "key": "Option00900005",
+   "category": 9,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900005",
+    "UpgradeStat20900006",
+    "UpgradeStat20900007",
+    "UpgradeStat20900008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option00900006": {
+   "key": "Option00900006",
+   "category": 9,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900006",
+    "UpgradeStat20900007",
+    "UpgradeStat20900008",
+    "UpgradeStat20900009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option00900100": {
+   "key": "Option00900100",
+   "category": 9,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900001",
+    "UpgradeStat20900002",
+    "UpgradeStat20900003",
+    "UpgradeStat20900004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option00900998": {
+   "key": "Option00900998",
+   "category": 9,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900101",
+    "UpgradeStat20900102",
+    "UpgradeStat20900103",
+    "UpgradeStat20900104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option00900999": {
+   "key": "Option00900999",
+   "category": 9,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900102",
+    "UpgradeStat20900103",
+    "UpgradeStat20900104",
+    "UpgradeStat20900105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option01000000": {
+   "key": "Option01000000",
+   "category": 10,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000000",
+    "UpgradeStat21000001",
+    "UpgradeStat21000002",
+    "UpgradeStat21000003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option01000001": {
+   "key": "Option01000001",
+   "category": 10,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000001",
+    "UpgradeStat21000002",
+    "UpgradeStat21000003",
+    "UpgradeStat21000004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01000002": {
+   "key": "Option01000002",
+   "category": 10,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000002",
+    "UpgradeStat21000003",
+    "UpgradeStat21000004",
+    "UpgradeStat21000005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option01000003": {
+   "key": "Option01000003",
+   "category": 10,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000003",
+    "UpgradeStat21000004",
+    "UpgradeStat21000005",
+    "UpgradeStat21000006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option01000004": {
+   "key": "Option01000004",
+   "category": 10,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000004",
+    "UpgradeStat21000005",
+    "UpgradeStat21000006",
+    "UpgradeStat21000007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option01000005": {
+   "key": "Option01000005",
+   "category": 10,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000005",
+    "UpgradeStat21000006",
+    "UpgradeStat21000007",
+    "UpgradeStat21000008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option01000006": {
+   "key": "Option01000006",
+   "category": 10,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000006",
+    "UpgradeStat21000007",
+    "UpgradeStat21000008",
+    "UpgradeStat21000009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option01000100": {
+   "key": "Option01000100",
+   "category": 10,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000001",
+    "UpgradeStat21000002",
+    "UpgradeStat21000003",
+    "UpgradeStat21000004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01000998": {
+   "key": "Option01000998",
+   "category": 10,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000101",
+    "UpgradeStat21000102",
+    "UpgradeStat21000103",
+    "UpgradeStat21000104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option01000999": {
+   "key": "Option01000999",
+   "category": 10,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000102",
+    "UpgradeStat21000103",
+    "UpgradeStat21000104",
+    "UpgradeStat21000105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option01100000": {
+   "key": "Option01100000",
+   "category": 11,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100000",
+    "UpgradeStat21100001",
+    "UpgradeStat21100002",
+    "UpgradeStat21100003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option01100001": {
+   "key": "Option01100001",
+   "category": 11,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100001",
+    "UpgradeStat21100002",
+    "UpgradeStat21100003",
+    "UpgradeStat21100004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01100002": {
+   "key": "Option01100002",
+   "category": 11,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100002",
+    "UpgradeStat21100003",
+    "UpgradeStat21100004",
+    "UpgradeStat21100005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option01100003": {
+   "key": "Option01100003",
+   "category": 11,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100003",
+    "UpgradeStat21100004",
+    "UpgradeStat21100005",
+    "UpgradeStat21100006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option01100004": {
+   "key": "Option01100004",
+   "category": 11,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100004",
+    "UpgradeStat21100005",
+    "UpgradeStat21100006",
+    "UpgradeStat21100007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option01100005": {
+   "key": "Option01100005",
+   "category": 11,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100005",
+    "UpgradeStat21100006",
+    "UpgradeStat21100007",
+    "UpgradeStat21100008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option01100006": {
+   "key": "Option01100006",
+   "category": 11,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100006",
+    "UpgradeStat21100007",
+    "UpgradeStat21100008",
+    "UpgradeStat21100009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option01100100": {
+   "key": "Option01100100",
+   "category": 11,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100001",
+    "UpgradeStat21100002",
+    "UpgradeStat21100003",
+    "UpgradeStat21100004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01100998": {
+   "key": "Option01100998",
+   "category": 11,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100101",
+    "UpgradeStat21100102",
+    "UpgradeStat21100103",
+    "UpgradeStat21100104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option01100999": {
+   "key": "Option01100999",
+   "category": 11,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100102",
+    "UpgradeStat21100103",
+    "UpgradeStat21100104",
+    "UpgradeStat21100105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option01200000": {
+   "key": "Option01200000",
+   "category": 12,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200000",
+    "UpgradeStat21200001",
+    "UpgradeStat21200002",
+    "UpgradeStat21200003"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option01200001": {
+   "key": "Option01200001",
+   "category": 12,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200001",
+    "UpgradeStat21200002",
+    "UpgradeStat21200003",
+    "UpgradeStat21200004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01200002": {
+   "key": "Option01200002",
+   "category": 12,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200002",
+    "UpgradeStat21200003",
+    "UpgradeStat21200004",
+    "UpgradeStat21200005"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    900,
+    1200,
+    1500,
+    1800
+   ]
+  },
+  "Option01200003": {
+   "key": "Option01200003",
+   "category": 12,
+   "index": 3,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200003",
+    "UpgradeStat21200004",
+    "UpgradeStat21200005",
+    "UpgradeStat21200006"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option01200004": {
+   "key": "Option01200004",
+   "category": 12,
+   "index": 4,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200004",
+    "UpgradeStat21200005",
+    "UpgradeStat21200006",
+    "UpgradeStat21200007"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1500,
+    1800,
+    2100,
+    2400
+   ]
+  },
+  "Option01200005": {
+   "key": "Option01200005",
+   "category": 12,
+   "index": 5,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200005",
+    "UpgradeStat21200006",
+    "UpgradeStat21200007",
+    "UpgradeStat21200008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1800,
+    2100,
+    2400,
+    2700
+   ]
+  },
+  "Option01200006": {
+   "key": "Option01200006",
+   "category": 12,
+   "index": 6,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200006",
+    "UpgradeStat21200007",
+    "UpgradeStat21200008",
+    "UpgradeStat21200009"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    2100,
+    2400,
+    2700,
+    3000
+   ]
+  },
+  "Option01200100": {
+   "key": "Option01200100",
+   "category": 12,
+   "index": 100,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200001",
+    "UpgradeStat21200002",
+    "UpgradeStat21200003",
+    "UpgradeStat21200004"
+   ],
+   "oWeights": [
+    0,
+    0,
+    100,
+    0
+   ],
+   "oPower": [
+    600,
+    900,
+    1200,
+    1500
+   ]
+  },
+  "Option01200998": {
+   "key": "Option01200998",
+   "category": 12,
+   "index": 998,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200101",
+    "UpgradeStat21200102",
+    "UpgradeStat21200103",
+    "UpgradeStat21200104"
+   ],
+   "oWeights": [
+    20,
+    20,
+    20,
+    20
+   ],
+   "oPower": [
+    1800,
+    2700,
+    3600,
+    4500
+   ]
+  },
+  "Option01200999": {
+   "key": "Option01200999",
+   "category": 12,
+   "index": 999,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21200102",
+    "UpgradeStat21200103",
+    "UpgradeStat21200104",
+    "UpgradeStat21200105"
+   ],
+   "oWeights": [
+    0,
+    35,
+    35,
+    30
+   ],
+   "oPower": [
+    2700,
+    3600,
+    4500,
+    5400
+   ]
+  },
+  "Option01300000": {
+   "key": "Option01300000",
+   "category": 13,
+   "index": 0,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300001": {
+   "key": "Option01300001",
+   "category": 13,
+   "index": 1,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300907": {
+   "key": "Option01300907",
+   "category": 13,
+   "index": 907,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300071",
+    "UpgradeStat21300072",
+    "UpgradeStat21300073",
+    "UpgradeStat21300074"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300918": {
+   "key": "Option01300918",
+   "category": 13,
+   "index": 918,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300181",
+    "UpgradeStat21300182",
+    "UpgradeStat21300183",
+    "UpgradeStat21300184"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300919": {
+   "key": "Option01300919",
+   "category": 13,
+   "index": 919,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300191",
+    "UpgradeStat21300192",
+    "UpgradeStat21300193",
+    "UpgradeStat21300194"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300924": {
+   "key": "Option01300924",
+   "category": 13,
+   "index": 924,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300241",
+    "UpgradeStat21300242",
+    "UpgradeStat21300243",
+    "UpgradeStat21300244"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300925": {
+   "key": "Option01300925",
+   "category": 13,
+   "index": 925,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300251",
+    "UpgradeStat21300252",
+    "UpgradeStat21300253",
+    "UpgradeStat21300254"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300926": {
+   "key": "Option01300926",
+   "category": 13,
+   "index": 926,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300261",
+    "UpgradeStat21300262",
+    "UpgradeStat21300263",
+    "UpgradeStat21300264"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300927": {
+   "key": "Option01300927",
+   "category": 13,
+   "index": 927,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300271",
+    "UpgradeStat21300272",
+    "UpgradeStat21300273",
+    "UpgradeStat21300274"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300930": {
+   "key": "Option01300930",
+   "category": 13,
+   "index": 930,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300301",
+    "UpgradeStat21300302",
+    "UpgradeStat21300303",
+    "UpgradeStat21300304"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300931": {
+   "key": "Option01300931",
+   "category": 13,
+   "index": 931,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300311",
+    "UpgradeStat21300312",
+    "UpgradeStat21300313",
+    "UpgradeStat21300314"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300934": {
+   "key": "Option01300934",
+   "category": 13,
+   "index": 934,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300341",
+    "UpgradeStat21300342",
+    "UpgradeStat21300343",
+    "UpgradeStat21300344"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300936": {
+   "key": "Option01300936",
+   "category": 13,
+   "index": 936,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300361",
+    "UpgradeStat21300362",
+    "UpgradeStat21300363",
+    "UpgradeStat21300364"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300937": {
+   "key": "Option01300937",
+   "category": 13,
+   "index": 937,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300371",
+    "UpgradeStat21300372",
+    "UpgradeStat21300373",
+    "UpgradeStat21300374"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300998": {
+   "key": "Option01300998",
+   "category": 13,
+   "index": 998,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01300999": {
+   "key": "Option01300999",
+   "category": 13,
+   "index": 999,
+   "weight": 2,
+   "Options": [
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991",
+    "UpgradeStat21300991"
+   ],
+   "oWeights": [
+    10,
+    10,
+    10,
+    10
+   ],
+   "oPower": [
+    100,
+    100,
+    100,
+    100
+   ]
+  },
+  "Option01400000": {
+   "key": "Option01400000",
+   "category": 14,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400001",
+    "UpgradeStat21400002",
+    "UpgradeStat21400003",
+    "UpgradeStat21400004"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option01500000": {
+   "key": "Option01500000",
+   "category": 15,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400005",
+    "UpgradeStat21400006",
+    "UpgradeStat21400007",
+    "UpgradeStat21400008"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option01600000": {
+   "key": "Option01600000",
+   "category": 16,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400009",
+    "UpgradeStat21400010",
+    "UpgradeStat21400011",
+    "UpgradeStat21400012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option01700000": {
+   "key": "Option01700000",
+   "category": 17,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400013",
+    "UpgradeStat21400014",
+    "UpgradeStat21400015",
+    "UpgradeStat21400016"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option01800000": {
+   "key": "Option01800000",
+   "category": 18,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400017",
+    "UpgradeStat21400018",
+    "UpgradeStat21400019",
+    "UpgradeStat21400020"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option01900000": {
+   "key": "Option01900000",
+   "category": 19,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400021",
+    "UpgradeStat21400022",
+    "UpgradeStat21400023",
+    "UpgradeStat21400024"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02000000": {
+   "key": "Option02000000",
+   "category": 20,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400025",
+    "UpgradeStat21400026",
+    "UpgradeStat21400027",
+    "UpgradeStat21400028"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02100000": {
+   "key": "Option02100000",
+   "category": 21,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400029",
+    "UpgradeStat21400030",
+    "UpgradeStat21400031",
+    "UpgradeStat21400032"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02200000": {
+   "key": "Option02200000",
+   "category": 22,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400033",
+    "UpgradeStat21400034",
+    "UpgradeStat21400035",
+    "UpgradeStat21400036"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02300000": {
+   "key": "Option02300000",
+   "category": 23,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400037",
+    "UpgradeStat21400038",
+    "UpgradeStat21400039",
+    "UpgradeStat21400040"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02400000": {
+   "key": "Option02400000",
+   "category": 24,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400041",
+    "UpgradeStat21400042",
+    "UpgradeStat21400043",
+    "UpgradeStat21400044"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option02500000": {
+   "key": "Option02500000",
+   "category": 25,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21400045",
+    "UpgradeStat21400046",
+    "UpgradeStat21400047",
+    "UpgradeStat21400048"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2400,
+    3000
+   ]
+  },
+  "Option03600000": {
+   "key": "Option03600000",
+   "category": 36,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400010",
+    "UpgradeStat20400011",
+    "UpgradeStat20400012",
+    "UpgradeStat20400013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03700000": {
+   "key": "Option03700000",
+   "category": 37,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500010",
+    "UpgradeStat20500011",
+    "UpgradeStat20500012",
+    "UpgradeStat20500013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03800000": {
+   "key": "Option03800000",
+   "category": 38,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100010",
+    "UpgradeStat21100011",
+    "UpgradeStat21100012",
+    "UpgradeStat21100013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03900000": {
+   "key": "Option03900000",
+   "category": 39,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700010",
+    "UpgradeStat20700011",
+    "UpgradeStat20700012",
+    "UpgradeStat20700013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04000000": {
+   "key": "Option04000000",
+   "category": 40,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22400041",
+    "UpgradeStat22400042",
+    "UpgradeStat22400043",
+    "UpgradeStat22400044"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04100000": {
+   "key": "Option04100000",
+   "category": 41,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800010",
+    "UpgradeStat20800011",
+    "UpgradeStat20800012",
+    "UpgradeStat20800013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04200000": {
+   "key": "Option04200000",
+   "category": 42,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600010",
+    "UpgradeStat20600011",
+    "UpgradeStat20600012",
+    "UpgradeStat20600013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04300000": {
+   "key": "Option04300000",
+   "category": 43,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900010",
+    "UpgradeStat20900011",
+    "UpgradeStat20900012",
+    "UpgradeStat20900013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04400000": {
+   "key": "Option04400000",
+   "category": 44,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000010",
+    "UpgradeStat21000011",
+    "UpgradeStat21000012",
+    "UpgradeStat21000013"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04500000": {
+   "key": "Option04500000",
+   "category": 45,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22500041",
+    "UpgradeStat22500042",
+    "UpgradeStat22500043",
+    "UpgradeStat22500044"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03600001": {
+   "key": "Option03600001",
+   "category": 36,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400020",
+    "UpgradeStat20400021",
+    "UpgradeStat20400022",
+    "UpgradeStat20400023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03700001": {
+   "key": "Option03700001",
+   "category": 37,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500020",
+    "UpgradeStat20500021",
+    "UpgradeStat20500022",
+    "UpgradeStat20500023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03800001": {
+   "key": "Option03800001",
+   "category": 38,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100020",
+    "UpgradeStat21100021",
+    "UpgradeStat21100022",
+    "UpgradeStat21100023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03900001": {
+   "key": "Option03900001",
+   "category": 39,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700020",
+    "UpgradeStat20700021",
+    "UpgradeStat20700022",
+    "UpgradeStat20700023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04000001": {
+   "key": "Option04000001",
+   "category": 40,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22400051",
+    "UpgradeStat22400052",
+    "UpgradeStat22400053",
+    "UpgradeStat22400054"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04100001": {
+   "key": "Option04100001",
+   "category": 41,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800020",
+    "UpgradeStat20800021",
+    "UpgradeStat20800022",
+    "UpgradeStat20800023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04200001": {
+   "key": "Option04200001",
+   "category": 42,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600020",
+    "UpgradeStat20600021",
+    "UpgradeStat20600022",
+    "UpgradeStat20600023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04300001": {
+   "key": "Option04300001",
+   "category": 43,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900020",
+    "UpgradeStat20900021",
+    "UpgradeStat20900022",
+    "UpgradeStat20900023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04400001": {
+   "key": "Option04400001",
+   "category": 44,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000020",
+    "UpgradeStat21000021",
+    "UpgradeStat21000022",
+    "UpgradeStat21000023"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04500001": {
+   "key": "Option04500001",
+   "category": 45,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22500051",
+    "UpgradeStat22500052",
+    "UpgradeStat22500053",
+    "UpgradeStat22500054"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03600002": {
+   "key": "Option03600002",
+   "category": 36,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20400030",
+    "UpgradeStat20400031",
+    "UpgradeStat20400032",
+    "UpgradeStat20400033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03700002": {
+   "key": "Option03700002",
+   "category": 37,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20500030",
+    "UpgradeStat20500031",
+    "UpgradeStat20500032",
+    "UpgradeStat20500033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03800002": {
+   "key": "Option03800002",
+   "category": 38,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21100030",
+    "UpgradeStat21100031",
+    "UpgradeStat21100032",
+    "UpgradeStat21100033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option03900002": {
+   "key": "Option03900002",
+   "category": 39,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20700030",
+    "UpgradeStat20700031",
+    "UpgradeStat20700032",
+    "UpgradeStat20700033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04000002": {
+   "key": "Option04000002",
+   "category": 40,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22400061",
+    "UpgradeStat22400062",
+    "UpgradeStat22400063",
+    "UpgradeStat22400064"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04100002": {
+   "key": "Option04100002",
+   "category": 41,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20800030",
+    "UpgradeStat20800031",
+    "UpgradeStat20800032",
+    "UpgradeStat20800033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04200002": {
+   "key": "Option04200002",
+   "category": 42,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20600030",
+    "UpgradeStat20600031",
+    "UpgradeStat20600032",
+    "UpgradeStat20600033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04300002": {
+   "key": "Option04300002",
+   "category": 43,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat20900030",
+    "UpgradeStat20900031",
+    "UpgradeStat20900032",
+    "UpgradeStat20900033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04400002": {
+   "key": "Option04400002",
+   "category": 44,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21000030",
+    "UpgradeStat21000031",
+    "UpgradeStat21000032",
+    "UpgradeStat21000033"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option04500002": {
+   "key": "Option04500002",
+   "category": 45,
+   "index": 2,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22500061",
+    "UpgradeStat22500062",
+    "UpgradeStat22500063",
+    "UpgradeStat22500064"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    300,
+    600,
+    900,
+    1200
+   ]
+  },
+  "Option02600000": {
+   "key": "Option02600000",
+   "category": 26,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21500004",
+    "UpgradeStat21500006",
+    "UpgradeStat21500008",
+    "UpgradeStat21500010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option02600001": {
+   "key": "Option02600001",
+   "category": 26,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21500006",
+    "UpgradeStat21500008",
+    "UpgradeStat21500010",
+    "UpgradeStat21500012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option02700000": {
+   "key": "Option02700000",
+   "category": 27,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21600004",
+    "UpgradeStat21600006",
+    "UpgradeStat21600008",
+    "UpgradeStat21600010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option02700001": {
+   "key": "Option02700001",
+   "category": 27,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21600006",
+    "UpgradeStat21600008",
+    "UpgradeStat21600010",
+    "UpgradeStat21600012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option02800000": {
+   "key": "Option02800000",
+   "category": 28,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21700004",
+    "UpgradeStat21700006",
+    "UpgradeStat21700008",
+    "UpgradeStat21700010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option02800001": {
+   "key": "Option02800001",
+   "category": 28,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21700006",
+    "UpgradeStat21700008",
+    "UpgradeStat21700010",
+    "UpgradeStat21700012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option02900000": {
+   "key": "Option02900000",
+   "category": 29,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21800004",
+    "UpgradeStat21800006",
+    "UpgradeStat21800008",
+    "UpgradeStat21800010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option02900001": {
+   "key": "Option02900001",
+   "category": 29,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21800006",
+    "UpgradeStat21800008",
+    "UpgradeStat21800010",
+    "UpgradeStat21800012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03000000": {
+   "key": "Option03000000",
+   "category": 30,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21900004",
+    "UpgradeStat21900006",
+    "UpgradeStat21900008",
+    "UpgradeStat21900010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03000001": {
+   "key": "Option03000001",
+   "category": 30,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat21900006",
+    "UpgradeStat21900008",
+    "UpgradeStat21900010",
+    "UpgradeStat21900012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03100000": {
+   "key": "Option03100000",
+   "category": 31,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22000004",
+    "UpgradeStat22000006",
+    "UpgradeStat22000008",
+    "UpgradeStat22000010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03100001": {
+   "key": "Option03100001",
+   "category": 31,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22000006",
+    "UpgradeStat22000008",
+    "UpgradeStat22000010",
+    "UpgradeStat22000012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03200000": {
+   "key": "Option03200000",
+   "category": 32,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22100004",
+    "UpgradeStat22100006",
+    "UpgradeStat22100008",
+    "UpgradeStat22100010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03200001": {
+   "key": "Option03200001",
+   "category": 32,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22100006",
+    "UpgradeStat22100008",
+    "UpgradeStat22100010",
+    "UpgradeStat22100012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03300000": {
+   "key": "Option03300000",
+   "category": 33,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22200004",
+    "UpgradeStat22200006",
+    "UpgradeStat22200008",
+    "UpgradeStat22200010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03300001": {
+   "key": "Option03300001",
+   "category": 33,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22200006",
+    "UpgradeStat22200008",
+    "UpgradeStat22200010",
+    "UpgradeStat22200012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03400000": {
+   "key": "Option03400000",
+   "category": 34,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22300004",
+    "UpgradeStat22300006",
+    "UpgradeStat22300008",
+    "UpgradeStat22300010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03400001": {
+   "key": "Option03400001",
+   "category": 34,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22300006",
+    "UpgradeStat22300008",
+    "UpgradeStat22300010",
+    "UpgradeStat22300012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option03500000": {
+   "key": "Option03500000",
+   "category": 35,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22400004",
+    "UpgradeStat22400006",
+    "UpgradeStat22400008",
+    "UpgradeStat22400010"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    800,
+    1200,
+    1800,
+    2200
+   ]
+  },
+  "Option03500001": {
+   "key": "Option03500001",
+   "category": 35,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat22400006",
+    "UpgradeStat22400008",
+    "UpgradeStat22400010",
+    "UpgradeStat22400012"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1800,
+    2200,
+    2600
+   ]
+  },
+  "Option90000000": {
+   "key": "Option90000000",
+   "category": 900,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900013",
+    "UpgradeStat99900014",
+    "UpgradeStat99900015",
+    "UpgradeStat99900016"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90000001": {
+   "key": "Option90000001",
+   "category": 900,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900013",
+    "UpgradeStat99900014",
+    "UpgradeStat99900015",
+    "UpgradeStat99900016"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90100000": {
+   "key": "Option90100000",
+   "category": 901,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900023",
+    "UpgradeStat99900024",
+    "UpgradeStat99900025",
+    "UpgradeStat99900026"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90100001": {
+   "key": "Option90100001",
+   "category": 901,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900023",
+    "UpgradeStat99900024",
+    "UpgradeStat99900025",
+    "UpgradeStat99900026"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90200000": {
+   "key": "Option90200000",
+   "category": 902,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900033",
+    "UpgradeStat99900034",
+    "UpgradeStat99900035",
+    "UpgradeStat99900036"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90200001": {
+   "key": "Option90200001",
+   "category": 902,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900033",
+    "UpgradeStat99900034",
+    "UpgradeStat99900035",
+    "UpgradeStat99900036"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90300000": {
+   "key": "Option90300000",
+   "category": 903,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900043",
+    "UpgradeStat99900044",
+    "UpgradeStat99900045",
+    "UpgradeStat99900046"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90300001": {
+   "key": "Option90300001",
+   "category": 903,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900043",
+    "UpgradeStat99900044",
+    "UpgradeStat99900045",
+    "UpgradeStat99900046"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90400000": {
+   "key": "Option90400000",
+   "category": 904,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900053",
+    "UpgradeStat99900054",
+    "UpgradeStat99900055",
+    "UpgradeStat99900056"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90400001": {
+   "key": "Option90400001",
+   "category": 904,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900053",
+    "UpgradeStat99900054",
+    "UpgradeStat99900055",
+    "UpgradeStat99900056"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90500000": {
+   "key": "Option90500000",
+   "category": 905,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900063",
+    "UpgradeStat99900064",
+    "UpgradeStat99900065",
+    "UpgradeStat99900066"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90500001": {
+   "key": "Option90500001",
+   "category": 905,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900063",
+    "UpgradeStat99900064",
+    "UpgradeStat99900065",
+    "UpgradeStat99900066"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90600000": {
+   "key": "Option90600000",
+   "category": 906,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900073",
+    "UpgradeStat99900074",
+    "UpgradeStat99900075",
+    "UpgradeStat99900076"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90600001": {
+   "key": "Option90600001",
+   "category": 906,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900073",
+    "UpgradeStat99900074",
+    "UpgradeStat99900075",
+    "UpgradeStat99900076"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90700000": {
+   "key": "Option90700000",
+   "category": 907,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900083",
+    "UpgradeStat99900084",
+    "UpgradeStat99900085",
+    "UpgradeStat99900086"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90700001": {
+   "key": "Option90700001",
+   "category": 907,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900083",
+    "UpgradeStat99900084",
+    "UpgradeStat99900085",
+    "UpgradeStat99900086"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90800000": {
+   "key": "Option90800000",
+   "category": 908,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900090",
+    "UpgradeStat99900091",
+    "UpgradeStat99900092",
+    "UpgradeStat99900093"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90800001": {
+   "key": "Option90800001",
+   "category": 908,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900090",
+    "UpgradeStat99900091",
+    "UpgradeStat99900092",
+    "UpgradeStat99900093"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90900000": {
+   "key": "Option90900000",
+   "category": 909,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900103",
+    "UpgradeStat99900104",
+    "UpgradeStat99900105",
+    "UpgradeStat99900106"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option90900001": {
+   "key": "Option90900001",
+   "category": 909,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900103",
+    "UpgradeStat99900104",
+    "UpgradeStat99900105",
+    "UpgradeStat99900106"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91000000": {
+   "key": "Option91000000",
+   "category": 910,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900113",
+    "UpgradeStat99900114",
+    "UpgradeStat99900115",
+    "UpgradeStat99900116"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91000001": {
+   "key": "Option91000001",
+   "category": 910,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900113",
+    "UpgradeStat99900114",
+    "UpgradeStat99900115",
+    "UpgradeStat99900116"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91100000": {
+   "key": "Option91100000",
+   "category": 911,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900123",
+    "UpgradeStat99900124",
+    "UpgradeStat99900125",
+    "UpgradeStat99900126"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91100001": {
+   "key": "Option91100001",
+   "category": 911,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900123",
+    "UpgradeStat99900124",
+    "UpgradeStat99900125",
+    "UpgradeStat99900126"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91200000": {
+   "key": "Option91200000",
+   "category": 912,
+   "index": 0,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900123",
+    "UpgradeStat99900134",
+    "UpgradeStat99900135",
+    "UpgradeStat99900136"
+   ],
+   "oWeights": [
+    60,
+    30,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  },
+  "Option91200001": {
+   "key": "Option91200001",
+   "category": 912,
+   "index": 1,
+   "weight": 1,
+   "Options": [
+    "UpgradeStat99900123",
+    "UpgradeStat99900134",
+    "UpgradeStat99900135",
+    "UpgradeStat99900136"
+   ],
+   "oWeights": [
+    0,
+    0,
+    15,
+    5
+   ],
+   "oPower": [
+    1200,
+    1500,
+    1800,
+    2100
+   ]
+  }
+ }
+}

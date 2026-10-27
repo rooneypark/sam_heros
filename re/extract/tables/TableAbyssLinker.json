@@ -1,0 +1,86 @@
+{
+ "sheetName": "TableAbyssLinkerData",
+ "tableIndex": 0,
+ "rows": {
+  "AbyssLinker00": {
+   "key": "AbyssLinker00",
+   "index": 0,
+   "linkCondition": "TOTAL_COUNT",
+   "category": 0,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon799001"
+  },
+  "AbyssLinker02": {
+   "key": "AbyssLinker02",
+   "index": 2,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 0,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon700009"
+  },
+  "AbyssLinker03": {
+   "key": "AbyssLinker03",
+   "index": 3,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 1,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon701009"
+  },
+  "AbyssLinker04": {
+   "key": "AbyssLinker04",
+   "index": 4,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 1,
+   "type": 1,
+   "TrueDungeonKey": "Dungeon711009"
+  },
+  "AbyssLinker05": {
+   "key": "AbyssLinker05",
+   "index": 5,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 2,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon702009"
+  },
+  "AbyssLinker06": {
+   "key": "AbyssLinker06",
+   "index": 6,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 2,
+   "type": 1,
+   "TrueDungeonKey": "Dungeon712009"
+  },
+  "AbyssLinker07": {
+   "key": "AbyssLinker07",
+   "index": 7,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 3,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon703009"
+  },
+  "AbyssLinker08": {
+   "key": "AbyssLinker08",
+   "index": 8,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 3,
+   "type": 1,
+   "TrueDungeonKey": "Dungeon713009"
+  },
+  "AbyssLinker09": {
+   "key": "AbyssLinker09",
+   "index": 9,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 4,
+   "type": 0,
+   "TrueDungeonKey": "Dungeon704009"
+  },
+  "AbyssLinker10": {
+   "key": "AbyssLinker10",
+   "index": 10,
+   "linkCondition": "CYCLE_INTERVAL",
+   "category": 4,
+   "type": 1,
+   "TrueDungeonKey": "Dungeon714009"
+  }
+ }
+}

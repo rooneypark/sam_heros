@@ -1,3 +1,8 @@
+## 맵메이커·모션 체커 — 다른 PC 실행
+
+Python 3 설치 후 **run_maker.bat**, **run_motion_checker.bat**, **run_maps.bat** 실행.
+[실행·제작·저장 가이드](docs/MAP_MAKER_HANDOFF.md) · [챕터1 시안](docs/design/maps/1장_황건소탕_overview.png)
+
 > 최신 확정: 장비 basic-attack/skill-1/skill-2 각8프레임과 세 장수 portrait/portrait.png 승인 완료. GIF 공통 팔레트 적용, 장비 공격·스킬1 색상 보정 완료. 최종 폴더 외 이전 작업은 DELETE_ME_intermediate에 격리(삭제 정책 차단). 최종PNG107장 체크섬 기준.
 
 > **최신 확정 2026-10-27:** 세 장수 왼쪽 원화/모션이 최종 기준. 현재 파일은 각 장수 루트 original/idle/run 및 승인 공격 폴더. 과거 오른쪽·400/640 규격·중간 보정 경로는 이력이며 재사용 금지. [현재 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)이 아래 과거 기록보다 우선합니다.

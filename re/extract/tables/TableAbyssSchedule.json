@@ -1,0 +1,1386 @@
+{
+ "sheetName": "TableAbyssScheduleData",
+ "tableIndex": 0,
+ "rows": {
+  "AbyssSchedule000": {
+   "key": "AbyssSchedule000",
+   "index": 0,
+   "eventCategory": 0,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1719273600,
+   "startTimeGroup": [
+    1719792000
+   ],
+   "endTime": 1722297600,
+   "rewardTime": 1722384000,
+   "nextTarget": "1",
+   "rankingLeague": "ABYSS_LEAGE_1",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule001": {
+   "key": "AbyssSchedule001",
+   "index": 1,
+   "eventCategory": 1,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1722470400,
+   "startTimeGroup": [
+    1722470400
+   ],
+   "endTime": 1724976000,
+   "rewardTime": 1725062400,
+   "nextTarget": "2",
+   "rankingLeague": "ABYSS_LEAGE_2",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule002": {
+   "key": "AbyssSchedule002",
+   "index": 2,
+   "eventCategory": 2,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1725148800,
+   "startTimeGroup": [
+    1725148800
+   ],
+   "endTime": 1727568000,
+   "rewardTime": 1727654400,
+   "nextTarget": "3",
+   "rankingLeague": "ABYSS_LEAGE_3",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule003": {
+   "key": "AbyssSchedule003",
+   "index": 3,
+   "eventCategory": 3,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1727740800,
+   "startTimeGroup": [
+    1727740800
+   ],
+   "endTime": 1730246400,
+   "rewardTime": 1730332800,
+   "nextTarget": "4",
+   "rankingLeague": "ABYSS_LEAGE_4",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule004": {
+   "key": "AbyssSchedule004",
+   "index": 4,
+   "eventCategory": 4,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1730419200,
+   "startTimeGroup": [
+    1730419200
+   ],
+   "endTime": 1732838400,
+   "rewardTime": 1732924800,
+   "nextTarget": "5",
+   "rankingLeague": "ABYSS_LEAGE_5",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule005": {
+   "key": "AbyssSchedule005",
+   "index": 5,
+   "eventCategory": 5,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1733011200,
+   "startTimeGroup": [
+    1733011200
+   ],
+   "endTime": 1735516800,
+   "rewardTime": 1735603200,
+   "nextTarget": "6",
+   "rankingLeague": "ABYSS_LEAGE_6",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule006": {
+   "key": "AbyssSchedule006",
+   "index": 6,
+   "eventCategory": 6,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1735689600,
+   "startTimeGroup": [
+    1735689600
+   ],
+   "endTime": 1738195200,
+   "rewardTime": 1738281600,
+   "nextTarget": "7",
+   "rankingLeague": "ABYSS_LEAGE_7",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule007": {
+   "key": "AbyssSchedule007",
+   "index": 7,
+   "eventCategory": 7,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1738368000,
+   "startTimeGroup": [
+    1738368000
+   ],
+   "endTime": 1740614400,
+   "rewardTime": 1740700800,
+   "nextTarget": "8",
+   "rankingLeague": "ABYSS_LEAGE_8",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule008": {
+   "key": "AbyssSchedule008",
+   "index": 8,
+   "eventCategory": 8,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1740787200,
+   "startTimeGroup": [
+    1740787200
+   ],
+   "endTime": 1743292800,
+   "rewardTime": 1743379200,
+   "nextTarget": "9",
+   "rankingLeague": "ABYSS_LEAGE_9",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule009": {
+   "key": "AbyssSchedule009",
+   "index": 9,
+   "eventCategory": 9,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1743465600,
+   "startTimeGroup": [
+    1743465600
+   ],
+   "endTime": 1745884800,
+   "rewardTime": 1745971200,
+   "nextTarget": "10",
+   "rankingLeague": "ABYSS_LEAGE_10",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule010": {
+   "key": "AbyssSchedule010",
+   "index": 10,
+   "eventCategory": 10,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1746057600,
+   "startTimeGroup": [
+    1746057600
+   ],
+   "endTime": 1748563200,
+   "rewardTime": 1748649600,
+   "nextTarget": "11",
+   "rankingLeague": "ABYSS_LEAGE_11",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule011": {
+   "key": "AbyssSchedule011",
+   "index": 11,
+   "eventCategory": 11,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1748736000,
+   "startTimeGroup": [
+    1748736000
+   ],
+   "endTime": 1751155200,
+   "rewardTime": 1751241600,
+   "nextTarget": "12",
+   "rankingLeague": "ABYSS_LEAGE_12",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule012": {
+   "key": "AbyssSchedule012",
+   "index": 12,
+   "eventCategory": 12,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1751328000,
+   "startTimeGroup": [
+    1751328000
+   ],
+   "endTime": 1753833600,
+   "rewardTime": 1753920000,
+   "nextTarget": "13",
+   "rankingLeague": "ABYSS_LEAGE_13",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule013": {
+   "key": "AbyssSchedule013",
+   "index": 13,
+   "eventCategory": 13,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1754006400,
+   "startTimeGroup": [
+    1754006400
+   ],
+   "endTime": 1756512000,
+   "rewardTime": 1756598400,
+   "nextTarget": "14",
+   "rankingLeague": "ABYSS_LEAGE_14",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule014": {
+   "key": "AbyssSchedule014",
+   "index": 14,
+   "eventCategory": 14,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1756684800,
+   "startTimeGroup": [
+    1756684800
+   ],
+   "endTime": 1759104000,
+   "rewardTime": 1759190400,
+   "nextTarget": "15",
+   "rankingLeague": "ABYSS_LEAGE_15",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule015": {
+   "key": "AbyssSchedule015",
+   "index": 15,
+   "eventCategory": 15,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1759276800,
+   "startTimeGroup": [
+    1759276800
+   ],
+   "endTime": 1761782400,
+   "rewardTime": 1761868800,
+   "nextTarget": "16",
+   "rankingLeague": "ABYSS_LEAGE_16",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule016": {
+   "key": "AbyssSchedule016",
+   "index": 16,
+   "eventCategory": 16,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1761955200,
+   "startTimeGroup": [
+    1761955200
+   ],
+   "endTime": 1764374400,
+   "rewardTime": 1764460800,
+   "nextTarget": "17",
+   "rankingLeague": "ABYSS_LEAGE_17",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule017": {
+   "key": "AbyssSchedule017",
+   "index": 17,
+   "eventCategory": 17,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1764547200,
+   "startTimeGroup": [
+    1764547200
+   ],
+   "endTime": 1767052800,
+   "rewardTime": 1767139200,
+   "nextTarget": "18",
+   "rankingLeague": "ABYSS_LEAGE_18",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule018": {
+   "key": "AbyssSchedule018",
+   "index": 18,
+   "eventCategory": 18,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1767225600,
+   "startTimeGroup": [
+    1767225600
+   ],
+   "endTime": 1769731200,
+   "rewardTime": 1769817600,
+   "nextTarget": "19",
+   "rankingLeague": "ABYSS_LEAGE_19",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule019": {
+   "key": "AbyssSchedule019",
+   "index": 19,
+   "eventCategory": 19,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1769904000,
+   "startTimeGroup": [
+    1769904000
+   ],
+   "endTime": 1772150400,
+   "rewardTime": 1772236800,
+   "nextTarget": "20",
+   "rankingLeague": "ABYSS_LEAGE_20",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule020": {
+   "key": "AbyssSchedule020",
+   "index": 20,
+   "eventCategory": 20,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1772323200,
+   "startTimeGroup": [
+    1772323200
+   ],
+   "endTime": 1774828800,
+   "rewardTime": 1774915200,
+   "nextTarget": "21",
+   "rankingLeague": "ABYSS_LEAGE_21",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule021": {
+   "key": "AbyssSchedule021",
+   "index": 21,
+   "eventCategory": 21,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1775001600,
+   "startTimeGroup": [
+    1775001600
+   ],
+   "endTime": 1777420800,
+   "rewardTime": 1777507200,
+   "nextTarget": "22",
+   "rankingLeague": "ABYSS_LEAGE_22",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule022": {
+   "key": "AbyssSchedule022",
+   "index": 22,
+   "eventCategory": 22,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1777593600,
+   "startTimeGroup": [
+    1777593600
+   ],
+   "endTime": 1780099200,
+   "rewardTime": 1780185600,
+   "nextTarget": "23",
+   "rankingLeague": "ABYSS_LEAGE_23",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule023": {
+   "key": "AbyssSchedule023",
+   "index": 23,
+   "eventCategory": 23,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1780272000,
+   "startTimeGroup": [
+    1780272000
+   ],
+   "endTime": 1782691200,
+   "rewardTime": 1782777600,
+   "nextTarget": "24",
+   "rankingLeague": "ABYSS_LEAGE_24",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule024": {
+   "key": "AbyssSchedule024",
+   "index": 24,
+   "eventCategory": 24,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1782864000,
+   "startTimeGroup": [
+    1782864000
+   ],
+   "endTime": 1785369600,
+   "rewardTime": 1785456000,
+   "nextTarget": "25",
+   "rankingLeague": "ABYSS_LEAGE_25",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule025": {
+   "key": "AbyssSchedule025",
+   "index": 25,
+   "eventCategory": 25,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1785542400,
+   "startTimeGroup": [
+    1785542400
+   ],
+   "endTime": 1788048000,
+   "rewardTime": 1788134400,
+   "nextTarget": "26",
+   "rankingLeague": "ABYSS_LEAGE_26",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule026": {
+   "key": "AbyssSchedule026",
+   "index": 26,
+   "eventCategory": 26,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1788220800,
+   "startTimeGroup": [
+    1788220800
+   ],
+   "endTime": 1790640000,
+   "rewardTime": 1790726400,
+   "nextTarget": "27",
+   "rankingLeague": "ABYSS_LEAGE_27",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule027": {
+   "key": "AbyssSchedule027",
+   "index": 27,
+   "eventCategory": 27,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1790812800,
+   "startTimeGroup": [
+    1790812800
+   ],
+   "endTime": 1793318400,
+   "rewardTime": 1793404800,
+   "nextTarget": "28",
+   "rankingLeague": "ABYSS_LEAGE_28",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule028": {
+   "key": "AbyssSchedule028",
+   "index": 28,
+   "eventCategory": 28,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1793491200,
+   "startTimeGroup": [
+    1793491200
+   ],
+   "endTime": 1795910400,
+   "rewardTime": 1795996800,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule029": {
+   "key": "AbyssSchedule029",
+   "index": 29,
+   "eventCategory": 29,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1796083200,
+   "startTimeGroup": [
+    1796083200
+   ],
+   "endTime": 1798588800,
+   "rewardTime": 1798675200,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule030": {
+   "key": "AbyssSchedule030",
+   "index": 30,
+   "eventCategory": 30,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1798761600,
+   "startTimeGroup": [
+    1798761600
+   ],
+   "endTime": 1801267200,
+   "rewardTime": 1801353600,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule031": {
+   "key": "AbyssSchedule031",
+   "index": 31,
+   "eventCategory": 31,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1801440000,
+   "startTimeGroup": [
+    1801440000
+   ],
+   "endTime": 1803686400,
+   "rewardTime": 1803772800,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule032": {
+   "key": "AbyssSchedule032",
+   "index": 32,
+   "eventCategory": 32,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1803859200,
+   "startTimeGroup": [
+    1803859200
+   ],
+   "endTime": 1806364800,
+   "rewardTime": 1806451200,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule033": {
+   "key": "AbyssSchedule033",
+   "index": 33,
+   "eventCategory": 33,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1806537600,
+   "startTimeGroup": [
+    1806537600
+   ],
+   "endTime": 1808956800,
+   "rewardTime": 1809043200,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule034": {
+   "key": "AbyssSchedule034",
+   "index": 34,
+   "eventCategory": 34,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1809129600,
+   "startTimeGroup": [
+    1809129600
+   ],
+   "endTime": 1811635200,
+   "rewardTime": 1811721600,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule035": {
+   "key": "AbyssSchedule035",
+   "index": 35,
+   "eventCategory": 35,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1811808000,
+   "startTimeGroup": [
+    1811808000
+   ],
+   "endTime": 1814227200,
+   "rewardTime": 1814313600,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule036": {
+   "key": "AbyssSchedule036",
+   "index": 36,
+   "eventCategory": 36,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1814400000,
+   "startTimeGroup": [
+    1814400000
+   ],
+   "endTime": 1816905600,
+   "rewardTime": 1816992000,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule037": {
+   "key": "AbyssSchedule037",
+   "index": 37,
+   "eventCategory": 37,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1817078400,
+   "startTimeGroup": [
+    1817078400
+   ],
+   "endTime": 1819584000,
+   "rewardTime": 1819670400,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule038": {
+   "key": "AbyssSchedule038",
+   "index": 38,
+   "eventCategory": 38,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1819756800,
+   "startTimeGroup": [
+    1819756800
+   ],
+   "endTime": 1822176000,
+   "rewardTime": 1822262400,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule039": {
+   "key": "AbyssSchedule039",
+   "index": 39,
+   "eventCategory": 39,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1822348800,
+   "startTimeGroup": [
+    1822348800
+   ],
+   "endTime": 1824854400,
+   "rewardTime": 1824940800,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule040": {
+   "key": "AbyssSchedule040",
+   "index": 40,
+   "eventCategory": 40,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1825027200,
+   "startTimeGroup": [
+    1825027200
+   ],
+   "endTime": 1827446400,
+   "rewardTime": 1827532800,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule041": {
+   "key": "AbyssSchedule041",
+   "index": 41,
+   "eventCategory": 41,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1827619200,
+   "startTimeGroup": [
+    1827619200
+   ],
+   "endTime": 1830124800,
+   "rewardTime": 1830211200,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule042": {
+   "key": "AbyssSchedule042",
+   "index": 42,
+   "eventCategory": 42,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1830297600,
+   "startTimeGroup": [
+    1830297600
+   ],
+   "endTime": 1832803200,
+   "rewardTime": 1832889600,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule043": {
+   "key": "AbyssSchedule043",
+   "index": 43,
+   "eventCategory": 43,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1832976000,
+   "startTimeGroup": [
+    1832976000
+   ],
+   "endTime": 1835308800,
+   "rewardTime": 1835395200,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule044": {
+   "key": "AbyssSchedule044",
+   "index": 44,
+   "eventCategory": 44,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1835481600,
+   "startTimeGroup": [
+    1835481600
+   ],
+   "endTime": 1837987200,
+   "rewardTime": 1838073600,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule045": {
+   "key": "AbyssSchedule045",
+   "index": 45,
+   "eventCategory": 45,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1838160000,
+   "startTimeGroup": [
+    1838160000
+   ],
+   "endTime": 1840579200,
+   "rewardTime": 1840665600,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule046": {
+   "key": "AbyssSchedule046",
+   "index": 46,
+   "eventCategory": 46,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1840752000,
+   "startTimeGroup": [
+    1840752000
+   ],
+   "endTime": 1843257600,
+   "rewardTime": 1843344000,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule047": {
+   "key": "AbyssSchedule047",
+   "index": 47,
+   "eventCategory": 47,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1843430400,
+   "startTimeGroup": [
+    1843430400
+   ],
+   "endTime": 1845849600,
+   "rewardTime": 1845936000,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule048": {
+   "key": "AbyssSchedule048",
+   "index": 48,
+   "eventCategory": 48,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1846022400,
+   "startTimeGroup": [
+    1846022400
+   ],
+   "endTime": 1848528000,
+   "rewardTime": 1848614400,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule049": {
+   "key": "AbyssSchedule049",
+   "index": 49,
+   "eventCategory": 49,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1848700800,
+   "startTimeGroup": [
+    1848700800
+   ],
+   "endTime": 1851206400,
+   "rewardTime": 1851292800,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule050": {
+   "key": "AbyssSchedule050",
+   "index": 50,
+   "eventCategory": 50,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1851379200,
+   "startTimeGroup": [
+    1851379200
+   ],
+   "endTime": 1853798400,
+   "rewardTime": 1853884800,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule051": {
+   "key": "AbyssSchedule051",
+   "index": 51,
+   "eventCategory": 51,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1853971200,
+   "startTimeGroup": [
+    1853971200
+   ],
+   "endTime": 1856476800,
+   "rewardTime": 1856563200,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule052": {
+   "key": "AbyssSchedule052",
+   "index": 52,
+   "eventCategory": 52,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1856649600,
+   "startTimeGroup": [
+    1856649600
+   ],
+   "endTime": 1859068800,
+   "rewardTime": 1859155200,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule053": {
+   "key": "AbyssSchedule053",
+   "index": 53,
+   "eventCategory": 53,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1859241600,
+   "startTimeGroup": [
+    1859241600
+   ],
+   "endTime": 1861747200,
+   "rewardTime": 1861833600,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule054": {
+   "key": "AbyssSchedule054",
+   "index": 54,
+   "eventCategory": 54,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1861920000,
+   "startTimeGroup": [
+    1861920000
+   ],
+   "endTime": 1864425600,
+   "rewardTime": 1864512000,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule055": {
+   "key": "AbyssSchedule055",
+   "index": 55,
+   "eventCategory": 55,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1864598400,
+   "startTimeGroup": [
+    1864598400
+   ],
+   "endTime": 1866844800,
+   "rewardTime": 1866931200,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  },
+  "AbyssSchedule056": {
+   "key": "AbyssSchedule056",
+   "index": 56,
+   "eventCategory": 56,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1867017600,
+   "startTimeGroup": [
+    1867017600
+   ],
+   "endTime": 1869523200,
+   "rewardTime": 1869609600,
+   "nextTarget": "29",
+   "rankingLeague": "ABYSS_LEAGE_29",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon01"
+   ],
+   "targetDungeonKey": "AbyssDungeon01",
+   "gCondiKey": "GCondiSkill000",
+   "useArtifact": true
+  },
+  "AbyssSchedule057": {
+   "key": "AbyssSchedule057",
+   "index": 57,
+   "eventCategory": 57,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1869696000,
+   "startTimeGroup": [
+    1869696000
+   ],
+   "endTime": 1872115200,
+   "rewardTime": 1872201600,
+   "nextTarget": "30",
+   "rankingLeague": "ABYSS_LEAGE_30",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon02"
+   ],
+   "targetDungeonKey": "AbyssDungeon02",
+   "gCondiKey": "GCondiSkill001",
+   "useArtifact": true
+  },
+  "AbyssSchedule058": {
+   "key": "AbyssSchedule058",
+   "index": 58,
+   "eventCategory": 58,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1872288000,
+   "startTimeGroup": [
+    1872288000
+   ],
+   "endTime": 1874793600,
+   "rewardTime": 1874880000,
+   "nextTarget": "31",
+   "rankingLeague": "ABYSS_LEAGE_31",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon03"
+   ],
+   "targetDungeonKey": "AbyssDungeon03",
+   "gCondiKey": "GCondiSkill002",
+   "useArtifact": true
+  },
+  "AbyssSchedule059": {
+   "key": "AbyssSchedule059",
+   "index": 59,
+   "eventCategory": 59,
+   "preCondi": "AbyssDungeon00",
+   "startTime": 1874966400,
+   "startTimeGroup": [
+    1874966400
+   ],
+   "endTime": 1877385600,
+   "rewardTime": 1877472000,
+   "nextTarget": "32",
+   "rankingLeague": "ABYSS_LEAGE_32",
+   "worldID": 701,
+   "rewardKey": 701,
+   "defaultDungeonKey": "AbyssDungeon00",
+   "openDungeonKey": [
+    "AbyssDungeon04"
+   ],
+   "targetDungeonKey": "AbyssDungeon04",
+   "gCondiKey": "GCondiSkill003",
+   "useArtifact": true
+  }
+ }
+}

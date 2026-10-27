@@ -1,0 +1,285 @@
+{
+ "sheetName": "TableTownData",
+ "tableIndex": 0,
+ "rows": {
+  "Town000000": {
+   "key": "Town000000",
+   "world": 0,
+   "index": 0,
+   "name": "LocalizeTown0000000",
+   "image": "UI_Map_Image_01",
+   "power": 1000,
+   "isReturn": true
+  },
+  "Town000001": {
+   "key": "Town000001",
+   "world": 0,
+   "index": 1,
+   "name": "LocalizeTown0000001",
+   "image": "UI_Map_Image_02",
+   "power": 6000,
+   "isReturn": false
+  },
+  "Town000002": {
+   "key": "Town000002",
+   "world": 0,
+   "index": 2,
+   "name": "LocalizeTown0000002",
+   "image": "UI_Map_Image_03",
+   "power": 9000,
+   "isReturn": false
+  },
+  "Town000003": {
+   "key": "Town000003",
+   "world": 0,
+   "index": 3,
+   "name": "LocalizeTown0000003",
+   "image": "UI_Map_Image_04",
+   "power": 12000,
+   "isReturn": false
+  },
+  "Town000004": {
+   "key": "Town000004",
+   "world": 0,
+   "index": 4,
+   "name": "LocalizeTown0000004",
+   "image": "UI_Map_Image_05",
+   "power": 17000,
+   "isReturn": false
+  },
+  "Town000005": {
+   "key": "Town000005",
+   "world": 0,
+   "index": 5,
+   "name": "LocalizeTown0000005",
+   "image": "UI_Map_Image_06",
+   "power": 20000,
+   "isReturn": false
+  },
+  "Town000006": {
+   "key": "Town000006",
+   "world": 0,
+   "index": 6,
+   "name": "LocalizeTown0000006",
+   "image": "UI_Map_Image_07",
+   "power": 25000,
+   "isReturn": false
+  },
+  "Town000007": {
+   "key": "Town000007",
+   "world": 0,
+   "index": 7,
+   "name": "LocalizeTown0000007",
+   "image": "UI_Map_Image_08",
+   "power": 32000,
+   "isReturn": false
+  },
+  "Town000008": {
+   "key": "Town000008",
+   "world": 0,
+   "index": 8,
+   "name": "LocalizeTown0000008",
+   "image": "UI_Map_Image_09",
+   "power": 40000,
+   "isReturn": false
+  },
+  "Town000009": {
+   "key": "Town000009",
+   "world": 0,
+   "index": 9,
+   "name": "LocalizeTown0000009",
+   "image": "UI_Map_Image_10",
+   "power": 45000,
+   "isReturn": false
+  },
+  "Town001000": {
+   "key": "Town001000",
+   "world": 1,
+   "index": 0,
+   "name": "LocalizeTown1000000",
+   "image": "UI_Map_Image_11",
+   "power": 120000,
+   "isReturn": true
+  },
+  "Town001001": {
+   "key": "Town001001",
+   "world": 1,
+   "index": 1,
+   "name": "LocalizeTown1000001",
+   "image": "UI_Map_Image_12",
+   "power": 120000,
+   "isReturn": false
+  },
+  "Town001002": {
+   "key": "Town001002",
+   "world": 1,
+   "index": 2,
+   "name": "LocalizeTown1000002",
+   "image": "UI_Map_Image_13",
+   "power": 120000,
+   "isReturn": false
+  },
+  "Town001003": {
+   "key": "Town001003",
+   "world": 1,
+   "index": 3,
+   "name": "LocalizeTown1000003",
+   "image": "UI_Map_Image_14",
+   "power": 120000,
+   "isReturn": false
+  },
+  "Town002000": {
+   "key": "Town002000",
+   "world": 2,
+   "index": 0,
+   "name": "LocalizeTown2000000",
+   "image": "UI_Map_Image_15",
+   "power": 160000,
+   "isReturn": true
+  },
+  "Town002001": {
+   "key": "Town002001",
+   "world": 2,
+   "index": 1,
+   "name": "LocalizeTown2000001",
+   "image": "UI_Map_Image_16",
+   "power": 160000,
+   "isReturn": false
+  },
+  "Town002002": {
+   "key": "Town002002",
+   "world": 2,
+   "index": 2,
+   "name": "LocalizeTown2000002",
+   "image": "UI_Map_Image_17",
+   "power": 160000,
+   "isReturn": false
+  },
+  "Town002003": {
+   "key": "Town002003",
+   "world": 2,
+   "index": 3,
+   "name": "LocalizeTown2000003",
+   "image": "UI_Map_Image_18",
+   "power": 160000,
+   "isReturn": false
+  },
+  "Town002004": {
+   "key": "Town002004",
+   "world": 2,
+   "index": 4,
+   "name": "LocalizeTown2000004",
+   "image": "UI_Map_Image_19",
+   "power": 160000,
+   "isReturn": false
+  },
+  "Town003000": {
+   "key": "Town003000",
+   "world": 3,
+   "index": 0,
+   "name": "LocalizeTown3000000",
+   "image": "UI_Map_Image_20",
+   "power": 230000,
+   "isReturn": true
+  },
+  "Town003001": {
+   "key": "Town003001",
+   "world": 3,
+   "index": 1,
+   "name": "LocalizeTown3000001",
+   "image": "UI_Map_Image_21",
+   "power": 230000,
+   "isReturn": false
+  },
+  "Town003002": {
+   "key": "Town003002",
+   "world": 3,
+   "index": 2,
+   "name": "LocalizeTown3000002",
+   "image": "UI_Map_Image_22",
+   "power": 230000,
+   "isReturn": false
+  },
+  "Town004000": {
+   "key": "Town004000",
+   "world": 4,
+   "index": 0,
+   "name": "LocalizeTown4000000",
+   "image": "UI_Map_Image_23",
+   "power": 270000,
+   "isReturn": true
+  },
+  "Town004001": {
+   "key": "Town004001",
+   "world": 4,
+   "index": 1,
+   "name": "LocalizeTown4000001",
+   "image": "UI_Map_Image_24",
+   "power": 270000,
+   "isReturn": false
+  },
+  "Town004002": {
+   "key": "Town004002",
+   "world": 4,
+   "index": 2,
+   "name": "LocalizeTown4000002",
+   "image": "UI_Map_Image_25",
+   "power": 270000,
+   "isReturn": false
+  },
+  "Town004003": {
+   "key": "Town004003",
+   "world": 4,
+   "index": 3,
+   "name": "LocalizeTown4000003",
+   "image": "UI_Map_Image_26",
+   "power": 270000,
+   "isReturn": false
+  },
+  "Town005000": {
+   "key": "Town005000",
+   "world": 5,
+   "index": 0,
+   "name": "LocalizeTown5000000",
+   "image": "UI_Map_Image_27",
+   "power": 330000,
+   "isReturn": true
+  },
+  "Town005001": {
+   "key": "Town005001",
+   "world": 5,
+   "index": 1,
+   "name": "LocalizeTown5000002",
+   "image": "UI_Map_Image_28",
+   "power": 330000,
+   "isReturn": false
+  },
+  "Town005002": {
+   "key": "Town005002",
+   "world": 5,
+   "index": 2,
+   "name": "LocalizeTown5000001",
+   "image": "UI_Map_Image_29",
+   "power": 330000,
+   "isReturn": false
+  },
+  "Town011000": {
+   "key": "Town011000",
+   "world": 11,
+   "index": 0,
+   "name": "LocalizeTown11000000",
+   "image": "UI_ChessMap_01",
+   "power": 330000,
+   "isReturn": false
+  },
+  "Town007000": {
+   "key": "Town007000",
+   "world": 7,
+   "index": 0,
+   "name": "LocalizeAbyssSeason000000",
+   "image": "UI_ChessMap_01",
+   "power": 330000,
+   "isReturn": false
+  }
+ }
+}

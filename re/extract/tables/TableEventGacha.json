@@ -1,0 +1,1338 @@
+{
+ "sheetName": "TableEventGachaData",
+ "tableIndex": 0,
+ "rows": {
+  "EventGacha000000": {
+   "key": "EventGacha000000",
+   "category": 0,
+   "index": 0,
+   "rewardType": "Item002006",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 3,
+   "drawWeight": 0
+  },
+  "EventGacha000001": {
+   "key": "EventGacha000001",
+   "category": 0,
+   "index": 1,
+   "rewardType": "Item002037",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 300,
+   "drawWeight": 0
+  },
+  "EventGacha000002": {
+   "key": "EventGacha000002",
+   "category": 0,
+   "index": 2,
+   "rewardType": "Item002044",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 3,
+   "drawWeight": 0
+  },
+  "EventGacha000003": {
+   "key": "EventGacha000003",
+   "category": 0,
+   "index": 3,
+   "rewardType": "Item007002",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 15,
+   "drawWeight": 0
+  },
+  "EventGacha000004": {
+   "key": "EventGacha000004",
+   "category": 0,
+   "index": 4,
+   "rewardType": "Item011001",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 75,
+   "drawWeight": 0
+  },
+  "EventGacha000010": {
+   "key": "EventGacha000010",
+   "category": 0,
+   "index": 10,
+   "rewardType": "Item008012",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha000011": {
+   "key": "EventGacha000011",
+   "category": 0,
+   "index": 11,
+   "rewardType": "Item009080",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 2,
+   "drawWeight": 500
+  },
+  "EventGacha000012": {
+   "key": "EventGacha000012",
+   "category": 0,
+   "index": 12,
+   "rewardType": "Item009081",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 100
+  },
+  "EventGacha000013": {
+   "key": "EventGacha000013",
+   "category": 0,
+   "index": 13,
+   "rewardType": "Item009082",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 50
+  },
+  "EventGacha000014": {
+   "key": "EventGacha000014",
+   "category": 0,
+   "index": 14,
+   "rewardType": "Item002029",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 40,
+   "drawWeight": 100
+  },
+  "EventGacha000015": {
+   "key": "EventGacha000015",
+   "category": 0,
+   "index": 15,
+   "rewardType": "Item002030",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 30,
+   "drawWeight": 100
+  },
+  "EventGacha000016": {
+   "key": "EventGacha000016",
+   "category": 0,
+   "index": 16,
+   "rewardType": "Item007000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 20,
+   "drawWeight": 100
+  },
+  "EventGacha000017": {
+   "key": "EventGacha000017",
+   "category": 0,
+   "index": 17,
+   "rewardType": "Item007005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 120,
+   "drawWeight": 50
+  },
+  "EventGacha000018": {
+   "key": "EventGacha000018",
+   "category": 0,
+   "index": 18,
+   "rewardType": "Item007006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 96,
+   "drawWeight": 50
+  },
+  "EventGacha000019": {
+   "key": "EventGacha000019",
+   "category": 0,
+   "index": 19,
+   "rewardType": "Item007007",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 72,
+   "drawWeight": 50
+  },
+  "EventGacha000020": {
+   "key": "EventGacha000020",
+   "category": 0,
+   "index": 20,
+   "rewardType": "Item007005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 60,
+   "drawWeight": 100
+  },
+  "EventGacha000021": {
+   "key": "EventGacha000021",
+   "category": 0,
+   "index": 21,
+   "rewardType": "Item007006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 48,
+   "drawWeight": 100
+  },
+  "EventGacha000022": {
+   "key": "EventGacha000022",
+   "category": 0,
+   "index": 22,
+   "rewardType": "Item007007",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 36,
+   "drawWeight": 100
+  },
+  "EventGacha000023": {
+   "key": "EventGacha000023",
+   "category": 0,
+   "index": 23,
+   "rewardType": "Item002026",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 100,
+   "drawWeight": 690
+  },
+  "EventGacha000024": {
+   "key": "EventGacha000024",
+   "category": 0,
+   "index": 24,
+   "rewardType": "Item002026",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 300,
+   "drawWeight": 50
+  },
+  "EventGacha000025": {
+   "key": "EventGacha000025",
+   "category": 0,
+   "index": 25,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 2000
+  },
+  "EventGacha000026": {
+   "key": "EventGacha000026",
+   "category": 0,
+   "index": 26,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 2,
+   "drawWeight": 690
+  },
+  "EventGacha000027": {
+   "key": "EventGacha000027",
+   "category": 0,
+   "index": 27,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 690
+  },
+  "EventGacha000028": {
+   "key": "EventGacha000028",
+   "category": 0,
+   "index": 28,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 100,
+   "drawWeight": 2000
+  },
+  "EventGacha000029": {
+   "key": "EventGacha000029",
+   "category": 0,
+   "index": 29,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 200,
+   "drawWeight": 690
+  },
+  "EventGacha000030": {
+   "key": "EventGacha000030",
+   "category": 0,
+   "index": 30,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 300,
+   "drawWeight": 690
+  },
+  "EventGacha000031": {
+   "key": "EventGacha000031",
+   "category": 0,
+   "index": 31,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 500,
+   "drawWeight": 100
+  },
+  "EventGacha000032": {
+   "key": "EventGacha000032",
+   "category": 0,
+   "index": 32,
+   "rewardType": "Item009080",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 2,
+   "drawWeight": 999
+  },
+  "EventGacha001000": {
+   "key": "EventGacha001000",
+   "category": 1,
+   "index": 0,
+   "rewardType": "Item002006",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 0
+  },
+  "EventGacha001001": {
+   "key": "EventGacha001001",
+   "category": 1,
+   "index": 1,
+   "rewardType": "Item002044",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 0
+  },
+  "EventGacha001002": {
+   "key": "EventGacha001002",
+   "category": 1,
+   "index": 2,
+   "rewardType": "Item002027",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 250,
+   "drawWeight": 0
+  },
+  "EventGacha001003": {
+   "key": "EventGacha001003",
+   "category": 1,
+   "index": 3,
+   "rewardType": "Item002042",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 25,
+   "drawWeight": 0
+  },
+  "EventGacha001004": {
+   "key": "EventGacha001004",
+   "category": 1,
+   "index": 4,
+   "rewardType": "Item002041",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 50,
+   "drawWeight": 0
+  },
+  "EventGacha001010": {
+   "key": "EventGacha001010",
+   "category": 1,
+   "index": 10,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 50,
+   "drawWeight": 1
+  },
+  "EventGacha001011": {
+   "key": "EventGacha001011",
+   "category": 1,
+   "index": 11,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001012": {
+   "key": "EventGacha001012",
+   "category": 1,
+   "index": 12,
+   "rewardType": "Item007005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 15,
+   "drawWeight": 1
+  },
+  "EventGacha001013": {
+   "key": "EventGacha001013",
+   "category": 1,
+   "index": 13,
+   "rewardType": "Item004001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001014": {
+   "key": "EventGacha001014",
+   "category": 1,
+   "index": 14,
+   "rewardType": "Item011003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 1
+  },
+  "EventGacha001015": {
+   "key": "EventGacha001015",
+   "category": 1,
+   "index": 15,
+   "rewardType": "Item011001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001016": {
+   "key": "EventGacha001016",
+   "category": 1,
+   "index": 16,
+   "rewardType": "Item002005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 10,
+   "drawWeight": 1
+  },
+  "EventGacha001017": {
+   "key": "EventGacha001017",
+   "category": 1,
+   "index": 17,
+   "rewardType": "Item002005",
+   "rewardGrade": "RARE",
+   "rewardCount": 50,
+   "drawWeight": 1
+  },
+  "EventGacha001018": {
+   "key": "EventGacha001018",
+   "category": 1,
+   "index": 18,
+   "rewardType": "Item002005",
+   "rewardGrade": "RARE",
+   "rewardCount": 75,
+   "drawWeight": 1
+  },
+  "EventGacha001019": {
+   "key": "EventGacha001019",
+   "category": 1,
+   "index": 19,
+   "rewardType": "Item002005",
+   "rewardGrade": "RARE",
+   "rewardCount": 100,
+   "drawWeight": 1
+  },
+  "EventGacha001020": {
+   "key": "EventGacha001020",
+   "category": 1,
+   "index": 20,
+   "rewardType": "Item002042",
+   "rewardGrade": "RARE",
+   "rewardCount": 100,
+   "drawWeight": 1
+  },
+  "EventGacha001021": {
+   "key": "EventGacha001021",
+   "category": 1,
+   "index": 21,
+   "rewardType": "Item008020",
+   "rewardGrade": "RARE",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001022": {
+   "key": "EventGacha001022",
+   "category": 1,
+   "index": 22,
+   "rewardType": "Item007009",
+   "rewardGrade": "RARE",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001023": {
+   "key": "EventGacha001023",
+   "category": 1,
+   "index": 23,
+   "rewardType": "Item008012",
+   "rewardGrade": "RARE",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha001024": {
+   "key": "EventGacha001024",
+   "category": 1,
+   "index": 24,
+   "rewardType": "Item009080",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 2,
+   "drawWeight": 2
+  },
+  "EventGacha001025": {
+   "key": "EventGacha001025",
+   "category": 1,
+   "index": 25,
+   "rewardType": "Item009094",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 1,
+   "drawWeight": 2
+  },
+  "EventGacha001026": {
+   "key": "EventGacha001026",
+   "category": 1,
+   "index": 26,
+   "rewardType": "Item009080",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 2,
+   "drawWeight": 2
+  },
+  "EventGacha001027": {
+   "key": "EventGacha001027",
+   "category": 1,
+   "index": 27,
+   "rewardType": "Item009094",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 1,
+   "drawWeight": 2
+  },
+  "EventGacha001028": {
+   "key": "EventGacha001028",
+   "category": 1,
+   "index": 28,
+   "rewardType": "Item009080",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 2,
+   "drawWeight": 2
+  },
+  "EventGacha001029": {
+   "key": "EventGacha001029",
+   "category": 1,
+   "index": 29,
+   "rewardType": "Item009094",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 1,
+   "drawWeight": 2
+  },
+  "EventGacha001030": {
+   "key": "EventGacha001030",
+   "category": 1,
+   "index": 30,
+   "rewardType": "Item009080",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 2,
+   "drawWeight": 2
+  },
+  "EventGacha001031": {
+   "key": "EventGacha001031",
+   "category": 1,
+   "index": 31,
+   "rewardType": "Item009094",
+   "rewardGrade": "UNIQUE",
+   "rewardCount": 1,
+   "drawWeight": 2
+  },
+  "EventGacha001900": {
+   "key": "EventGacha001900",
+   "category": 1,
+   "index": 900,
+   "rewardType": "Item009088",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 25
+  },
+  "EventGacha001901": {
+   "key": "EventGacha001901",
+   "category": 1,
+   "index": 901,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 50
+  },
+  "EventGacha001902": {
+   "key": "EventGacha001902",
+   "category": 1,
+   "index": 902,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 100
+  },
+  "EventGacha001903": {
+   "key": "EventGacha001903",
+   "category": 1,
+   "index": 903,
+   "rewardType": "Item013015",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 200
+  },
+  "EventGacha001904": {
+   "key": "EventGacha001904",
+   "category": 1,
+   "index": 904,
+   "rewardType": "Item007011",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 450
+  },
+  "EventGacha001910": {
+   "key": "EventGacha001910",
+   "category": 1,
+   "index": 910,
+   "rewardType": "Item008020",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 600
+  },
+  "EventGacha001911": {
+   "key": "EventGacha001911",
+   "category": 1,
+   "index": 911,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 4,
+   "drawWeight": 800
+  },
+  "EventGacha001912": {
+   "key": "EventGacha001912",
+   "category": 1,
+   "index": 912,
+   "rewardType": "Item007009",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 1000
+  },
+  "EventGacha001913": {
+   "key": "EventGacha001913",
+   "category": 1,
+   "index": 913,
+   "rewardType": "Item007011",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1500
+  },
+  "EventGacha001914": {
+   "key": "EventGacha001914",
+   "category": 1,
+   "index": 914,
+   "rewardType": "Item007011",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 2000
+  },
+  "EventGacha002000": {
+   "key": "EventGacha002000",
+   "category": 2,
+   "index": 0,
+   "rewardType": "Item007010",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha002001": {
+   "key": "EventGacha002001",
+   "category": 2,
+   "index": 1,
+   "rewardType": "Item008012",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 4
+  },
+  "EventGacha002002": {
+   "key": "EventGacha002002",
+   "category": 2,
+   "index": 2,
+   "rewardType": "Item002042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 25,
+   "drawWeight": 40
+  },
+  "EventGacha002003": {
+   "key": "EventGacha002003",
+   "category": 2,
+   "index": 3,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 40
+  },
+  "EventGacha002004": {
+   "key": "EventGacha002004",
+   "category": 2,
+   "index": 4,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 40
+  },
+  "EventGacha002005": {
+   "key": "EventGacha002005",
+   "category": 2,
+   "index": 5,
+   "rewardType": "Item007005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 30,
+   "drawWeight": 150
+  },
+  "EventGacha002006": {
+   "key": "EventGacha002006",
+   "category": 2,
+   "index": 6,
+   "rewardType": "Item007006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 24,
+   "drawWeight": 90
+  },
+  "EventGacha002007": {
+   "key": "EventGacha002007",
+   "category": 2,
+   "index": 7,
+   "rewardType": "Item007007",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 18,
+   "drawWeight": 35
+  },
+  "EventGacha002008": {
+   "key": "EventGacha002008",
+   "category": 2,
+   "index": 8,
+   "rewardType": "Item002029",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 20,
+   "drawWeight": 45
+  },
+  "EventGacha002009": {
+   "key": "EventGacha002009",
+   "category": 2,
+   "index": 9,
+   "rewardType": "Item002030",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 15,
+   "drawWeight": 33
+  },
+  "EventGacha002010": {
+   "key": "EventGacha002010",
+   "category": 2,
+   "index": 10,
+   "rewardType": "Item007000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 10,
+   "drawWeight": 23
+  },
+  "EventGacha002011": {
+   "key": "EventGacha002011",
+   "category": 2,
+   "index": 11,
+   "rewardType": "Item004001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 80
+  },
+  "EventGacha002012": {
+   "key": "EventGacha002012",
+   "category": 2,
+   "index": 12,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 50,
+   "drawWeight": 180
+  },
+  "EventGacha002013": {
+   "key": "EventGacha002013",
+   "category": 2,
+   "index": 13,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 2,
+   "drawWeight": 230
+  },
+  "EventGacha002900": {
+   "key": "EventGacha002900",
+   "category": 2,
+   "index": 900,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 10
+  },
+  "EventGacha002901": {
+   "key": "EventGacha002901",
+   "category": 2,
+   "index": 901,
+   "rewardType": "Item002042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 25,
+   "drawWeight": 20
+  },
+  "EventGacha002902": {
+   "key": "EventGacha002902",
+   "category": 2,
+   "index": 902,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 45
+  },
+  "EventGacha002903": {
+   "key": "EventGacha002903",
+   "category": 2,
+   "index": 903,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 60
+  },
+  "EventGacha002904": {
+   "key": "EventGacha002904",
+   "category": 2,
+   "index": 904,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 100
+  },
+  "EventGacha002905": {
+   "key": "EventGacha002905",
+   "category": 2,
+   "index": 905,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 4,
+   "drawWeight": 140
+  },
+  "EventGacha002906": {
+   "key": "EventGacha002906",
+   "category": 2,
+   "index": 906,
+   "rewardType": "Item008012",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 180
+  },
+  "EventGacha002907": {
+   "key": "EventGacha002907",
+   "category": 2,
+   "index": 907,
+   "rewardType": "Item007010",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 200
+  },
+  "EventGacha003000": {
+   "key": "EventGacha003000",
+   "category": 3,
+   "index": 0,
+   "rewardType": "Item007009",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 1
+  },
+  "EventGacha003001": {
+   "key": "EventGacha003001",
+   "category": 3,
+   "index": 1,
+   "rewardType": "Item002006",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 30
+  },
+  "EventGacha003002": {
+   "key": "EventGacha003002",
+   "category": 3,
+   "index": 2,
+   "rewardType": "Item002044",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 30
+  },
+  "EventGacha003003": {
+   "key": "EventGacha003003",
+   "category": 3,
+   "index": 3,
+   "rewardType": "Item002042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 10,
+   "drawWeight": 30
+  },
+  "EventGacha003004": {
+   "key": "EventGacha003004",
+   "category": 3,
+   "index": 4,
+   "rewardType": "Item007005",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 15,
+   "drawWeight": 140
+  },
+  "EventGacha003005": {
+   "key": "EventGacha003005",
+   "category": 3,
+   "index": 5,
+   "rewardType": "Item007006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 12,
+   "drawWeight": 80
+  },
+  "EventGacha003006": {
+   "key": "EventGacha003006",
+   "category": 3,
+   "index": 6,
+   "rewardType": "Item007007",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 9,
+   "drawWeight": 25
+  },
+  "EventGacha003007": {
+   "key": "EventGacha003007",
+   "category": 3,
+   "index": 7,
+   "rewardType": "Item002029",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 10,
+   "drawWeight": 40
+  },
+  "EventGacha003008": {
+   "key": "EventGacha003008",
+   "category": 3,
+   "index": 8,
+   "rewardType": "Item002030",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 7,
+   "drawWeight": 30
+  },
+  "EventGacha003009": {
+   "key": "EventGacha003009",
+   "category": 3,
+   "index": 9,
+   "rewardType": "Item007000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 20
+  },
+  "EventGacha003010": {
+   "key": "EventGacha003010",
+   "category": 3,
+   "index": 10,
+   "rewardType": "Item004001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 74
+  },
+  "EventGacha003011": {
+   "key": "EventGacha003011",
+   "category": 3,
+   "index": 11,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 25,
+   "drawWeight": 170
+  },
+  "EventGacha003012": {
+   "key": "EventGacha003012",
+   "category": 3,
+   "index": 12,
+   "rewardType": "Item002002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 150,
+   "drawWeight": 110
+  },
+  "EventGacha003013": {
+   "key": "EventGacha003013",
+   "category": 3,
+   "index": 13,
+   "rewardType": "Item002001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 100,
+   "drawWeight": 110
+  },
+  "EventGacha003014": {
+   "key": "EventGacha003014",
+   "category": 3,
+   "index": 14,
+   "rewardType": "Item002000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 50,
+   "drawWeight": 110
+  },
+  "EventGacha003900": {
+   "key": "EventGacha003900",
+   "category": 3,
+   "index": 900,
+   "rewardType": "Item009079",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 10
+  },
+  "EventGacha003901": {
+   "key": "EventGacha003901",
+   "category": 3,
+   "index": 901,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 25
+  },
+  "EventGacha003902": {
+   "key": "EventGacha003902",
+   "category": 3,
+   "index": 902,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 50
+  },
+  "EventGacha003903": {
+   "key": "EventGacha003903",
+   "category": 3,
+   "index": 903,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 75
+  },
+  "EventGacha003904": {
+   "key": "EventGacha003904",
+   "category": 3,
+   "index": 904,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 100
+  },
+  "EventGacha003905": {
+   "key": "EventGacha003905",
+   "category": 3,
+   "index": 905,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 125
+  },
+  "EventGacha003906": {
+   "key": "EventGacha003906",
+   "category": 3,
+   "index": 906,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 4,
+   "drawWeight": 150
+  },
+  "EventGacha003907": {
+   "key": "EventGacha003907",
+   "category": 3,
+   "index": 907,
+   "rewardType": "Item008012",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 200
+  },
+  "EventGacha004900": {
+   "key": "EventGacha004900",
+   "category": 4,
+   "index": 900,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 600
+  },
+  "EventGacha004901": {
+   "key": "EventGacha004901",
+   "category": 4,
+   "index": 901,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1200
+  },
+  "EventGacha004902": {
+   "key": "EventGacha004902",
+   "category": 4,
+   "index": 902,
+   "rewardType": "Item013019",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 1800
+  },
+  "EventGacha004903": {
+   "key": "EventGacha004903",
+   "category": 4,
+   "index": 903,
+   "rewardType": "Item008020",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 2400
+  },
+  "EventGacha004904": {
+   "key": "EventGacha004904",
+   "category": 4,
+   "index": 904,
+   "rewardType": "Item007012",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 4800
+  },
+  "EventGacha004910": {
+   "key": "EventGacha004910",
+   "category": 4,
+   "index": 910,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 4,
+   "drawWeight": 7200
+  },
+  "EventGacha004911": {
+   "key": "EventGacha004911",
+   "category": 4,
+   "index": 911,
+   "rewardType": "Item007009",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 10000
+  },
+  "EventGacha004912": {
+   "key": "EventGacha004912",
+   "category": 4,
+   "index": 912,
+   "rewardType": "Item007012",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 20000
+  },
+  "EventGacha004913": {
+   "key": "EventGacha004913",
+   "category": 4,
+   "index": 913,
+   "rewardType": "Item007012",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 40000
+  },
+  "EventGacha005900": {
+   "key": "EventGacha005900",
+   "category": 5,
+   "index": 900,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 100
+  },
+  "EventGacha005901": {
+   "key": "EventGacha005901",
+   "category": 5,
+   "index": 901,
+   "rewardType": "Item002006",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 250
+  },
+  "EventGacha005902": {
+   "key": "EventGacha005902",
+   "category": 5,
+   "index": 902,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 500
+  },
+  "EventGacha005903": {
+   "key": "EventGacha005903",
+   "category": 5,
+   "index": 903,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 100,
+   "drawWeight": 850
+  },
+  "EventGacha005904": {
+   "key": "EventGacha005904",
+   "category": 5,
+   "index": 904,
+   "rewardType": "Item002042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 20,
+   "drawWeight": 1300
+  },
+  "EventGacha005905": {
+   "key": "EventGacha005905",
+   "category": 5,
+   "index": 905,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 200,
+   "drawWeight": 1850
+  },
+  "EventGacha005906": {
+   "key": "EventGacha005906",
+   "category": 5,
+   "index": 906,
+   "rewardType": "Item007002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 2500
+  },
+  "EventGacha005907": {
+   "key": "EventGacha005907",
+   "category": 5,
+   "index": 907,
+   "rewardType": "Item009105",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 10,
+   "drawWeight": 3250
+  },
+  "EventGacha005908": {
+   "key": "EventGacha005908",
+   "category": 5,
+   "index": 908,
+   "rewardType": "Item009103",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 4100
+  },
+  "EventGacha005909": {
+   "key": "EventGacha005909",
+   "category": 5,
+   "index": 909,
+   "rewardType": "Item002042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 30,
+   "drawWeight": 5050
+  },
+  "EventGacha005910": {
+   "key": "EventGacha005910",
+   "category": 5,
+   "index": 910,
+   "rewardType": "Item002044",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 5,
+   "drawWeight": 6100
+  },
+  "EventGacha005911": {
+   "key": "EventGacha005911",
+   "category": 5,
+   "index": 911,
+   "rewardType": "Item009105",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 20,
+   "drawWeight": 7250
+  },
+  "EventGacha005912": {
+   "key": "EventGacha005912",
+   "category": 5,
+   "index": 912,
+   "rewardType": "Item007009",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 8500
+  },
+  "EventGacha005913": {
+   "key": "EventGacha005913",
+   "category": 5,
+   "index": 913,
+   "rewardType": "Item008020",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 9850
+  },
+  "EventGacha005914": {
+   "key": "EventGacha005914",
+   "category": 5,
+   "index": 914,
+   "rewardType": "Item007009",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 3,
+   "drawWeight": 11300
+  },
+  "EventGacha005915": {
+   "key": "EventGacha005915",
+   "category": 5,
+   "index": 915,
+   "rewardType": "Item009404",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 12850
+  },
+  "EventGacha005916": {
+   "key": "EventGacha005916",
+   "category": 5,
+   "index": 916,
+   "rewardType": "Item20000042",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 14500
+  },
+  "EventGacha999000": {
+   "key": "EventGacha999000",
+   "category": 999,
+   "index": 0,
+   "rewardType": "Item004001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 1,
+   "drawWeight": 10
+  },
+  "EventGacha999001": {
+   "key": "EventGacha999001",
+   "category": 999,
+   "index": 1,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 12,
+   "drawWeight": 20
+  },
+  "EventGacha999002": {
+   "key": "EventGacha999002",
+   "category": 999,
+   "index": 2,
+   "rewardType": "Item002002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 24,
+   "drawWeight": 20
+  },
+  "EventGacha999003": {
+   "key": "EventGacha999003",
+   "category": 999,
+   "index": 3,
+   "rewardType": "Item002001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 8,
+   "drawWeight": 20
+  },
+  "EventGacha999004": {
+   "key": "EventGacha999004",
+   "category": 999,
+   "index": 4,
+   "rewardType": "Item002000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 16,
+   "drawWeight": 20
+  },
+  "EventGacha999005": {
+   "key": "EventGacha999005",
+   "category": 999,
+   "index": 5,
+   "rewardType": "Item003017",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 5
+  },
+  "EventGacha999006": {
+   "key": "EventGacha999006",
+   "category": 999,
+   "index": 6,
+   "rewardType": "Item004001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 2,
+   "drawWeight": 5
+  },
+  "EventGacha999007": {
+   "key": "EventGacha999007",
+   "category": 999,
+   "index": 7,
+   "rewardType": "Item002003",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 24,
+   "drawWeight": 10
+  },
+  "EventGacha999008": {
+   "key": "EventGacha999008",
+   "category": 999,
+   "index": 8,
+   "rewardType": "Item002002",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 48,
+   "drawWeight": 10
+  },
+  "EventGacha999009": {
+   "key": "EventGacha999009",
+   "category": 999,
+   "index": 9,
+   "rewardType": "Item002001",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 16,
+   "drawWeight": 10
+  },
+  "EventGacha999010": {
+   "key": "EventGacha999010",
+   "category": 999,
+   "index": 10,
+   "rewardType": "Item002000",
+   "rewardGrade": "NORMAL",
+   "rewardCount": 32,
+   "drawWeight": 10
+  },
+  "EventGacha999011": {
+   "key": "EventGacha999011",
+   "category": 999,
+   "index": 11,
+   "rewardType": "Item003025",
+   "rewardGrade": "LEGEND",
+   "rewardCount": 1,
+   "drawWeight": 2
+  }
+ }
+}

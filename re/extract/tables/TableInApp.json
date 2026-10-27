@@ -1,0 +1,1728 @@
+{
+ "sheetName": "TableInAppData",
+ "tableIndex": 0,
+ "rows": {
+  "Consumable_dia_01": {
+   "key": "Consumable_dia_01",
+   "category": 0,
+   "googleID": "dia_01",
+   "appleID": "dia_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_dia_02": {
+   "key": "Consumable_dia_02",
+   "category": 0,
+   "googleID": "dia_02",
+   "appleID": "dia_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_dia_03": {
+   "key": "Consumable_dia_03",
+   "category": 0,
+   "googleID": "dia_03",
+   "appleID": "dia_03",
+   "price": 9.989999771118164
+  },
+  "Consumable_dia_04": {
+   "key": "Consumable_dia_04",
+   "category": 0,
+   "googleID": "dia_04",
+   "appleID": "dia_04",
+   "price": 19.989999771118164
+  },
+  "Consumable_dia_05": {
+   "key": "Consumable_dia_05",
+   "category": 0,
+   "googleID": "dia_05",
+   "appleID": "dia_05",
+   "price": 49.9900016784668
+  },
+  "Consumable_dia_06": {
+   "key": "Consumable_dia_06",
+   "category": 0,
+   "googleID": "dia_06",
+   "appleID": "dia_06",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_season_pass_01": {
+   "key": "Consumable_hc_season_pass_01",
+   "category": 0,
+   "googleID": "hc_season_pass_01",
+   "appleID": "hc_season_pass_01",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_season_pass_01_premium": {
+   "key": "Consumable_hc_season_pass_01_premium",
+   "category": 0,
+   "googleID": "hc_season_pass_01_premium",
+   "appleID": "hc_season_pass_01_premium",
+   "price": 24.989999771118164
+  },
+  "Consumable_hc_season_pass_01_upgrade": {
+   "key": "Consumable_hc_season_pass_01_upgrade",
+   "category": 0,
+   "googleID": "hc_season_pass_01_upgrade",
+   "appleID": "hc_season_pass_01_upgrade",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_season_pass_01_sale": {
+   "key": "Consumable_hc_season_pass_01_sale",
+   "category": 0,
+   "googleID": "hc_season_pass_01_sale",
+   "appleID": "hc_season_pass_01_sale",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_season_pass_01_premium_sale": {
+   "key": "Consumable_hc_season_pass_01_premium_sale",
+   "category": 0,
+   "googleID": "hc_season_pass_01_premium_sale",
+   "appleID": "hc_season_pass_01_premium_sale",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_season_pass_01_upgrade_sale": {
+   "key": "Consumable_hc_season_pass_01_upgrade_sale",
+   "category": 0,
+   "googleID": "hc_season_pass_01_upgrade_sale",
+   "appleID": "hc_season_pass_01_upgrade_sale",
+   "price": 2.990000009536743
+  },
+  "Consumable_package_basic": {
+   "key": "Consumable_package_basic",
+   "category": 0,
+   "googleID": "package_basic",
+   "appleID": "package_basic",
+   "price": 1.9900000095367432
+  },
+  "Consumable_package_expert": {
+   "key": "Consumable_package_expert",
+   "category": 0,
+   "googleID": "package_expert",
+   "appleID": "hc_package_expert",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_pro": {
+   "key": "Consumable_package_pro",
+   "category": 0,
+   "googleID": "package_pro",
+   "appleID": "package_pro",
+   "price": 19.989999771118164
+  },
+  "Consumable_package_hero_01": {
+   "key": "Consumable_package_hero_01",
+   "category": 0,
+   "googleID": "package_hero_01",
+   "appleID": "package_hero_01",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_hero_01_field": {
+   "key": "Consumable_package_hero_01_field",
+   "category": 0,
+   "googleID": "package_hero_01_field",
+   "appleID": "package_hero_01_field",
+   "price": 6.989999771118164
+  },
+  "Consumable_package_hero_02": {
+   "key": "Consumable_package_hero_02",
+   "category": 0,
+   "googleID": "package_hero_02",
+   "appleID": "package_hero_02",
+   "price": 49.9900016784668
+  },
+  "Consumable_package_first": {
+   "key": "Consumable_package_first",
+   "category": 0,
+   "googleID": "package_first",
+   "appleID": "package_first",
+   "price": 0.9900000095367432
+  },
+  "Consumable_package_level_10": {
+   "key": "Consumable_package_level_10",
+   "category": 0,
+   "googleID": "package_level_10",
+   "appleID": "package_level_10",
+   "price": 4.989999771118164
+  },
+  "Consumable_package_level_20": {
+   "key": "Consumable_package_level_20",
+   "category": 0,
+   "googleID": "package_level_20",
+   "appleID": "package_level_20",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_level_30": {
+   "key": "Consumable_package_level_30",
+   "category": 0,
+   "googleID": "package_level_30",
+   "appleID": "package_level_30",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_level_40": {
+   "key": "Consumable_package_level_40",
+   "category": 0,
+   "googleID": "package_level_40",
+   "appleID": "package_level_40",
+   "price": 19.989999771118164
+  },
+  "Consumable_package_level_50": {
+   "key": "Consumable_package_level_50",
+   "category": 0,
+   "googleID": "package_level_50",
+   "appleID": "package_level_50",
+   "price": 19.989999771118164
+  },
+  "Consumable_package_level_60": {
+   "key": "Consumable_package_level_60",
+   "category": 0,
+   "googleID": "package_level_60",
+   "appleID": "package_level_60",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_level_25": {
+   "key": "Consumable_hc_package_level_25",
+   "category": 0,
+   "googleID": "hc_package_level_25",
+   "appleID": "hc_package_level_25",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_level_65": {
+   "key": "Consumable_hc_package_level_65",
+   "category": 0,
+   "googleID": "hc_package_level_65",
+   "appleID": "hc_package_level_65",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_level_70": {
+   "key": "Consumable_hc_package_level_70",
+   "category": 0,
+   "googleID": "hc_package_level_70",
+   "appleID": "hc_package_level_70",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_level_01": {
+   "key": "Consumable_hc_package_level_01",
+   "category": 0,
+   "googleID": "hc_package_level_01",
+   "appleID": "hc_package_level_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_level_02": {
+   "key": "Consumable_hc_package_level_02",
+   "category": 0,
+   "googleID": "hc_package_level_02",
+   "appleID": "hc_package_level_02",
+   "price": 2.990000009536743
+  },
+  "Consumable_hc_package_level_03": {
+   "key": "Consumable_hc_package_level_03",
+   "category": 0,
+   "googleID": "hc_package_level_03",
+   "appleID": "hc_package_level_03",
+   "price": 6.989999771118164
+  },
+  "Consumable_hc_package_level_04": {
+   "key": "Consumable_hc_package_level_04",
+   "category": 0,
+   "googleID": "hc_package_level_04",
+   "appleID": "hc_package_level_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_level_15": {
+   "key": "Consumable_hc_package_level_15",
+   "category": 0,
+   "googleID": "hc_package_level_15",
+   "appleID": "hc_package_level_15",
+   "price": 4.989999771118164
+  },
+  "Consumable_package_heroget_07": {
+   "key": "Consumable_package_heroget_07",
+   "category": 0,
+   "googleID": "package_heroget_07",
+   "appleID": "package_heroget_07",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_18": {
+   "key": "Consumable_package_heroget_18",
+   "category": 0,
+   "googleID": "package_heroget_18",
+   "appleID": "package_heroget_18",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_19": {
+   "key": "Consumable_package_heroget_19",
+   "category": 0,
+   "googleID": "package_heroget_19",
+   "appleID": "package_heroget_19",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_24": {
+   "key": "Consumable_package_heroget_24",
+   "category": 0,
+   "googleID": "package_heroget_24",
+   "appleID": "package_heroget_24",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_25": {
+   "key": "Consumable_package_heroget_25",
+   "category": 0,
+   "googleID": "package_heroget_25",
+   "appleID": "package_heroget_25",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_26": {
+   "key": "Consumable_package_heroget_26",
+   "category": 0,
+   "googleID": "package_heroget_26",
+   "appleID": "package_heroget_26",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_27": {
+   "key": "Consumable_package_heroget_27",
+   "category": 0,
+   "googleID": "package_heroget_27",
+   "appleID": "package_heroget_27",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_30": {
+   "key": "Consumable_package_heroget_30",
+   "category": 0,
+   "googleID": "package_heroget_30",
+   "appleID": "package_heroget_30",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_31": {
+   "key": "Consumable_package_heroget_31",
+   "category": 0,
+   "googleID": "package_heroget_31",
+   "appleID": "package_heroget_31",
+   "price": 15.989999771118164
+  },
+  "Consumable_package_heroget_34": {
+   "key": "Consumable_package_heroget_34",
+   "category": 0,
+   "googleID": "package_heroget_34",
+   "appleID": "package_heroget_34",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_36": {
+   "key": "Consumable_hc_package_heroget_36",
+   "category": 0,
+   "googleID": "hc_package_heroget_36",
+   "appleID": "hc_package_heroget_36",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_37": {
+   "key": "Consumable_hc_package_heroget_37",
+   "category": 0,
+   "googleID": "hc_package_heroget_37",
+   "appleID": "hc_package_heroget_37",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_38": {
+   "key": "Consumable_hc_package_heroget_38",
+   "category": 0,
+   "googleID": "hc_package_heroget_38",
+   "appleID": "hc_package_heroget_38",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_39": {
+   "key": "Consumable_hc_package_heroget_39",
+   "category": 0,
+   "googleID": "hc_package_heroget_39",
+   "appleID": "hc_package_heroget_39",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_40": {
+   "key": "Consumable_hc_package_heroget_40",
+   "category": 0,
+   "googleID": "hc_package_heroget_40",
+   "appleID": "hc_package_heroget_40",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_41": {
+   "key": "Consumable_hc_package_heroget_41",
+   "category": 0,
+   "googleID": "hc_package_heroget_41",
+   "appleID": "hc_package_heroget_41",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_42": {
+   "key": "Consumable_hc_package_heroget_42",
+   "category": 0,
+   "googleID": "hc_package_heroget_42",
+   "appleID": "hc_package_heroget_42",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_44": {
+   "key": "Consumable_hc_package_heroget_44",
+   "category": 0,
+   "googleID": "hc_package_heroget_44",
+   "appleID": "hc_package_heroget_44",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_47": {
+   "key": "Consumable_hc_package_heroget_47",
+   "category": 0,
+   "googleID": "hc_package_heroget_47",
+   "appleID": "hc_package_heroget_47",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_48": {
+   "key": "Consumable_hc_package_heroget_48",
+   "category": 0,
+   "googleID": "hc_package_heroget_48",
+   "appleID": "hc_package_heroget_48",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_49": {
+   "key": "Consumable_hc_package_heroget_49",
+   "category": 0,
+   "googleID": "hc_package_heroget_49",
+   "appleID": "hc_package_heroget_49",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_46": {
+   "key": "Consumable_hc_package_heroget_46",
+   "category": 0,
+   "googleID": "hc_package_heroget_46",
+   "appleID": "hc_package_heroget_46",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_50": {
+   "key": "Consumable_hc_package_heroget_50",
+   "category": 0,
+   "googleID": "hc_package_heroget_50",
+   "appleID": "hc_package_heroget_50",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_52": {
+   "key": "Consumable_hc_package_heroget_52",
+   "category": 0,
+   "googleID": "hc_package_heroget_52",
+   "appleID": "hc_package_heroget_52",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_heroget_53": {
+   "key": "Consumable_hc_package_heroget_53",
+   "category": 0,
+   "googleID": "hc_package_heroget_53",
+   "appleID": "hc_package_heroget_53",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_hero30_07": {
+   "key": "Consumable_hc_package_hero30_07",
+   "category": 0,
+   "googleID": "hc_package_hero30_07",
+   "appleID": "hc_package_hero30_07",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_18": {
+   "key": "Consumable_hc_package_hero30_18",
+   "category": 0,
+   "googleID": "hc_package_hero30_18",
+   "appleID": "hc_package_hero30_18",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_19": {
+   "key": "Consumable_hc_package_hero30_19",
+   "category": 0,
+   "googleID": "hc_package_hero30_19",
+   "appleID": "hc_package_hero30_19",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_24": {
+   "key": "Consumable_hc_package_hero30_24",
+   "category": 0,
+   "googleID": "hc_package_hero30_24",
+   "appleID": "hc_package_hero30_24",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_25": {
+   "key": "Consumable_hc_package_hero30_25",
+   "category": 0,
+   "googleID": "hc_package_hero30_25",
+   "appleID": "hc_package_hero30_25",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_26": {
+   "key": "Consumable_hc_package_hero30_26",
+   "category": 0,
+   "googleID": "hc_package_hero30_26",
+   "appleID": "hc_package_hero30_26",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_27": {
+   "key": "Consumable_hc_package_hero30_27",
+   "category": 0,
+   "googleID": "hc_package_hero30_27",
+   "appleID": "hc_package_hero30_27",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_30": {
+   "key": "Consumable_hc_package_hero30_30",
+   "category": 0,
+   "googleID": "hc_package_hero30_30",
+   "appleID": "hc_package_hero30_30",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_31": {
+   "key": "Consumable_hc_package_hero30_31",
+   "category": 0,
+   "googleID": "hc_package_hero30_31",
+   "appleID": "hc_package_hero30_31",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_34": {
+   "key": "Consumable_hc_package_hero30_34",
+   "category": 0,
+   "googleID": "hc_package_hero30_34",
+   "appleID": "hc_package_hero30_34",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_36": {
+   "key": "Consumable_hc_package_hero30_36",
+   "category": 0,
+   "googleID": "hc_package_hero30_36",
+   "appleID": "hc_package_hero30_36",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_37": {
+   "key": "Consumable_hc_package_hero30_37",
+   "category": 0,
+   "googleID": "hc_package_hero30_37",
+   "appleID": "hc_package_hero30_37",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_38": {
+   "key": "Consumable_hc_package_hero30_38",
+   "category": 0,
+   "googleID": "hc_package_hero30_38",
+   "appleID": "hc_package_hero30_38",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_39": {
+   "key": "Consumable_hc_package_hero30_39",
+   "category": 0,
+   "googleID": "hc_package_hero30_39",
+   "appleID": "hc_package_hero30_39",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_40": {
+   "key": "Consumable_hc_package_hero30_40",
+   "category": 0,
+   "googleID": "hc_package_hero30_40",
+   "appleID": "hc_package_hero30_40",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_41": {
+   "key": "Consumable_hc_package_hero30_41",
+   "category": 0,
+   "googleID": "hc_package_hero30_41",
+   "appleID": "hc_package_hero30_41",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_42": {
+   "key": "Consumable_hc_package_hero30_42",
+   "category": 0,
+   "googleID": "hc_package_hero30_42",
+   "appleID": "hc_package_hero30_42",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_44": {
+   "key": "Consumable_hc_package_hero30_44",
+   "category": 0,
+   "googleID": "hc_package_hero30_44",
+   "appleID": "hc_package_hero30_44",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_47": {
+   "key": "Consumable_hc_package_hero30_47",
+   "category": 0,
+   "googleID": "hc_package_hero30_47",
+   "appleID": "hc_package_hero30_47",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_48": {
+   "key": "Consumable_hc_package_hero30_48",
+   "category": 0,
+   "googleID": "hc_package_hero30_48",
+   "appleID": "hc_package_hero30_48",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_49": {
+   "key": "Consumable_hc_package_hero30_49",
+   "category": 0,
+   "googleID": "hc_package_hero30_49",
+   "appleID": "hc_package_hero30_49",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_46": {
+   "key": "Consumable_hc_package_hero30_46",
+   "category": 0,
+   "googleID": "hc_package_hero30_46",
+   "appleID": "hc_package_hero30_46",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_50": {
+   "key": "Consumable_hc_package_hero30_50",
+   "category": 0,
+   "googleID": "hc_package_hero30_50",
+   "appleID": "hc_package_hero30_50",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_52": {
+   "key": "Consumable_hc_package_hero30_52",
+   "category": 0,
+   "googleID": "hc_package_hero30_52",
+   "appleID": "hc_package_hero30_52",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero30_53": {
+   "key": "Consumable_hc_package_hero30_53",
+   "category": 0,
+   "googleID": "hc_package_hero30_53",
+   "appleID": "hc_package_hero30_53",
+   "price": 49.9900016784668
+  },
+  "Consumable_package_map_01": {
+   "key": "Consumable_package_map_01",
+   "category": 0,
+   "googleID": "package_map_01",
+   "appleID": "package_map_01",
+   "price": 4.989999771118164
+  },
+  "Consumable_package_map_02": {
+   "key": "Consumable_package_map_02",
+   "category": 0,
+   "googleID": "package_map_02",
+   "appleID": "package_map_02",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_map_03": {
+   "key": "Consumable_package_map_03",
+   "category": 0,
+   "googleID": "package_map_03",
+   "appleID": "package_map_03",
+   "price": 9.989999771118164
+  },
+  "Consumable_package_map_04": {
+   "key": "Consumable_package_map_04",
+   "category": 0,
+   "googleID": "package_map_04",
+   "appleID": "package_map_04",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_map_05": {
+   "key": "Consumable_hc_package_map_05",
+   "category": 0,
+   "googleID": "hc_package_map_05",
+   "appleID": "hc_package_map_05",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_map_06": {
+   "key": "Consumable_hc_package_map_06",
+   "category": 0,
+   "googleID": "hc_package_map_06",
+   "appleID": "hc_package_map_06",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_map_07": {
+   "key": "Consumable_hc_package_map_07",
+   "category": 0,
+   "googleID": "hc_package_map_07",
+   "appleID": "hc_package_map_07",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_map_08": {
+   "key": "Consumable_hc_package_map_08",
+   "category": 0,
+   "googleID": "hc_package_map_08",
+   "appleID": "hc_package_map_08",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_map_09": {
+   "key": "Consumable_hc_package_map_09",
+   "category": 0,
+   "googleID": "hc_package_map_09",
+   "appleID": "hc_package_map_09",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_map_10": {
+   "key": "Consumable_hc_package_map_10",
+   "category": 0,
+   "googleID": "hc_package_map_10",
+   "appleID": "hc_package_map_10",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_ad_remove_1": {
+   "key": "Consumable_hc_ad_remove_1",
+   "category": 0,
+   "googleID": "hc_ad_remove_1",
+   "appleID": "hc_ad_remove_1",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_ad_remove_2": {
+   "key": "Consumable_hc_ad_remove_2",
+   "category": 0,
+   "googleID": "hc_ad_remove_2",
+   "appleID": "hc_ad_remove_2",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_ad_remove_3": {
+   "key": "Consumable_hc_ad_remove_3",
+   "category": 0,
+   "googleID": "hc_ad_remove_3",
+   "appleID": "hc_ad_remove_3",
+   "price": 5.989999771118164
+  },
+  "Consumable_hc_ad_remove_7": {
+   "key": "Consumable_hc_ad_remove_7",
+   "category": 0,
+   "googleID": "hc_ad_remove_7",
+   "appleID": "hc_ad_remove_7",
+   "price": 5.989999771118164
+  },
+  "Consumable_hc_ad_remove_ticket_1": {
+   "key": "Consumable_hc_ad_remove_ticket_1",
+   "category": 0,
+   "googleID": "hc_ad_remove_ticket_1",
+   "appleID": "hc_ad_remove_ticket_1",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_ad_remove_ticket_2": {
+   "key": "Consumable_hc_ad_remove_ticket_2",
+   "category": 0,
+   "googleID": "hc_ad_remove_ticket_2",
+   "appleID": "hc_ad_remove_ticket_2",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_ad_remove_ticket_3": {
+   "key": "Consumable_hc_ad_remove_ticket_3",
+   "category": 0,
+   "googleID": "hc_ad_remove_ticket_3",
+   "appleID": "hc_ad_remove_ticket_3",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_ad_remove_ticket_weekly": {
+   "key": "Consumable_hc_ad_remove_ticket_weekly",
+   "category": 0,
+   "googleID": "hc_ad_remove_ticket_weekly",
+   "appleID": "hc_ad_remove_ticket_weekly",
+   "price": 3.990000009536743
+  },
+  "Consumable_hc_ad_remove_sup_1": {
+   "key": "Consumable_hc_ad_remove_sup_1",
+   "category": 0,
+   "googleID": "hc_ad_remove_sup_1",
+   "appleID": "hc_ad_remove_sup_1",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_ad_remove_sup_2": {
+   "key": "Consumable_hc_ad_remove_sup_2",
+   "category": 0,
+   "googleID": "hc_ad_remove_sup_2",
+   "appleID": "hc_ad_remove_sup_2",
+   "price": 3.990000009536743
+  },
+  "Consumable_hc_ad_remove_sup_3": {
+   "key": "Consumable_hc_ad_remove_sup_3",
+   "category": 0,
+   "googleID": "hc_ad_remove_sup_3",
+   "appleID": "hc_ad_remove_sup_3",
+   "price": 5.989999771118164
+  },
+  "Consumable_hc_ad_remove_choice_1": {
+   "key": "Consumable_hc_ad_remove_choice_1",
+   "category": 0,
+   "googleID": "hc_ad_remove_choice_1",
+   "appleID": "hc_ad_remove_choice_1",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_ad_remove_choice_2": {
+   "key": "Consumable_hc_ad_remove_choice_2",
+   "category": 0,
+   "googleID": "hc_ad_remove_choice_2",
+   "appleID": "hc_ad_remove_choice_2",
+   "price": 3.990000009536743
+  },
+  "Consumable_hc_ad_remove_choice_3": {
+   "key": "Consumable_hc_ad_remove_choice_3",
+   "category": 0,
+   "googleID": "hc_ad_remove_choice_3",
+   "appleID": "hc_ad_remove_choice_3",
+   "price": 7.989999771118164
+  },
+  "Consumable_hc_ad_remove_choice_4": {
+   "key": "Consumable_hc_ad_remove_choice_4",
+   "category": 0,
+   "googleID": "hc_ad_remove_choice_4",
+   "appleID": "hc_ad_remove_choice_4",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_rift": {
+   "key": "Consumable_hc_package_rift",
+   "category": 0,
+   "googleID": "hc_package_rift",
+   "appleID": "hc_package_rift",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_package_defence": {
+   "key": "Consumable_hc_package_defence",
+   "category": 0,
+   "googleID": "hc_package_defence",
+   "appleID": "hc_package_defence",
+   "price": 7.989999771118164
+  },
+  "Consumable_hc_package_bosshunt": {
+   "key": "Consumable_hc_package_bosshunt",
+   "category": 0,
+   "googleID": "hc_package_bosshunt",
+   "appleID": "hc_package_bosshunt",
+   "price": 7.989999771118164
+  },
+  "Consumable_hc_package_minoressence": {
+   "key": "Consumable_hc_package_minoressence",
+   "category": 0,
+   "googleID": "hc_package_minoressence",
+   "appleID": "hc_package_minoressence",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_mediumessence": {
+   "key": "Consumable_hc_package_mediumessence",
+   "category": 0,
+   "googleID": "hc_package_mediumessence",
+   "appleID": "hc_package_mediumessence",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_majoressence": {
+   "key": "Consumable_hc_package_majoressence",
+   "category": 0,
+   "googleID": "hc_package_majoressence",
+   "appleID": "hc_package_majoressence",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_hero_select_legend": {
+   "key": "Consumable_hc_package_hero_select_legend",
+   "category": 0,
+   "googleID": "hc_package_hero_select_legend",
+   "appleID": "hc_package_hero_select_legend",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_hero_select_legend_02": {
+   "key": "Consumable_hc_package_hero_select_legend_02",
+   "category": 0,
+   "googleID": "hc_package_hero_select_legend_02",
+   "appleID": "hc_package_hero_select_legend_02",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_package_hero_limit_39": {
+   "key": "Consumable_hc_package_hero_limit_39",
+   "category": 0,
+   "googleID": "hc_package_hero_limit_39",
+   "appleID": "hc_package_hero_limit_39",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_hero_skin_39": {
+   "key": "Consumable_hc_package_hero_skin_39",
+   "category": 0,
+   "googleID": "hc_package_hero_skin_39",
+   "appleID": "hc_package_hero_skin_39",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_hero_limit_41": {
+   "key": "Consumable_hc_package_hero_limit_41",
+   "category": 0,
+   "googleID": "hc_package_hero_limit_41",
+   "appleID": "hc_package_hero_limit_41",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_hero_skin_42": {
+   "key": "Consumable_hc_package_hero_skin_42",
+   "category": 0,
+   "googleID": "hc_package_hero_skin_42",
+   "appleID": "hc_package_hero_skin_42",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_hero_limit_46": {
+   "key": "Consumable_hc_package_hero_limit_46",
+   "category": 0,
+   "googleID": "hc_package_hero_limit_46",
+   "appleID": "hc_package_hero_limit_46",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_hero_limit_53": {
+   "key": "Consumable_hc_package_hero_limit_53",
+   "category": 0,
+   "googleID": "hc_package_hero_limit_53",
+   "appleID": "hc_package_hero_limit_53",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_event_01": {
+   "key": "Consumable_hc_package_event_01",
+   "category": 0,
+   "googleID": "hc_package_event_01",
+   "appleID": "hc_package_event_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_event_02": {
+   "key": "Consumable_hc_package_event_02",
+   "category": 0,
+   "googleID": "hc_package_event_02",
+   "appleID": "hc_package_event_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_event_03": {
+   "key": "Consumable_hc_package_event_03",
+   "category": 0,
+   "googleID": "hc_package_event_03",
+   "appleID": "hc_package_event_03",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_event_04": {
+   "key": "Consumable_hc_package_event_04",
+   "category": 0,
+   "googleID": "hc_package_event_04",
+   "appleID": "hc_package_event_04",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_event_05": {
+   "key": "Consumable_hc_package_event_05",
+   "category": 0,
+   "googleID": "hc_package_event_05",
+   "appleID": "hc_package_event_05",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_event_06": {
+   "key": "Consumable_hc_package_event_06",
+   "category": 0,
+   "googleID": "hc_package_event_06",
+   "appleID": "hc_package_event_06",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_pub_01": {
+   "key": "Consumable_hc_package_pub_01",
+   "category": 0,
+   "googleID": "hc_package_pub_01",
+   "appleID": "hc_package_pub_01",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_package_pub_02": {
+   "key": "Consumable_hc_package_pub_02",
+   "category": 0,
+   "googleID": "hc_package_pub_02",
+   "appleID": "hc_package_pub_02",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_pub_03": {
+   "key": "Consumable_hc_package_pub_03",
+   "category": 0,
+   "googleID": "hc_package_pub_03",
+   "appleID": "hc_package_pub_03",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_pub_04": {
+   "key": "Consumable_hc_package_pub_04",
+   "category": 0,
+   "googleID": "hc_package_pub_04",
+   "appleID": "hc_package_pub_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_pub_05": {
+   "key": "Consumable_hc_package_pub_05",
+   "category": 0,
+   "googleID": "hc_package_pub_05",
+   "appleID": "hc_package_pub_05",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_pub_06": {
+   "key": "Consumable_hc_package_pub_06",
+   "category": 0,
+   "googleID": "hc_package_pub_06",
+   "appleID": "hc_package_pub_06",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_charm_01": {
+   "key": "Consumable_hc_package_charm_01",
+   "category": 0,
+   "googleID": "hc_package_charm_01",
+   "appleID": "hc_package_charm_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_charm_02": {
+   "key": "Consumable_hc_package_charm_02",
+   "category": 0,
+   "googleID": "hc_package_charm_02",
+   "appleID": "hc_package_charm_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_charm_03": {
+   "key": "Consumable_hc_package_charm_03",
+   "category": 0,
+   "googleID": "hc_package_charm_03",
+   "appleID": "hc_package_charm_03",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_charm_04": {
+   "key": "Consumable_hc_package_charm_04",
+   "category": 0,
+   "googleID": "hc_package_charm_04",
+   "appleID": "hc_package_charm_04",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_charm_05": {
+   "key": "Consumable_hc_package_charm_05",
+   "category": 0,
+   "googleID": "hc_package_charm_05",
+   "appleID": "hc_package_charm_05",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_charm_06": {
+   "key": "Consumable_hc_package_charm_06",
+   "category": 0,
+   "googleID": "hc_package_charm_06",
+   "appleID": "hc_package_charm_06",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_package_ruins": {
+   "key": "Consumable_hc_package_ruins",
+   "category": 0,
+   "googleID": "hc_package_ruins",
+   "appleID": "hc_package_ruins",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_stepup_01": {
+   "key": "Consumable_hc_package_stepup_01",
+   "category": 0,
+   "googleID": "hc_package_stepup_01",
+   "appleID": "hc_package_stepup_01",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_package_stepup_02": {
+   "key": "Consumable_hc_package_stepup_02",
+   "category": 0,
+   "googleID": "hc_package_stepup_02",
+   "appleID": "hc_package_stepup_02",
+   "price": 2.990000009536743
+  },
+  "Consumable_hc_package_stepup_03": {
+   "key": "Consumable_hc_package_stepup_03",
+   "category": 0,
+   "googleID": "hc_package_stepup_03",
+   "appleID": "hc_package_stepup_03",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_stepup_04": {
+   "key": "Consumable_hc_package_stepup_04",
+   "category": 0,
+   "googleID": "hc_package_stepup_04",
+   "appleID": "hc_package_stepup_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_rune_01": {
+   "key": "Consumable_hc_package_rune_01",
+   "category": 0,
+   "googleID": "hc_package_rune_01",
+   "appleID": "hc_package_rune_01",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_rune_02": {
+   "key": "Consumable_hc_package_rune_02",
+   "category": 0,
+   "googleID": "hc_package_rune_02",
+   "appleID": "hc_package_rune_02",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_rune_03": {
+   "key": "Consumable_hc_package_rune_03",
+   "category": 0,
+   "googleID": "hc_package_rune_03",
+   "appleID": "hc_package_rune_03",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_monthly_card_01": {
+   "key": "Consumable_hc_monthly_card_01",
+   "category": 0,
+   "googleID": "hc_monthly_card_01",
+   "appleID": "hc_monthly_card_01",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_monthly_card_02": {
+   "key": "Consumable_hc_monthly_card_02",
+   "category": 0,
+   "googleID": "hc_monthly_card_02",
+   "appleID": "hc_monthly_card_02",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_monthly_card_03": {
+   "key": "Consumable_hc_monthly_card_03",
+   "category": 0,
+   "googleID": "hc_monthly_card_03",
+   "appleID": "hc_monthly_card_03",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_monthly_card_04": {
+   "key": "Consumable_hc_monthly_card_04",
+   "category": 0,
+   "googleID": "hc_monthly_card_04",
+   "appleID": "hc_monthly_card_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_growthup": {
+   "key": "Consumable_hc_package_growthup",
+   "category": 0,
+   "googleID": "hc_package_growthup",
+   "appleID": "hc_package_growthup",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_growthup2": {
+   "key": "Consumable_hc_package_growthup2",
+   "category": 0,
+   "googleID": "hc_package_growthup2",
+   "appleID": "hc_package_growthup2",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_daily_01": {
+   "key": "Consumable_hc_package_daily_01",
+   "category": 0,
+   "googleID": "hc_package_daily_01",
+   "appleID": "hc_package_daily_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_daily_02": {
+   "key": "Consumable_hc_package_daily_02",
+   "category": 0,
+   "googleID": "hc_package_daily_02",
+   "appleID": "hc_package_daily_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_event_07": {
+   "key": "Consumable_hc_package_event_07",
+   "category": 0,
+   "googleID": "hc_package_event_07",
+   "appleID": "hc_package_event_07",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_event_08": {
+   "key": "Consumable_hc_package_event_08",
+   "category": 0,
+   "googleID": "hc_package_event_08",
+   "appleID": "hc_package_event_08",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_event_09": {
+   "key": "Consumable_hc_package_event_09",
+   "category": 0,
+   "googleID": "hc_package_event_09",
+   "appleID": "hc_package_event_09",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_event_10": {
+   "key": "Consumable_hc_package_event_10",
+   "category": 0,
+   "googleID": "hc_package_event_10",
+   "appleID": "hc_package_event_10",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_event_11": {
+   "key": "Consumable_hc_package_event_11",
+   "category": 0,
+   "googleID": "hc_package_event_11",
+   "appleID": "hc_package_event_11",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_event_12": {
+   "key": "Consumable_hc_package_event_12",
+   "category": 0,
+   "googleID": "hc_package_event_12",
+   "appleID": "hc_package_event_12",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_package_hero_limit_merge": {
+   "key": "Consumable_hc_package_hero_limit_merge",
+   "category": 0,
+   "googleID": "hc_package_hero_limit_merge",
+   "appleID": "hc_package_hero_limit_merge",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_heroget_merge": {
+   "key": "Consumable_hc_package_heroget_merge",
+   "category": 0,
+   "googleID": "hc_package_heroget_merge",
+   "appleID": "hc_package_heroget_merge",
+   "price": 15.989999771118164
+  },
+  "Consumable_hc_package_hero30_merge": {
+   "key": "Consumable_hc_package_hero30_merge",
+   "category": 0,
+   "googleID": "hc_package_hero30_merge",
+   "appleID": "hc_package_hero30_merge",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_pub_empty_1": {
+   "key": "Consumable_hc_package_pub_empty_1",
+   "category": 0,
+   "googleID": "hc_package_pub_empty_1",
+   "appleID": "hc_package_pub_empty_1",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_pub_empty_2": {
+   "key": "Consumable_hc_package_pub_empty_2",
+   "category": 0,
+   "googleID": "hc_package_pub_empty_2",
+   "appleID": "hc_package_pub_empty_2",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_pub_empty_3": {
+   "key": "Consumable_hc_package_pub_empty_3",
+   "category": 0,
+   "googleID": "hc_package_pub_empty_3",
+   "appleID": "hc_package_pub_empty_3",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_ruins_1": {
+   "key": "Consumable_hc_package_ruins_1",
+   "category": 0,
+   "googleID": "hc_package_ruins_1",
+   "appleID": "hc_package_ruins_1",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_ruins_2": {
+   "key": "Consumable_hc_package_ruins_2",
+   "category": 0,
+   "googleID": "hc_package_ruins_2",
+   "appleID": "hc_package_ruins_2",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_ruins_3": {
+   "key": "Consumable_hc_package_ruins_3",
+   "category": 0,
+   "googleID": "hc_package_ruins_3",
+   "appleID": "hc_package_ruins_3",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_rift_1": {
+   "key": "Consumable_hc_package_rift_1",
+   "category": 0,
+   "googleID": "hc_package_rift_1",
+   "appleID": "hc_package_rift_1",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_rift_2": {
+   "key": "Consumable_hc_package_rift_2",
+   "category": 0,
+   "googleID": "hc_package_rift_2",
+   "appleID": "hc_package_rift_2",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_rift_3": {
+   "key": "Consumable_hc_package_rift_3",
+   "category": 0,
+   "googleID": "hc_package_rift_3",
+   "appleID": "hc_package_rift_3",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_rift_4": {
+   "key": "Consumable_hc_package_rift_4",
+   "category": 0,
+   "googleID": "hc_package_rift_4",
+   "appleID": "hc_package_rift_4",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_package_defence_1": {
+   "key": "Consumable_hc_package_defence_1",
+   "category": 0,
+   "googleID": "hc_package_defence_1",
+   "appleID": "hc_package_defence_1",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_defence_2": {
+   "key": "Consumable_hc_package_defence_2",
+   "category": 0,
+   "googleID": "hc_package_defence_2",
+   "appleID": "hc_package_defence_2",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_defence_3": {
+   "key": "Consumable_hc_package_defence_3",
+   "category": 0,
+   "googleID": "hc_package_defence_3",
+   "appleID": "hc_package_defence_3",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_raid": {
+   "key": "Consumable_hc_package_raid",
+   "category": 0,
+   "googleID": "hc_package_raid",
+   "appleID": "hc_package_raid",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_1st_1": {
+   "key": "Consumable_hc_package_1st_1",
+   "category": 0,
+   "googleID": "hc_package_1st_1",
+   "appleID": "hc_package_1st_1",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_package_1st_2": {
+   "key": "Consumable_hc_package_1st_2",
+   "category": 0,
+   "googleID": "hc_package_1st_2",
+   "appleID": "hc_package_1st_2",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_1st_3": {
+   "key": "Consumable_hc_package_1st_3",
+   "category": 0,
+   "googleID": "hc_package_1st_3",
+   "appleID": "hc_package_1st_3",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_1st_half_1": {
+   "key": "Consumable_hc_package_1st_half_1",
+   "category": 0,
+   "googleID": "hc_package_1st_half_1",
+   "appleID": "hc_package_1st_half_1",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_package_1st_half_2": {
+   "key": "Consumable_hc_package_1st_half_2",
+   "category": 0,
+   "googleID": "hc_package_1st_half_2",
+   "appleID": "hc_package_1st_half_2",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_1st_half_3": {
+   "key": "Consumable_hc_package_1st_half_3",
+   "category": 0,
+   "googleID": "hc_package_1st_half_3",
+   "appleID": "hc_package_1st_half_3",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_limit_growth_1": {
+   "key": "Consumable_hc_package_limit_growth_1",
+   "category": 0,
+   "googleID": "hc_package_limit_growth_1",
+   "appleID": "hc_package_limit_growth_1",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_limit_growth_2": {
+   "key": "Consumable_hc_package_limit_growth_2",
+   "category": 0,
+   "googleID": "hc_package_limit_growth_2",
+   "appleID": "hc_package_limit_growth_2",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_package_engrave": {
+   "key": "Consumable_hc_package_engrave",
+   "category": 0,
+   "googleID": "hc_package_engrave",
+   "appleID": "hc_package_engrave",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_limit_symbol_1": {
+   "key": "Consumable_hc_package_limit_symbol_1",
+   "category": 0,
+   "googleID": "hc_package_limit_symbol_1",
+   "appleID": "hc_package_limit_symbol_1",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_limit_symbol_2": {
+   "key": "Consumable_hc_package_limit_symbol_2",
+   "category": 0,
+   "googleID": "hc_package_limit_symbol_2",
+   "appleID": "hc_package_limit_symbol_2",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_delay_01": {
+   "key": "Consumable_hc_package_delay_01",
+   "category": 0,
+   "googleID": "hc_package_delay_01",
+   "appleID": "hc_package_delay_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_abyss_pass_01": {
+   "key": "Consumable_hc_abyss_pass_01",
+   "category": 0,
+   "googleID": "hc_abyss_pass_01",
+   "appleID": "hc_abyss_pass_01",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_abyss_perks": {
+   "key": "Consumable_hc_abyss_perks",
+   "category": 0,
+   "googleID": "hc_abyss_perks",
+   "appleID": "hc_abyss_perks",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_monthly_01": {
+   "key": "Consumable_hc_package_monthly_01",
+   "category": 0,
+   "googleID": "hc_package_monthly_01",
+   "appleID": "hc_package_monthly_01",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_monthly_02": {
+   "key": "Consumable_hc_package_monthly_02",
+   "category": 0,
+   "googleID": "hc_package_monthly_02",
+   "appleID": "hc_package_monthly_02",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_monthly_03": {
+   "key": "Consumable_hc_package_monthly_03",
+   "category": 0,
+   "googleID": "hc_package_monthly_03",
+   "appleID": "hc_package_monthly_03",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_monthly_04": {
+   "key": "Consumable_hc_package_monthly_04",
+   "category": 0,
+   "googleID": "hc_package_monthly_04",
+   "appleID": "hc_package_monthly_04",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_package_limit_abyss": {
+   "key": "Consumable_hc_package_limit_abyss",
+   "category": 0,
+   "googleID": "hc_package_limit_abyss",
+   "appleID": "hc_package_limit_abyss",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_package_limit_rune_all": {
+   "key": "Consumable_hc_package_limit_rune_all",
+   "category": 0,
+   "googleID": "hc_package_limit_rune_all",
+   "appleID": "hc_package_limit_rune_all",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_limit_essence_all": {
+   "key": "Consumable_hc_package_limit_essence_all",
+   "category": 0,
+   "googleID": "hc_package_limit_essence_all",
+   "appleID": "hc_package_limit_essence_all",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_growth_pass_01": {
+   "key": "Consumable_hc_growth_pass_01",
+   "category": 0,
+   "googleID": "hc_growth_pass_01",
+   "appleID": "hc_growth_pass_01",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_skin_1": {
+   "key": "Consumable_hc_skin_1",
+   "category": 0,
+   "googleID": "hc_skin_1",
+   "appleID": "hc_skin_1",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_skin_2": {
+   "key": "Consumable_hc_skin_2",
+   "category": 0,
+   "googleID": "hc_skin_2",
+   "appleID": "hc_skin_2",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_skin_3": {
+   "key": "Consumable_hc_skin_3",
+   "category": 0,
+   "googleID": "hc_skin_3",
+   "appleID": "hc_skin_3",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_skin_4": {
+   "key": "Consumable_hc_skin_4",
+   "category": 0,
+   "googleID": "hc_skin_4",
+   "appleID": "hc_skin_4",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_package_event_13": {
+   "key": "Consumable_hc_package_event_13",
+   "category": 0,
+   "googleID": "hc_package_event_13",
+   "appleID": "hc_package_event_13",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_package_event_14": {
+   "key": "Consumable_hc_package_event_14",
+   "category": 0,
+   "googleID": "hc_package_event_14",
+   "appleID": "hc_package_event_14",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_package_event_15": {
+   "key": "Consumable_hc_package_event_15",
+   "category": 0,
+   "googleID": "hc_package_event_15",
+   "appleID": "hc_package_event_15",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_package_event_16": {
+   "key": "Consumable_hc_package_event_16",
+   "category": 0,
+   "googleID": "hc_package_event_16",
+   "appleID": "hc_package_event_16",
+   "price": 19.989999771118164
+  },
+  "Consumable_hc_package_event_17": {
+   "key": "Consumable_hc_package_event_17",
+   "category": 0,
+   "googleID": "hc_package_event_17",
+   "appleID": "hc_package_event_17",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_package_event_18": {
+   "key": "Consumable_hc_package_event_18",
+   "category": 0,
+   "googleID": "hc_package_event_18",
+   "appleID": "hc_package_event_18",
+   "price": 99.98999786376953
+  },
+  "Consumable_hc_fishing_pass_01": {
+   "key": "Consumable_hc_fishing_pass_01",
+   "category": 0,
+   "googleID": "hc_fishing_pass_01",
+   "appleID": "hc_fishing_pass_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_fishing_pass_01_premium": {
+   "key": "Consumable_hc_fishing_pass_01_premium",
+   "category": 0,
+   "googleID": "hc_fishing_pass_01_premium",
+   "appleID": "hc_fishing_pass_01_premium",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_navigation_daily_01": {
+   "key": "Consumable_hc_navigation_daily_01",
+   "category": 0,
+   "googleID": "hc_navigation_daily_01",
+   "appleID": "hc_navigation_daily_01",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_navigation_daily_02": {
+   "key": "Consumable_hc_navigation_daily_02",
+   "category": 0,
+   "googleID": "hc_navigation_daily_02",
+   "appleID": "hc_navigation_daily_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_mileston_fund_01": {
+   "key": "Consumable_hc_mileston_fund_01",
+   "category": 0,
+   "googleID": "hc_mileston_fund_01",
+   "appleID": "hc_mileston_fund_01",
+   "price": 5.989999771118164
+  },
+  "Consumable_hc_mileston_fund_02": {
+   "key": "Consumable_hc_mileston_fund_02",
+   "category": 0,
+   "googleID": "hc_mileston_fund_02",
+   "appleID": "hc_mileston_fund_02",
+   "price": 6.989999771118164
+  },
+  "Consumable_hc_mileston_fund_efficient": {
+   "key": "Consumable_hc_mileston_fund_efficient",
+   "category": 0,
+   "googleID": "hc_mileston_fund_efficient",
+   "appleID": "hc_mileston_fund_efficient",
+   "price": 17.989999771118164
+  },
+  "Consumable_hc_mileston_fund_speacial": {
+   "key": "Consumable_hc_mileston_fund_speacial",
+   "category": 0,
+   "googleID": "hc_mileston_fund_speacial",
+   "appleID": "hc_mileston_fund_speacial",
+   "price": 20.989999771118164
+  },
+  "Consumable_hc_mileston_fund_efficient_2": {
+   "key": "Consumable_hc_mileston_fund_efficient_2",
+   "category": 0,
+   "googleID": "hc_mileston_fund_efficient_2",
+   "appleID": "hc_mileston_fund_efficient_2",
+   "price": 23.989999771118164
+  },
+  "Consumable_hc_mileston_fund_speacial_2": {
+   "key": "Consumable_hc_mileston_fund_speacial_2",
+   "category": 0,
+   "googleID": "hc_mileston_fund_speacial_2",
+   "appleID": "hc_mileston_fund_speacial_2",
+   "price": 27.989999771118164
+  },
+  "Consumable_hc_7days_package_new": {
+   "key": "Consumable_hc_7days_package_new",
+   "category": 0,
+   "googleID": "hc_7days_package_new",
+   "appleID": "hc_7days_package_new",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_7days_package": {
+   "key": "Consumable_hc_7days_package",
+   "category": 0,
+   "googleID": "hc_7days_package",
+   "appleID": "hc_7days_package",
+   "price": 0.9900000095367432
+  },
+  "Consumable_hc_weekly_package_01": {
+   "key": "Consumable_hc_weekly_package_01",
+   "category": 0,
+   "googleID": "hc_weekly_package_01",
+   "appleID": "hc_weekly_package_01",
+   "price": 3.990000009536743
+  },
+  "Consumable_hc_weekly_package_02": {
+   "key": "Consumable_hc_weekly_package_02",
+   "category": 0,
+   "googleID": "hc_weekly_package_02",
+   "appleID": "hc_weekly_package_02",
+   "price": 5.989999771118164
+  },
+  "Consumable_hc_weekly_package_03": {
+   "key": "Consumable_hc_weekly_package_03",
+   "category": 0,
+   "googleID": "hc_weekly_package_03",
+   "appleID": "hc_weekly_package_03",
+   "price": 7.989999771118164
+  },
+  "Consumable_hc_weekly_package_04": {
+   "key": "Consumable_hc_weekly_package_04",
+   "category": 0,
+   "googleID": "hc_weekly_package_04",
+   "appleID": "hc_weekly_package_04",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_exclusive_package_01": {
+   "key": "Consumable_hc_exclusive_package_01",
+   "category": 0,
+   "googleID": "hc_exclusive_package_01",
+   "appleID": "hc_exclusive_package_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_exclusive_package_02": {
+   "key": "Consumable_hc_exclusive_package_02",
+   "category": 0,
+   "googleID": "hc_exclusive_package_02",
+   "appleID": "hc_exclusive_package_02",
+   "price": 4.989999771118164
+  },
+  "Consumable_hc_exclusive_package_03": {
+   "key": "Consumable_hc_exclusive_package_03",
+   "category": 0,
+   "googleID": "hc_exclusive_package_03",
+   "appleID": "hc_exclusive_package_03",
+   "price": 6.989999771118164
+  },
+  "Consumable_hc_exclusive_package_04": {
+   "key": "Consumable_hc_exclusive_package_04",
+   "category": 0,
+   "googleID": "hc_exclusive_package_04",
+   "appleID": "hc_exclusive_package_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_exclusive_package_05": {
+   "key": "Consumable_hc_exclusive_package_05",
+   "category": 0,
+   "googleID": "hc_exclusive_package_05",
+   "appleID": "hc_exclusive_package_05",
+   "price": 12.989999771118164
+  },
+  "Consumable_hc_exclusive_package_06": {
+   "key": "Consumable_hc_exclusive_package_06",
+   "category": 0,
+   "googleID": "hc_exclusive_package_06",
+   "appleID": "hc_exclusive_package_06",
+   "price": 14.989999771118164
+  },
+  "Consumable_hc_exclusive_package_07": {
+   "key": "Consumable_hc_exclusive_package_07",
+   "category": 0,
+   "googleID": "hc_exclusive_package_07",
+   "appleID": "hc_exclusive_package_07",
+   "price": 17.989999771118164
+  },
+  "Consumable_hc_exclusive_package_08": {
+   "key": "Consumable_hc_exclusive_package_08",
+   "category": 0,
+   "googleID": "hc_exclusive_package_08",
+   "appleID": "hc_exclusive_package_08",
+   "price": 20.989999771118164
+  },
+  "Consumable_hc_exclusive_package_09": {
+   "key": "Consumable_hc_exclusive_package_09",
+   "category": 0,
+   "googleID": "hc_exclusive_package_09",
+   "appleID": "hc_exclusive_package_09",
+   "price": 24.989999771118164
+  },
+  "Consumable_hc_exclusive_package_10": {
+   "key": "Consumable_hc_exclusive_package_10",
+   "category": 0,
+   "googleID": "hc_exclusive_package_10",
+   "appleID": "hc_exclusive_package_10",
+   "price": 29.989999771118164
+  },
+  "Consumable_hc_exclusive_package_11": {
+   "key": "Consumable_hc_exclusive_package_11",
+   "category": 0,
+   "googleID": "hc_exclusive_package_11",
+   "appleID": "hc_exclusive_package_11",
+   "price": 49.9900016784668
+  },
+  "Consumable_hc_exclusive_package_12": {
+   "key": "Consumable_hc_exclusive_package_12",
+   "category": 0,
+   "googleID": "hc_exclusive_package_12",
+   "appleID": "hc_exclusive_package_12",
+   "price": 54.9900016784668
+  },
+  "Consumable_hc_sup_heroget_01": {
+   "key": "Consumable_hc_sup_heroget_01",
+   "category": 0,
+   "googleID": "hc_sup_heroget_01",
+   "appleID": "hc_sup_heroget_01",
+   "price": 1.9900000095367432
+  },
+  "Consumable_hc_sup_heroget_02": {
+   "key": "Consumable_hc_sup_heroget_02",
+   "category": 0,
+   "googleID": "hc_sup_heroget_02",
+   "appleID": "hc_sup_heroget_02",
+   "price": 3.990000009536743
+  },
+  "Consumable_hc_sup_heroget_03": {
+   "key": "Consumable_hc_sup_heroget_03",
+   "category": 0,
+   "googleID": "hc_sup_heroget_03",
+   "appleID": "hc_sup_heroget_03",
+   "price": 6.989999771118164
+  },
+  "Consumable_hc_sup_heroget_04": {
+   "key": "Consumable_hc_sup_heroget_04",
+   "category": 0,
+   "googleID": "hc_sup_heroget_04",
+   "appleID": "hc_sup_heroget_04",
+   "price": 9.989999771118164
+  },
+  "Consumable_hc_sup_heroget_05": {
+   "key": "Consumable_hc_sup_heroget_05",
+   "category": 0,
+   "googleID": "hc_sup_heroget_05",
+   "appleID": "hc_sup_heroget_05",
+   "price": 14.989999771118164
+  },
+  "Consumable_hc_package_freepass": {
+   "key": "Consumable_hc_package_freepass",
+   "category": 0,
+   "googleID": "hc_package_freepass",
+   "appleID": "hc_package_freepass",
+   "price": 0.5
+  },
+  "Consumable_hc_battle_perks": {
+   "key": "Consumable_hc_battle_perks",
+   "category": 0,
+   "googleID": "hc_battle_perks",
+   "appleID": "hc_battle_perks",
+   "price": 5.989999771118164
+  }
+ }
+}

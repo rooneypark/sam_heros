@@ -1,0 +1,74 @@
+{
+ "sheetName": "TableDPPData",
+ "tableIndex": 0,
+ "rows": {
+  "DPP00000": {
+   "key": "DPP00000",
+   "category": 0,
+   "index": 0,
+   "delayType": "NONE",
+   "delayKey": "",
+   "delayValue": 0,
+   "tab": "LocalizeDelayTab000000",
+   "desc": "",
+   "rewardKeyList": [
+    "Item003027",
+    "Item002002",
+    "Item002003",
+    "Item002005",
+    "Item009104"
+   ],
+   "amountList": [
+    50.0,
+    999.0,
+    150.0,
+    30.0,
+    15.0
+   ]
+  },
+  "DPP00001": {
+   "key": "DPP00001",
+   "category": 0,
+   "index": 1,
+   "delayType": "AFT_PUR_DAY",
+   "delayKey": "",
+   "delayValue": 1,
+   "tab": "LocalizeDelayTab000001",
+   "desc": "LocalizeDelayDesc000000",
+   "rewardKeyList": [
+    "Item003027",
+    "Item002002",
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    50.0,
+    999.0,
+    200.0,
+    30.0
+   ]
+  },
+  "DPP00002": {
+   "key": "DPP00002",
+   "category": 0,
+   "index": 2,
+   "delayType": "AFT_PUR_DAY",
+   "delayKey": "",
+   "delayValue": 2,
+   "tab": "LocalizeDelayTab000002",
+   "desc": "LocalizeDelayDesc000000",
+   "rewardKeyList": [
+    "Item003027",
+    "Item19909227",
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    50.0,
+    1.0,
+    250.0,
+    30.0
+   ]
+  }
+ }
+}

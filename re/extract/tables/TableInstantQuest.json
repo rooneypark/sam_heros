@@ -1,0 +1,924 @@
+{
+ "sheetName": "TableInstantQuestData",
+ "tableIndex": 0,
+ "rows": {
+  "InstantQuest000013": {
+   "key": "InstantQuest000013",
+   "category": 0,
+   "index": 13,
+   "questType": "AD",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000016"
+  },
+  "InstantQuest000000": {
+   "key": "InstantQuest000000",
+   "category": 0,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest000010": {
+   "key": "InstantQuest000010",
+   "category": 0,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest000001": {
+   "key": "InstantQuest000001",
+   "category": 0,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest000002": {
+   "key": "InstantQuest000002",
+   "category": 0,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest000012": {
+   "key": "InstantQuest000012",
+   "category": 0,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest000003": {
+   "key": "InstantQuest000003",
+   "category": 0,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest000004": {
+   "key": "InstantQuest000004",
+   "category": 0,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest000005": {
+   "key": "InstantQuest000005",
+   "category": 0,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest000006": {
+   "key": "InstantQuest000006",
+   "category": 0,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest000007": {
+   "key": "InstantQuest000007",
+   "category": 0,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest000008": {
+   "key": "InstantQuest000008",
+   "category": 0,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest000009": {
+   "key": "InstantQuest000009",
+   "category": 0,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest000011": {
+   "key": "InstantQuest000011",
+   "category": 0,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest001000": {
+   "key": "InstantQuest001000",
+   "category": 1,
+   "index": 0,
+   "questType": "LOGIN",
+   "questValue": 5,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000013"
+  },
+  "InstantQuest001001": {
+   "key": "InstantQuest001001",
+   "category": 1,
+   "index": 1,
+   "questType": "PUB",
+   "questValue": 10,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest001002": {
+   "key": "InstantQuest001002",
+   "category": 1,
+   "index": 2,
+   "questType": "DUNGEON",
+   "questValue": 15,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest001003": {
+   "key": "InstantQuest001003",
+   "category": 1,
+   "index": 3,
+   "questType": "TREASURE",
+   "questValue": 20,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest001004": {
+   "key": "InstantQuest001004",
+   "category": 1,
+   "index": 4,
+   "questType": "CAMP_TIME",
+   "questValue": 150,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000014"
+  },
+  "InstantQuest001005": {
+   "key": "InstantQuest001005",
+   "category": 1,
+   "index": 5,
+   "questType": "DIMENSION",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000012"
+  },
+  "InstantQuest001009": {
+   "key": "InstantQuest001009",
+   "category": 1,
+   "index": 9,
+   "questType": "FAME_DAILY",
+   "questValue": 5,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest001006": {
+   "key": "InstantQuest001006",
+   "category": 1,
+   "index": 6,
+   "questType": "MONSTER",
+   "questValue": 2000,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest001007": {
+   "key": "InstantQuest001007",
+   "category": 1,
+   "index": 7,
+   "questType": "ELITE_KILL",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest001008": {
+   "key": "InstantQuest001008",
+   "category": 1,
+   "index": 8,
+   "questType": "BOSS",
+   "questValue": 30,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest002000": {
+   "key": "InstantQuest002000",
+   "category": 2,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest002010": {
+   "key": "InstantQuest002010",
+   "category": 2,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest002001": {
+   "key": "InstantQuest002001",
+   "category": 2,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest002002": {
+   "key": "InstantQuest002002",
+   "category": 2,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest002012": {
+   "key": "InstantQuest002012",
+   "category": 2,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest002003": {
+   "key": "InstantQuest002003",
+   "category": 2,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest002004": {
+   "key": "InstantQuest002004",
+   "category": 2,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest002005": {
+   "key": "InstantQuest002005",
+   "category": 2,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest002006": {
+   "key": "InstantQuest002006",
+   "category": 2,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest002007": {
+   "key": "InstantQuest002007",
+   "category": 2,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest002008": {
+   "key": "InstantQuest002008",
+   "category": 2,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest002009": {
+   "key": "InstantQuest002009",
+   "category": 2,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest002011": {
+   "key": "InstantQuest002011",
+   "category": 2,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest003000": {
+   "key": "InstantQuest003000",
+   "category": 3,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest003010": {
+   "key": "InstantQuest003010",
+   "category": 3,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest003001": {
+   "key": "InstantQuest003001",
+   "category": 3,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest003002": {
+   "key": "InstantQuest003002",
+   "category": 3,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest003012": {
+   "key": "InstantQuest003012",
+   "category": 3,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest003003": {
+   "key": "InstantQuest003003",
+   "category": 3,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest003004": {
+   "key": "InstantQuest003004",
+   "category": 3,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest003005": {
+   "key": "InstantQuest003005",
+   "category": 3,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest003006": {
+   "key": "InstantQuest003006",
+   "category": 3,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest003007": {
+   "key": "InstantQuest003007",
+   "category": 3,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest003008": {
+   "key": "InstantQuest003008",
+   "category": 3,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest003009": {
+   "key": "InstantQuest003009",
+   "category": 3,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest003011": {
+   "key": "InstantQuest003011",
+   "category": 3,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest004000": {
+   "key": "InstantQuest004000",
+   "category": 4,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest004010": {
+   "key": "InstantQuest004010",
+   "category": 4,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest004001": {
+   "key": "InstantQuest004001",
+   "category": 4,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest004002": {
+   "key": "InstantQuest004002",
+   "category": 4,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest004012": {
+   "key": "InstantQuest004012",
+   "category": 4,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest004003": {
+   "key": "InstantQuest004003",
+   "category": 4,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest004004": {
+   "key": "InstantQuest004004",
+   "category": 4,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest004005": {
+   "key": "InstantQuest004005",
+   "category": 4,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest004006": {
+   "key": "InstantQuest004006",
+   "category": 4,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest004007": {
+   "key": "InstantQuest004007",
+   "category": 4,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest004008": {
+   "key": "InstantQuest004008",
+   "category": 4,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest004009": {
+   "key": "InstantQuest004009",
+   "category": 4,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest004011": {
+   "key": "InstantQuest004011",
+   "category": 4,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest005000": {
+   "key": "InstantQuest005000",
+   "category": 5,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest005010": {
+   "key": "InstantQuest005010",
+   "category": 5,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest005001": {
+   "key": "InstantQuest005001",
+   "category": 5,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest005002": {
+   "key": "InstantQuest005002",
+   "category": 5,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest005012": {
+   "key": "InstantQuest005012",
+   "category": 5,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest005003": {
+   "key": "InstantQuest005003",
+   "category": 5,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest005004": {
+   "key": "InstantQuest005004",
+   "category": 5,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest005005": {
+   "key": "InstantQuest005005",
+   "category": 5,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest005006": {
+   "key": "InstantQuest005006",
+   "category": 5,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest005007": {
+   "key": "InstantQuest005007",
+   "category": 5,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest005008": {
+   "key": "InstantQuest005008",
+   "category": 5,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest005009": {
+   "key": "InstantQuest005009",
+   "category": 5,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest005011": {
+   "key": "InstantQuest005011",
+   "category": 5,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest006000": {
+   "key": "InstantQuest006000",
+   "category": 6,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest006010": {
+   "key": "InstantQuest006010",
+   "category": 6,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest006001": {
+   "key": "InstantQuest006001",
+   "category": 6,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest006002": {
+   "key": "InstantQuest006002",
+   "category": 6,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest006012": {
+   "key": "InstantQuest006012",
+   "category": 6,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest006003": {
+   "key": "InstantQuest006003",
+   "category": 6,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest006004": {
+   "key": "InstantQuest006004",
+   "category": 6,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest006005": {
+   "key": "InstantQuest006005",
+   "category": 6,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest006006": {
+   "key": "InstantQuest006006",
+   "category": 6,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest006007": {
+   "key": "InstantQuest006007",
+   "category": 6,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest006008": {
+   "key": "InstantQuest006008",
+   "category": 6,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest006009": {
+   "key": "InstantQuest006009",
+   "category": 6,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest006011": {
+   "key": "InstantQuest006011",
+   "category": 6,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  },
+  "InstantQuest007000": {
+   "key": "InstantQuest007000",
+   "category": 7,
+   "index": 0,
+   "questType": "MONSTER",
+   "questValue": 200,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000000"
+  },
+  "InstantQuest007010": {
+   "key": "InstantQuest007010",
+   "category": 7,
+   "index": 10,
+   "questType": "ELITE_KILL",
+   "questValue": 10,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000010"
+  },
+  "InstantQuest007001": {
+   "key": "InstantQuest007001",
+   "category": 7,
+   "index": 1,
+   "questType": "BOSS",
+   "questValue": 3,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000001"
+  },
+  "InstantQuest007002": {
+   "key": "InstantQuest007002",
+   "category": 7,
+   "index": 2,
+   "questType": "RESOURCE",
+   "questValue": 100,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000002"
+  },
+  "InstantQuest007012": {
+   "key": "InstantQuest007012",
+   "category": 7,
+   "index": 12,
+   "questType": "FAME_DAILY",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000015"
+  },
+  "InstantQuest007003": {
+   "key": "InstantQuest007003",
+   "category": 7,
+   "index": 3,
+   "questType": "CAMP",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000003"
+  },
+  "InstantQuest007004": {
+   "key": "InstantQuest007004",
+   "category": 7,
+   "index": 4,
+   "questType": "TREASURE",
+   "questValue": 3,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000004"
+  },
+  "InstantQuest007005": {
+   "key": "InstantQuest007005",
+   "category": 7,
+   "index": 5,
+   "questType": "HERO_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000005"
+  },
+  "InstantQuest007006": {
+   "key": "InstantQuest007006",
+   "category": 7,
+   "index": 6,
+   "questType": "TRAINING_LV",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000006"
+  },
+  "InstantQuest007007": {
+   "key": "InstantQuest007007",
+   "category": 7,
+   "index": 7,
+   "questType": "PUB",
+   "questValue": 1,
+   "rewardValue": 20,
+   "desc": "LocalizeInstantQuestDaily000007"
+  },
+  "InstantQuest007008": {
+   "key": "InstantQuest007008",
+   "category": 7,
+   "index": 8,
+   "questType": "PUB_RESET",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000008"
+  },
+  "InstantQuest007009": {
+   "key": "InstantQuest007009",
+   "category": 7,
+   "index": 9,
+   "questType": "DUNGEON",
+   "questValue": 2,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000009"
+  },
+  "InstantQuest007011": {
+   "key": "InstantQuest007011",
+   "category": 7,
+   "index": 11,
+   "questType": "TOWER",
+   "questValue": 1,
+   "rewardValue": 10,
+   "desc": "LocalizeInstantQuestDaily000011"
+  }
+ }
+}

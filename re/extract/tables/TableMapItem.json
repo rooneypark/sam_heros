@@ -1,0 +1,72 @@
+{
+ "sheetName": "TableMapItemData",
+ "tableIndex": 0,
+ "rows": {
+  "MapItem000": {
+   "key": "MapItem000",
+   "index": 0,
+   "mapItems": [
+    "Item000005",
+    "Item000005",
+    "Item000006",
+    "Item000007"
+   ],
+   "minUserLv": 0
+  },
+  "MapItem001": {
+   "key": "MapItem001",
+   "index": 1,
+   "mapItems": [
+    "Item000008",
+    "Item000008",
+    "Item000009",
+    "Item000010"
+   ],
+   "minUserLv": 19
+  },
+  "MapItem002": {
+   "key": "MapItem002",
+   "index": 2,
+   "mapItems": [
+    "Item000011",
+    "Item000011",
+    "Item000012",
+    "Item000013"
+   ],
+   "minUserLv": 29
+  },
+  "MapItem003": {
+   "key": "MapItem003",
+   "index": 3,
+   "mapItems": [
+    "Item000014",
+    "Item000014",
+    "Item000015",
+    "Item000016"
+   ],
+   "minUserLv": 39
+  },
+  "MapItem004": {
+   "key": "MapItem004",
+   "index": 4,
+   "mapItems": [
+    "Item000035",
+    "Item000035",
+    "Item000036",
+    "Item000037"
+   ],
+   "minUserLv": 49
+  },
+  "MapItem005": {
+   "key": "MapItem005",
+   "index": 5,
+   "mapItems": [
+    "Item000031",
+    "Item000031",
+    "Item000032",
+    "Item000033"
+   ],
+   "minUserLv": 59
+  }
+ }
+}

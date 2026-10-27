@@ -1,0 +1,6144 @@
+{
+ "sheetName": "TableDungeonData",
+ "tableIndex": 0,
+ "rows": {
+  "Dungeon000001": {
+   "key": "Dungeon000001",
+   "category": 0,
+   "level": 40,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 4000,
+   "limitLv": 1,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup904000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem940001",
+    "DropItem940002",
+    "DropItem940003",
+    "DropItem940004",
+    "DropItem940005"
+   ],
+   "displayItems": [
+    "Item000002",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000002": {
+   "key": "Dungeon000002",
+   "category": 0,
+   "level": 2,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 8000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_03",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem902005"
+   ],
+   "displayItems": [
+    "Item000000",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000003": {
+   "key": "Dungeon000003",
+   "category": 0,
+   "level": 3,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 8000,
+   "limitLv": 9,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000002",
+   "bgTile": "bg_05",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem920001",
+    "DropItem920002",
+    "DropItem920003",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000002",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000004": {
+   "key": "Dungeon000004",
+   "category": 0,
+   "level": 4,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 8000,
+   "limitLv": 9,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_04",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem920001",
+    "DropItem920002",
+    "DropItem920003",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000002",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000040": {
+   "key": "Dungeon000040",
+   "category": 0,
+   "level": 35,
+   "name": "LocalizeDungeonName000902",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 4000,
+   "limitLv": 1,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup904000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem940001",
+    "DropItem940002",
+    "DropItem940003",
+    "DropItem940004",
+    "DropItem940005"
+   ],
+   "displayItems": [
+    "Item002008",
+    "Item002007",
+    "Item009016"
+   ]
+  },
+  "Dungeon000041": {
+   "key": "Dungeon000041",
+   "category": 0,
+   "level": 35,
+   "name": "LocalizeDungeonName000902",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 4000,
+   "limitLv": 1,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup904000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem940006",
+    "DropItem940007",
+    "DropItem940008",
+    "DropItem940009",
+    "DropItem940010"
+   ],
+   "displayItems": [
+    "Item002008",
+    "Item002007",
+    "Item009016"
+   ]
+  },
+  "Dungeon000042": {
+   "key": "Dungeon000042",
+   "category": 0,
+   "level": 35,
+   "name": "LocalizeDungeonName000902",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 4000,
+   "limitLv": 1,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup904000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem940011",
+    "DropItem940012",
+    "DropItem940013",
+    "DropItem940014",
+    "DropItem940015"
+   ],
+   "displayItems": [
+    "Item002008",
+    "Item002007",
+    "Item009016"
+   ]
+  },
+  "Dungeon001000": {
+   "key": "Dungeon001000",
+   "category": 1,
+   "level": 0,
+   "name": "LocalizeDungeonName000000",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 1000,
+   "limitLv": 0,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000000",
+    "Item000001",
+    "Item000002"
+   ]
+  },
+  "Dungeon001001": {
+   "key": "Dungeon001001",
+   "category": 1,
+   "level": 1,
+   "name": "LocalizeDungeonName000000",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 2000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000002",
+   "bgTile": "bg_00",
+   "eliteRate": 0.20000000298023224,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000000",
+    "Item000001",
+    "Item000002"
+   ]
+  },
+  "Dungeon001002": {
+   "key": "Dungeon001002",
+   "category": 1,
+   "level": 2,
+   "name": "LocalizeDungeonName000000",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 3000,
+   "limitLv": 9,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000000",
+    "Item000001",
+    "Item000002"
+   ]
+  },
+  "Dungeon001040": {
+   "key": "Dungeon001040",
+   "category": 1,
+   "level": 35,
+   "name": "LocalizeDungeonName000902",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 4000,
+   "limitLv": 1,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup904000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem941001",
+    "DropItem941002",
+    "DropItem941003",
+    "DropItem941004",
+    "DropItem941005"
+   ],
+   "displayItems": [
+    "Item009017",
+    "Item002008",
+    "Item002007",
+    "Item009016"
+   ]
+  },
+  "Dungeon100008": {
+   "key": "Dungeon100008",
+   "category": 100,
+   "level": 8,
+   "name": "LocalizeTreasureDungeonName000000",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 6,
+   "power": 5000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem910004",
+    "DropItem910005",
+    "DropItem910006",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000001",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon100011": {
+   "key": "Dungeon100011",
+   "category": 100,
+   "level": 11,
+   "name": "LocalizeTreasureDungeonName000000",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 9,
+   "power": 6000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000002",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem999001",
+    "DropItem999002",
+    "DropItem999003",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000004",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon100018": {
+   "key": "Dungeon100018",
+   "category": 100,
+   "level": 18,
+   "name": "LocalizeTreasureDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 6,
+   "power": 9000,
+   "limitLv": 9,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem920004",
+    "DropItem920005",
+    "DropItem920006",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000003",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon100021": {
+   "key": "Dungeon100021",
+   "category": 100,
+   "level": 21,
+   "name": "LocalizeTreasureDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 9,
+   "power": 10000,
+   "limitLv": 9,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.30000001192092896,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem000000",
+    "DropItem999001",
+    "DropItem999002",
+    "DropItem999003",
+    "DropItem000001"
+   ],
+   "displayItems": [
+    "Item000004",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101003": {
+   "key": "Dungeon101003",
+   "category": 101,
+   "level": 3,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101002"
+   ],
+   "supportHero": "SupportHero004002",
+   "bgTile": "bg_00",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900005",
+    "DropItem900006",
+    "DropItem900006",
+    "DropItem900006",
+    "DropItem900006"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101004": {
+   "key": "Dungeon101004",
+   "category": 101,
+   "level": 4,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 1,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900001",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem900000"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101005": {
+   "key": "Dungeon101005",
+   "category": 101,
+   "level": 5,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 2500,
+   "limitLv": 3,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101001"
+   ],
+   "supportHero": "SupportHero004005",
+   "bgTile": "bg_00",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900001",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem900007"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006",
+    "Item009019"
+   ]
+  },
+  "Dungeon101006": {
+   "key": "Dungeon101006",
+   "category": 101,
+   "level": 6,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 5000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900001",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem901005"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101007": {
+   "key": "Dungeon101007",
+   "category": 101,
+   "level": 7,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 5000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero004001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900001",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem900901"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101008": {
+   "key": "Dungeon101008",
+   "category": 101,
+   "level": 8,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 6000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero001003",
+   "bgTile": "bg_00",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem901001",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem901005"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006",
+    "Item009019"
+   ]
+  },
+  "Dungeon101009": {
+   "key": "Dungeon101009",
+   "category": 101,
+   "level": 8,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 5000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero001003",
+   "bgTile": "bg_00",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900001",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem901005"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon101012": {
+   "key": "Dungeon101012",
+   "category": 101,
+   "level": 12,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 9000,
+   "limitLv": 7,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem901008",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem901006"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006",
+    "Item009019"
+   ]
+  },
+  "Dungeon101016": {
+   "key": "Dungeon101016",
+   "category": 101,
+   "level": 16,
+   "name": "LocalizeDungeonName000001",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 12000,
+   "limitLv": 7,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup101000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem901009",
+    "DropItem901002",
+    "DropItem901003",
+    "DropItem901004",
+    "DropItem901007"
+   ],
+   "displayItems": [
+    "Item000007",
+    "Item002003",
+    "Item002006",
+    "Item009019"
+   ]
+  },
+  "Dungeon102015": {
+   "key": "Dungeon102015",
+   "category": 102,
+   "level": 15,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 12000,
+   "limitLv": 17,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_03",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem902001",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem902005"
+   ],
+   "displayItems": [
+    "Item000010",
+    "Item002003",
+    "Item002006",
+    "Item009020"
+   ]
+  },
+  "Dungeon102016": {
+   "key": "Dungeon102016",
+   "category": 102,
+   "level": 16,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 12000,
+   "limitLv": 17,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero003000",
+   "bgTile": "bg_03",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem902001",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem900901"
+   ],
+   "displayItems": [
+    "Item000010",
+    "Item002003",
+    "Item002006",
+    "Item009020"
+   ]
+  },
+  "Dungeon102020": {
+   "key": "Dungeon102020",
+   "category": 102,
+   "level": 18,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 15000,
+   "limitLv": 17,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_03",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem902001",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem902005"
+   ],
+   "displayItems": [
+    "Item000010",
+    "Item002003",
+    "Item002006",
+    "Item009020"
+   ]
+  },
+  "Dungeon102024": {
+   "key": "Dungeon102024",
+   "category": 102,
+   "level": 24,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 18000,
+   "limitLv": 17,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_03",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem902008",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem902006"
+   ],
+   "displayItems": [
+    "Item000010",
+    "Item002003",
+    "Item002006",
+    "Item009020"
+   ]
+  },
+  "Dungeon102028": {
+   "key": "Dungeon102028",
+   "category": 102,
+   "level": 28,
+   "name": "LocalizeDungeonName000002",
+   "image": "UI_DungeonMap_01",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 22000,
+   "limitLv": 17,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup102000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_03",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem902009",
+    "DropItem902002",
+    "DropItem902003",
+    "DropItem902004",
+    "DropItem902007"
+   ],
+   "displayItems": [
+    "Item000010",
+    "Item002003",
+    "Item002006",
+    "Item009020"
+   ]
+  },
+  "Dungeon103025": {
+   "key": "Dungeon103025",
+   "category": 103,
+   "level": 25,
+   "name": "LocalizeDungeonName000003",
+   "image": "UI_DungeonMap_05",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 20000,
+   "limitLv": 27,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup103000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_07",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem903001",
+    "DropItem903002",
+    "DropItem903003",
+    "DropItem903004",
+    "DropItem903005"
+   ],
+   "displayItems": [
+    "Item000013",
+    "Item002003",
+    "Item002006",
+    "Item009021"
+   ]
+  },
+  "Dungeon103026": {
+   "key": "Dungeon103026",
+   "category": 103,
+   "level": 26,
+   "name": "LocalizeDungeonName000003",
+   "image": "UI_DungeonMap_05",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 20000,
+   "limitLv": 27,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup103000"
+   ],
+   "supportHero": "SupportHero001000",
+   "bgTile": "bg_07",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem903001",
+    "DropItem903002",
+    "DropItem903003",
+    "DropItem903004",
+    "DropItem900901"
+   ],
+   "displayItems": [
+    "Item000013",
+    "Item002003",
+    "Item002006",
+    "Item009021"
+   ]
+  },
+  "Dungeon103030": {
+   "key": "Dungeon103030",
+   "category": 103,
+   "level": 28,
+   "name": "LocalizeDungeonName000003",
+   "image": "UI_DungeonMap_05",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 25000,
+   "limitLv": 27,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup103000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_07",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem903001",
+    "DropItem903002",
+    "DropItem903003",
+    "DropItem903004",
+    "DropItem903005"
+   ],
+   "displayItems": [
+    "Item000013",
+    "Item002003",
+    "Item002006",
+    "Item009021"
+   ]
+  },
+  "Dungeon103034": {
+   "key": "Dungeon103034",
+   "category": 103,
+   "level": 33,
+   "name": "LocalizeDungeonName000003",
+   "image": "UI_DungeonMap_05",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 30000,
+   "limitLv": 27,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup103000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_07",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem903008",
+    "DropItem903002",
+    "DropItem903003",
+    "DropItem903004",
+    "DropItem903006"
+   ],
+   "displayItems": [
+    "Item000013",
+    "Item002003",
+    "Item002006",
+    "Item009021"
+   ]
+  },
+  "Dungeon103038": {
+   "key": "Dungeon103038",
+   "category": 103,
+   "level": 38,
+   "name": "LocalizeDungeonName000003",
+   "image": "UI_DungeonMap_05",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 33000,
+   "limitLv": 27,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup103000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_07",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem903009",
+    "DropItem903002",
+    "DropItem903003",
+    "DropItem903004",
+    "DropItem903007"
+   ],
+   "displayItems": [
+    "Item000013",
+    "Item002003",
+    "Item002006",
+    "Item009021"
+   ]
+  },
+  "Dungeon104035": {
+   "key": "Dungeon104035",
+   "category": 104,
+   "level": 35,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_04",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 30000,
+   "limitLv": 37,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_04",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem904001",
+    "DropItem904002",
+    "DropItem904003",
+    "DropItem904004",
+    "DropItem904005"
+   ],
+   "displayItems": [
+    "Item000016",
+    "Item002003",
+    "Item002006",
+    "Item009022"
+   ]
+  },
+  "Dungeon104036": {
+   "key": "Dungeon104036",
+   "category": 104,
+   "level": 36,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_04",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 30000,
+   "limitLv": 37,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "SupportHero001000",
+   "bgTile": "bg_04",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem904001",
+    "DropItem904002",
+    "DropItem904003",
+    "DropItem904004",
+    "DropItem900901"
+   ],
+   "displayItems": [
+    "Item000016",
+    "Item002003",
+    "Item002006",
+    "Item009022"
+   ]
+  },
+  "Dungeon104040": {
+   "key": "Dungeon104040",
+   "category": 104,
+   "level": 38,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_04",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 38000,
+   "limitLv": 37,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_04",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem904001",
+    "DropItem904002",
+    "DropItem904003",
+    "DropItem904004",
+    "DropItem904005"
+   ],
+   "displayItems": [
+    "Item000016",
+    "Item002003",
+    "Item002006",
+    "Item009022"
+   ]
+  },
+  "Dungeon104044": {
+   "key": "Dungeon104044",
+   "category": 104,
+   "level": 43,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_04",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 44000,
+   "limitLv": 37,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_04",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem904008",
+    "DropItem904002",
+    "DropItem904003",
+    "DropItem904004",
+    "DropItem904006"
+   ],
+   "displayItems": [
+    "Item000016",
+    "Item002003",
+    "Item002006",
+    "Item009022"
+   ]
+  },
+  "Dungeon104048": {
+   "key": "Dungeon104048",
+   "category": 104,
+   "level": 48,
+   "name": "LocalizeDungeonName000004",
+   "image": "UI_DungeonMap_04",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 50000,
+   "limitLv": 37,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup104000"
+   ],
+   "supportHero": "SupportHero000001",
+   "bgTile": "bg_04",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem904009",
+    "DropItem904002",
+    "DropItem904003",
+    "DropItem904004",
+    "DropItem904007"
+   ],
+   "displayItems": [
+    "Item000016",
+    "Item002003",
+    "Item002006",
+    "Item009022"
+   ]
+  },
+  "Dungeon105050": {
+   "key": "Dungeon105050",
+   "category": 105,
+   "level": 48,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 56000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905001",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905005"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon105055": {
+   "key": "Dungeon105055",
+   "category": 105,
+   "level": 54,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 65000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905008",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905006"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon105060": {
+   "key": "Dungeon105060",
+   "category": 105,
+   "level": 60,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 75000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905009",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905007"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon106050": {
+   "key": "Dungeon106050",
+   "category": 106,
+   "level": 48,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 56000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905010",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905005"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon106055": {
+   "key": "Dungeon106055",
+   "category": 106,
+   "level": 54,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 65000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 0.75,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905011",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905006"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon106060": {
+   "key": "Dungeon106060",
+   "category": 106,
+   "level": 60,
+   "name": "LocalizeDungeonName000005",
+   "image": "UI_DungeonMap_03",
+   "autoPlay": true,
+   "bossDist": 2,
+   "power": 75000,
+   "limitLv": 47,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup105000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem905012",
+    "DropItem905002",
+    "DropItem905003",
+    "DropItem905004",
+    "DropItem905007"
+   ],
+   "displayItems": [
+    "Item000019",
+    "Item002003",
+    "Item002006",
+    "Item009023"
+   ]
+  },
+  "Dungeon000005": {
+   "key": "Dungeon000005",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000008": {
+   "key": "Dungeon000008",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000009": {
+   "key": "Dungeon000009",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000007": {
+   "key": "Dungeon000007",
+   "category": 0,
+   "level": 7,
+   "name": "LocalizeDungeonName000902",
+   "image": "UI_DungeonMap_100",
+   "autoPlay": true,
+   "bossDist": 1,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup902000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_06",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002001",
+    "Item002000"
+   ]
+  },
+  "Dungeon000006": {
+   "key": "Dungeon000006",
+   "category": 0,
+   "level": 6,
+   "name": "LocalizeDungeonName000903",
+   "image": "UI_DungeonMap_501",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup903000"
+   ],
+   "supportHero": "SupportHero000000",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002001",
+    "Item002000"
+   ]
+  },
+  "Dungeon000010": {
+   "key": "Dungeon000010",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup905000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000011": {
+   "key": "Dungeon000011",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003001",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000012": {
+   "key": "Dungeon000012",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003002",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000013": {
+   "key": "Dungeon000013",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003011",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000014": {
+   "key": "Dungeon000014",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003014",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000015": {
+   "key": "Dungeon000015",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003017",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000016": {
+   "key": "Dungeon000016",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003018",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000017": {
+   "key": "Dungeon000017",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003019",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000018": {
+   "key": "Dungeon000018",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003015",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000019": {
+   "key": "Dungeon000019",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003020",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000020": {
+   "key": "Dungeon000020",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003021",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000021": {
+   "key": "Dungeon000021",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003022",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000022": {
+   "key": "Dungeon000022",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003023",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000023": {
+   "key": "Dungeon000023",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003030",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000024": {
+   "key": "Dungeon000024",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003031",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000025": {
+   "key": "Dungeon000025",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003032",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000026": {
+   "key": "Dungeon000026",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003033",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000027": {
+   "key": "Dungeon000027",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003034",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000028": {
+   "key": "Dungeon000028",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003004",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000029": {
+   "key": "Dungeon000029",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003003",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000030": {
+   "key": "Dungeon000030",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003006",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000031": {
+   "key": "Dungeon000031",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003007",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000032": {
+   "key": "Dungeon000032",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003008",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000033": {
+   "key": "Dungeon000033",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003010",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000034": {
+   "key": "Dungeon000034",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003035",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000035": {
+   "key": "Dungeon000035",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003005",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon000036": {
+   "key": "Dungeon000036",
+   "category": 0,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901000"
+   ],
+   "supportHero": "SupportHero003009",
+   "bgTile": "bg_00",
+   "eliteRate": 0.10000000149011612,
+   "eliteGradeRate": [
+    0.6000000238418579,
+    0.30000001192092896,
+    0.10000000149011612
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002003",
+    "Item002006"
+   ]
+  },
+  "Dungeon105006": {
+   "key": "Dungeon105006",
+   "category": 105,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.0005000000237487257,
+    0.0005000000237487257,
+    0.9990000128746033
+   ],
+   "dropItems": [
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon105020": {
+   "key": "Dungeon105020",
+   "category": 105,
+   "level": 20,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.0005000000237487257,
+    0.0005000000237487257,
+    0.9990000128746033
+   ],
+   "dropItems": [
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon105000": {
+   "key": "Dungeon105000",
+   "category": 105,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup901003"
+   ],
+   "supportHero": "SupportHero003016",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.0005000000237487257,
+    0.0005000000237487257,
+    0.9990000128746033
+   ],
+   "dropItems": [
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001",
+    "DropItem909001"
+   ],
+   "displayItems": [
+    "Item002003",
+    "Item009004"
+   ]
+  },
+  "Dungeon906000": {
+   "key": "Dungeon906000",
+   "category": 906,
+   "level": 0,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup906000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.699999988079071,
+    0.20000000298023224,
+    0.10000000149011612
+   ],
+   "dropItems": [
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906"
+   ],
+   "displayItems": [
+    "Item002026",
+    "Item002027"
+   ]
+  },
+  "Dungeon906001": {
+   "key": "Dungeon906001",
+   "category": 906,
+   "level": 1,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup906002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.5,
+    0.4000000059604645
+   ],
+   "dropItems": [
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906"
+   ],
+   "displayItems": [
+    "Item002026",
+    "Item002027"
+   ]
+  },
+  "Dungeon906002": {
+   "key": "Dungeon906002",
+   "category": 906,
+   "level": 2,
+   "name": "LocalizeDungeonName000901",
+   "image": "UI_DungeonMap_99",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup906001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.5,
+    0.4000000059604645
+   ],
+   "dropItems": [
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906",
+    "DropItem900906"
+   ],
+   "displayItems": [
+    "Item002026",
+    "Item002027"
+   ]
+  },
+  "Dungeon907000": {
+   "key": "Dungeon907000",
+   "category": 907,
+   "level": 0,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 1,
+   "power": 120000,
+   "limitLv": 59,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup907000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 0.5,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem906001",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem906013"
+   ],
+   "displayItems": [
+    "Item002031",
+    "Item002032",
+    "Item002033",
+    "Item002006"
+   ]
+  },
+  "Dungeon907001": {
+   "key": "Dungeon907001",
+   "category": 907,
+   "level": 1,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 3,
+   "power": 200000,
+   "limitLv": 59,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup907001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem906002",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem906013"
+   ],
+   "displayItems": [
+    "Item002031",
+    "Item002032",
+    "Item002033",
+    "Item002006"
+   ]
+  },
+  "Dungeon907002": {
+   "key": "Dungeon907002",
+   "category": 907,
+   "level": 2,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 4,
+   "power": 350000,
+   "limitLv": 59,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup907002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem906003",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem900000",
+    "DropItem906013"
+   ],
+   "displayItems": [
+    "Item002031",
+    "Item002032",
+    "Item002033",
+    "Item002006"
+   ]
+  },
+  "Dungeon799000": {
+   "key": "Dungeon799000",
+   "category": 799,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700000"
+   ],
+   "supportHero": "SupportHero004004",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon799001": {
+   "key": "Dungeon799001",
+   "category": 799,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300004"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700000": {
+   "key": "Dungeon700000",
+   "category": 700,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700001": {
+   "key": "Dungeon700001",
+   "category": 700,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700002": {
+   "key": "Dungeon700002",
+   "category": 700,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700003": {
+   "key": "Dungeon700003",
+   "category": 700,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700004": {
+   "key": "Dungeon700004",
+   "category": 700,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700004"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700005": {
+   "key": "Dungeon700005",
+   "category": 700,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700005"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700006": {
+   "key": "Dungeon700006",
+   "category": 700,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700006"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700007": {
+   "key": "Dungeon700007",
+   "category": 700,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700008": {
+   "key": "Dungeon700008",
+   "category": 700,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700009": {
+   "key": "Dungeon700009",
+   "category": 700,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem312001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700010": {
+   "key": "Dungeon700010",
+   "category": 700,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon700100": {
+   "key": "Dungeon700100",
+   "category": 700,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem300000",
+    "DropItem300003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701000": {
+   "key": "Dungeon701000",
+   "category": 701,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701001": {
+   "key": "Dungeon701001",
+   "category": 701,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701002": {
+   "key": "Dungeon701002",
+   "category": 701,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701003": {
+   "key": "Dungeon701003",
+   "category": 701,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701004": {
+   "key": "Dungeon701004",
+   "category": 701,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701004"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701005": {
+   "key": "Dungeon701005",
+   "category": 701,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701005"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701006": {
+   "key": "Dungeon701006",
+   "category": 701,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701006"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701007": {
+   "key": "Dungeon701007",
+   "category": 701,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701008": {
+   "key": "Dungeon701008",
+   "category": 701,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701009": {
+   "key": "Dungeon701009",
+   "category": 701,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem312003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701010": {
+   "key": "Dungeon701010",
+   "category": 701,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon701100": {
+   "key": "Dungeon701100",
+   "category": 701,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem310000",
+    "DropItem310003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711000": {
+   "key": "Dungeon711000",
+   "category": 711,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711001": {
+   "key": "Dungeon711001",
+   "category": 711,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711002": {
+   "key": "Dungeon711002",
+   "category": 711,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711003": {
+   "key": "Dungeon711003",
+   "category": 711,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711004": {
+   "key": "Dungeon711004",
+   "category": 711,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701004"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711005": {
+   "key": "Dungeon711005",
+   "category": 711,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701005"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711006": {
+   "key": "Dungeon711006",
+   "category": 711,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701006"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711007": {
+   "key": "Dungeon711007",
+   "category": 711,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711008": {
+   "key": "Dungeon711008",
+   "category": 711,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711009": {
+   "key": "Dungeon711009",
+   "category": 711,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem312005"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711010": {
+   "key": "Dungeon711010",
+   "category": 711,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup701010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon711100": {
+   "key": "Dungeon711100",
+   "category": 711,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup700100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem311000",
+    "DropItem311003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702000": {
+   "key": "Dungeon702000",
+   "category": 702,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702001": {
+   "key": "Dungeon702001",
+   "category": 702,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702002": {
+   "key": "Dungeon702002",
+   "category": 702,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702003": {
+   "key": "Dungeon702003",
+   "category": 702,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702004": {
+   "key": "Dungeon702004",
+   "category": 702,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702005": {
+   "key": "Dungeon702005",
+   "category": 702,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702006": {
+   "key": "Dungeon702006",
+   "category": 702,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702007": {
+   "key": "Dungeon702007",
+   "category": 702,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702008": {
+   "key": "Dungeon702008",
+   "category": 702,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702009": {
+   "key": "Dungeon702009",
+   "category": 702,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem312007"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702010": {
+   "key": "Dungeon702010",
+   "category": 702,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon702100": {
+   "key": "Dungeon702100",
+   "category": 702,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem320003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712000": {
+   "key": "Dungeon712000",
+   "category": 712,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712001": {
+   "key": "Dungeon712001",
+   "category": 712,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712002": {
+   "key": "Dungeon712002",
+   "category": 712,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712003": {
+   "key": "Dungeon712003",
+   "category": 712,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712004": {
+   "key": "Dungeon712004",
+   "category": 712,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712005": {
+   "key": "Dungeon712005",
+   "category": 712,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712006": {
+   "key": "Dungeon712006",
+   "category": 712,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712007": {
+   "key": "Dungeon712007",
+   "category": 712,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712008": {
+   "key": "Dungeon712008",
+   "category": 712,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712009": {
+   "key": "Dungeon712009",
+   "category": 712,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702004"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem312009"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712010": {
+   "key": "Dungeon712010",
+   "category": 712,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon712100": {
+   "key": "Dungeon712100",
+   "category": 712,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup703100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem321003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703000": {
+   "key": "Dungeon703000",
+   "category": 703,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703001": {
+   "key": "Dungeon703001",
+   "category": 703,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703002": {
+   "key": "Dungeon703002",
+   "category": 703,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703003": {
+   "key": "Dungeon703003",
+   "category": 703,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703004": {
+   "key": "Dungeon703004",
+   "category": 703,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703005": {
+   "key": "Dungeon703005",
+   "category": 703,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703006": {
+   "key": "Dungeon703006",
+   "category": 703,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703007": {
+   "key": "Dungeon703007",
+   "category": 703,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703008": {
+   "key": "Dungeon703008",
+   "category": 703,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703009": {
+   "key": "Dungeon703009",
+   "category": 703,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702005"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem312011"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703010": {
+   "key": "Dungeon703010",
+   "category": 703,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon703100": {
+   "key": "Dungeon703100",
+   "category": 703,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem330000",
+    "DropItem330003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713000": {
+   "key": "Dungeon713000",
+   "category": 713,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713001": {
+   "key": "Dungeon713001",
+   "category": 713,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713002": {
+   "key": "Dungeon713002",
+   "category": 713,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713003": {
+   "key": "Dungeon713003",
+   "category": 713,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713004": {
+   "key": "Dungeon713004",
+   "category": 713,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713005": {
+   "key": "Dungeon713005",
+   "category": 713,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713006": {
+   "key": "Dungeon713006",
+   "category": 713,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713007": {
+   "key": "Dungeon713007",
+   "category": 713,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713008": {
+   "key": "Dungeon713008",
+   "category": 713,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713009": {
+   "key": "Dungeon713009",
+   "category": 713,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702006"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem312013"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713010": {
+   "key": "Dungeon713010",
+   "category": 713,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon713100": {
+   "key": "Dungeon713100",
+   "category": 713,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup704100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem331000",
+    "DropItem331003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704000": {
+   "key": "Dungeon704000",
+   "category": 704,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704001": {
+   "key": "Dungeon704001",
+   "category": 704,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704002": {
+   "key": "Dungeon704002",
+   "category": 704,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704003": {
+   "key": "Dungeon704003",
+   "category": 704,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704004": {
+   "key": "Dungeon704004",
+   "category": 704,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704005": {
+   "key": "Dungeon704005",
+   "category": 704,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704006": {
+   "key": "Dungeon704006",
+   "category": 704,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704007": {
+   "key": "Dungeon704007",
+   "category": 704,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704008": {
+   "key": "Dungeon704008",
+   "category": 704,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704009": {
+   "key": "Dungeon704009",
+   "category": 704,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem312015"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704010": {
+   "key": "Dungeon704010",
+   "category": 704,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon704100": {
+   "key": "Dungeon704100",
+   "category": 704,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem320000",
+    "DropItem340003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714000": {
+   "key": "Dungeon714000",
+   "category": 714,
+   "level": 0,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714001": {
+   "key": "Dungeon714001",
+   "category": 714,
+   "level": 1,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714002": {
+   "key": "Dungeon714002",
+   "category": 714,
+   "level": 2,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714003": {
+   "key": "Dungeon714003",
+   "category": 714,
+   "level": 3,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714004": {
+   "key": "Dungeon714004",
+   "category": 714,
+   "level": 4,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714005": {
+   "key": "Dungeon714005",
+   "category": 714,
+   "level": 5,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714006": {
+   "key": "Dungeon714006",
+   "category": 714,
+   "level": 6,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714007": {
+   "key": "Dungeon714007",
+   "category": 714,
+   "level": 7,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705007"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714008": {
+   "key": "Dungeon714008",
+   "category": 714,
+   "level": 8,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714009": {
+   "key": "Dungeon714009",
+   "category": 714,
+   "level": 9,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup702008"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem312017"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714010": {
+   "key": "Dungeon714010",
+   "category": 714,
+   "level": 10,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705010"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon714100": {
+   "key": "Dungeon714100",
+   "category": 714,
+   "level": 100,
+   "name": "LocalizeDungeonName000904",
+   "image": "UI_DungeonMap_07",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 1000,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup705100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 0.0,
+   "eliteGradeRate": [
+    0.0
+   ],
+   "dropItems": [
+    "DropItem321000",
+    "DropItem341003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110011": {
+   "key": "Dungeon110011",
+   "category": 110,
+   "level": 11,
+   "name": "LocalizeDungeonName000007",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110100"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem907000"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110018": {
+   "key": "Dungeon110018",
+   "category": 110,
+   "level": 18,
+   "name": "LocalizeDungeonName000008",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110104"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem908000"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110019": {
+   "key": "Dungeon110019",
+   "category": 110,
+   "level": 19,
+   "name": "LocalizeDungeonName000007",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110101"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem907001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110026": {
+   "key": "Dungeon110026",
+   "category": 110,
+   "level": 26,
+   "name": "LocalizeDungeonName000008",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110105"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem908001"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110030": {
+   "key": "Dungeon110030",
+   "category": 110,
+   "level": 30,
+   "name": "LocalizeDungeonName000007",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110102"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem907002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110038": {
+   "key": "Dungeon110038",
+   "category": 110,
+   "level": 38,
+   "name": "LocalizeDungeonName000008",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110106"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem908002"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110044": {
+   "key": "Dungeon110044",
+   "category": 110,
+   "level": 44,
+   "name": "LocalizeDungeonName000007",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110103"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem907003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon110052": {
+   "key": "Dungeon110052",
+   "category": 110,
+   "level": 52,
+   "name": "LocalizeDungeonName000008",
+   "image": "UI_DungeonMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 5,
+   "placeGroup": [
+    "PlaceGroup110107"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem909000",
+    "DropItem908003"
+   ],
+   "displayItems": []
+  },
+  "Dungeon908000": {
+   "key": "Dungeon908000",
+   "category": 908,
+   "level": 0,
+   "name": "LocalizeUIBossHunt000001",
+   "image": "UI_BossMap_01",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup908000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item009060",
+    "Item009061",
+    "Item009062"
+   ]
+  },
+  "Dungeon908001": {
+   "key": "Dungeon908001",
+   "category": 908,
+   "level": 1,
+   "name": "LocalizeUIBossHunt000002",
+   "image": "UI_BossMap_02",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup908001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item009051",
+    "Item009052",
+    "Item009053"
+   ]
+  },
+  "Dungeon908002": {
+   "key": "Dungeon908002",
+   "category": 908,
+   "level": 2,
+   "name": "LocalizeUIBossHunt000003",
+   "image": "UI_BossMap_03",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup908002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item009048",
+    "Item009049",
+    "Item009050"
+   ]
+  },
+  "Dungeon908003": {
+   "key": "Dungeon908003",
+   "category": 908,
+   "level": 3,
+   "name": "LocalizeUIBossHunt000004",
+   "image": "UI_BossMap_04",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup908003"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item009054",
+    "Item009055",
+    "Item009056"
+   ]
+  },
+  "Dungeon908004": {
+   "key": "Dungeon908004",
+   "category": 908,
+   "level": 4,
+   "name": "LocalizeUIBossHunt000005",
+   "image": "UI_BossMap_05",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 2500,
+   "limitLv": 4,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup908004"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_00",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item009057",
+    "Item009058",
+    "Item009059"
+   ]
+  },
+  "Dungeon999000": {
+   "key": "Dungeon999000",
+   "category": 999,
+   "level": 0,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 10,
+   "limitLv": 0,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup370000"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002031"
+   ]
+  },
+  "Dungeon999001": {
+   "key": "Dungeon999001",
+   "category": 999,
+   "level": 0,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 10,
+   "limitLv": 0,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup370001"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002031"
+   ]
+  },
+  "Dungeon999002": {
+   "key": "Dungeon999002",
+   "category": 999,
+   "level": 0,
+   "name": "LocalizeDungeonName000006",
+   "image": "UI_DungeonMap_06",
+   "autoPlay": true,
+   "bossDist": 0,
+   "power": 10,
+   "limitLv": 0,
+   "baseCount": 20,
+   "placeGroup": [
+    "PlaceGroup370002"
+   ],
+   "supportHero": "",
+   "bgTile": "bg_05",
+   "eliteRate": 1.0,
+   "eliteGradeRate": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.800000011920929
+   ],
+   "dropItems": [],
+   "displayItems": [
+    "Item002031"
+   ]
+  }
+ }
+}

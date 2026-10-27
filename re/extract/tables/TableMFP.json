@@ -1,0 +1,36 @@
+{
+ "sheetName": "TableMFPData",
+ "tableIndex": 0,
+ "rows": {
+  "MFP0000": {
+   "key": "MFP0000",
+   "category": 0,
+   "index": 0,
+   "shopKey": "Shop140000",
+   "totalValue": 600,
+   "productKeys": [
+    "Item002005",
+    "Item002002"
+   ],
+   "countList": [
+    15.0,
+    150.0
+   ]
+  },
+  "MFP0001": {
+   "key": "MFP0001",
+   "category": 0,
+   "index": 1,
+   "shopKey": "Shop140001",
+   "totalValue": 3000,
+   "productKeys": [
+    "Item002005",
+    "Item004001"
+   ],
+   "countList": [
+    70.0,
+    1.0
+   ]
+  }
+ }
+}

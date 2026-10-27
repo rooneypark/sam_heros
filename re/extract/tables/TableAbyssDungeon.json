@@ -1,0 +1,56 @@
+{
+ "sheetName": "TableAbyssDungeonData",
+ "tableIndex": 0,
+ "rows": {
+  "AbyssDungeon00": {
+   "key": "AbyssDungeon00",
+   "category": 0,
+   "name": "LocalizeAbyssUI000003",
+   "dungeonGroupPollution": "AbyssDungeonGroup0000",
+   "dungeonGroupCorrosion": "",
+   "isDefault": true,
+   "isEnter": false,
+   "wMapImg": "UI_Abyss_01"
+  },
+  "AbyssDungeon01": {
+   "key": "AbyssDungeon01",
+   "category": 1,
+   "name": "LocalizeAbyssUI000005",
+   "dungeonGroupPollution": "AbyssDungeonGroup0100",
+   "dungeonGroupCorrosion": "AbyssDungeonGroup0101",
+   "isDefault": false,
+   "isEnter": true,
+   "wMapImg": "UI_Abyss_05"
+  },
+  "AbyssDungeon02": {
+   "key": "AbyssDungeon02",
+   "category": 2,
+   "name": "LocalizeAbyssUI000004",
+   "dungeonGroupPollution": "AbyssDungeonGroup0200",
+   "dungeonGroupCorrosion": "AbyssDungeonGroup0201",
+   "isDefault": false,
+   "isEnter": true,
+   "wMapImg": "UI_Abyss_02"
+  },
+  "AbyssDungeon03": {
+   "key": "AbyssDungeon03",
+   "category": 3,
+   "name": "LocalizeAbyssUI000007",
+   "dungeonGroupPollution": "AbyssDungeonGroup0300",
+   "dungeonGroupCorrosion": "AbyssDungeonGroup0301",
+   "isDefault": false,
+   "isEnter": true,
+   "wMapImg": "UI_Abyss_03"
+  },
+  "AbyssDungeon04": {
+   "key": "AbyssDungeon04",
+   "category": 4,
+   "name": "LocalizeAbyssUI000006",
+   "dungeonGroupPollution": "AbyssDungeonGroup0400",
+   "dungeonGroupCorrosion": "AbyssDungeonGroup0401",
+   "isDefault": false,
+   "isEnter": true,
+   "wMapImg": "UI_Abyss_04"
+  }
+ }
+}

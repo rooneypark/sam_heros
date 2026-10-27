@@ -1,0 +1,1014 @@
+{
+ "sheetName": "TableAfterLoadResourceData",
+ "tableIndex": 0,
+ "rows": {
+  "Map_Infinity_0": {
+   "key": "Map_Infinity_0",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Infinity_0"
+  },
+  "Map_Infinity_1": {
+   "key": "Map_Infinity_1",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Infinity_1"
+  },
+  "Map_Infinity_2": {
+   "key": "Map_Infinity_2",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Infinity_2"
+  },
+  "Map_Infinity_3": {
+   "key": "Map_Infinity_3",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Infinity_3"
+  },
+  "Map_Infinity_4": {
+   "key": "Map_Infinity_4",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Infinity_4"
+  },
+  "Map_Main": {
+   "key": "Map_Main",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_Main"
+  },
+  "Map_abyss": {
+   "key": "Map_abyss",
+   "table": "AfterLoad",
+   "folder": "Map",
+   "image": "Map_abyss"
+  },
+  "Raid_Bg": {
+   "key": "Raid_Bg",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "Raid_Bg"
+  },
+  "UI_DungeonMap_01": {
+   "key": "UI_DungeonMap_01",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_01"
+  },
+  "UI_DungeonMap_02": {
+   "key": "UI_DungeonMap_02",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_02"
+  },
+  "UI_DungeonMap_03": {
+   "key": "UI_DungeonMap_03",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_03"
+  },
+  "UI_DungeonMap_04": {
+   "key": "UI_DungeonMap_04",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_04"
+  },
+  "UI_DungeonMap_05": {
+   "key": "UI_DungeonMap_05",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_05"
+  },
+  "UI_DungeonMap_06": {
+   "key": "UI_DungeonMap_06",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_06"
+  },
+  "UI_DungeonMap_07": {
+   "key": "UI_DungeonMap_07",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_07"
+  },
+  "UI_DungeonMap_99": {
+   "key": "UI_DungeonMap_99",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_99"
+  },
+  "UI_DungeonMap_100": {
+   "key": "UI_DungeonMap_100",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_100"
+  },
+  "UI_DungeonMap_501": {
+   "key": "UI_DungeonMap_501",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_DungeonMap_501"
+  },
+  "UI_WorldMap_01": {
+   "key": "UI_WorldMap_01",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_WorldMap_01"
+  },
+  "UI_WorldMap_02": {
+   "key": "UI_WorldMap_02",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_WorldMap_02"
+  },
+  "UI_WorldMap_03": {
+   "key": "UI_WorldMap_03",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_WorldMap_03"
+  },
+  "UI_WorldMap_04": {
+   "key": "UI_WorldMap_04",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_WorldMap_04"
+  },
+  "UI_WorldMap_05": {
+   "key": "UI_WorldMap_05",
+   "table": "AfterLoad",
+   "folder": "UI",
+   "image": "UI_WorldMap_05"
+  },
+  "Package_1": {
+   "key": "Package_1",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_1"
+  },
+  "Package_2": {
+   "key": "Package_2",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_2"
+  },
+  "Package_3": {
+   "key": "Package_3",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_3"
+  },
+  "Package_4": {
+   "key": "Package_4",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_4"
+  },
+  "Package_5": {
+   "key": "Package_5",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_5"
+  },
+  "Package_6": {
+   "key": "Package_6",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_6"
+  },
+  "Package_7": {
+   "key": "Package_7",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_7"
+  },
+  "Package_8": {
+   "key": "Package_8",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_8"
+  },
+  "Package_9": {
+   "key": "Package_9",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_9"
+  },
+  "Package_10": {
+   "key": "Package_10",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_10"
+  },
+  "Package_11": {
+   "key": "Package_11",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_11"
+  },
+  "Package_12": {
+   "key": "Package_12",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_12"
+  },
+  "Package_13": {
+   "key": "Package_13",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_13"
+  },
+  "Package_14": {
+   "key": "Package_14",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_14"
+  },
+  "Package_15": {
+   "key": "Package_15",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_15"
+  },
+  "Package_16": {
+   "key": "Package_16",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_16"
+  },
+  "Package_17": {
+   "key": "Package_17",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_17"
+  },
+  "Package_29": {
+   "key": "Package_29",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "Package_29"
+  },
+  "ui_250": {
+   "key": "ui_250",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_250"
+  },
+  "ui_253": {
+   "key": "ui_253",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_253"
+  },
+  "ui_317": {
+   "key": "ui_317",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_317"
+  },
+  "ui_318": {
+   "key": "ui_318",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_318"
+  },
+  "ui_319": {
+   "key": "ui_319",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_319"
+  },
+  "ui_320": {
+   "key": "ui_320",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_320"
+  },
+  "ui_321": {
+   "key": "ui_321",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_321"
+  },
+  "ui_389": {
+   "key": "ui_389",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_389"
+  },
+  "ui_400": {
+   "key": "ui_400",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_400"
+  },
+  "ui_420": {
+   "key": "ui_420",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_420"
+  },
+  "ui_471": {
+   "key": "ui_471",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_471"
+  },
+  "ui_473": {
+   "key": "ui_473",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_473"
+  },
+  "ui_488": {
+   "key": "ui_488",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_488"
+  },
+  "ui_522": {
+   "key": "ui_522",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_522"
+  },
+  "ui_567": {
+   "key": "ui_567",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_567"
+  },
+  "ui_630": {
+   "key": "ui_630",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_630"
+  },
+  "ui_634": {
+   "key": "ui_634",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_634"
+  },
+  "ui_636": {
+   "key": "ui_636",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_636"
+  },
+  "ui_637": {
+   "key": "ui_637",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_637"
+  },
+  "ui_638": {
+   "key": "ui_638",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_638"
+  },
+  "ui_693": {
+   "key": "ui_693",
+   "table": "AfterLoad",
+   "folder": "Package",
+   "image": "ui_693"
+  },
+  "Hero_01_Img": {
+   "key": "Hero_01_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_01_Img"
+  },
+  "Hero_02_Img": {
+   "key": "Hero_02_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_02_Img"
+  },
+  "Hero_03_Img": {
+   "key": "Hero_03_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_03_Img"
+  },
+  "Hero_04_Img": {
+   "key": "Hero_04_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_04_Img"
+  },
+  "Hero_05_Img": {
+   "key": "Hero_05_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_05_Img"
+  },
+  "Hero_06_Img": {
+   "key": "Hero_06_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_06_Img"
+  },
+  "Hero_07_Img": {
+   "key": "Hero_07_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_07_Img"
+  },
+  "Hero_08_Img": {
+   "key": "Hero_08_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_08_Img"
+  },
+  "Hero_09_Img": {
+   "key": "Hero_09_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_09_Img"
+  },
+  "Hero_10_Img": {
+   "key": "Hero_10_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_10_Img"
+  },
+  "Hero_11_Img": {
+   "key": "Hero_11_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_11_Img"
+  },
+  "Hero_12_Img": {
+   "key": "Hero_12_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_12_Img"
+  },
+  "Hero_13_Img": {
+   "key": "Hero_13_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_13_Img"
+  },
+  "Hero_14_Img": {
+   "key": "Hero_14_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_14_Img"
+  },
+  "Hero_15_Img": {
+   "key": "Hero_15_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_15_Img"
+  },
+  "Hero_16_Img": {
+   "key": "Hero_16_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_16_Img"
+  },
+  "Hero_17_Img": {
+   "key": "Hero_17_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_17_Img"
+  },
+  "Hero_18_Img": {
+   "key": "Hero_18_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_18_Img"
+  },
+  "Hero_18_Img_Sheep": {
+   "key": "Hero_18_Img_Sheep",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_18_Img_Sheep"
+  },
+  "Hero_18_Img_Viking": {
+   "key": "Hero_18_Img_Viking",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_18_Img_Viking"
+  },
+  "Hero_19_Img": {
+   "key": "Hero_19_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_19_Img"
+  },
+  "Hero_19_Img_Crow": {
+   "key": "Hero_19_Img_Crow",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_19_Img_Crow"
+  },
+  "Hero_20_Img": {
+   "key": "Hero_20_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_20_Img"
+  },
+  "Hero_21_Img": {
+   "key": "Hero_21_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_21_Img"
+  },
+  "Hero_22_Img": {
+   "key": "Hero_22_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_22_Img"
+  },
+  "Hero_23_Img": {
+   "key": "Hero_23_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_23_Img"
+  },
+  "Hero_24_Img": {
+   "key": "Hero_24_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_24_Img"
+  },
+  "Hero_24_Img_Rabbit": {
+   "key": "Hero_24_Img_Rabbit",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_24_Img_Rabbit"
+  },
+  "Hero_25_Img": {
+   "key": "Hero_25_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_25_Img"
+  },
+  "Hero_25_Img_Rudolph": {
+   "key": "Hero_25_Img_Rudolph",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_25_Img_Rudolph"
+  },
+  "Hero_26_Img": {
+   "key": "Hero_26_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_26_Img"
+  },
+  "Hero_26_Img_Hanbok": {
+   "key": "Hero_26_Img_Hanbok",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_26_Img_Hanbok"
+  },
+  "Hero_27_Img": {
+   "key": "Hero_27_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_27_Img"
+  },
+  "Hero_28_Img": {
+   "key": "Hero_28_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_28_Img"
+  },
+  "Hero_29_Img": {
+   "key": "Hero_29_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_29_Img"
+  },
+  "Hero_30_Img": {
+   "key": "Hero_30_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_30_Img"
+  },
+  "Hero_31_Img": {
+   "key": "Hero_31_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_31_Img"
+  },
+  "Hero_32_Img": {
+   "key": "Hero_32_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_32_Img"
+  },
+  "Hero_33_Img": {
+   "key": "Hero_33_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_33_Img"
+  },
+  "Hero_34_Img": {
+   "key": "Hero_34_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_34_Img"
+  },
+  "Hero_35_Img": {
+   "key": "Hero_35_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_35_Img"
+  },
+  "Hero_36_Img": {
+   "key": "Hero_36_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_36_Img"
+  },
+  "Hero_37_Img": {
+   "key": "Hero_37_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_37_Img"
+  },
+  "Hero_38_Img": {
+   "key": "Hero_38_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_38_Img"
+  },
+  "Hero_38_Img_Snowman": {
+   "key": "Hero_38_Img_Snowman",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_38_Img_Snowman"
+  },
+  "Hero_39_Img": {
+   "key": "Hero_39_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_39_Img"
+  },
+  "Hero_39_Img_Heartfire": {
+   "key": "Hero_39_Img_Heartfire",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_39_Img_Heartfire"
+  },
+  "Hero_40_Img": {
+   "key": "Hero_40_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_40_Img"
+  },
+  "Hero_41_Img": {
+   "key": "Hero_41_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_41_Img"
+  },
+  "Hero_42_Img": {
+   "key": "Hero_42_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_42_Img"
+  },
+  "Hero_42_Img_Panda": {
+   "key": "Hero_42_Img_Panda",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_42_Img_Panda"
+  },
+  "Hero_43_Img": {
+   "key": "Hero_43_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_43_Img"
+  },
+  "Hero_44_Img": {
+   "key": "Hero_44_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_44_Img"
+  },
+  "Hero_45_Img": {
+   "key": "Hero_45_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_45_Img"
+  },
+  "Hero_46_Img": {
+   "key": "Hero_46_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_46_Img"
+  },
+  "Hero_47_Img": {
+   "key": "Hero_47_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_47_Img"
+  },
+  "Hero_48_Img": {
+   "key": "Hero_48_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_48_Img"
+  },
+  "Hero_49_Img": {
+   "key": "Hero_49_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_49_Img"
+  },
+  "Hero_49_Img_Purple": {
+   "key": "Hero_49_Img_Purple",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_49_Img_Purple"
+  },
+  "Hero_50_Img": {
+   "key": "Hero_50_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_50_Img"
+  },
+  "Hero_51_Img": {
+   "key": "Hero_51_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_51_Img"
+  },
+  "Hero_52_Img": {
+   "key": "Hero_52_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_52_Img"
+  },
+  "Hero_53_Img": {
+   "key": "Hero_53_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_53_Img"
+  },
+  "Hero_54_Img": {
+   "key": "Hero_54_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_54_Img"
+  },
+  "Hero_55_Img": {
+   "key": "Hero_55_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_55_Img"
+  },
+  "Hero_56_Img": {
+   "key": "Hero_56_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_56_Img"
+  },
+  "Hero_57_Img": {
+   "key": "Hero_57_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_57_Img"
+  },
+  "Hero_57_Img_Evil": {
+   "key": "Hero_57_Img_Evil",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_57_Img_Evil"
+  },
+  "Hero_58_Img": {
+   "key": "Hero_58_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_58_Img"
+  },
+  "Hero_59_Img": {
+   "key": "Hero_59_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_59_Img"
+  },
+  "Hero_60_Img": {
+   "key": "Hero_60_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_60_Img"
+  },
+  "Hero_61_Img": {
+   "key": "Hero_61_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_61_Img"
+  },
+  "Hero_62_Img": {
+   "key": "Hero_62_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_62_Img"
+  },
+  "Hero_63_Img": {
+   "key": "Hero_63_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_63_Img"
+  },
+  "Hero_64_Img": {
+   "key": "Hero_64_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_64_Img"
+  },
+  "Hero_65_Img": {
+   "key": "Hero_65_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_65_Img"
+  },
+  "Hero_66_Img": {
+   "key": "Hero_66_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_66_Img"
+  },
+  "Hero_67_Img": {
+   "key": "Hero_67_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_67_Img"
+  },
+  "Hero_68_Img": {
+   "key": "Hero_68_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_68_Img"
+  },
+  "Hero_69_Img": {
+   "key": "Hero_69_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_69_Img"
+  },
+  "Hero_70_Img": {
+   "key": "Hero_70_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_70_Img"
+  },
+  "Hero_71_Img": {
+   "key": "Hero_71_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_71_Img"
+  },
+  "Hero_72_Img": {
+   "key": "Hero_72_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_72_Img"
+  },
+  "Hero_73_Img": {
+   "key": "Hero_73_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_73_Img"
+  },
+  "Hero_74_Img": {
+   "key": "Hero_74_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_74_Img"
+  },
+  "Hero_75_Img": {
+   "key": "Hero_75_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_75_Img"
+  },
+  "Hero_76_Img": {
+   "key": "Hero_76_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_76_Img"
+  },
+  "Hero_77_Img": {
+   "key": "Hero_77_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_77_Img"
+  },
+  "Hero_78_Img": {
+   "key": "Hero_78_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_78_Img"
+  },
+  "Hero_79_Img": {
+   "key": "Hero_79_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_79_Img"
+  },
+  "Hero_80_Img": {
+   "key": "Hero_80_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_80_Img"
+  },
+  "Hero_81_Img": {
+   "key": "Hero_81_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_81_Img"
+  },
+  "Hero_82_Img": {
+   "key": "Hero_82_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_82_Img"
+  },
+  "Hero_83_Img": {
+   "key": "Hero_83_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_83_Img"
+  },
+  "Hero_84_Img": {
+   "key": "Hero_84_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_84_Img"
+  },
+  "Hero_85_Img": {
+   "key": "Hero_85_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_85_Img"
+  },
+  "Hero_86_Img": {
+   "key": "Hero_86_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_86_Img"
+  },
+  "Hero_99_Img": {
+   "key": "Hero_99_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Hero_99_Img"
+  },
+  "Mercenary_01_Img": {
+   "key": "Mercenary_01_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_01_Img"
+  },
+  "Mercenary_02_Img": {
+   "key": "Mercenary_02_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_02_Img"
+  },
+  "Mercenary_03_Img": {
+   "key": "Mercenary_03_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_03_Img"
+  },
+  "Mercenary_04_Img": {
+   "key": "Mercenary_04_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_04_Img"
+  },
+  "Mercenary_05_Img": {
+   "key": "Mercenary_05_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_05_Img"
+  },
+  "Mercenary_06_Img": {
+   "key": "Mercenary_06_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_06_Img"
+  },
+  "Mercenary_07_Img": {
+   "key": "Mercenary_07_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_07_Img"
+  },
+  "Mercenary_08_Img": {
+   "key": "Mercenary_08_Img",
+   "table": "AfterLoad",
+   "folder": "Hero_Illust",
+   "image": "Mercenary_08_Img"
+  }
+ }
+}

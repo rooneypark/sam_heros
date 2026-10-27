@@ -1,3 +1,5 @@
+> 2026-10-27 맵 작업 이관: 이 저장소는 이제 web/ 맵메이커·모션 체커 실행 환경을 포함한다. 사용자 요청으로 tools/launch_tools.py와 re/extract 실행 의존 데이터, content/samguk/maps의 맵을 이관했다. 맵 제작 시 docs/MAP_MAKER_HANDOFF.md를 먼저 읽는다. 캐릭터는 저장소 원본을 사용하며 외부 sam_heros2 경로에 의존하지 않는다.
+
 > 사망 최신 승인: 세 장수 die/frame-01.png — 대각선 엎드림, 얼굴 완전히 숨김, 뒷머리만 노출. 정지1장 350×350. 채집은 사용자 요청으로 보류.
 
 > 최신 확정: 장비 basic-attack/skill-1/skill-2 각8프레임과 세 장수 portrait/portrait.png 승인 완료. GIF 공통 팔레트 적용, 장비 공격·스킬1 색상 보정 완료. 최종 폴더 외 이전 작업은 DELETE_ME_intermediate에 격리(삭제 정책 차단). 최종PNG107장 체크섬 기준.

@@ -1,0 +1,916 @@
+{
+ "sheetName": "TableLogData",
+ "tableIndex": 0,
+ "rows": {
+  "Log_LOGIN": {
+   "key": "Log_LOGIN",
+   "name": "LOGIN",
+   "enabled": true
+  },
+  "Log_QUEST_START": {
+   "key": "Log_QUEST_START",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_QUEST_REWARD": {
+   "key": "Log_QUEST_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_TRAINING_UPGRADE": {
+   "key": "Log_TRAINING_UPGRADE",
+   "name": "ACHIEVEMENT",
+   "enabled": false
+  },
+  "Log_HERO_TRAINING_SOCKET": {
+   "key": "Log_HERO_TRAINING_SOCKET",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_HERO_TRAINING_CHANGE": {
+   "key": "Log_HERO_TRAINING_CHANGE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_MAP_TRY": {
+   "key": "Log_EVENT_MAP_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_MAP_END": {
+   "key": "Log_EVENT_MAP_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_TOWER_TRY": {
+   "key": "Log_EVENT_TOWER_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_TOWER_END": {
+   "key": "Log_EVENT_TOWER_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_NEWBITOWER_TRY": {
+   "key": "Log_EVENT_NEWBITOWER_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": false
+  },
+  "Log_EVENT_NEWBITOWER_END": {
+   "key": "Log_EVENT_NEWBITOWER_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_USER_LEVELUP": {
+   "key": "Log_USER_LEVELUP",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_INSTANT_QUEST": {
+   "key": "Log_INSTANT_QUEST",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_INSTANT_QUEST_REWARD": {
+   "key": "Log_INSTANT_QUEST_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_WEEKLY_QUEST": {
+   "key": "Log_WEEKLY_QUEST",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_WEEKLY_QUEST_REWARD": {
+   "key": "Log_WEEKLY_QUEST_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_GUIDE_QUEST": {
+   "key": "Log_GUIDE_QUEST",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_GUIDE_QUEST_REWARD": {
+   "key": "Log_GUIDE_QUEST_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_SEASON_PASS": {
+   "key": "Log_SEASON_PASS",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_RIFT_REWARD": {
+   "key": "Log_RIFT_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_RAID_REWARD": {
+   "key": "Log_RAID_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_REWARD": {
+   "key": "Log_EVENT_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_ABYSS_REWARD": {
+   "key": "Log_ABYSS_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_MONEY_GET": {
+   "key": "Log_MONEY_GET",
+   "name": "MONEY",
+   "enabled": true
+  },
+  "Log_MONEY_SPEND": {
+   "key": "Log_MONEY_SPEND",
+   "name": "MONEY",
+   "enabled": true
+  },
+  "Log_CHANGE_TEAM": {
+   "key": "Log_CHANGE_TEAM",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_HERO_GET": {
+   "key": "Log_HERO_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_HERO_LEVELUP": {
+   "key": "Log_HERO_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_MAP_GET": {
+   "key": "Log_MAP_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EQUIP_GET": {
+   "key": "Log_EQUIP_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EQUIP_DISASSEMBLE": {
+   "key": "Log_EQUIP_DISASSEMBLE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EQUIP_BATCH_DISASSEMBLE": {
+   "key": "Log_EQUIP_BATCH_DISASSEMBLE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EQUIP_LEVELUP": {
+   "key": "Log_EQUIP_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EQUIP_CHANGE": {
+   "key": "Log_EQUIP_CHANGE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_BUILD_GET": {
+   "key": "Log_BUILD_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_BUILD_LEVELUP": {
+   "key": "Log_BUILD_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_ARTIFACT_LEVELUP": {
+   "key": "Log_ARTIFACT_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_ARTIFACT_CHANGE": {
+   "key": "Log_ARTIFACT_CHANGE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_CHARM_GET": {
+   "key": "Log_CHARM_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_CHARM_LEVELUP": {
+   "key": "Log_CHARM_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_CHARM_CHANGE": {
+   "key": "Log_CHARM_CHANGE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_RUNE_LEVELUP": {
+   "key": "Log_RUNE_LEVELUP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_RIFT_SHOP": {
+   "key": "Log_RIFT_SHOP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_RAID_SHOP": {
+   "key": "Log_RAID_SHOP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_SKIN_GET": {
+   "key": "Log_SKIN_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_DELAY_PACKAGE_PURCHASE": {
+   "key": "Log_DELAY_PACKAGE_PURCHASE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_SEASONEVENT_ASSET_GET": {
+   "key": "Log_SEASONEVENT_ASSET_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_SEASONEVENT_SHOP": {
+   "key": "Log_SEASONEVENT_SHOP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_DUNGEON_START": {
+   "key": "Log_DUNGEON_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_DUNGEON_END": {
+   "key": "Log_DUNGEON_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_WORLD_START": {
+   "key": "Log_WORLD_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_WORLD_END": {
+   "key": "Log_WORLD_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_TOWER_START": {
+   "key": "Log_TOWER_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_TOWER_END": {
+   "key": "Log_TOWER_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RIFT_START": {
+   "key": "Log_RIFT_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RIFT_END": {
+   "key": "Log_RIFT_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RAID_START": {
+   "key": "Log_RAID_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RAID_END": {
+   "key": "Log_RAID_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_DEFENCE_START": {
+   "key": "Log_DEFENCE_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_DEFENCE_END": {
+   "key": "Log_DEFENCE_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RUINS_START": {
+   "key": "Log_RUINS_START",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_RUINS_END": {
+   "key": "Log_RUINS_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_FIELD_DIE": {
+   "key": "Log_FIELD_DIE",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_MONS_KILL": {
+   "key": "Log_MONS_KILL",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PUB_NEW_LINEUP": {
+   "key": "Log_PUB_NEW_LINEUP",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PUB_GET": {
+   "key": "Log_PUB_GET",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PUB_CHARM": {
+   "key": "Log_PUB_CHARM",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PUB_START": {
+   "key": "Log_PUB_START",
+   "name": "PUB_START",
+   "enabled": true
+  },
+  "Log_PORTAL_FIELD": {
+   "key": "Log_PORTAL_FIELD",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PORTAL_TOWN": {
+   "key": "Log_PORTAL_TOWN",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_WORLDMAP": {
+   "key": "Log_WORLDMAP",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_CAMP_END": {
+   "key": "Log_CAMP_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_TRS_MISS_POPUP": {
+   "key": "Log_TRS_MISS_POPUP",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_PROLOGUE": {
+   "key": "Log_PROLOGUE",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_TERMS_CONFIRM": {
+   "key": "Log_TERMS_CONFIRM",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_PRE_ATT_CONFIRM": {
+   "key": "Log_PRE_ATT_CONFIRM",
+   "name": "USERINFLOW",
+   "enabled": false
+  },
+  "Log_ATT_CONFIRM": {
+   "key": "Log_ATT_CONFIRM",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_ATT_DENY": {
+   "key": "Log_ATT_DENY",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_REVIEW_SHOW": {
+   "key": "Log_REVIEW_SHOW",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_REVIEW_CONFIRM": {
+   "key": "Log_REVIEW_CONFIRM",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_CHECK_INTERNET": {
+   "key": "Log_CHECK_INTERNET",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_TUTORIAL_START": {
+   "key": "Log_TUTORIAL_START",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_TUTORIAL_END": {
+   "key": "Log_TUTORIAL_END",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_TUTORIAL_ING": {
+   "key": "Log_TUTORIAL_ING",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_CHALLENGE_MODE": {
+   "key": "Log_CHALLENGE_MODE",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_NICKNAME": {
+   "key": "Log_NICKNAME",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_TOUCH_MENU": {
+   "key": "Log_TOUCH_MENU",
+   "name": "USERINFLOW",
+   "enabled": false
+  },
+  "Log_ADS_IMPRESSION": {
+   "key": "Log_ADS_IMPRESSION",
+   "name": "ADVERTISEMENT",
+   "enabled": true
+  },
+  "Log_ADS_TRY": {
+   "key": "Log_ADS_TRY",
+   "name": "ADVERTISEMENT",
+   "enabled": true
+  },
+  "Log_ADS_FAIL": {
+   "key": "Log_ADS_FAIL",
+   "name": "ADVERTISEMENT",
+   "enabled": true
+  },
+  "Log_ADS_SUCCESS": {
+   "key": "Log_ADS_SUCCESS",
+   "name": "ADVERTISEMENT",
+   "enabled": true
+  },
+  "Log_IAP_IMPRESSION": {
+   "key": "Log_IAP_IMPRESSION",
+   "name": "IAP",
+   "enabled": true
+  },
+  "Log_IAP_TRY": {
+   "key": "Log_IAP_TRY",
+   "name": "IAP",
+   "enabled": true
+  },
+  "Log_IAP_FAIL": {
+   "key": "Log_IAP_FAIL",
+   "name": "IAP",
+   "enabled": true
+  },
+  "Log_IAP_SUCCESS_KEY": {
+   "key": "Log_IAP_SUCCESS_KEY",
+   "name": "IAP",
+   "enabled": true
+  },
+  "Log_STORY_TRY": {
+   "key": "Log_STORY_TRY",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_STORY_END": {
+   "key": "Log_STORY_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_STORY_REWARD": {
+   "key": "Log_STORY_REWARD",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_FAME_LV_UP": {
+   "key": "Log_FAME_LV_UP",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_CONTRIBUTION_LV_UP": {
+   "key": "Log_CONTRIBUTION_LV_UP",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_COLLECTION_MODE": {
+   "key": "Log_COLLECTION_MODE",
+   "name": "USERINFLOW",
+   "enabled": false
+  },
+  "Log_FISHING_GET": {
+   "key": "Log_FISHING_GET",
+   "name": "RESOURCE",
+   "enabled": false
+  },
+  "Log_COLLECTION_LVUP": {
+   "key": "Log_COLLECTION_LVUP",
+   "name": "ACHIEVEMENT",
+   "enabled": false
+  },
+  "Log_ALLROUND_PIECE_EXCHANGE": {
+   "key": "Log_ALLROUND_PIECE_EXCHANGE",
+   "name": "RESOURCE",
+   "enabled": false
+  },
+  "Log_ATTANDACE_DAY_COUNT": {
+   "key": "Log_ATTANDACE_DAY_COUNT",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_IAP_TRACE": {
+   "key": "Log_IAP_TRACE",
+   "name": "IAP",
+   "enabled": true
+  },
+  "Log_ET_CLEAR_MAIN_QUEST": {
+   "key": "Log_ET_CLEAR_MAIN_QUEST",
+   "name": "ET_CLEAR_MAIN_QUEST",
+   "enabled": true
+  },
+  "Log_ET_CLEAR_MAIN_QUEST_UNIQUE": {
+   "key": "Log_ET_CLEAR_MAIN_QUEST_UNIQUE",
+   "name": "ET_CLEAR_MAIN_QUEST_UNIQUE",
+   "enabled": true
+  },
+  "Log_ET_REMOVE_ADS": {
+   "key": "Log_ET_REMOVE_ADS",
+   "name": "ET_REMOVE_ADS",
+   "enabled": true
+  },
+  "Log_ET_FEATHERCORBIN_ACQUISITION": {
+   "key": "Log_ET_FEATHERCORBIN_ACQUISITION",
+   "name": "ET_FEATHERCORBIN_ACQUISITION",
+   "enabled": true
+  },
+  "Log_ET_PUP_GET_COUNT": {
+   "key": "Log_ET_PUP_GET_COUNT",
+   "name": "ET_PUP_GET_COUNT",
+   "enabled": true
+  },
+  "Log_ET_BUY_DIA": {
+   "key": "Log_ET_BUY_DIA",
+   "name": "ET_BUY_DIA",
+   "enabled": true
+  },
+  "Log_PROLOGUE_START": {
+   "key": "Log_PROLOGUE_START",
+   "name": "PROLOGUE",
+   "enabled": false
+  },
+  "Log_PROLOGUE_END": {
+   "key": "Log_PROLOGUE_END",
+   "name": "PROLOGUE",
+   "enabled": false
+  },
+  "Log_SYMBOL_ENGRAVE": {
+   "key": "Log_SYMBOL_ENGRAVE",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_SYMBOL_ENGRAVE2": {
+   "key": "Log_SYMBOL_ENGRAVE2",
+   "name": "RESOURCE",
+   "enabled": false
+  },
+  "Log_ABYSS_SCHEDULE_SHOP": {
+   "key": "Log_ABYSS_SCHEDULE_SHOP",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_ABYSS_DUNGEON_END": {
+   "key": "Log_ABYSS_DUNGEON_END",
+   "name": "PLAYEND",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_TRY": {
+   "key": "Log_EVENT_FISHING_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_END": {
+   "key": "Log_EVENT_FISHING_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_COLLECT_REWARD": {
+   "key": "Log_EVENT_FISHING_COLLECT_REWARD",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_STAT_SPEND": {
+   "key": "Log_EVENT_FISHING_STAT_SPEND",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_GACHA": {
+   "key": "Log_EVENT_FISHING_GACHA",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_FISHING_GACHA_REWARD": {
+   "key": "Log_EVENT_FISHING_GACHA_REWARD",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_ORB_REWARD_SELECT": {
+   "key": "Log_EVENT_ORB_REWARD_SELECT",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_ORB_REWARD_GET": {
+   "key": "Log_EVENT_ORB_REWARD_GET",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_ORB_REWARD_RESET": {
+   "key": "Log_EVENT_ORB_REWARD_RESET",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_ORB_RESOURCE_GET": {
+   "key": "Log_EVENT_ORB_RESOURCE_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_ORB_RESOURCE_SPEND": {
+   "key": "Log_EVENT_ORB_RESOURCE_SPEND",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_10": {
+   "key": "Log_ET_PLAYER_LEVEL_10",
+   "name": "ET_PLAYER_LEVEL_10",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_15": {
+   "key": "Log_ET_PLAYER_LEVEL_15",
+   "name": "ET_PLAYER_LEVEL_15",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_20": {
+   "key": "Log_ET_PLAYER_LEVEL_20",
+   "name": "ET_PLAYER_LEVEL_20",
+   "enabled": true
+  },
+  "Log_ET_BUY_KIARA": {
+   "key": "Log_ET_BUY_KIARA",
+   "name": "ET_BUY_KIARA",
+   "enabled": true
+  },
+  "Log_ET_BUY_FREE_PASS": {
+   "key": "Log_ET_BUY_FREE_PASS",
+   "name": "ET_BUY_FREE_PASS",
+   "enabled": true
+  },
+  "Log_ET_BUILD_HEROOFFICE": {
+   "key": "Log_ET_BUILD_HEROOFFICE",
+   "name": "ET_BUILD_HEROOFFICE",
+   "enabled": true
+  },
+  "log": {
+   "key": "log",
+   "name": "",
+   "enabled": false
+  },
+  "Log_EVENT_INFINITYSTAIRS_TRY": {
+   "key": "Log_EVENT_INFINITYSTAIRS_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_INFINITYSTAIRS_END": {
+   "key": "Log_EVENT_INFINITYSTAIRS_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_INFINITYSTAIRS_INVITE_FRIEND": {
+   "key": "Log_EVENT_INFINITYSTAIRS_INVITE_FRIEND",
+   "name": "INFINITYSTAIRS_INVITE_FRIEND",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_5": {
+   "key": "Log_ET_PLAYER_LEVEL_5",
+   "name": "ET_PLAYER_LEVEL_5",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_30": {
+   "key": "Log_ET_PLAYER_LEVEL_30",
+   "name": "ET_PLAYER_LEVEL_30",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_50": {
+   "key": "Log_ET_PLAYER_LEVEL_50",
+   "name": "ET_PLAYER_LEVEL_50",
+   "enabled": true
+  },
+  "Log_EVENT_ROULETTE_TRY": {
+   "key": "Log_EVENT_ROULETTE_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_ROULETTE_END": {
+   "key": "Log_EVENT_ROULETTE_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_ROULETTE_RESOURCE_GET": {
+   "key": "Log_EVENT_ROULETTE_RESOURCE_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_ROULETTE_REWARD_SELECT": {
+   "key": "Log_EVENT_ROULETTE_REWARD_SELECT",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_LUMBERJACK_GAME_TRY": {
+   "key": "Log_EVENT_LUMBERJACK_GAME_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_LUMBERJACK_GAME_END": {
+   "key": "Log_EVENT_LUMBERJACK_GAME_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_LUMBERJACK_GACHA": {
+   "key": "Log_EVENT_LUMBERJACK_GACHA",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_EVENT_LUMBERJACK_GACHA_REWARD": {
+   "key": "Log_EVENT_LUMBERJACK_GACHA_REWARD",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log": {
+   "key": "Log",
+   "name": "",
+   "enabled": false
+  },
+  "Log_EVENT_PINBALL_GAME_TRY": {
+   "key": "Log_EVENT_PINBALL_GAME_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_PINBALL_GAME_END": {
+   "key": "Log_EVENT_PINBALL_GAME_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_CRAFT": {
+   "key": "Log_CRAFT",
+   "name": "CRAFT",
+   "enabled": true
+  },
+  "Log_ET_CLEAR_2ND_QUEST": {
+   "key": "Log_ET_CLEAR_2ND_QUEST",
+   "name": "ET_CLEAR_2ND_QUEST",
+   "enabled": true
+  },
+  "Log_ET_GET_WOODY": {
+   "key": "Log_ET_GET_WOODY",
+   "name": "ET_GET_WOODY",
+   "enabled": true
+  },
+  "Log_ET_CLEAR_DUNGEON_UNIQUE": {
+   "key": "Log_ET_CLEAR_DUNGEON_UNIQUE",
+   "name": "ET_CLEAR_DUNGEON_UNIQUE",
+   "enabled": true
+  },
+  "Log_ET_CLEAR_RABBIT_QUEST": {
+   "key": "Log_ET_CLEAR_RABBIT_QUEST",
+   "name": "ET_CLEAR_RABBIT_QUEST",
+   "enabled": true
+  },
+  "Log_EVENT_NEWBIE_AI_TRY": {
+   "key": "Log_EVENT_NEWBIE_AI_TRY",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_EVENT_NEWBIE_AI_END": {
+   "key": "Log_EVENT_NEWBIE_AI_END",
+   "name": "ACHIEVEMENT",
+   "enabled": true
+  },
+  "Log_TOUCH_NEW_MENU": {
+   "key": "Log_TOUCH_NEW_MENU",
+   "name": "USERINFLOW",
+   "enabled": true
+  },
+  "Log_IDLE_REWARD_RESOURCE_GET": {
+   "key": "Log_IDLE_REWARD_RESOURCE_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_IDLE_REWARD_SPECIAL_GET": {
+   "key": "Log_IDLE_REWARD_SPECIAL_GET",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_IDLE_REWARD_LEVEL_REWARD": {
+   "key": "Log_IDLE_REWARD_LEVEL_REWARD",
+   "name": "RESOURCE",
+   "enabled": true
+  },
+  "Log_MONEY_DIA_GET": {
+   "key": "Log_MONEY_DIA_GET",
+   "name": "MONEY_DIA",
+   "enabled": true
+  },
+  "Log_MONEY_DIA_SPEND": {
+   "key": "Log_MONEY_DIA_SPEND",
+   "name": "MONEY_DIA",
+   "enabled": true
+  },
+  "Log_ET_REMOVE_ADS_3": {
+   "key": "Log_ET_REMOVE_ADS_3",
+   "name": "ET_REMOVE_ADS_3",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_40": {
+   "key": "Log_ET_PLAYER_LEVEL_40",
+   "name": "ET_PLAYER_LEVEL_40",
+   "enabled": true
+  },
+  "Log_ET_KILL_DRAGON": {
+   "key": "Log_ET_KILL_DRAGON",
+   "name": "ET_KILL_DRAGON",
+   "enabled": true
+  },
+  "Log_ET_BUILD_SHIP": {
+   "key": "Log_ET_BUILD_SHIP",
+   "name": "ET_BUILD_SHIP",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_60": {
+   "key": "Log_ET_PLAYER_LEVEL_60",
+   "name": "ET_PLAYER_LEVEL_60",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_70": {
+   "key": "Log_ET_PLAYER_LEVEL_70",
+   "name": "ET_PLAYER_LEVEL_70",
+   "enabled": true
+  },
+  "Log_ET_PLAYER_LEVEL_80": {
+   "key": "Log_ET_PLAYER_LEVEL_80",
+   "name": "ET_PLAYER_LEVEL_80",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_1": {
+   "key": "Log_ET_HERO_OFFICE_LV_1",
+   "name": "ET_HERO_OFFICE_LV_1",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_2": {
+   "key": "Log_ET_HERO_OFFICE_LV_2",
+   "name": "ET_HERO_OFFICE_LV_2",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_3": {
+   "key": "Log_ET_HERO_OFFICE_LV_3",
+   "name": "ET_HERO_OFFICE_LV_3",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_4": {
+   "key": "Log_ET_HERO_OFFICE_LV_4",
+   "name": "ET_HERO_OFFICE_LV_4",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_5": {
+   "key": "Log_ET_HERO_OFFICE_LV_5",
+   "name": "ET_HERO_OFFICE_LV_5",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_6": {
+   "key": "Log_ET_HERO_OFFICE_LV_6",
+   "name": "ET_HERO_OFFICE_LV_6",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_7": {
+   "key": "Log_ET_HERO_OFFICE_LV_7",
+   "name": "ET_HERO_OFFICE_LV_7",
+   "enabled": true
+  },
+  "Log_ET_HERO_OFFICE_LV_8": {
+   "key": "Log_ET_HERO_OFFICE_LV_8",
+   "name": "ET_HERO_OFFICE_LV_8",
+   "enabled": true
+  }
+ }
+}

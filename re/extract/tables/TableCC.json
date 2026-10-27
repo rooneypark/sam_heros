@@ -1,0 +1,193 @@
+{
+ "sheetName": "TableCCData",
+ "tableIndex": 0,
+ "rows": {
+  "CC000": {
+   "key": "CC000",
+   "category": 0,
+   "name": "LocalizeCCName000000",
+   "desc": "LocalizeCCDesc000000",
+   "type": "BLEEDING",
+   "icon": "ui_568",
+   "maxCount": 3,
+   "skill": "Skill801000",
+   "mainHero": "Unit000005",
+   "heroTalk": "LocalizeCCTalk000000",
+   "heroes": [
+    "Unit000074",
+    "Unit000073",
+    "Unit000067",
+    "Unit000066",
+    "Unit000058",
+    "Unit000053",
+    "Unit000051",
+    "Unit000048",
+    "Unit000042",
+    "Unit000037",
+    "Unit000024",
+    "Unit000019",
+    "Unit000043",
+    "Unit000005",
+    "Unit000003"
+   ]
+  },
+  "CC001": {
+   "key": "CC001",
+   "category": 1,
+   "name": "LocalizeCCName000001",
+   "desc": "LocalizeCCDesc000001",
+   "type": "POISON",
+   "icon": "ui_525",
+   "maxCount": 10,
+   "skill": "Skill802000",
+   "mainHero": "Unit000027",
+   "heroTalk": "LocalizeCCTalk000001",
+   "heroes": [
+    "Unit000075",
+    "Unit000069",
+    "Unit000068",
+    "Unit000061",
+    "Unit000060",
+    "Unit000055",
+    "Unit000054",
+    "Unit000049",
+    "Unit000044",
+    "Unit000040",
+    "Unit000043",
+    "Unit000033",
+    "Unit000032",
+    "Unit000028",
+    "Unit000002"
+   ]
+  },
+  "CC002": {
+   "key": "CC002",
+   "category": 2,
+   "name": "LocalizeCCName000002",
+   "desc": "LocalizeCCDesc000002",
+   "type": "BURN",
+   "icon": "ui_691",
+   "maxCount": 3,
+   "skill": "Skill803000",
+   "mainHero": "Unit000030",
+   "heroTalk": "LocalizeCCTalk000002",
+   "heroes": [
+    "Unit000071",
+    "Unit000063",
+    "Unit000056",
+    "Unit000047",
+    "Unit000041",
+    "Unit000036",
+    "Unit000007",
+    "Unit000035",
+    "Unit000033",
+    "Unit000020"
+   ]
+  },
+  "CC003": {
+   "key": "CC003",
+   "category": 3,
+   "name": "LocalizeCCName000003",
+   "desc": "LocalizeCCDesc000003",
+   "type": "CURSE",
+   "icon": "ui_525",
+   "maxCount": 2,
+   "skill": "",
+   "mainHero": "Unit000004",
+   "heroTalk": "LocalizeCCTalk000003",
+   "heroes": [
+    "Unit000012",
+    "Unit000011",
+    "Unit000010",
+    "Unit000009"
+   ]
+  },
+  "CC004": {
+   "key": "CC004",
+   "category": 4,
+   "name": "LocalizeCCName000004",
+   "desc": "LocalizeCCDesc000004",
+   "type": "FROSTBITE",
+   "icon": "ui_635",
+   "maxCount": 3,
+   "skill": "Skill805000",
+   "mainHero": "Unit000008",
+   "heroTalk": "LocalizeCCTalk000004",
+   "heroes": [
+    "Unit000078",
+    "Unit000070",
+    "Unit000065",
+    "Unit000062",
+    "Unit000059",
+    "Unit000050",
+    "Unit000038",
+    "Unit000031",
+    "Unit000007",
+    "Unit000033",
+    "Unit000014"
+   ]
+  },
+  "CC005": {
+   "key": "CC005",
+   "category": 5,
+   "name": "LocalizeCCName000005",
+   "desc": "LocalizeCCDesc000005",
+   "type": "FROZEN",
+   "icon": "ui_635",
+   "maxCount": -1,
+   "skill": "",
+   "mainHero": "Unit000034",
+   "heroTalk": "LocalizeCCTalk000005",
+   "heroes": [
+    "Unit000078",
+    "Unit000070",
+    "Unit000057",
+    "Unit000038",
+    "Unit000031",
+    "Unit000007",
+    "Unit000033",
+    "Unit000014"
+   ]
+  },
+  "CC006": {
+   "key": "CC006",
+   "category": 6,
+   "name": "LocalizeCCName000006",
+   "desc": "LocalizeCCDesc000006",
+   "type": "STUN",
+   "icon": "ui_594",
+   "maxCount": -1,
+   "skill": "",
+   "mainHero": "Unit000009",
+   "heroTalk": "LocalizeCCTalk000006",
+   "heroes": [
+    "Unit000076",
+    "Unit000075",
+    "Unit000055",
+    "Unit000046",
+    "Unit000044",
+    "Unit000026",
+    "Unit000033",
+    "Unit000012",
+    "Unit000011",
+    "Unit000508",
+    "Unit000023"
+   ]
+  },
+  "CC007": {
+   "key": "CC007",
+   "category": 7,
+   "name": "LocalizeCCName000007",
+   "desc": "LocalizeCCDesc000007",
+   "type": "BONDAGE",
+   "icon": "ui_594",
+   "maxCount": -1,
+   "skill": "",
+   "mainHero": "Unit000075",
+   "heroTalk": "LocalizeCCTalk000007",
+   "heroes": [
+    "Unit000075"
+   ]
+  }
+ }
+}

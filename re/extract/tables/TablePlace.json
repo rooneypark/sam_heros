@@ -1,0 +1,972 @@
+{
+ "sheetName": "TablePlaceData",
+ "tableIndex": 0,
+ "rows": {
+  "Place101001": {
+   "key": "Place101001",
+   "category": 101,
+   "index": 1,
+   "mapData": "Dungeon_jail_01_01"
+  },
+  "Place101002": {
+   "key": "Place101002",
+   "category": 101,
+   "index": 2,
+   "mapData": "Dungeon_jail_02_01"
+  },
+  "Place101003": {
+   "key": "Place101003",
+   "category": 101,
+   "index": 3,
+   "mapData": "Dungeon_jail_03_01"
+  },
+  "Place101004": {
+   "key": "Place101004",
+   "category": 101,
+   "index": 4,
+   "mapData": "Dungeon_jail_04_01"
+  },
+  "Place101005": {
+   "key": "Place101005",
+   "category": 101,
+   "index": 5,
+   "mapData": "Dungeon_jail_05_01"
+  },
+  "Place101006": {
+   "key": "Place101006",
+   "category": 101,
+   "index": 6,
+   "mapData": "Dungeon_jail_06_01"
+  },
+  "Place101007": {
+   "key": "Place101007",
+   "category": 101,
+   "index": 7,
+   "mapData": "Dungeon_jail_07_01"
+  },
+  "Place101008": {
+   "key": "Place101008",
+   "category": 101,
+   "index": 8,
+   "mapData": "Dungeon_jail_08_01"
+  },
+  "Place101009": {
+   "key": "Place101009",
+   "category": 101,
+   "index": 9,
+   "mapData": "Dungeon_jail_09_01"
+  },
+  "Place101901": {
+   "key": "Place101901",
+   "category": 101,
+   "index": 901,
+   "mapData": "Dungeon_jail_08_Boss"
+  },
+  "Place101902": {
+   "key": "Place101902",
+   "category": 101,
+   "index": 902,
+   "mapData": "Dungeon_jail_08_Boss_Tuto"
+  },
+  "Place101903": {
+   "key": "Place101903",
+   "category": 101,
+   "index": 903,
+   "mapData": "Dungeon_jail_08_Boss_New"
+  },
+  "Place102001": {
+   "key": "Place102001",
+   "category": 102,
+   "index": 1,
+   "mapData": "Dungeon_forest_01_01"
+  },
+  "Place102002": {
+   "key": "Place102002",
+   "category": 102,
+   "index": 2,
+   "mapData": "Dungeon_forest_02_01"
+  },
+  "Place102003": {
+   "key": "Place102003",
+   "category": 102,
+   "index": 3,
+   "mapData": "Dungeon_forest_03_01"
+  },
+  "Place102004": {
+   "key": "Place102004",
+   "category": 102,
+   "index": 4,
+   "mapData": "Dungeon_forest_04_01"
+  },
+  "Place102005": {
+   "key": "Place102005",
+   "category": 102,
+   "index": 5,
+   "mapData": "Dungeon_forest_05_01"
+  },
+  "Place102006": {
+   "key": "Place102006",
+   "category": 102,
+   "index": 6,
+   "mapData": "Dungeon_forest_06_01"
+  },
+  "Place102007": {
+   "key": "Place102007",
+   "category": 102,
+   "index": 7,
+   "mapData": "Dungeon_forest_07_01"
+  },
+  "Place102008": {
+   "key": "Place102008",
+   "category": 102,
+   "index": 8,
+   "mapData": "Dungeon_forest_08_01"
+  },
+  "Place102009": {
+   "key": "Place102009",
+   "category": 102,
+   "index": 9,
+   "mapData": "Dungeon_forest_09_01"
+  },
+  "Place102901": {
+   "key": "Place102901",
+   "category": 102,
+   "index": 901,
+   "mapData": "Dungeon_forest_06_Boss"
+  },
+  "Place103001": {
+   "key": "Place103001",
+   "category": 103,
+   "index": 1,
+   "mapData": "Dungeon_jail_Red_01_01"
+  },
+  "Place103002": {
+   "key": "Place103002",
+   "category": 103,
+   "index": 2,
+   "mapData": "Dungeon_jail_Red_02_01"
+  },
+  "Place103003": {
+   "key": "Place103003",
+   "category": 103,
+   "index": 3,
+   "mapData": "Dungeon_jail_Red_03_01"
+  },
+  "Place103004": {
+   "key": "Place103004",
+   "category": 103,
+   "index": 4,
+   "mapData": "Dungeon_jail_Red_04_01"
+  },
+  "Place103005": {
+   "key": "Place103005",
+   "category": 103,
+   "index": 5,
+   "mapData": "Dungeon_jail_Red_05_01"
+  },
+  "Place103006": {
+   "key": "Place103006",
+   "category": 103,
+   "index": 6,
+   "mapData": "Dungeon_jail_Red_06_01"
+  },
+  "Place103007": {
+   "key": "Place103007",
+   "category": 103,
+   "index": 7,
+   "mapData": "Dungeon_jail_Red_07_01"
+  },
+  "Place103008": {
+   "key": "Place103008",
+   "category": 103,
+   "index": 8,
+   "mapData": "Dungeon_jail_Red_08_01"
+  },
+  "Place103009": {
+   "key": "Place103009",
+   "category": 103,
+   "index": 9,
+   "mapData": "Dungeon_jail_Red_09_01"
+  },
+  "Place103901": {
+   "key": "Place103901",
+   "category": 103,
+   "index": 901,
+   "mapData": "Dungeon_jail_Red_08_Boss"
+  },
+  "Place104001": {
+   "key": "Place104001",
+   "category": 104,
+   "index": 1,
+   "mapData": "Dungeon_cave_01_01"
+  },
+  "Place104002": {
+   "key": "Place104002",
+   "category": 104,
+   "index": 2,
+   "mapData": "Dungeon_cave_02_01"
+  },
+  "Place104003": {
+   "key": "Place104003",
+   "category": 104,
+   "index": 3,
+   "mapData": "Dungeon_cave_03_01"
+  },
+  "Place104004": {
+   "key": "Place104004",
+   "category": 104,
+   "index": 4,
+   "mapData": "Dungeon_cave_03_02"
+  },
+  "Place104005": {
+   "key": "Place104005",
+   "category": 104,
+   "index": 5,
+   "mapData": "Dungeon_cave_03_03"
+  },
+  "Place104006": {
+   "key": "Place104006",
+   "category": 104,
+   "index": 6,
+   "mapData": "Dungeon_cave_04_01"
+  },
+  "Place104007": {
+   "key": "Place104007",
+   "category": 104,
+   "index": 7,
+   "mapData": "Dungeon_cave_05_01"
+  },
+  "Place104008": {
+   "key": "Place104008",
+   "category": 104,
+   "index": 8,
+   "mapData": "Dungeon_cave_06_01"
+  },
+  "Place104901": {
+   "key": "Place104901",
+   "category": 104,
+   "index": 901,
+   "mapData": "Dungeon_cave_02_Boss"
+  },
+  "Place105001": {
+   "key": "Place105001",
+   "category": 105,
+   "index": 1,
+   "mapData": "Dungeon_desert_01_01"
+  },
+  "Place105002": {
+   "key": "Place105002",
+   "category": 105,
+   "index": 2,
+   "mapData": "Dungeon_desert_02_01"
+  },
+  "Place105003": {
+   "key": "Place105003",
+   "category": 105,
+   "index": 3,
+   "mapData": "Dungeon_desert_03_01"
+  },
+  "Place105004": {
+   "key": "Place105004",
+   "category": 105,
+   "index": 4,
+   "mapData": "Dungeon_desert_04_01"
+  },
+  "Place105005": {
+   "key": "Place105005",
+   "category": 105,
+   "index": 5,
+   "mapData": "Dungeon_desert_05_01"
+  },
+  "Place105006": {
+   "key": "Place105006",
+   "category": 105,
+   "index": 6,
+   "mapData": "Dungeon_desert_06_01"
+  },
+  "Place105007": {
+   "key": "Place105007",
+   "category": 105,
+   "index": 7,
+   "mapData": "Dungeon_desert_06_02"
+  },
+  "Place105008": {
+   "key": "Place105008",
+   "category": 105,
+   "index": 8,
+   "mapData": "Dungeon_desert_07_01"
+  },
+  "Place105009": {
+   "key": "Place105009",
+   "category": 105,
+   "index": 9,
+   "mapData": "Dungeon_desert_07_02"
+  },
+  "Place105010": {
+   "key": "Place105010",
+   "category": 105,
+   "index": 10,
+   "mapData": "Dungeon_desert_08_01"
+  },
+  "Place105901": {
+   "key": "Place105901",
+   "category": 105,
+   "index": 901,
+   "mapData": "Dungeon_desert_04_Boss"
+  },
+  "Place901001": {
+   "key": "Place901001",
+   "category": 901,
+   "index": 1,
+   "mapData": "Dungeon_gold_01_01"
+  },
+  "Place901002": {
+   "key": "Place901002",
+   "category": 901,
+   "index": 2,
+   "mapData": "Challenge_goldpig_01"
+  },
+  "Place901003": {
+   "key": "Place901003",
+   "category": 901,
+   "index": 3,
+   "mapData": "Dungeon_CowCow_02"
+  },
+  "Place901004": {
+   "key": "Place901004",
+   "category": 901,
+   "index": 4,
+   "mapData": "Dungeon_CowCow_04"
+  },
+  "Place901005": {
+   "key": "Place901005",
+   "category": 901,
+   "index": 5,
+   "mapData": "Dungeon_CowCow"
+  },
+  "Place902001": {
+   "key": "Place902001",
+   "category": 902,
+   "index": 1,
+   "mapData": "Dungeon_mirror_01_01"
+  },
+  "Place903001": {
+   "key": "Place903001",
+   "category": 903,
+   "index": 1,
+   "mapData": "Dungeon_slime_01_01"
+  },
+  "Place904001": {
+   "key": "Place904001",
+   "category": 904,
+   "index": 1,
+   "mapData": "Dungeon_cave_01_Dimension"
+  },
+  "Place904002": {
+   "key": "Place904002",
+   "category": 904,
+   "index": 2,
+   "mapData": "Dungeon_cave_03_Dimension"
+  },
+  "Place904003": {
+   "key": "Place904003",
+   "category": 904,
+   "index": 3,
+   "mapData": "Dungeon_desert_04_Dimension"
+  },
+  "Place904004": {
+   "key": "Place904004",
+   "category": 904,
+   "index": 4,
+   "mapData": "Dungeon_desert_06_Dimension"
+  },
+  "Place904005": {
+   "key": "Place904005",
+   "category": 904,
+   "index": 5,
+   "mapData": "Dungeon_forest_05_Dimension"
+  },
+  "Place904006": {
+   "key": "Place904006",
+   "category": 904,
+   "index": 6,
+   "mapData": "Dungeon_forest_08_Dimension"
+  },
+  "Place904007": {
+   "key": "Place904007",
+   "category": 904,
+   "index": 7,
+   "mapData": "Dungeon_jail_06_Dimension"
+  },
+  "Place904008": {
+   "key": "Place904008",
+   "category": 904,
+   "index": 8,
+   "mapData": "Dungeon_jail_09_Dimension"
+  },
+  "Place904009": {
+   "key": "Place904009",
+   "category": 904,
+   "index": 9,
+   "mapData": "Dungeon_jail_Red_08_Dimension"
+  },
+  "Place904010": {
+   "key": "Place904010",
+   "category": 904,
+   "index": 10,
+   "mapData": "Dungeon_jail_Red_05_Dimension"
+  },
+  "Place904901": {
+   "key": "Place904901",
+   "category": 904,
+   "index": 901,
+   "mapData": "Dungeon_mirror_01_Dimension"
+  },
+  "Place905001": {
+   "key": "Place905001",
+   "category": 905,
+   "index": 1,
+   "mapData": "Dungeon_ancientpower_01"
+  },
+  "Place905002": {
+   "key": "Place905002",
+   "category": 905,
+   "index": 2,
+   "mapData": "Dungeon_ancientpower_02_1"
+  },
+  "Place905003": {
+   "key": "Place905003",
+   "category": 905,
+   "index": 3,
+   "mapData": "Dungeon_ancientpower_01_2"
+  },
+  "Place905004": {
+   "key": "Place905004",
+   "category": 905,
+   "index": 4,
+   "mapData": "Dungeon_ancientpower_01_1"
+  },
+  "Place907001": {
+   "key": "Place907001",
+   "category": 907,
+   "index": 1,
+   "mapData": "Dungeon_runemine_01"
+  },
+  "Place907002": {
+   "key": "Place907002",
+   "category": 907,
+   "index": 2,
+   "mapData": "Dungeon_runemine_02"
+  },
+  "Place907003": {
+   "key": "Place907003",
+   "category": 907,
+   "index": 3,
+   "mapData": "Dungeon_runemine_03"
+  },
+  "Place907004": {
+   "key": "Place907004",
+   "category": 907,
+   "index": 4,
+   "mapData": "Dungeon_runemine_04"
+  },
+  "Place907005": {
+   "key": "Place907005",
+   "category": 907,
+   "index": 5,
+   "mapData": "Dungeon_runemine_05"
+  },
+  "Place907006": {
+   "key": "Place907006",
+   "category": 907,
+   "index": 6,
+   "mapData": "Dungeon_runemine_00_1_1"
+  },
+  "Place907007": {
+   "key": "Place907007",
+   "category": 907,
+   "index": 7,
+   "mapData": "Dungeon_runemine_00_2_1"
+  },
+  "Place907008": {
+   "key": "Place907008",
+   "category": 907,
+   "index": 8,
+   "mapData": "Dungeon_runemine_00_3_1"
+  },
+  "Place907009": {
+   "key": "Place907009",
+   "category": 907,
+   "index": 9,
+   "mapData": "Dungeon_runemine_00_1_2"
+  },
+  "Place907010": {
+   "key": "Place907010",
+   "category": 907,
+   "index": 10,
+   "mapData": "Dungeon_runemine_00_2_2"
+  },
+  "Place907011": {
+   "key": "Place907011",
+   "category": 907,
+   "index": 11,
+   "mapData": "Dungeon_runemine_00_3_2"
+  },
+  "Place907101": {
+   "key": "Place907101",
+   "category": 907,
+   "index": 101,
+   "mapData": "Dungeon_runemine_00_4_1"
+  },
+  "Place907102": {
+   "key": "Place907102",
+   "category": 907,
+   "index": 102,
+   "mapData": "Dungeon_runemine_00_4_2"
+  },
+  "Place907103": {
+   "key": "Place907103",
+   "category": 907,
+   "index": 103,
+   "mapData": "Dungeon_runemine_00_4_3"
+  },
+  "Place907104": {
+   "key": "Place907104",
+   "category": 907,
+   "index": 104,
+   "mapData": "Dungeon_runemine_00_4_4"
+  },
+  "Place907105": {
+   "key": "Place907105",
+   "category": 907,
+   "index": 105,
+   "mapData": "Dungeon_runemine_00_4_5"
+  },
+  "Place907106": {
+   "key": "Place907106",
+   "category": 907,
+   "index": 106,
+   "mapData": "Dungeon_runemine_00_4_6"
+  },
+  "Place908000": {
+   "key": "Place908000",
+   "category": 908,
+   "index": 0,
+   "mapData": "Dungeon_Inf_boss_00"
+  },
+  "Place908001": {
+   "key": "Place908001",
+   "category": 908,
+   "index": 1,
+   "mapData": "Dungeon_Inf_boss_01"
+  },
+  "Place908002": {
+   "key": "Place908002",
+   "category": 908,
+   "index": 2,
+   "mapData": "Dungeon_Inf_boss_02"
+  },
+  "Place908003": {
+   "key": "Place908003",
+   "category": 908,
+   "index": 3,
+   "mapData": " "
+  },
+  "Place908004": {
+   "key": "Place908004",
+   "category": 908,
+   "index": 4,
+   "mapData": "Dungeon_Inf_boss_04"
+  },
+  "Place700000": {
+   "key": "Place700000",
+   "category": 700,
+   "index": 0,
+   "mapData": "Dungeon_Abyss_0_1"
+  },
+  "Place700001": {
+   "key": "Place700001",
+   "category": 700,
+   "index": 1,
+   "mapData": "Dungeon_Abyss_0_2"
+  },
+  "Place700002": {
+   "key": "Place700002",
+   "category": 700,
+   "index": 2,
+   "mapData": "Dungeon_Abyss_0_3"
+  },
+  "Place700003": {
+   "key": "Place700003",
+   "category": 700,
+   "index": 3,
+   "mapData": "Dungeon_Abyss_0_4"
+  },
+  "Place700004": {
+   "key": "Place700004",
+   "category": 700,
+   "index": 4,
+   "mapData": "Dungeon_Abyss_0_5"
+  },
+  "Place700005": {
+   "key": "Place700005",
+   "category": 700,
+   "index": 5,
+   "mapData": "Dungeon_Abyss_0_6"
+  },
+  "Place700006": {
+   "key": "Place700006",
+   "category": 700,
+   "index": 6,
+   "mapData": "Dungeon_Abyss_0_7"
+  },
+  "Place700007": {
+   "key": "Place700007",
+   "category": 700,
+   "index": 7,
+   "mapData": "Dungeon_Abyss_0_8"
+  },
+  "Place700008": {
+   "key": "Place700008",
+   "category": 700,
+   "index": 8,
+   "mapData": "Dungeon_Abyss_0_9"
+  },
+  "Place700010": {
+   "key": "Place700010",
+   "category": 700,
+   "index": 10,
+   "mapData": "Dungeon_Abyss_Boss_1"
+  },
+  "Place700100": {
+   "key": "Place700100",
+   "category": 700,
+   "index": 100,
+   "mapData": "Dungeon_Abyss_Boss_10"
+  },
+  "Place701000": {
+   "key": "Place701000",
+   "category": 701,
+   "index": 0,
+   "mapData": "Dungeon_Abyss_Blood_1"
+  },
+  "Place701001": {
+   "key": "Place701001",
+   "category": 701,
+   "index": 1,
+   "mapData": "Dungeon_Abyss_Blood_2"
+  },
+  "Place701002": {
+   "key": "Place701002",
+   "category": 701,
+   "index": 2,
+   "mapData": "Dungeon_Abyss_Blood_3"
+  },
+  "Place701003": {
+   "key": "Place701003",
+   "category": 701,
+   "index": 3,
+   "mapData": "Dungeon_Abyss_Blood_4"
+  },
+  "Place701004": {
+   "key": "Place701004",
+   "category": 701,
+   "index": 4,
+   "mapData": "Dungeon_Abyss_Blood_5"
+  },
+  "Place701005": {
+   "key": "Place701005",
+   "category": 701,
+   "index": 5,
+   "mapData": "Dungeon_Abyss_Blood_6"
+  },
+  "Place701006": {
+   "key": "Place701006",
+   "category": 701,
+   "index": 6,
+   "mapData": "Dungeon_Abyss_Blood_7"
+  },
+  "Place701007": {
+   "key": "Place701007",
+   "category": 701,
+   "index": 7,
+   "mapData": "Dungeon_Abyss_Blood_8"
+  },
+  "Place701008": {
+   "key": "Place701008",
+   "category": 701,
+   "index": 8,
+   "mapData": "Dungeon_Abyss_Blood_9"
+  },
+  "Place701010": {
+   "key": "Place701010",
+   "category": 701,
+   "index": 10,
+   "mapData": "Dungeon_Abyss_Boss_2"
+  },
+  "Place701100": {
+   "key": "Place701100",
+   "category": 701,
+   "index": 100,
+   "mapData": "Dungeon_Abyss_Boss_10"
+  },
+  "Place702000": {
+   "key": "Place702000",
+   "category": 702,
+   "index": 0,
+   "mapData": "Dungeon_CowCow_abyss_01"
+  },
+  "Place702001": {
+   "key": "Place702001",
+   "category": 702,
+   "index": 1,
+   "mapData": "Dungeon_CowCow_abyss_02"
+  },
+  "Place702002": {
+   "key": "Place702002",
+   "category": 702,
+   "index": 2,
+   "mapData": "Dungeon_CowCow_abyss_03"
+  },
+  "Place702003": {
+   "key": "Place702003",
+   "category": 702,
+   "index": 3,
+   "mapData": "Dungeon_CowCow_abyss_04"
+  },
+  "Place702004": {
+   "key": "Place702004",
+   "category": 702,
+   "index": 4,
+   "mapData": "Dungeon_CowCow_abyss_05"
+  },
+  "Place702005": {
+   "key": "Place702005",
+   "category": 702,
+   "index": 5,
+   "mapData": "Dungeon_CowCow_abyss_06"
+  },
+  "Place702006": {
+   "key": "Place702006",
+   "category": 702,
+   "index": 6,
+   "mapData": "Dungeon_CowCow_abyss_07"
+  },
+  "Place702007": {
+   "key": "Place702007",
+   "category": 702,
+   "index": 7,
+   "mapData": "Dungeon_CowCow_abyss_08"
+  },
+  "Place702008": {
+   "key": "Place702008",
+   "category": 702,
+   "index": 8,
+   "mapData": "Dungeon_CowCow_abyss_09"
+  },
+  "Place703000": {
+   "key": "Place703000",
+   "category": 703,
+   "index": 0,
+   "mapData": "Dungeon_Abyss_Poison_1"
+  },
+  "Place703001": {
+   "key": "Place703001",
+   "category": 703,
+   "index": 1,
+   "mapData": "Dungeon_Abyss_Poison_2"
+  },
+  "Place703002": {
+   "key": "Place703002",
+   "category": 703,
+   "index": 2,
+   "mapData": "Dungeon_Abyss_Poison_3"
+  },
+  "Place703003": {
+   "key": "Place703003",
+   "category": 703,
+   "index": 3,
+   "mapData": "Dungeon_Abyss_Poison_4"
+  },
+  "Place703007": {
+   "key": "Place703007",
+   "category": 703,
+   "index": 7,
+   "mapData": "Dungeon_Abyss_Poison_8"
+  },
+  "Place703008": {
+   "key": "Place703008",
+   "category": 703,
+   "index": 8,
+   "mapData": "Dungeon_Abyss_Poison_9"
+  },
+  "Place703010": {
+   "key": "Place703010",
+   "category": 703,
+   "index": 10,
+   "mapData": "Dungeon_Abyss_Boss_3"
+  },
+  "Place703100": {
+   "key": "Place703100",
+   "category": 703,
+   "index": 100,
+   "mapData": "Dungeon_Abyss_Boss_10"
+  },
+  "Place704000": {
+   "key": "Place704000",
+   "category": 704,
+   "index": 0,
+   "mapData": "Dungeon_Abyss_Ice_1"
+  },
+  "Place704001": {
+   "key": "Place704001",
+   "category": 704,
+   "index": 1,
+   "mapData": "Dungeon_Abyss_Ice_2"
+  },
+  "Place704002": {
+   "key": "Place704002",
+   "category": 704,
+   "index": 2,
+   "mapData": "Dungeon_Abyss_Ice_3"
+  },
+  "Place704007": {
+   "key": "Place704007",
+   "category": 704,
+   "index": 7,
+   "mapData": "Dungeon_Abyss_Ice_8"
+  },
+  "Place704008": {
+   "key": "Place704008",
+   "category": 704,
+   "index": 8,
+   "mapData": "Dungeon_Abyss_Ice_9"
+  },
+  "Place704010": {
+   "key": "Place704010",
+   "category": 704,
+   "index": 10,
+   "mapData": "Dungeon_Abyss_Boss_4"
+  },
+  "Place704100": {
+   "key": "Place704100",
+   "category": 704,
+   "index": 100,
+   "mapData": "Dungeon_Abyss_Boss_10"
+  },
+  "Place705000": {
+   "key": "Place705000",
+   "category": 705,
+   "index": 0,
+   "mapData": "Dungeon_Abyss_Lava_1"
+  },
+  "Place705001": {
+   "key": "Place705001",
+   "category": 705,
+   "index": 1,
+   "mapData": "Dungeon_Abyss_Lava_2"
+  },
+  "Place705002": {
+   "key": "Place705002",
+   "category": 705,
+   "index": 2,
+   "mapData": "Dungeon_Abyss_Lava_3"
+  },
+  "Place705007": {
+   "key": "Place705007",
+   "category": 705,
+   "index": 7,
+   "mapData": "Dungeon_Abyss_Lava_8"
+  },
+  "Place705008": {
+   "key": "Place705008",
+   "category": 705,
+   "index": 8,
+   "mapData": "Dungeon_Abyss_Lava_9"
+  },
+  "Place705010": {
+   "key": "Place705010",
+   "category": 705,
+   "index": 10,
+   "mapData": "Dungeon_Abyss_Boss_5"
+  },
+  "Place705100": {
+   "key": "Place705100",
+   "category": 705,
+   "index": 100,
+   "mapData": "Dungeon_Abyss_Boss_10"
+  },
+  "Place110100": {
+   "key": "Place110100",
+   "category": 110,
+   "index": 100,
+   "mapData": "Dungeon_hero_02"
+  },
+  "Place110101": {
+   "key": "Place110101",
+   "category": 110,
+   "index": 101,
+   "mapData": "Dungeon_hero_03"
+  },
+  "Place110102": {
+   "key": "Place110102",
+   "category": 110,
+   "index": 102,
+   "mapData": "Dungeon_hero_04"
+  },
+  "Place110103": {
+   "key": "Place110103",
+   "category": 110,
+   "index": 103,
+   "mapData": "Dungeon_hero_05"
+  },
+  "Place110104": {
+   "key": "Place110104",
+   "category": 110,
+   "index": 104,
+   "mapData": "Dungeon_boss_02"
+  },
+  "Place110105": {
+   "key": "Place110105",
+   "category": 110,
+   "index": 105,
+   "mapData": "Dungeon_boss_03"
+  },
+  "Place110106": {
+   "key": "Place110106",
+   "category": 110,
+   "index": 106,
+   "mapData": "Dungeon_boss_04"
+  },
+  "Place110107": {
+   "key": "Place110107",
+   "category": 110,
+   "index": 107,
+   "mapData": "Dungeon_boss_05"
+  },
+  "Place999998": {
+   "key": "Place999998",
+   "category": 999,
+   "index": 998,
+   "mapData": "Dungeon_DPS"
+  },
+  "Place370000": {
+   "key": "Place370000",
+   "category": 370,
+   "index": 0,
+   "mapData": "DPS_1"
+  },
+  "Place370001": {
+   "key": "Place370001",
+   "category": 370,
+   "index": 1,
+   "mapData": "DPS_10"
+  },
+  "Place370002": {
+   "key": "Place370002",
+   "category": 370,
+   "index": 2,
+   "mapData": "DPS_30"
+  }
+ }
+}

@@ -1,0 +1,337 @@
+{
+ "sheetName": "TableContributionData",
+ "tableIndex": 0,
+ "rows": {
+  "Contribution000000": {
+   "key": "Contribution000000",
+   "lv": 0,
+   "reqExp": 60,
+   "dailyReward": [],
+   "dailyAmount": [
+    0
+   ],
+   "lvUpReward": [],
+   "lvUpAmount": [
+    0
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004"
+   ]
+  },
+  "Contribution000001": {
+   "key": "Contribution000001",
+   "lv": 1,
+   "reqExp": 360,
+   "dailyReward": [
+    "Item002003"
+   ],
+   "dailyAmount": [
+    50
+   ],
+   "lvUpReward": [
+    "Item002003"
+   ],
+   "lvUpAmount": [
+    100
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005"
+   ]
+  },
+  "Contribution000002": {
+   "key": "Contribution000002",
+   "lv": 2,
+   "reqExp": 900,
+   "dailyReward": [
+    "Item002039"
+   ],
+   "dailyAmount": [
+    5
+   ],
+   "lvUpReward": [
+    "Item002003"
+   ],
+   "lvUpAmount": [
+    300
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502002",
+    "UpgradeStat502007"
+   ]
+  },
+  "Contribution000003": {
+   "key": "Contribution000003",
+   "lv": 3,
+   "reqExp": 1800,
+   "dailyReward": [
+    "Item002040"
+   ],
+   "dailyAmount": [
+    3
+   ],
+   "lvUpReward": [
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    5
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502008"
+   ]
+  },
+  "Contribution000004": {
+   "key": "Contribution000004",
+   "lv": 4,
+   "reqExp": 3000,
+   "dailyReward": [
+    "Item002041"
+   ],
+   "dailyAmount": [
+    2
+   ],
+   "lvUpReward": [
+    "Item013032",
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    1,
+    45
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502009"
+   ]
+  },
+  "Contribution000005": {
+   "key": "Contribution000005",
+   "lv": 5,
+   "reqExp": 6000,
+   "dailyReward": [
+    "Item002042"
+   ],
+   "dailyAmount": [
+    1
+   ],
+   "lvUpReward": [
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    95
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502003"
+   ]
+  },
+  "Contribution000006": {
+   "key": "Contribution000006",
+   "lv": 6,
+   "reqExp": 9000,
+   "dailyReward": [
+    "Item002003"
+   ],
+   "dailyAmount": [
+    100
+   ],
+   "lvUpReward": [
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    145
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502011"
+   ]
+  },
+  "Contribution000007": {
+   "key": "Contribution000007",
+   "lv": 7,
+   "reqExp": 12000,
+   "dailyReward": [
+    "Item002039"
+   ],
+   "dailyAmount": [
+    5
+   ],
+   "lvUpReward": [
+    "Item013031",
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    1,
+    260
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502007"
+   ]
+  },
+  "Contribution000008": {
+   "key": "Contribution000008",
+   "lv": 8,
+   "reqExp": 15000,
+   "dailyReward": [
+    "Item002040"
+   ],
+   "dailyAmount": [
+    3
+   ],
+   "lvUpReward": [
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    365
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502008",
+    "UpgradeStat502012"
+   ]
+  },
+  "Contribution000009": {
+   "key": "Contribution000009",
+   "lv": 9,
+   "reqExp": 20000,
+   "dailyReward": [
+    "Item002041"
+   ],
+   "dailyAmount": [
+    2
+   ],
+   "lvUpReward": [
+    "Item013030",
+    "Item003057"
+   ],
+   "lvUpAmount": [
+    1,
+    465
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502009"
+   ]
+  },
+  "Contribution000010": {
+   "key": "Contribution000010",
+   "lv": 10,
+   "reqExp": 30000,
+   "dailyReward": [
+    "Item002042"
+   ],
+   "dailyAmount": [
+    1
+   ],
+   "lvUpReward": [
+    "Item010003"
+   ],
+   "lvUpAmount": [
+    1
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502010",
+    "UpgradeStat502013",
+    "UpgradeStat502014"
+   ]
+  },
+  "Contribution000011": {
+   "key": "Contribution000011",
+   "lv": 11,
+   "reqExp": 45000,
+   "dailyReward": [
+    "Item002044"
+   ],
+   "dailyAmount": [
+    1
+   ],
+   "lvUpReward": [
+    "Item007009"
+   ],
+   "lvUpAmount": [
+    3
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502007"
+   ]
+  },
+  "Contribution000012": {
+   "key": "Contribution000012",
+   "lv": 12,
+   "reqExp": 60000,
+   "dailyReward": [
+    "Item008020",
+    "Item009403"
+   ],
+   "dailyAmount": [
+    1,
+    5
+   ],
+   "lvUpReward": [
+    "Item013018"
+   ],
+   "lvUpAmount": [
+    1
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502008"
+   ]
+  },
+  "Contribution000013": {
+   "key": "Contribution000013",
+   "lv": 13,
+   "reqExp": 80000,
+   "dailyReward": [
+    "Item009403"
+   ],
+   "dailyAmount": [
+    5
+   ],
+   "lvUpReward": [
+    "Item007016"
+   ],
+   "lvUpAmount": [
+    2
+   ],
+   "upgradeStat": [
+    "UpgradeStat502004",
+    "UpgradeStat502005",
+    "UpgradeStat502006",
+    "UpgradeStat502002",
+    "UpgradeStat502009",
+    "UpgradeStat502010"
+   ]
+  }
+ }
+}

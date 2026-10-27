@@ -1,0 +1,146 @@
+{
+ "sheetName": "TableCoRewardData",
+ "tableIndex": 0,
+ "rows": {
+  "CoRwd000": {
+   "key": "CoRwd000",
+   "category": 0,
+   "index": 0,
+   "score": 15,
+   "rewardKeyList": [
+    "Item002003",
+    "Item004001"
+   ],
+   "amountList": [
+    100.0,
+    1.0
+   ]
+  },
+  "CoRwd001": {
+   "key": "CoRwd001",
+   "category": 0,
+   "index": 1,
+   "score": 30,
+   "rewardKeyList": [
+    "Item002003",
+    "Item004001"
+   ],
+   "amountList": [
+    150.0,
+    2.0
+   ]
+  },
+  "CoRwd002": {
+   "key": "CoRwd002",
+   "category": 0,
+   "index": 2,
+   "score": 60,
+   "rewardKeyList": [
+    "Item002005",
+    "Item004002"
+   ],
+   "amountList": [
+    50.0,
+    2.0
+   ]
+  },
+  "CoRwd003": {
+   "key": "CoRwd003",
+   "category": 0,
+   "index": 3,
+   "score": 120,
+   "rewardKeyList": [
+    "Item002005",
+    "Item004002"
+   ],
+   "amountList": [
+    100.0,
+    2.0
+   ]
+  },
+  "CoRwd004": {
+   "key": "CoRwd004",
+   "category": 0,
+   "index": 4,
+   "score": 170,
+   "rewardKeyList": [
+    "Item002005",
+    "Item004003"
+   ],
+   "amountList": [
+    300.0,
+    1.0
+   ]
+  },
+  "CoRwd100": {
+   "key": "CoRwd100",
+   "category": 1,
+   "index": 0,
+   "score": 10,
+   "rewardKeyList": [
+    "Item002003",
+    "Item004001"
+   ],
+   "amountList": [
+    100.0,
+    1.0
+   ]
+  },
+  "CoRwd101": {
+   "key": "CoRwd101",
+   "category": 1,
+   "index": 1,
+   "score": 20,
+   "rewardKeyList": [
+    "Item009103",
+    "Item013017"
+   ],
+   "amountList": [
+    1.0,
+    1.0
+   ]
+  },
+  "CoRwd102": {
+   "key": "CoRwd102",
+   "category": 1,
+   "index": 2,
+   "score": 30,
+   "rewardKeyList": [
+    "Item002005",
+    "Item007009"
+   ],
+   "amountList": [
+    50.0,
+    1.0
+   ]
+  },
+  "CoRwd103": {
+   "key": "CoRwd103",
+   "category": 1,
+   "index": 3,
+   "score": 45,
+   "rewardKeyList": [
+    "Item002005",
+    "Item007009"
+   ],
+   "amountList": [
+    100.0,
+    3.0
+   ]
+  },
+  "CoRwd104": {
+   "key": "CoRwd104",
+   "category": 1,
+   "index": 4,
+   "score": 65,
+   "rewardKeyList": [
+    "Item002005",
+    "Item008012"
+   ],
+   "amountList": [
+    150.0,
+    1.0
+   ]
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "sheetName": "TableRaidData",
+ "tableIndex": 0,
+ "rows": {
+  "Raid00000": {
+   "key": "Raid00000",
+   "category": 0,
+   "index": 0,
+   "boss": "Unit000900",
+   "img": "Raid_Bg",
+   "mapData": "RaidBoss_1",
+   "time": 110.0,
+   "phTime": [
+    50.0,
+    50.0
+   ],
+   "contribution": [
+    8000,
+    20000,
+    36000,
+    56000,
+    80000,
+    104000,
+    128000,
+    152000,
+    176000,
+    200000
+   ],
+   "rewards": [
+    "Item002026",
+    "Item002003",
+    "Item009037",
+    "Item002026",
+    "Item002003",
+    "Item008010",
+    "Item002026",
+    "Item002003",
+    "Item008005",
+    "Item003051"
+   ],
+   "rewardValues": [
+    500,
+    1000,
+    10,
+    1000,
+    2000,
+    1,
+    2000,
+    3000,
+    1,
+    50
+   ]
+  }
+ }
+}

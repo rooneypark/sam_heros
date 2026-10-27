@@ -1,0 +1,380 @@
+{
+ "sheetName": "TablePortraitData",
+ "tableIndex": 0,
+ "rows": {
+  "Portrait00000": {
+   "key": "Portrait00000",
+   "category": 0,
+   "name": "LocalizePortaitName000000",
+   "frame": "ui_276",
+   "expTime": 0,
+   "upGradeStat": []
+  },
+  "Portrait00001": {
+   "key": "Portrait00001",
+   "category": 1,
+   "name": "LocalizePortaitName000001",
+   "frame": "ui_883",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100010",
+    "UpgradeStat40100000",
+    "UpgradeStat40100005",
+    "UpgradeStat40100023"
+   ]
+  },
+  "Portrait00002": {
+   "key": "Portrait00002",
+   "category": 2,
+   "name": "LocalizePortaitName000002",
+   "frame": "ui_882",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100011",
+    "UpgradeStat40100001",
+    "UpgradeStat40100006",
+    "UpgradeStat40100023"
+   ]
+  },
+  "Portrait00003": {
+   "key": "Portrait00003",
+   "category": 3,
+   "name": "LocalizePortaitName000003",
+   "frame": "ui_881",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100012",
+    "UpgradeStat40100002",
+    "UpgradeStat40100007",
+    "UpgradeStat40100023"
+   ]
+  },
+  "Portrait00004": {
+   "key": "Portrait00004",
+   "category": 4,
+   "name": "LocalizePortaitName000004",
+   "frame": "ui_880",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100013",
+    "UpgradeStat40100003",
+    "UpgradeStat40100008",
+    "UpgradeStat40100023"
+   ]
+  },
+  "Portrait00005": {
+   "key": "Portrait00005",
+   "category": 5,
+   "name": "LocalizePortaitName000005",
+   "frame": "ui_879",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100014",
+    "UpgradeStat40100004",
+    "UpgradeStat40100009",
+    "UpgradeStat40100025"
+   ]
+  },
+  "Portrait00006": {
+   "key": "Portrait00006",
+   "category": 6,
+   "name": "LocalizePortaitName000006",
+   "frame": "ui_885",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015"
+   ]
+  },
+  "Portrait00007": {
+   "key": "Portrait00007",
+   "category": 7,
+   "name": "LocalizePortaitName000007",
+   "frame": "ui_893",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100016"
+   ]
+  },
+  "Portrait00008": {
+   "key": "Portrait00008",
+   "category": 8,
+   "name": "LocalizePortaitName000008",
+   "frame": "ui_892",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100017"
+   ]
+  },
+  "Portrait00009": {
+   "key": "Portrait00009",
+   "category": 9,
+   "name": "LocalizePortaitName000009",
+   "frame": "ui_891",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100018"
+   ]
+  },
+  "Portrait00010": {
+   "key": "Portrait00010",
+   "category": 10,
+   "name": "LocalizePortaitName000010",
+   "frame": "ui_890",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100019"
+   ]
+  },
+  "Portrait00011": {
+   "key": "Portrait00011",
+   "category": 11,
+   "name": "LocalizePortaitName000011",
+   "frame": "ui_889",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100020"
+   ]
+  },
+  "Portrait00012": {
+   "key": "Portrait00012",
+   "category": 12,
+   "name": "LocalizePortaitName000012",
+   "frame": "ui_894",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015"
+   ]
+  },
+  "Portrait00013": {
+   "key": "Portrait00013",
+   "category": 13,
+   "name": "LocalizePortaitName000013",
+   "frame": "ui_895",
+   "expTime": 720,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100022"
+   ]
+  },
+  "Portrait00014": {
+   "key": "Portrait00014",
+   "category": 14,
+   "name": "LocalizePortaitName000014",
+   "frame": "ui_896",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100021"
+   ]
+  },
+  "Portrait00015": {
+   "key": "Portrait00015",
+   "category": 15,
+   "name": "LocalizePortaitName000015",
+   "frame": "ui_899",
+   "expTime": 240,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100026"
+   ]
+  },
+  "Portrait00016": {
+   "key": "Portrait00016",
+   "category": 16,
+   "name": "LocalizePortaitName000016",
+   "frame": "ui_903",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100024"
+   ]
+  },
+  "Portrait00017": {
+   "key": "Portrait00017",
+   "category": 17,
+   "name": "LocalizePortaitName000017",
+   "frame": "ui_900",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100024"
+   ]
+  },
+  "Portrait00018": {
+   "key": "Portrait00018",
+   "category": 18,
+   "name": "LocalizePortaitName000018",
+   "frame": "ui_982",
+   "expTime": 0,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100040",
+    "UpgradeStat40100044",
+    "UpgradeStat40100045"
+   ]
+  },
+  "Portrait00019": {
+   "key": "Portrait00019",
+   "category": 19,
+   "name": "LocalizePortaitName000019",
+   "frame": "ui_905",
+   "expTime": 240,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100024"
+   ]
+  },
+  "Portrait00020": {
+   "key": "Portrait00020",
+   "category": 20,
+   "name": "LocalizePortaitName000020",
+   "frame": "ui_894",
+   "expTime": 48,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100027"
+   ]
+  },
+  "Portrait00021": {
+   "key": "Portrait00021",
+   "category": 21,
+   "name": "LocalizePortaitName000021",
+   "frame": "ui_894",
+   "expTime": 168,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100027"
+   ]
+  },
+  "Portrait00022": {
+   "key": "Portrait00022",
+   "category": 22,
+   "name": "LocalizePortaitName000022",
+   "frame": "ui_960",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100028"
+   ]
+  },
+  "Portrait00023": {
+   "key": "Portrait00023",
+   "category": 23,
+   "name": "LocalizePortaitName000023",
+   "frame": "ui_959",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100033"
+   ]
+  },
+  "Portrait00024": {
+   "key": "Portrait00024",
+   "category": 24,
+   "name": "LocalizePortaitName000024",
+   "frame": "ui_962",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100029",
+    "UpgradeStat40100030"
+   ]
+  },
+  "Portrait00025": {
+   "key": "Portrait00025",
+   "category": 25,
+   "name": "LocalizePortaitName000025",
+   "frame": "ui_961",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100031",
+    "UpgradeStat40100032"
+   ]
+  },
+  "Portrait00026": {
+   "key": "Portrait00026",
+   "category": 26,
+   "name": "LocalizePortaitName000026",
+   "frame": "ui_958",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100034"
+   ]
+  },
+  "Portrait00027": {
+   "key": "Portrait00027",
+   "category": 27,
+   "name": "LocalizePortaitName000027",
+   "frame": "ui_963",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100035"
+   ]
+  },
+  "Portrait00028": {
+   "key": "Portrait00028",
+   "category": 28,
+   "name": "LocalizePortaitName000028",
+   "frame": "ui_964",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100037",
+    "UpgradeStat40100038"
+   ]
+  },
+  "Portrait00029": {
+   "key": "Portrait00029",
+   "category": 29,
+   "name": "LocalizePortaitName000029",
+   "frame": "ui_965",
+   "expTime": 72,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100036"
+   ]
+  },
+  "Portrait00030": {
+   "key": "Portrait00030",
+   "category": 30,
+   "name": "LocalizePortaitName000030",
+   "frame": "ui_904",
+   "expTime": 0,
+   "upGradeStat": [
+    "UpgradeStat40100015",
+    "UpgradeStat40100041",
+    "UpgradeStat40100039"
+   ]
+  },
+  "Portrait00031": {
+   "key": "Portrait00031",
+   "category": 31,
+   "name": "LocalizePortaitName000031",
+   "frame": "ui_981",
+   "expTime": 0,
+   "upGradeStat": [
+    "UpgradeStat40100042",
+    "UpgradeStat40100039"
+   ]
+  },
+  "Portrait00032": {
+   "key": "Portrait00032",
+   "category": 32,
+   "name": "LocalizePortaitName000032",
+   "frame": "ui_980",
+   "expTime": 0,
+   "upGradeStat": [
+    "UpgradeStat40100043",
+    "UpgradeStat40100039"
+   ]
+  }
+ }
+}

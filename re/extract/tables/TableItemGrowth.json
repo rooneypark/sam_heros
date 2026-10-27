@@ -1,0 +1,132 @@
+{
+ "sheetName": "TableItemGrowthData",
+ "tableIndex": 0,
+ "rows": {
+  "ItemGrowth00000": {
+   "key": "ItemGrowth00000",
+   "category": 0,
+   "index": 0,
+   "addStat": "HP",
+   "addValue": 8.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00100": {
+   "key": "ItemGrowth00100",
+   "category": 1,
+   "index": 0,
+   "addStat": "HP",
+   "addValue": 8.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00200": {
+   "key": "ItemGrowth00200",
+   "category": 2,
+   "index": 0,
+   "addStat": "HP",
+   "addValue": 8.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00300": {
+   "key": "ItemGrowth00300",
+   "category": 3,
+   "index": 0,
+   "addStat": "DAMAGE",
+   "addValue": 2.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00400": {
+   "key": "ItemGrowth00400",
+   "category": 4,
+   "index": 0,
+   "addStat": "DAMAGE",
+   "addValue": 2.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00500": {
+   "key": "ItemGrowth00500",
+   "category": 5,
+   "index": 0,
+   "addStat": "DAMAGE",
+   "addValue": 2.0,
+   "upgradeType": "ADDITION",
+   "addPower": 200.0
+  },
+  "ItemGrowth00600": {
+   "key": "ItemGrowth00600",
+   "category": 6,
+   "index": 0,
+   "addStat": "DAMAGE",
+   "addValue": 10.0,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth00601": {
+   "key": "ItemGrowth00601",
+   "category": 6,
+   "index": 1,
+   "addStat": "HP",
+   "addValue": 40.0,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800000": {
+   "key": "ItemGrowth800000",
+   "category": 8000,
+   "index": 0,
+   "addStat": "VAMPIRIC",
+   "addValue": 0.029999999329447746,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800001": {
+   "key": "ItemGrowth800001",
+   "category": 8000,
+   "index": 1,
+   "addStat": "COOL_TIME",
+   "addValue": 0.029999999329447746,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800100": {
+   "key": "ItemGrowth800100",
+   "category": 8001,
+   "index": 0,
+   "addStat": "DAMAGE",
+   "addValue": 90.0,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800101": {
+   "key": "ItemGrowth800101",
+   "category": 8001,
+   "index": 1,
+   "addStat": "DAMAGE",
+   "addValue": 0.30000001192092896,
+   "upgradeType": "MULTIPLICATION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800200": {
+   "key": "ItemGrowth800200",
+   "category": 8002,
+   "index": 0,
+   "addStat": "HP",
+   "addValue": 360.0,
+   "upgradeType": "ADDITION",
+   "addPower": 9000.0
+  },
+  "ItemGrowth800201": {
+   "key": "ItemGrowth800201",
+   "category": 8002,
+   "index": 1,
+   "addStat": "HP",
+   "addValue": 0.30000001192092896,
+   "upgradeType": "MULTIPLICATION",
+   "addPower": 9000.0
+  }
+ }
+}

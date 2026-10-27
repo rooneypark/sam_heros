@@ -1,0 +1,591 @@
+{
+ "sheetName": "TablePassiveData",
+ "tableIndex": 0,
+ "rows": {
+  "Passive5000": {
+   "key": "Passive5000",
+   "category": 5,
+   "index": 0,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ]
+  },
+  "Passive5001": {
+   "key": "Passive5001",
+   "category": 5,
+   "index": 1,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ]
+  },
+  "Passive5002": {
+   "key": "Passive5002",
+   "category": 5,
+   "index": 2,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Passive5003": {
+   "key": "Passive5003",
+   "category": 5,
+   "index": 3,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ]
+  },
+  "Passive5004": {
+   "key": "Passive5004",
+   "category": 5,
+   "index": 4,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ]
+  },
+  "Passive5005": {
+   "key": "Passive5005",
+   "category": 5,
+   "index": 5,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Passive5006": {
+   "key": "Passive5006",
+   "category": 5,
+   "index": 6,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ]
+  },
+  "Passive5007": {
+   "key": "Passive5007",
+   "category": 5,
+   "index": 7,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ]
+  },
+  "Passive5008": {
+   "key": "Passive5008",
+   "category": 5,
+   "index": 8,
+   "condition": "",
+   "stats": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Passive9000": {
+   "key": "Passive9000",
+   "category": 9,
+   "index": 0,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000004"
+   ]
+  },
+  "Passive9001": {
+   "key": "Passive9001",
+   "category": 9,
+   "index": 1,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000005"
+   ]
+  },
+  "Passive9002": {
+   "key": "Passive9002",
+   "category": 9,
+   "index": 2,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000006"
+   ]
+  },
+  "Passive9003": {
+   "key": "Passive9003",
+   "category": 9,
+   "index": 3,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000007"
+   ]
+  },
+  "Passive9004": {
+   "key": "Passive9004",
+   "category": 9,
+   "index": 4,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000008"
+   ]
+  },
+  "Passive9005": {
+   "key": "Passive9005",
+   "category": 9,
+   "index": 5,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000009"
+   ]
+  },
+  "Passive9006": {
+   "key": "Passive9006",
+   "category": 9,
+   "index": 6,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000010"
+   ]
+  },
+  "Passive9007": {
+   "key": "Passive9007",
+   "category": 9,
+   "index": 7,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000011",
+    "UpgradeStat91000012"
+   ]
+  },
+  "Passive9008": {
+   "key": "Passive9008",
+   "category": 9,
+   "index": 8,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000013"
+   ]
+  },
+  "Passive9009": {
+   "key": "Passive9009",
+   "category": 9,
+   "index": 9,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000014"
+   ]
+  },
+  "Passive9010": {
+   "key": "Passive9010",
+   "category": 9,
+   "index": 10,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000015",
+    "UpgradeStat91000016"
+   ]
+  },
+  "Passive9011": {
+   "key": "Passive9011",
+   "category": 9,
+   "index": 11,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000017",
+    "UpgradeStat91000018"
+   ]
+  },
+  "Passive9012": {
+   "key": "Passive9012",
+   "category": 9,
+   "index": 12,
+   "condition": "SkillCondition007015",
+   "stats": [
+    "UpgradeStat40000012"
+   ]
+  },
+  "Passive9013": {
+   "key": "Passive9013",
+   "category": 9,
+   "index": 13,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000013"
+   ]
+  },
+  "Passive9014": {
+   "key": "Passive9014",
+   "category": 9,
+   "index": 14,
+   "condition": "SkillCondition008002",
+   "stats": [
+    "UpgradeStat40000014"
+   ]
+  },
+  "Passive9015": {
+   "key": "Passive9015",
+   "category": 9,
+   "index": 15,
+   "condition": "SkillCondition008006",
+   "stats": [
+    "UpgradeStat40000015"
+   ]
+  },
+  "Passive9016": {
+   "key": "Passive9016",
+   "category": 9,
+   "index": 16,
+   "condition": "SkillCondition008003",
+   "stats": [
+    "UpgradeStat40000016"
+   ]
+  },
+  "Passive9017": {
+   "key": "Passive9017",
+   "category": 9,
+   "index": 17,
+   "condition": "SkillCondition007012",
+   "stats": [
+    "UpgradeStat40000017"
+   ]
+  },
+  "Passive9018": {
+   "key": "Passive9018",
+   "category": 9,
+   "index": 18,
+   "condition": "SkillCondition007014",
+   "stats": [
+    "UpgradeStat40000018"
+   ]
+  },
+  "Passive9019": {
+   "key": "Passive9019",
+   "category": 9,
+   "index": 19,
+   "condition": "SkillCondition007011",
+   "stats": [
+    "UpgradeStat40000019"
+   ]
+  },
+  "Passive9020": {
+   "key": "Passive9020",
+   "category": 9,
+   "index": 20,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000019",
+    "UpgradeStat91000020"
+   ]
+  },
+  "Passive9021": {
+   "key": "Passive9021",
+   "category": 9,
+   "index": 21,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000021",
+    "UpgradeStat91000022"
+   ]
+  },
+  "Passive9022": {
+   "key": "Passive9022",
+   "category": 9,
+   "index": 22,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000023"
+   ]
+  },
+  "Passive9023": {
+   "key": "Passive9023",
+   "category": 9,
+   "index": 23,
+   "condition": "SkillCondition010000",
+   "stats": [
+    "UpgradeStat91000024"
+   ]
+  },
+  "Passive9024": {
+   "key": "Passive9024",
+   "category": 9,
+   "index": 24,
+   "condition": "SkillCondition010001",
+   "stats": [
+    "UpgradeStat91000025"
+   ]
+  },
+  "Passive9025": {
+   "key": "Passive9025",
+   "category": 9,
+   "index": 25,
+   "condition": "SkillCondition010003",
+   "stats": [
+    "UpgradeStat91000026"
+   ]
+  },
+  "Passive9026": {
+   "key": "Passive9026",
+   "category": 9,
+   "index": 26,
+   "condition": "SkillCondition010004",
+   "stats": [
+    "UpgradeStat91000027"
+   ]
+  },
+  "Passive9027": {
+   "key": "Passive9027",
+   "category": 9,
+   "index": 27,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000028"
+   ]
+  },
+  "Passive9028": {
+   "key": "Passive9028",
+   "category": 9,
+   "index": 28,
+   "condition": "SkillCondition008009",
+   "stats": [
+    "UpgradeStat40000021"
+   ]
+  },
+  "Passive9029": {
+   "key": "Passive9029",
+   "category": 9,
+   "index": 29,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000023"
+   ]
+  },
+  "Passive9030": {
+   "key": "Passive9030",
+   "category": 9,
+   "index": 30,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000029",
+    "UpgradeStat91000030"
+   ]
+  },
+  "Passive9031": {
+   "key": "Passive9031",
+   "category": 9,
+   "index": 31,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000031",
+    "UpgradeStat91000032",
+    "UpgradeStat91000033"
+   ]
+  },
+  "Passive9032": {
+   "key": "Passive9032",
+   "category": 9,
+   "index": 32,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000024",
+    "UpgradeStat40000025"
+   ]
+  },
+  "Passive9033": {
+   "key": "Passive9033",
+   "category": 9,
+   "index": 33,
+   "condition": "SkillCondition008002",
+   "stats": [
+    "UpgradeStat40000026"
+   ]
+  },
+  "Passive9034": {
+   "key": "Passive9034",
+   "category": 9,
+   "index": 34,
+   "condition": "SkillCondition008003",
+   "stats": [
+    "UpgradeStat40000027"
+   ]
+  },
+  "Passive9035": {
+   "key": "Passive9035",
+   "category": 9,
+   "index": 35,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000034"
+   ]
+  },
+  "Passive9036": {
+   "key": "Passive9036",
+   "category": 9,
+   "index": 36,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000035"
+   ]
+  },
+  "Passive9037": {
+   "key": "Passive9037",
+   "category": 9,
+   "index": 37,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000036"
+   ]
+  },
+  "Passive9038": {
+   "key": "Passive9038",
+   "category": 9,
+   "index": 38,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000029"
+   ]
+  },
+  "Passive9039": {
+   "key": "Passive9039",
+   "category": 9,
+   "index": 39,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000030"
+   ]
+  },
+  "Passive9040": {
+   "key": "Passive9040",
+   "category": 9,
+   "index": 40,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000030"
+   ]
+  },
+  "Passive9041": {
+   "key": "Passive9041",
+   "category": 9,
+   "index": 41,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000029"
+   ]
+  },
+  "Passive9042": {
+   "key": "Passive9042",
+   "category": 9,
+   "index": 42,
+   "condition": "SkillCondition007016",
+   "stats": [
+    "UpgradeStat40000033"
+   ]
+  },
+  "Passive9043": {
+   "key": "Passive9043",
+   "category": 9,
+   "index": 43,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000037"
+   ]
+  },
+  "Passive9044": {
+   "key": "Passive9044",
+   "category": 9,
+   "index": 44,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000038"
+   ]
+  },
+  "Passive9045": {
+   "key": "Passive9045",
+   "category": 9,
+   "index": 45,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000039"
+   ]
+  },
+  "Passive9046": {
+   "key": "Passive9046",
+   "category": 9,
+   "index": 46,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000040"
+   ]
+  },
+  "Passive9047": {
+   "key": "Passive9047",
+   "category": 9,
+   "index": 47,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000041"
+   ]
+  },
+  "Passive9048": {
+   "key": "Passive9048",
+   "category": 9,
+   "index": 48,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000042"
+   ]
+  },
+  "Passive9049": {
+   "key": "Passive9049",
+   "category": 9,
+   "index": 49,
+   "condition": "SkillCondition008003",
+   "stats": [
+    "UpgradeStat40000034"
+   ]
+  },
+  "Passive9050": {
+   "key": "Passive9050",
+   "category": 9,
+   "index": 50,
+   "condition": "",
+   "stats": [
+    "UpgradeStat91000043"
+   ]
+  },
+  "Passive9051": {
+   "key": "Passive9051",
+   "category": 9,
+   "index": 51,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000036"
+   ]
+  },
+  "Passive9052": {
+   "key": "Passive9052",
+   "category": 9,
+   "index": 52,
+   "condition": "",
+   "stats": [
+    "UpgradeStat40000032"
+   ]
+  },
+  "Passive9053": {
+   "key": "Passive9053",
+   "category": 9,
+   "index": 53,
+   "condition": "SkillCondition008010",
+   "stats": [
+    "UpgradeStat40000037"
+   ]
+  }
+ }
+}

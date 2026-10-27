@@ -1,0 +1,28 @@
+{
+ "sheetName": "TableBossData",
+ "tableIndex": 0,
+ "rows": {
+  "Boss000900": {
+   "key": "Boss000900",
+   "category": 900,
+   "sRwd": [
+    3,
+    5
+   ],
+   "lRwd": [
+    10,
+    15
+   ],
+   "phaseSkills": [
+    "SkillGroup701000",
+    "SkillGroup701001",
+    "SkillGroup701002"
+   ],
+   "phaseSkins": [
+    "skin1",
+    "skin2",
+    "skin2"
+   ]
+  }
+ }
+}

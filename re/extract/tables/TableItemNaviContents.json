@@ -1,0 +1,356 @@
+{
+ "sheetName": "TableItemNaviContentsData",
+ "tableIndex": 0,
+ "rows": {
+  "ItemNaviContents000": {
+   "key": "ItemNaviContents000",
+   "guideName": "LocalizeUITower000004",
+   "guideDesc": "LocalizeInfoGuidedesc000000",
+   "icon": "ui_333",
+   "eventKey": "TOWER"
+  },
+  "ItemNaviContents001": {
+   "key": "ItemNaviContents001",
+   "guideName": "LocalizeBuildingName000019",
+   "guideDesc": "LocalizeInfoGuidedesc000001",
+   "icon": "Ui_Building_Thumbnail_4",
+   "eventKey": "DUNGEON"
+  },
+  "ItemNaviContents002": {
+   "key": "ItemNaviContents002",
+   "guideName": "LocalizeBuildingName000019",
+   "guideDesc": "LocalizeItemgDesc000046",
+   "icon": "Ui_Building_Thumbnail_4",
+   "eventKey": "DUNGEON_ORDEALS"
+  },
+  "ItemNaviContents003": {
+   "key": "ItemNaviContents003",
+   "guideName": "LocalizeMonsterName000058",
+   "guideDesc": "LocalizeInfoGuidedesc000003",
+   "icon": "Monster_58_Idle_1",
+   "eventKey": "GOLDPIG"
+  },
+  "ItemNaviContents004": {
+   "key": "ItemNaviContents004",
+   "guideName": "LocalizeUIBossHunt000000",
+   "guideDesc": "LocalizeInfoGuidedesc000004",
+   "icon": "ui_344",
+   "eventKey": "BOSSHUNT"
+  },
+  "ItemNaviContents005": {
+   "key": "ItemNaviContents005",
+   "guideName": "LocalizeUIRuins000000",
+   "guideDesc": "LocalizeInfoGuidedesc000005",
+   "icon": "ui_629",
+   "eventKey": "CHARM"
+  },
+  "ItemNaviContents006": {
+   "key": "ItemNaviContents006",
+   "guideName": "LocalizeUIDefence000000",
+   "guideDesc": "LocalizeInfoGuidedesc000006",
+   "icon": "ui_703",
+   "eventKey": "DEFENCE"
+  },
+  "ItemNaviContents007": {
+   "key": "ItemNaviContents007",
+   "guideName": "LocalizeUIDimension000000",
+   "guideDesc": "LocalizeInfoGuidedesc000007",
+   "icon": "ui_370",
+   "eventKey": "DIMENSION"
+  },
+  "ItemNaviContents008": {
+   "key": "ItemNaviContents008",
+   "guideName": "LocalizeUIRaid000002",
+   "guideDesc": "LocalizeInfoGuidedesc000008",
+   "icon": "ui_678",
+   "eventKey": "RAID"
+  },
+  "ItemNaviContents009": {
+   "key": "ItemNaviContents009",
+   "guideName": "LocalizeInfoGuidedesc000124",
+   "guideDesc": "LocalizeInfoGuidedesc000009",
+   "icon": "ui_622",
+   "eventKey": "PUB"
+  },
+  "ItemNaviContents010": {
+   "key": "ItemNaviContents010",
+   "guideName": "LocalizeUIPub000009",
+   "guideDesc": "LocalizeInfoGuidedesc000010",
+   "icon": "ui_524",
+   "eventKey": "MILEAGE_SHOP"
+  },
+  "ItemNaviContents011": {
+   "key": "ItemNaviContents011",
+   "guideName": "LocalizeInfoGuidetitle000022",
+   "guideDesc": "LocalizeInfoGuidedesc000011",
+   "icon": "UI_Raid_1",
+   "eventKey": "RAID_SHOP"
+  },
+  "ItemNaviContents012": {
+   "key": "ItemNaviContents012",
+   "guideName": "LocalizeInfoGuidetitle000012",
+   "guideDesc": "LocalizeInfoGuidedesc000012",
+   "icon": "ui_350",
+   "eventKey": "RIFT_SHOP"
+  },
+  "ItemNaviContents013": {
+   "key": "ItemNaviContents013",
+   "guideName": "LocalizeAbyssUI000024",
+   "guideDesc": "LocalizeInfoGuidedesc000013",
+   "icon": "ui_837",
+   "eventKey": "ABYSS_SHOP"
+  },
+  "ItemNaviContents014": {
+   "key": "ItemNaviContents014",
+   "guideName": "LocalizeUIInteraction000012",
+   "guideDesc": "LocalizeInfoGuidedesc000014",
+   "icon": "ui_908",
+   "eventKey": "CRAFT"
+  },
+  "ItemNaviContents015": {
+   "key": "ItemNaviContents015",
+   "guideName": "LocalizeUICommon000024",
+   "guideDesc": "LocalizeInfoGuidedesc000015",
+   "icon": "ui_332",
+   "eventKey": "QUEST"
+  },
+  "ItemNaviContents016": {
+   "key": "ItemNaviContents016",
+   "guideName": "LocalizeUIAbyssPass000000",
+   "guideDesc": "LocalizeInfoGuidedesc000016",
+   "icon": "ui_838",
+   "eventKey": "ABYSSPASS"
+  },
+  "ItemNaviContents017": {
+   "key": "ItemNaviContents017",
+   "guideName": "LocalizeUISeasonPass000000",
+   "guideDesc": "LocalizeInfoGuidedesc000017",
+   "icon": "ui_374",
+   "eventKey": "RUMBLEPASS"
+  },
+  "ItemNaviContents018": {
+   "key": "ItemNaviContents018",
+   "guideName": "LocalizeMilstoneFundUI000000",
+   "guideDesc": "LocalizeInfoGuidedesc000018",
+   "icon": "ui_376",
+   "eventKey": "LEVELPASS"
+  },
+  "ItemNaviContents019": {
+   "key": "ItemNaviContents019",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000019",
+   "icon": "ui_447",
+   "eventKey": "DISMANT_ARTIFACT"
+  },
+  "ItemNaviContents020": {
+   "key": "ItemNaviContents020",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000020",
+   "icon": "Weapon_10",
+   "eventKey": "DISMANT_ABYSSEQUIP"
+  },
+  "ItemNaviContents021": {
+   "key": "ItemNaviContents021",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000021",
+   "icon": "Ring_Attack_2",
+   "eventKey": "DISMANT_RING"
+  },
+  "ItemNaviContents022": {
+   "key": "ItemNaviContents022",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000022",
+   "icon": "legend_2",
+   "eventKey": "DISMANT_SYMBOL"
+  },
+  "ItemNaviContents023": {
+   "key": "ItemNaviContents023",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000023",
+   "icon": "Weapon_01",
+   "eventKey": "DISMANT_EQUIP"
+  },
+  "ItemNaviContents024": {
+   "key": "ItemNaviContents024",
+   "guideName": "LocalizeUIEquipment000004",
+   "guideDesc": "LocalizeInfoGuidedesc000024",
+   "icon": "Weapon_10_abyss",
+   "eventKey": "DISMANT_ABYSSEQUIP"
+  },
+  "ItemNaviContents025": {
+   "key": "ItemNaviContents025",
+   "guideName": "LocalizeInfoGuidetitle000023",
+   "guideDesc": "LocalizeInfoGuidedesc000025",
+   "icon": "ui_447",
+   "eventKey": "INFINITY_QUEST_NONE"
+  },
+  "ItemNaviContents026": {
+   "key": "ItemNaviContents026",
+   "guideName": "LocalizeInfoGuidetitle000024",
+   "guideDesc": "LocalizeInfoGuidedesc000026",
+   "icon": "ui_448",
+   "eventKey": "INFINITY_QUEST_POSION"
+  },
+  "ItemNaviContents027": {
+   "key": "ItemNaviContents027",
+   "guideName": "LocalizeInfoGuidetitle000025",
+   "guideDesc": "LocalizeInfoGuidedesc000027",
+   "icon": "ui_450",
+   "eventKey": "INFINITY_QUEST_BLEED"
+  },
+  "ItemNaviContents028": {
+   "key": "ItemNaviContents028",
+   "guideName": "LocalizeInfoGuidetitle000026",
+   "guideDesc": "LocalizeInfoGuidedesc000033",
+   "icon": "ui_449",
+   "eventKey": "INFINITY_QUEST_FROST"
+  },
+  "ItemNaviContents029": {
+   "key": "ItemNaviContents029",
+   "guideName": "LocalizeInfoGuidetitle000027",
+   "guideDesc": "LocalizeInfoGuidedesc000034",
+   "icon": "ui_451",
+   "eventKey": "INFINITY_QUEST_BURN"
+  },
+  "ItemNaviContents030": {
+   "key": "ItemNaviContents030",
+   "guideName": "LocalizeInfoGuidetitle000028",
+   "guideDesc": "LocalizeInfoGuidedesc000025",
+   "icon": "ui_Monster_77_color",
+   "eventKey": "INFINITY_BOSS_NONE"
+  },
+  "ItemNaviContents031": {
+   "key": "ItemNaviContents031",
+   "guideName": "LocalizeInfoGuidetitle000029",
+   "guideDesc": "LocalizeInfoGuidedesc000026",
+   "icon": "Monster_84_Idle_1",
+   "eventKey": "INFINITY_BOSS_POSION"
+  },
+  "ItemNaviContents032": {
+   "key": "ItemNaviContents032",
+   "guideName": "LocalizeInfoGuidetitle000030",
+   "guideDesc": "LocalizeInfoGuidedesc000027",
+   "icon": "Monster_99_Idle_1",
+   "eventKey": "INFINITY_BOSS_BLEED"
+  },
+  "ItemNaviContents033": {
+   "key": "ItemNaviContents033",
+   "guideName": "LocalizeInfoGuidetitle000031",
+   "guideDesc": "LocalizeInfoGuidedesc000033",
+   "icon": "Monster_92_Idle_0",
+   "eventKey": "INFINITY_BOSS_FROST"
+  },
+  "ItemNaviContents034": {
+   "key": "ItemNaviContents034",
+   "guideName": "LocalizeInfoGuidetitle000032",
+   "guideDesc": "LocalizeInfoGuidedesc000034",
+   "icon": "Monster_89_Idle_1",
+   "eventKey": "INFINITY_BOSS_BURN"
+  },
+  "ItemNaviContents035": {
+   "key": "ItemNaviContents035",
+   "guideName": "LocalizeUIIdleReward000000",
+   "guideDesc": "LocalizeInfoGuidedesc000035",
+   "icon": "ui_749",
+   "eventKey": "IDLEREWARD"
+  },
+  "ItemNaviContents036": {
+   "key": "ItemNaviContents036",
+   "guideName": "LocalizeUISkinInfo000002",
+   "guideDesc": "",
+   "icon": "ui_049",
+   "eventKey": "SHOP"
+  },
+  "ItemNaviContents100": {
+   "key": "ItemNaviContents100",
+   "guideName": "LocalizeInfoGuidetitle000100",
+   "guideDesc": "LocalizeInfoGuidedesc000100",
+   "icon": "ui_054",
+   "eventKey": ""
+  },
+  "ItemNaviContents101": {
+   "key": "ItemNaviContents101",
+   "guideName": "LocalizeInfoGuidetitle000101",
+   "guideDesc": "LocalizeInfoGuidedesc000101",
+   "icon": "ui_102",
+   "eventKey": ""
+  },
+  "ItemNaviContents102": {
+   "key": "ItemNaviContents102",
+   "guideName": "LocalizeInfoGuidetitle000102",
+   "guideDesc": "LocalizeInfoGuidedesc000102",
+   "icon": "ui_033",
+   "eventKey": ""
+  },
+  "ItemNaviContents103": {
+   "key": "ItemNaviContents103",
+   "guideName": "LocalizeInfoGuidetitle000102",
+   "guideDesc": "LocalizeInfoGuidedesc000103",
+   "icon": "ui_033",
+   "eventKey": ""
+  },
+  "ItemNaviContents104": {
+   "key": "ItemNaviContents104",
+   "guideName": "LocalizeUICommon000058",
+   "guideDesc": "LocalizeInfoGuidedesc000104",
+   "icon": "ui_351",
+   "eventKey": ""
+  },
+  "ItemNaviContents105": {
+   "key": "ItemNaviContents105",
+   "guideName": "LocalizeUISkinInfo000001",
+   "guideDesc": "LocalizeInfoGuidedesc000105",
+   "icon": "ui_702",
+   "eventKey": ""
+  },
+  "ItemNaviContents106": {
+   "key": "ItemNaviContents106",
+   "guideName": "LocalizeInfoGuidetitle000105",
+   "guideDesc": "LocalizeInfoGuidedesc000106",
+   "icon": "ui_925",
+   "eventKey": ""
+  },
+  "ItemNaviContents107": {
+   "key": "ItemNaviContents107",
+   "guideName": "LocalizeShopCommon000019",
+   "guideDesc": "LocalizeInfoGuidedesc000107",
+   "icon": "ui_214",
+   "eventKey": ""
+  },
+  "ItemNaviContents109": {
+   "key": "ItemNaviContents109",
+   "guideName": "LocalizeBuildingName000096",
+   "guideDesc": "LocalizeInfoGuidedesc000109",
+   "icon": "ui_330",
+   "eventKey": ""
+  },
+  "ItemNaviContents110": {
+   "key": "ItemNaviContents110",
+   "guideName": "LocalizeBuildingName000003",
+   "guideDesc": "LocalizeInfoGuidedesc000110",
+   "icon": "Building_Gold_2",
+   "eventKey": ""
+  },
+  "ItemNaviContents111": {
+   "key": "ItemNaviContents111",
+   "guideName": "LocalizeBuildingName000001",
+   "guideDesc": "LocalizeInfoGuidedesc000111",
+   "icon": "Building_tree_1",
+   "eventKey": ""
+  },
+  "ItemNaviContents112": {
+   "key": "ItemNaviContents112",
+   "guideName": "LocalizeBuildingName000002",
+   "guideDesc": "LocalizeInfoGuidedesc000112",
+   "icon": "Building_Mine_1",
+   "eventKey": ""
+  },
+  "ItemNaviContents113": {
+   "key": "ItemNaviContents113",
+   "guideName": "LocalizeBuildingName000025",
+   "guideDesc": "LocalizeInfoGuidedesc000126",
+   "icon": "Ui_Building_Thumbnail_1",
+   "eventKey": ""
+  }
+ }
+}

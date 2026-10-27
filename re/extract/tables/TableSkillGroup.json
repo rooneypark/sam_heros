@@ -1,0 +1,7226 @@
+{
+ "sheetName": "TableSkillGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "SkillGroup001000": {
+   "key": "SkillGroup001000",
+   "category": 1,
+   "grade": 0,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup001001": {
+   "key": "SkillGroup001001",
+   "category": 1,
+   "grade": 1,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001002",
+   "skillB": "Skill001003",
+   "isFirstB": true
+  },
+  "SkillGroup001002": {
+   "key": "SkillGroup001002",
+   "category": 1,
+   "grade": 2,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001102",
+   "skillB": "Skill001003",
+   "isFirstB": true
+  },
+  "SkillGroup001003": {
+   "key": "SkillGroup001003",
+   "category": 1,
+   "grade": 3,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001102",
+   "skillB": "Skill001103",
+   "isFirstB": true
+  },
+  "SkillGroup001004": {
+   "key": "SkillGroup001004",
+   "category": 1,
+   "grade": 4,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001202",
+   "skillB": "Skill001103",
+   "isFirstB": true
+  },
+  "SkillGroup001005": {
+   "key": "SkillGroup001005",
+   "category": 1,
+   "grade": 5,
+   "defaultSkill": "Skill001000",
+   "gatheringSkill": "Skill001001",
+   "skillA": "Skill001202",
+   "skillB": "Skill001203",
+   "isFirstB": true
+  },
+  "SkillGroup002000": {
+   "key": "SkillGroup002000",
+   "category": 2,
+   "grade": 0,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup002001": {
+   "key": "SkillGroup002001",
+   "category": 2,
+   "grade": 1,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002002",
+   "skillB": "Skill002003",
+   "isFirstB": true
+  },
+  "SkillGroup002002": {
+   "key": "SkillGroup002002",
+   "category": 2,
+   "grade": 2,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002102",
+   "skillB": "Skill002003",
+   "isFirstB": true
+  },
+  "SkillGroup002003": {
+   "key": "SkillGroup002003",
+   "category": 2,
+   "grade": 3,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002102",
+   "skillB": "Skill002103",
+   "isFirstB": true
+  },
+  "SkillGroup002004": {
+   "key": "SkillGroup002004",
+   "category": 2,
+   "grade": 4,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002202",
+   "skillB": "Skill002103",
+   "isFirstB": true
+  },
+  "SkillGroup002005": {
+   "key": "SkillGroup002005",
+   "category": 2,
+   "grade": 5,
+   "defaultSkill": "Skill002000",
+   "gatheringSkill": "Skill002001",
+   "skillA": "Skill002202",
+   "skillB": "Skill002203",
+   "isFirstB": true
+  },
+  "SkillGroup003000": {
+   "key": "SkillGroup003000",
+   "category": 3,
+   "grade": 0,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup003001": {
+   "key": "SkillGroup003001",
+   "category": 3,
+   "grade": 1,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003002",
+   "skillB": "Skill003003",
+   "isFirstB": true
+  },
+  "SkillGroup003002": {
+   "key": "SkillGroup003002",
+   "category": 3,
+   "grade": 2,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003102",
+   "skillB": "Skill003003",
+   "isFirstB": true
+  },
+  "SkillGroup003003": {
+   "key": "SkillGroup003003",
+   "category": 3,
+   "grade": 3,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003102",
+   "skillB": "Skill003103",
+   "isFirstB": true
+  },
+  "SkillGroup003004": {
+   "key": "SkillGroup003004",
+   "category": 3,
+   "grade": 4,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003202",
+   "skillB": "Skill003103",
+   "isFirstB": true
+  },
+  "SkillGroup003005": {
+   "key": "SkillGroup003005",
+   "category": 3,
+   "grade": 5,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill003202",
+   "skillB": "Skill003203",
+   "isFirstB": true
+  },
+  "SkillGroup004000": {
+   "key": "SkillGroup004000",
+   "category": 4,
+   "grade": 0,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup004001": {
+   "key": "SkillGroup004001",
+   "category": 4,
+   "grade": 1,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004002",
+   "skillB": "Skill004003",
+   "isFirstB": true
+  },
+  "SkillGroup004002": {
+   "key": "SkillGroup004002",
+   "category": 4,
+   "grade": 2,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004102",
+   "skillB": "Skill004003",
+   "isFirstB": true
+  },
+  "SkillGroup004003": {
+   "key": "SkillGroup004003",
+   "category": 4,
+   "grade": 3,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004102",
+   "skillB": "Skill004103",
+   "isFirstB": true
+  },
+  "SkillGroup004004": {
+   "key": "SkillGroup004004",
+   "category": 4,
+   "grade": 4,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004202",
+   "skillB": "Skill004103",
+   "isFirstB": true
+  },
+  "SkillGroup004005": {
+   "key": "SkillGroup004005",
+   "category": 4,
+   "grade": 5,
+   "defaultSkill": "Skill004000",
+   "gatheringSkill": "Skill004001",
+   "skillA": "Skill004202",
+   "skillB": "Skill004203",
+   "isFirstB": true
+  },
+  "SkillGroup005000": {
+   "key": "SkillGroup005000",
+   "category": 5,
+   "grade": 0,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup005001": {
+   "key": "SkillGroup005001",
+   "category": 5,
+   "grade": 1,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005002",
+   "skillB": "Skill005003",
+   "isFirstB": false
+  },
+  "SkillGroup005002": {
+   "key": "SkillGroup005002",
+   "category": 5,
+   "grade": 2,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005102",
+   "skillB": "Skill005003",
+   "isFirstB": false
+  },
+  "SkillGroup005003": {
+   "key": "SkillGroup005003",
+   "category": 5,
+   "grade": 3,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005102",
+   "skillB": "Skill005103",
+   "isFirstB": false
+  },
+  "SkillGroup005004": {
+   "key": "SkillGroup005004",
+   "category": 5,
+   "grade": 4,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005202",
+   "skillB": "Skill005103",
+   "isFirstB": false
+  },
+  "SkillGroup005005": {
+   "key": "SkillGroup005005",
+   "category": 5,
+   "grade": 5,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill005202",
+   "skillB": "Skill005203",
+   "isFirstB": false
+  },
+  "SkillGroup006000": {
+   "key": "SkillGroup006000",
+   "category": 6,
+   "grade": 0,
+   "defaultSkill": "Skill006000",
+   "gatheringSkill": "Skill006001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup006001": {
+   "key": "SkillGroup006001",
+   "category": 6,
+   "grade": 1,
+   "defaultSkill": "Skill006000",
+   "gatheringSkill": "Skill006001",
+   "skillA": "Skill006002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup006002": {
+   "key": "SkillGroup006002",
+   "category": 6,
+   "grade": 2,
+   "defaultSkill": "Skill006100",
+   "gatheringSkill": "Skill006001",
+   "skillA": "Skill006002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup006003": {
+   "key": "SkillGroup006003",
+   "category": 6,
+   "grade": 3,
+   "defaultSkill": "Skill006100",
+   "gatheringSkill": "Skill006001",
+   "skillA": "Skill006102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup006004": {
+   "key": "SkillGroup006004",
+   "category": 6,
+   "grade": 4,
+   "defaultSkill": "Skill006200",
+   "gatheringSkill": "Skill006001",
+   "skillA": "Skill006102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup006005": {
+   "key": "SkillGroup006005",
+   "category": 6,
+   "grade": 5,
+   "defaultSkill": "Skill006200",
+   "gatheringSkill": "Skill006001",
+   "skillA": "Skill006202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup007000": {
+   "key": "SkillGroup007000",
+   "category": 7,
+   "grade": 0,
+   "defaultSkill": "Skill007000",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup007001": {
+   "key": "SkillGroup007001",
+   "category": 7,
+   "grade": 1,
+   "defaultSkill": "Skill007000",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007002",
+   "skillB": "Skill007003",
+   "isFirstB": true
+  },
+  "SkillGroup007002": {
+   "key": "SkillGroup007002",
+   "category": 7,
+   "grade": 2,
+   "defaultSkill": "Skill007100",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007102",
+   "skillB": "Skill007003",
+   "isFirstB": true
+  },
+  "SkillGroup007003": {
+   "key": "SkillGroup007003",
+   "category": 7,
+   "grade": 3,
+   "defaultSkill": "Skill007100",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007102",
+   "skillB": "Skill007103",
+   "isFirstB": true
+  },
+  "SkillGroup007004": {
+   "key": "SkillGroup007004",
+   "category": 7,
+   "grade": 4,
+   "defaultSkill": "Skill007100",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007202",
+   "skillB": "Skill007103",
+   "isFirstB": true
+  },
+  "SkillGroup007005": {
+   "key": "SkillGroup007005",
+   "category": 7,
+   "grade": 5,
+   "defaultSkill": "Skill007100",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill007202",
+   "skillB": "Skill007203",
+   "isFirstB": true
+  },
+  "SkillGroup008000": {
+   "key": "SkillGroup008000",
+   "category": 8,
+   "grade": 0,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup008001": {
+   "key": "SkillGroup008001",
+   "category": 8,
+   "grade": 1,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008002",
+   "skillB": "Skill008003",
+   "isFirstB": true
+  },
+  "SkillGroup008002": {
+   "key": "SkillGroup008002",
+   "category": 8,
+   "grade": 2,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008102",
+   "skillB": "Skill008003",
+   "isFirstB": true
+  },
+  "SkillGroup008003": {
+   "key": "SkillGroup008003",
+   "category": 8,
+   "grade": 3,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008102",
+   "skillB": "Skill008103",
+   "isFirstB": true
+  },
+  "SkillGroup008004": {
+   "key": "SkillGroup008004",
+   "category": 8,
+   "grade": 4,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008202",
+   "skillB": "Skill008103",
+   "isFirstB": true
+  },
+  "SkillGroup008005": {
+   "key": "SkillGroup008005",
+   "category": 8,
+   "grade": 5,
+   "defaultSkill": "Skill008000",
+   "gatheringSkill": "Skill008001",
+   "skillA": "Skill008202",
+   "skillB": "Skill008203",
+   "isFirstB": true
+  },
+  "SkillGroup009000": {
+   "key": "SkillGroup009000",
+   "category": 9,
+   "grade": 0,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup009001": {
+   "key": "SkillGroup009001",
+   "category": 9,
+   "grade": 1,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009002",
+   "skillB": "Skill009003",
+   "isFirstB": false
+  },
+  "SkillGroup009002": {
+   "key": "SkillGroup009002",
+   "category": 9,
+   "grade": 2,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009102",
+   "skillB": "Skill009003",
+   "isFirstB": false
+  },
+  "SkillGroup009003": {
+   "key": "SkillGroup009003",
+   "category": 9,
+   "grade": 3,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009102",
+   "skillB": "Skill009103",
+   "isFirstB": false
+  },
+  "SkillGroup009004": {
+   "key": "SkillGroup009004",
+   "category": 9,
+   "grade": 4,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009202",
+   "skillB": "Skill009103",
+   "isFirstB": false
+  },
+  "SkillGroup009005": {
+   "key": "SkillGroup009005",
+   "category": 9,
+   "grade": 5,
+   "defaultSkill": "Skill009000",
+   "gatheringSkill": "Skill009001",
+   "skillA": "Skill009202",
+   "skillB": "Skill009203",
+   "isFirstB": false
+  },
+  "SkillGroup010000": {
+   "key": "SkillGroup010000",
+   "category": 10,
+   "grade": 0,
+   "defaultSkill": "Skill010000",
+   "gatheringSkill": "Skill010001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup010001": {
+   "key": "SkillGroup010001",
+   "category": 10,
+   "grade": 1,
+   "defaultSkill": "Skill010000",
+   "gatheringSkill": "Skill010001",
+   "skillA": "Skill010002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup010002": {
+   "key": "SkillGroup010002",
+   "category": 10,
+   "grade": 2,
+   "defaultSkill": "Skill010100",
+   "gatheringSkill": "Skill010001",
+   "skillA": "Skill010002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup010003": {
+   "key": "SkillGroup010003",
+   "category": 10,
+   "grade": 3,
+   "defaultSkill": "Skill010100",
+   "gatheringSkill": "Skill010001",
+   "skillA": "Skill010102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup010004": {
+   "key": "SkillGroup010004",
+   "category": 10,
+   "grade": 4,
+   "defaultSkill": "Skill010200",
+   "gatheringSkill": "Skill010001",
+   "skillA": "Skill010102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup010005": {
+   "key": "SkillGroup010005",
+   "category": 10,
+   "grade": 5,
+   "defaultSkill": "Skill010200",
+   "gatheringSkill": "Skill010001",
+   "skillA": "Skill010202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup011000": {
+   "key": "SkillGroup011000",
+   "category": 11,
+   "grade": 0,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup011001": {
+   "key": "SkillGroup011001",
+   "category": 11,
+   "grade": 1,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011002",
+   "skillB": "Skill011003",
+   "isFirstB": false
+  },
+  "SkillGroup011002": {
+   "key": "SkillGroup011002",
+   "category": 11,
+   "grade": 2,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011102",
+   "skillB": "Skill011003",
+   "isFirstB": false
+  },
+  "SkillGroup011003": {
+   "key": "SkillGroup011003",
+   "category": 11,
+   "grade": 3,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011102",
+   "skillB": "Skill011103",
+   "isFirstB": false
+  },
+  "SkillGroup011004": {
+   "key": "SkillGroup011004",
+   "category": 11,
+   "grade": 4,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011202",
+   "skillB": "Skill011103",
+   "isFirstB": false
+  },
+  "SkillGroup011005": {
+   "key": "SkillGroup011005",
+   "category": 11,
+   "grade": 5,
+   "defaultSkill": "Skill011000",
+   "gatheringSkill": "Skill011001",
+   "skillA": "Skill011202",
+   "skillB": "Skill011203",
+   "isFirstB": false
+  },
+  "SkillGroup012000": {
+   "key": "SkillGroup012000",
+   "category": 12,
+   "grade": 0,
+   "defaultSkill": "Skill012000",
+   "gatheringSkill": "Skill012001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup012001": {
+   "key": "SkillGroup012001",
+   "category": 12,
+   "grade": 1,
+   "defaultSkill": "Skill012000",
+   "gatheringSkill": "Skill012001",
+   "skillA": "Skill012002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup012002": {
+   "key": "SkillGroup012002",
+   "category": 12,
+   "grade": 2,
+   "defaultSkill": "Skill012100",
+   "gatheringSkill": "Skill012001",
+   "skillA": "Skill012002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup012003": {
+   "key": "SkillGroup012003",
+   "category": 12,
+   "grade": 3,
+   "defaultSkill": "Skill012100",
+   "gatheringSkill": "Skill012001",
+   "skillA": "Skill012102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup012004": {
+   "key": "SkillGroup012004",
+   "category": 12,
+   "grade": 4,
+   "defaultSkill": "Skill012200",
+   "gatheringSkill": "Skill012001",
+   "skillA": "Skill012102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup012005": {
+   "key": "SkillGroup012005",
+   "category": 12,
+   "grade": 5,
+   "defaultSkill": "Skill012200",
+   "gatheringSkill": "Skill012001",
+   "skillA": "Skill012202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup013000": {
+   "key": "SkillGroup013000",
+   "category": 13,
+   "grade": 0,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup013001": {
+   "key": "SkillGroup013001",
+   "category": 13,
+   "grade": 1,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013002",
+   "skillB": "Skill013003",
+   "isFirstB": true
+  },
+  "SkillGroup013002": {
+   "key": "SkillGroup013002",
+   "category": 13,
+   "grade": 2,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013102",
+   "skillB": "Skill013003",
+   "isFirstB": true
+  },
+  "SkillGroup013003": {
+   "key": "SkillGroup013003",
+   "category": 13,
+   "grade": 3,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013102",
+   "skillB": "Skill013103",
+   "isFirstB": true
+  },
+  "SkillGroup013004": {
+   "key": "SkillGroup013004",
+   "category": 13,
+   "grade": 4,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013202",
+   "skillB": "Skill013103",
+   "isFirstB": true
+  },
+  "SkillGroup013005": {
+   "key": "SkillGroup013005",
+   "category": 13,
+   "grade": 5,
+   "defaultSkill": "Skill013000",
+   "gatheringSkill": "Skill013001",
+   "skillA": "Skill013202",
+   "skillB": "Skill013203",
+   "isFirstB": true
+  },
+  "SkillGroup014000": {
+   "key": "SkillGroup014000",
+   "category": 14,
+   "grade": 0,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup014001": {
+   "key": "SkillGroup014001",
+   "category": 14,
+   "grade": 1,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014002",
+   "skillB": "Skill014003",
+   "isFirstB": false
+  },
+  "SkillGroup014002": {
+   "key": "SkillGroup014002",
+   "category": 14,
+   "grade": 2,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014102",
+   "skillB": "Skill014003",
+   "isFirstB": false
+  },
+  "SkillGroup014003": {
+   "key": "SkillGroup014003",
+   "category": 14,
+   "grade": 3,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014102",
+   "skillB": "Skill014103",
+   "isFirstB": false
+  },
+  "SkillGroup014004": {
+   "key": "SkillGroup014004",
+   "category": 14,
+   "grade": 4,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014202",
+   "skillB": "Skill014103",
+   "isFirstB": false
+  },
+  "SkillGroup014005": {
+   "key": "SkillGroup014005",
+   "category": 14,
+   "grade": 5,
+   "defaultSkill": "Skill014000",
+   "gatheringSkill": "Skill014001",
+   "skillA": "Skill014202",
+   "skillB": "Skill014203",
+   "isFirstB": false
+  },
+  "SkillGroup015000": {
+   "key": "SkillGroup015000",
+   "category": 15,
+   "grade": 0,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup015001": {
+   "key": "SkillGroup015001",
+   "category": 15,
+   "grade": 1,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015002",
+   "skillB": "Skill015003",
+   "isFirstB": true
+  },
+  "SkillGroup015002": {
+   "key": "SkillGroup015002",
+   "category": 15,
+   "grade": 2,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015102",
+   "skillB": "Skill015003",
+   "isFirstB": true
+  },
+  "SkillGroup015003": {
+   "key": "SkillGroup015003",
+   "category": 15,
+   "grade": 3,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015102",
+   "skillB": "Skill015103",
+   "isFirstB": true
+  },
+  "SkillGroup015004": {
+   "key": "SkillGroup015004",
+   "category": 15,
+   "grade": 4,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015202",
+   "skillB": "Skill015103",
+   "isFirstB": true
+  },
+  "SkillGroup015005": {
+   "key": "SkillGroup015005",
+   "category": 15,
+   "grade": 5,
+   "defaultSkill": "Skill015000",
+   "gatheringSkill": "Skill015001",
+   "skillA": "Skill015202",
+   "skillB": "Skill015203",
+   "isFirstB": true
+  },
+  "SkillGroup016000": {
+   "key": "SkillGroup016000",
+   "category": 16,
+   "grade": 0,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup016001": {
+   "key": "SkillGroup016001",
+   "category": 16,
+   "grade": 1,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016002",
+   "skillB": "Skill016003",
+   "isFirstB": true
+  },
+  "SkillGroup016002": {
+   "key": "SkillGroup016002",
+   "category": 16,
+   "grade": 2,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016102",
+   "skillB": "Skill016003",
+   "isFirstB": true
+  },
+  "SkillGroup016003": {
+   "key": "SkillGroup016003",
+   "category": 16,
+   "grade": 3,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016102",
+   "skillB": "Skill016103",
+   "isFirstB": true
+  },
+  "SkillGroup016004": {
+   "key": "SkillGroup016004",
+   "category": 16,
+   "grade": 4,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016202",
+   "skillB": "Skill016103",
+   "isFirstB": true
+  },
+  "SkillGroup016005": {
+   "key": "SkillGroup016005",
+   "category": 16,
+   "grade": 5,
+   "defaultSkill": "Skill016000",
+   "gatheringSkill": "Skill016001",
+   "skillA": "Skill016202",
+   "skillB": "Skill016203",
+   "isFirstB": true
+  },
+  "SkillGroup017000": {
+   "key": "SkillGroup017000",
+   "category": 17,
+   "grade": 0,
+   "defaultSkill": "Skill017000",
+   "gatheringSkill": "Skill017001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup017001": {
+   "key": "SkillGroup017001",
+   "category": 17,
+   "grade": 1,
+   "defaultSkill": "Skill017000",
+   "gatheringSkill": "Skill017001",
+   "skillA": "Skill017002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup017002": {
+   "key": "SkillGroup017002",
+   "category": 17,
+   "grade": 2,
+   "defaultSkill": "Skill017100",
+   "gatheringSkill": "Skill017001",
+   "skillA": "Skill017002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup017003": {
+   "key": "SkillGroup017003",
+   "category": 17,
+   "grade": 3,
+   "defaultSkill": "Skill017100",
+   "gatheringSkill": "Skill017001",
+   "skillA": "Skill017102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup017004": {
+   "key": "SkillGroup017004",
+   "category": 17,
+   "grade": 4,
+   "defaultSkill": "Skill017200",
+   "gatheringSkill": "Skill017001",
+   "skillA": "Skill017102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup017005": {
+   "key": "SkillGroup017005",
+   "category": 17,
+   "grade": 5,
+   "defaultSkill": "Skill017200",
+   "gatheringSkill": "Skill017001",
+   "skillA": "Skill017202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup018000": {
+   "key": "SkillGroup018000",
+   "category": 18,
+   "grade": 0,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup018001": {
+   "key": "SkillGroup018001",
+   "category": 18,
+   "grade": 1,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018002",
+   "skillB": "Skill018003",
+   "isFirstB": true
+  },
+  "SkillGroup018002": {
+   "key": "SkillGroup018002",
+   "category": 18,
+   "grade": 2,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018102",
+   "skillB": "Skill018003",
+   "isFirstB": true
+  },
+  "SkillGroup018003": {
+   "key": "SkillGroup018003",
+   "category": 18,
+   "grade": 3,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018102",
+   "skillB": "Skill018103",
+   "isFirstB": true
+  },
+  "SkillGroup018004": {
+   "key": "SkillGroup018004",
+   "category": 18,
+   "grade": 4,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018202",
+   "skillB": "Skill018103",
+   "isFirstB": true
+  },
+  "SkillGroup018005": {
+   "key": "SkillGroup018005",
+   "category": 18,
+   "grade": 5,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018202",
+   "skillB": "Skill018203",
+   "isFirstB": true
+  },
+  "SkillGroup019000": {
+   "key": "SkillGroup019000",
+   "category": 19,
+   "grade": 0,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup019001": {
+   "key": "SkillGroup019001",
+   "category": 19,
+   "grade": 1,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019002",
+   "skillB": "Skill019003",
+   "isFirstB": true
+  },
+  "SkillGroup019002": {
+   "key": "SkillGroup019002",
+   "category": 19,
+   "grade": 2,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019102",
+   "skillB": "Skill019003",
+   "isFirstB": true
+  },
+  "SkillGroup019003": {
+   "key": "SkillGroup019003",
+   "category": 19,
+   "grade": 3,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019102",
+   "skillB": "Skill019103",
+   "isFirstB": true
+  },
+  "SkillGroup019004": {
+   "key": "SkillGroup019004",
+   "category": 19,
+   "grade": 4,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019202",
+   "skillB": "Skill019103",
+   "isFirstB": true
+  },
+  "SkillGroup019005": {
+   "key": "SkillGroup019005",
+   "category": 19,
+   "grade": 5,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill019202",
+   "skillB": "Skill019203",
+   "isFirstB": true
+  },
+  "SkillGroup020000": {
+   "key": "SkillGroup020000",
+   "category": 20,
+   "grade": 0,
+   "defaultSkill": "Skill020000",
+   "gatheringSkill": "Skill020001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup020001": {
+   "key": "SkillGroup020001",
+   "category": 20,
+   "grade": 1,
+   "defaultSkill": "Skill020000",
+   "gatheringSkill": "Skill020001",
+   "skillA": "Skill020002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup020002": {
+   "key": "SkillGroup020002",
+   "category": 20,
+   "grade": 2,
+   "defaultSkill": "Skill020100",
+   "gatheringSkill": "Skill020001",
+   "skillA": "Skill020002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup020003": {
+   "key": "SkillGroup020003",
+   "category": 20,
+   "grade": 3,
+   "defaultSkill": "Skill020100",
+   "gatheringSkill": "Skill020001",
+   "skillA": "Skill020102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup020004": {
+   "key": "SkillGroup020004",
+   "category": 20,
+   "grade": 4,
+   "defaultSkill": "Skill020200",
+   "gatheringSkill": "Skill020001",
+   "skillA": "Skill020102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup020005": {
+   "key": "SkillGroup020005",
+   "category": 20,
+   "grade": 5,
+   "defaultSkill": "Skill020200",
+   "gatheringSkill": "Skill020001",
+   "skillA": "Skill020202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup021000": {
+   "key": "SkillGroup021000",
+   "category": 21,
+   "grade": 0,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup021001": {
+   "key": "SkillGroup021001",
+   "category": 21,
+   "grade": 1,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021002",
+   "skillB": "Skill021003",
+   "isFirstB": false
+  },
+  "SkillGroup021002": {
+   "key": "SkillGroup021002",
+   "category": 21,
+   "grade": 2,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021102",
+   "skillB": "Skill021003",
+   "isFirstB": false
+  },
+  "SkillGroup021003": {
+   "key": "SkillGroup021003",
+   "category": 21,
+   "grade": 3,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021102",
+   "skillB": "Skill021103",
+   "isFirstB": false
+  },
+  "SkillGroup021004": {
+   "key": "SkillGroup021004",
+   "category": 21,
+   "grade": 4,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021202",
+   "skillB": "Skill021103",
+   "isFirstB": false
+  },
+  "SkillGroup021005": {
+   "key": "SkillGroup021005",
+   "category": 21,
+   "grade": 5,
+   "defaultSkill": "Skill021000",
+   "gatheringSkill": "Skill021001",
+   "skillA": "Skill021202",
+   "skillB": "Skill021203",
+   "isFirstB": false
+  },
+  "SkillGroup022000": {
+   "key": "SkillGroup022000",
+   "category": 22,
+   "grade": 0,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup022001": {
+   "key": "SkillGroup022001",
+   "category": 22,
+   "grade": 1,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022002",
+   "skillB": "Skill022003",
+   "isFirstB": true
+  },
+  "SkillGroup022002": {
+   "key": "SkillGroup022002",
+   "category": 22,
+   "grade": 2,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022102",
+   "skillB": "Skill022003",
+   "isFirstB": true
+  },
+  "SkillGroup022003": {
+   "key": "SkillGroup022003",
+   "category": 22,
+   "grade": 3,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022102",
+   "skillB": "Skill022103",
+   "isFirstB": true
+  },
+  "SkillGroup022004": {
+   "key": "SkillGroup022004",
+   "category": 22,
+   "grade": 4,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022202",
+   "skillB": "Skill022103",
+   "isFirstB": true
+  },
+  "SkillGroup022005": {
+   "key": "SkillGroup022005",
+   "category": 22,
+   "grade": 5,
+   "defaultSkill": "Skill022000",
+   "gatheringSkill": "Skill022001",
+   "skillA": "Skill022202",
+   "skillB": "Skill022203",
+   "isFirstB": true
+  },
+  "SkillGroup023000": {
+   "key": "SkillGroup023000",
+   "category": 23,
+   "grade": 0,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup023001": {
+   "key": "SkillGroup023001",
+   "category": 23,
+   "grade": 1,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023002",
+   "skillB": "Skill023003",
+   "isFirstB": true
+  },
+  "SkillGroup023002": {
+   "key": "SkillGroup023002",
+   "category": 23,
+   "grade": 2,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023102",
+   "skillB": "Skill023003",
+   "isFirstB": true
+  },
+  "SkillGroup023003": {
+   "key": "SkillGroup023003",
+   "category": 23,
+   "grade": 3,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023102",
+   "skillB": "Skill023103",
+   "isFirstB": true
+  },
+  "SkillGroup023004": {
+   "key": "SkillGroup023004",
+   "category": 23,
+   "grade": 4,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023202",
+   "skillB": "Skill023103",
+   "isFirstB": true
+  },
+  "SkillGroup023005": {
+   "key": "SkillGroup023005",
+   "category": 23,
+   "grade": 5,
+   "defaultSkill": "Skill023000",
+   "gatheringSkill": "Skill023001",
+   "skillA": "Skill023202",
+   "skillB": "Skill023203",
+   "isFirstB": true
+  },
+  "SkillGroup024000": {
+   "key": "SkillGroup024000",
+   "category": 24,
+   "grade": 0,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup024001": {
+   "key": "SkillGroup024001",
+   "category": 24,
+   "grade": 1,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024002",
+   "skillB": "Skill024003",
+   "isFirstB": true
+  },
+  "SkillGroup024002": {
+   "key": "SkillGroup024002",
+   "category": 24,
+   "grade": 2,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024102",
+   "skillB": "Skill024003",
+   "isFirstB": true
+  },
+  "SkillGroup024003": {
+   "key": "SkillGroup024003",
+   "category": 24,
+   "grade": 3,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024102",
+   "skillB": "Skill024103",
+   "isFirstB": true
+  },
+  "SkillGroup024004": {
+   "key": "SkillGroup024004",
+   "category": 24,
+   "grade": 4,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024202",
+   "skillB": "Skill024103",
+   "isFirstB": true
+  },
+  "SkillGroup024005": {
+   "key": "SkillGroup024005",
+   "category": 24,
+   "grade": 5,
+   "defaultSkill": "Skill024000",
+   "gatheringSkill": "Skill024001",
+   "skillA": "Skill024202",
+   "skillB": "Skill024203",
+   "isFirstB": true
+  },
+  "SkillGroup025000": {
+   "key": "SkillGroup025000",
+   "category": 25,
+   "grade": 0,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup025001": {
+   "key": "SkillGroup025001",
+   "category": 25,
+   "grade": 1,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025002",
+   "skillB": "Skill025003",
+   "isFirstB": true
+  },
+  "SkillGroup025002": {
+   "key": "SkillGroup025002",
+   "category": 25,
+   "grade": 2,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025102",
+   "skillB": "Skill025003",
+   "isFirstB": true
+  },
+  "SkillGroup025003": {
+   "key": "SkillGroup025003",
+   "category": 25,
+   "grade": 3,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025102",
+   "skillB": "Skill025103",
+   "isFirstB": true
+  },
+  "SkillGroup025004": {
+   "key": "SkillGroup025004",
+   "category": 25,
+   "grade": 4,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025202",
+   "skillB": "Skill025103",
+   "isFirstB": true
+  },
+  "SkillGroup025005": {
+   "key": "SkillGroup025005",
+   "category": 25,
+   "grade": 5,
+   "defaultSkill": "Skill025000",
+   "gatheringSkill": "Skill025001",
+   "skillA": "Skill025202",
+   "skillB": "Skill025203",
+   "isFirstB": true
+  },
+  "SkillGroup026000": {
+   "key": "SkillGroup026000",
+   "category": 26,
+   "grade": 0,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup026001": {
+   "key": "SkillGroup026001",
+   "category": 26,
+   "grade": 1,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026002",
+   "skillB": "Skill026003",
+   "isFirstB": false
+  },
+  "SkillGroup026002": {
+   "key": "SkillGroup026002",
+   "category": 26,
+   "grade": 2,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026102",
+   "skillB": "Skill026003",
+   "isFirstB": false
+  },
+  "SkillGroup026003": {
+   "key": "SkillGroup026003",
+   "category": 26,
+   "grade": 3,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026102",
+   "skillB": "Skill026103",
+   "isFirstB": false
+  },
+  "SkillGroup026004": {
+   "key": "SkillGroup026004",
+   "category": 26,
+   "grade": 4,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026202",
+   "skillB": "Skill026103",
+   "isFirstB": false
+  },
+  "SkillGroup026005": {
+   "key": "SkillGroup026005",
+   "category": 26,
+   "grade": 5,
+   "defaultSkill": "Skill026000",
+   "gatheringSkill": "Skill026001",
+   "skillA": "Skill026202",
+   "skillB": "Skill026203",
+   "isFirstB": false
+  },
+  "SkillGroup027000": {
+   "key": "SkillGroup027000",
+   "category": 27,
+   "grade": 0,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup027001": {
+   "key": "SkillGroup027001",
+   "category": 27,
+   "grade": 1,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027002",
+   "skillB": "Skill027003",
+   "isFirstB": true
+  },
+  "SkillGroup027002": {
+   "key": "SkillGroup027002",
+   "category": 27,
+   "grade": 2,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027102",
+   "skillB": "Skill027003",
+   "isFirstB": true
+  },
+  "SkillGroup027003": {
+   "key": "SkillGroup027003",
+   "category": 27,
+   "grade": 3,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027102",
+   "skillB": "Skill027103",
+   "isFirstB": true
+  },
+  "SkillGroup027004": {
+   "key": "SkillGroup027004",
+   "category": 27,
+   "grade": 4,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027202",
+   "skillB": "Skill027103",
+   "isFirstB": true
+  },
+  "SkillGroup027005": {
+   "key": "SkillGroup027005",
+   "category": 27,
+   "grade": 5,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill027202",
+   "skillB": "Skill027203",
+   "isFirstB": true
+  },
+  "SkillGroup028000": {
+   "key": "SkillGroup028000",
+   "category": 28,
+   "grade": 0,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup028001": {
+   "key": "SkillGroup028001",
+   "category": 28,
+   "grade": 1,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028002",
+   "skillB": "Skill028003",
+   "isFirstB": true
+  },
+  "SkillGroup028002": {
+   "key": "SkillGroup028002",
+   "category": 28,
+   "grade": 2,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028102",
+   "skillB": "Skill028003",
+   "isFirstB": true
+  },
+  "SkillGroup028003": {
+   "key": "SkillGroup028003",
+   "category": 28,
+   "grade": 3,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028102",
+   "skillB": "Skill028103",
+   "isFirstB": true
+  },
+  "SkillGroup028004": {
+   "key": "SkillGroup028004",
+   "category": 28,
+   "grade": 4,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028202",
+   "skillB": "Skill028103",
+   "isFirstB": true
+  },
+  "SkillGroup028005": {
+   "key": "SkillGroup028005",
+   "category": 28,
+   "grade": 5,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill028202",
+   "skillB": "Skill028203",
+   "isFirstB": true
+  },
+  "SkillGroup029000": {
+   "key": "SkillGroup029000",
+   "category": 29,
+   "grade": 0,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup029001": {
+   "key": "SkillGroup029001",
+   "category": 29,
+   "grade": 1,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029002",
+   "skillB": "Skill029003",
+   "isFirstB": true
+  },
+  "SkillGroup029002": {
+   "key": "SkillGroup029002",
+   "category": 29,
+   "grade": 2,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029102",
+   "skillB": "Skill029003",
+   "isFirstB": true
+  },
+  "SkillGroup029003": {
+   "key": "SkillGroup029003",
+   "category": 29,
+   "grade": 3,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029102",
+   "skillB": "Skill029103",
+   "isFirstB": true
+  },
+  "SkillGroup029004": {
+   "key": "SkillGroup029004",
+   "category": 29,
+   "grade": 4,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029202",
+   "skillB": "Skill029103",
+   "isFirstB": true
+  },
+  "SkillGroup029005": {
+   "key": "SkillGroup029005",
+   "category": 29,
+   "grade": 5,
+   "defaultSkill": "Skill029000",
+   "gatheringSkill": "Skill029001",
+   "skillA": "Skill029202",
+   "skillB": "Skill029203",
+   "isFirstB": true
+  },
+  "SkillGroup030000": {
+   "key": "SkillGroup030000",
+   "category": 30,
+   "grade": 0,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup030001": {
+   "key": "SkillGroup030001",
+   "category": 30,
+   "grade": 1,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030002",
+   "skillB": "Skill030003",
+   "isFirstB": true
+  },
+  "SkillGroup030002": {
+   "key": "SkillGroup030002",
+   "category": 30,
+   "grade": 2,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030102",
+   "skillB": "Skill030003",
+   "isFirstB": true
+  },
+  "SkillGroup030003": {
+   "key": "SkillGroup030003",
+   "category": 30,
+   "grade": 3,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030102",
+   "skillB": "Skill030103",
+   "isFirstB": true
+  },
+  "SkillGroup030004": {
+   "key": "SkillGroup030004",
+   "category": 30,
+   "grade": 4,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030202",
+   "skillB": "Skill030103",
+   "isFirstB": true
+  },
+  "SkillGroup030005": {
+   "key": "SkillGroup030005",
+   "category": 30,
+   "grade": 5,
+   "defaultSkill": "Skill030000",
+   "gatheringSkill": "Skill030001",
+   "skillA": "Skill030202",
+   "skillB": "Skill030203",
+   "isFirstB": true
+  },
+  "SkillGroup031000": {
+   "key": "SkillGroup031000",
+   "category": 31,
+   "grade": 0,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup031001": {
+   "key": "SkillGroup031001",
+   "category": 31,
+   "grade": 1,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031002",
+   "skillB": "Skill031003",
+   "isFirstB": true
+  },
+  "SkillGroup031002": {
+   "key": "SkillGroup031002",
+   "category": 31,
+   "grade": 2,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031102",
+   "skillB": "Skill031003",
+   "isFirstB": true
+  },
+  "SkillGroup031003": {
+   "key": "SkillGroup031003",
+   "category": 31,
+   "grade": 3,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031102",
+   "skillB": "Skill031103",
+   "isFirstB": true
+  },
+  "SkillGroup031004": {
+   "key": "SkillGroup031004",
+   "category": 31,
+   "grade": 4,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031202",
+   "skillB": "Skill031103",
+   "isFirstB": true
+  },
+  "SkillGroup031005": {
+   "key": "SkillGroup031005",
+   "category": 31,
+   "grade": 5,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031202",
+   "skillB": "Skill031203",
+   "isFirstB": true
+  },
+  "SkillGroup032000": {
+   "key": "SkillGroup032000",
+   "category": 32,
+   "grade": 0,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup032001": {
+   "key": "SkillGroup032001",
+   "category": 32,
+   "grade": 1,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032002",
+   "skillB": "Skill032003",
+   "isFirstB": true
+  },
+  "SkillGroup032002": {
+   "key": "SkillGroup032002",
+   "category": 32,
+   "grade": 2,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032102",
+   "skillB": "Skill032003",
+   "isFirstB": true
+  },
+  "SkillGroup032003": {
+   "key": "SkillGroup032003",
+   "category": 32,
+   "grade": 3,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032102",
+   "skillB": "Skill032103",
+   "isFirstB": true
+  },
+  "SkillGroup032004": {
+   "key": "SkillGroup032004",
+   "category": 32,
+   "grade": 4,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032202",
+   "skillB": "Skill032103",
+   "isFirstB": true
+  },
+  "SkillGroup032005": {
+   "key": "SkillGroup032005",
+   "category": 32,
+   "grade": 5,
+   "defaultSkill": "Skill032000",
+   "gatheringSkill": "Skill032001",
+   "skillA": "Skill032202",
+   "skillB": "Skill032203",
+   "isFirstB": true
+  },
+  "SkillGroup033000": {
+   "key": "SkillGroup033000",
+   "category": 33,
+   "grade": 0,
+   "defaultSkill": "Skill033000",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup033001": {
+   "key": "SkillGroup033001",
+   "category": 33,
+   "grade": 1,
+   "defaultSkill": "Skill033000",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033002",
+   "skillB": "Skill033003",
+   "isFirstB": false
+  },
+  "SkillGroup033002": {
+   "key": "SkillGroup033002",
+   "category": 33,
+   "grade": 2,
+   "defaultSkill": "Skill033000",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033102",
+   "skillB": "Skill033003",
+   "isFirstB": false
+  },
+  "SkillGroup033003": {
+   "key": "SkillGroup033003",
+   "category": 33,
+   "grade": 3,
+   "defaultSkill": "Skill033000",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033102",
+   "skillB": "Skill033103",
+   "isFirstB": false
+  },
+  "SkillGroup033004": {
+   "key": "SkillGroup033004",
+   "category": 33,
+   "grade": 4,
+   "defaultSkill": "Skill033200",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033202",
+   "skillB": "Skill033103",
+   "isFirstB": false
+  },
+  "SkillGroup033005": {
+   "key": "SkillGroup033005",
+   "category": 33,
+   "grade": 5,
+   "defaultSkill": "Skill033200",
+   "gatheringSkill": "Skill033001",
+   "skillA": "Skill033202",
+   "skillB": "Skill033203",
+   "isFirstB": false
+  },
+  "SkillGroup034000": {
+   "key": "SkillGroup034000",
+   "category": 34,
+   "grade": 0,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup034001": {
+   "key": "SkillGroup034001",
+   "category": 34,
+   "grade": 1,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034002",
+   "skillB": "Skill034003",
+   "isFirstB": true
+  },
+  "SkillGroup034002": {
+   "key": "SkillGroup034002",
+   "category": 34,
+   "grade": 2,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034102",
+   "skillB": "Skill034003",
+   "isFirstB": true
+  },
+  "SkillGroup034003": {
+   "key": "SkillGroup034003",
+   "category": 34,
+   "grade": 3,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034102",
+   "skillB": "Skill034103",
+   "isFirstB": true
+  },
+  "SkillGroup034004": {
+   "key": "SkillGroup034004",
+   "category": 34,
+   "grade": 4,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034202",
+   "skillB": "Skill034103",
+   "isFirstB": true
+  },
+  "SkillGroup034005": {
+   "key": "SkillGroup034005",
+   "category": 34,
+   "grade": 5,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034202",
+   "skillB": "Skill034203",
+   "isFirstB": true
+  },
+  "SkillGroup035000": {
+   "key": "SkillGroup035000",
+   "category": 35,
+   "grade": 0,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup035001": {
+   "key": "SkillGroup035001",
+   "category": 35,
+   "grade": 1,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035002",
+   "skillB": "Skill035003",
+   "isFirstB": false
+  },
+  "SkillGroup035002": {
+   "key": "SkillGroup035002",
+   "category": 35,
+   "grade": 2,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035102",
+   "skillB": "Skill035003",
+   "isFirstB": false
+  },
+  "SkillGroup035003": {
+   "key": "SkillGroup035003",
+   "category": 35,
+   "grade": 3,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035102",
+   "skillB": "Skill035103",
+   "isFirstB": false
+  },
+  "SkillGroup035004": {
+   "key": "SkillGroup035004",
+   "category": 35,
+   "grade": 4,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035202",
+   "skillB": "Skill035103",
+   "isFirstB": false
+  },
+  "SkillGroup035005": {
+   "key": "SkillGroup035005",
+   "category": 35,
+   "grade": 5,
+   "defaultSkill": "Skill035000",
+   "gatheringSkill": "Skill035001",
+   "skillA": "Skill035202",
+   "skillB": "Skill035203",
+   "isFirstB": false
+  },
+  "SkillGroup036000": {
+   "key": "SkillGroup036000",
+   "category": 36,
+   "grade": 0,
+   "defaultSkill": "Skill036000",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup036001": {
+   "key": "SkillGroup036001",
+   "category": 36,
+   "grade": 1,
+   "defaultSkill": "Skill036000",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill036023",
+   "isFirstB": true
+  },
+  "SkillGroup036002": {
+   "key": "SkillGroup036002",
+   "category": 36,
+   "grade": 2,
+   "defaultSkill": "Skill036101",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill036023",
+   "isFirstB": true
+  },
+  "SkillGroup036003": {
+   "key": "SkillGroup036003",
+   "category": 36,
+   "grade": 3,
+   "defaultSkill": "Skill036101",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill036123",
+   "isFirstB": true
+  },
+  "SkillGroup036004": {
+   "key": "SkillGroup036004",
+   "category": 36,
+   "grade": 4,
+   "defaultSkill": "Skill036201",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill036123",
+   "isFirstB": true
+  },
+  "SkillGroup036005": {
+   "key": "SkillGroup036005",
+   "category": 36,
+   "grade": 5,
+   "defaultSkill": "Skill036201",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill036223",
+   "isFirstB": true
+  },
+  "SkillGroup037000": {
+   "key": "SkillGroup037000",
+   "category": 37,
+   "grade": 0,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037012",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup037001": {
+   "key": "SkillGroup037001",
+   "category": 37,
+   "grade": 1,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037012",
+   "skillB": "Skill037023",
+   "isFirstB": true
+  },
+  "SkillGroup037002": {
+   "key": "SkillGroup037002",
+   "category": 37,
+   "grade": 2,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037112",
+   "skillB": "Skill037023",
+   "isFirstB": true
+  },
+  "SkillGroup037003": {
+   "key": "SkillGroup037003",
+   "category": 37,
+   "grade": 3,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037112",
+   "skillB": "Skill037123",
+   "isFirstB": true
+  },
+  "SkillGroup037004": {
+   "key": "SkillGroup037004",
+   "category": 37,
+   "grade": 4,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037212",
+   "skillB": "Skill037123",
+   "isFirstB": true
+  },
+  "SkillGroup037005": {
+   "key": "SkillGroup037005",
+   "category": 37,
+   "grade": 5,
+   "defaultSkill": "Skill037000",
+   "gatheringSkill": "Skill037001",
+   "skillA": "Skill037212",
+   "skillB": "Skill037223",
+   "isFirstB": true
+  },
+  "SkillGroup038000": {
+   "key": "SkillGroup038000",
+   "category": 38,
+   "grade": 0,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup038001": {
+   "key": "SkillGroup038001",
+   "category": 38,
+   "grade": 1,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038002",
+   "skillB": "Skill038023",
+   "isFirstB": false
+  },
+  "SkillGroup038002": {
+   "key": "SkillGroup038002",
+   "category": 38,
+   "grade": 2,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038102",
+   "skillB": "Skill038023",
+   "isFirstB": false
+  },
+  "SkillGroup038003": {
+   "key": "SkillGroup038003",
+   "category": 38,
+   "grade": 3,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038102",
+   "skillB": "Skill038123",
+   "isFirstB": false
+  },
+  "SkillGroup038004": {
+   "key": "SkillGroup038004",
+   "category": 38,
+   "grade": 4,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038202",
+   "skillB": "Skill038123",
+   "isFirstB": false
+  },
+  "SkillGroup038005": {
+   "key": "SkillGroup038005",
+   "category": 38,
+   "grade": 5,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038202",
+   "skillB": "Skill038223",
+   "isFirstB": false
+  },
+  "SkillGroup039000": {
+   "key": "SkillGroup039000",
+   "category": 39,
+   "grade": 0,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup039001": {
+   "key": "SkillGroup039001",
+   "category": 39,
+   "grade": 1,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039002",
+   "skillB": "Skill039003",
+   "isFirstB": false
+  },
+  "SkillGroup039002": {
+   "key": "SkillGroup039002",
+   "category": 39,
+   "grade": 2,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039102",
+   "skillB": "Skill039003",
+   "isFirstB": false
+  },
+  "SkillGroup039003": {
+   "key": "SkillGroup039003",
+   "category": 39,
+   "grade": 3,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039102",
+   "skillB": "Skill039103",
+   "isFirstB": false
+  },
+  "SkillGroup039004": {
+   "key": "SkillGroup039004",
+   "category": 39,
+   "grade": 4,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039202",
+   "skillB": "Skill039103",
+   "isFirstB": false
+  },
+  "SkillGroup039005": {
+   "key": "SkillGroup039005",
+   "category": 39,
+   "grade": 5,
+   "defaultSkill": "Skill039000",
+   "gatheringSkill": "Skill039001",
+   "skillA": "Skill039202",
+   "skillB": "Skill039203",
+   "isFirstB": false
+  },
+  "SkillGroup040000": {
+   "key": "SkillGroup040000",
+   "category": 40,
+   "grade": 0,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup040001": {
+   "key": "SkillGroup040001",
+   "category": 40,
+   "grade": 1,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040002",
+   "skillB": "Skill040003",
+   "isFirstB": true
+  },
+  "SkillGroup040002": {
+   "key": "SkillGroup040002",
+   "category": 40,
+   "grade": 2,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040102",
+   "skillB": "Skill040003",
+   "isFirstB": true
+  },
+  "SkillGroup040003": {
+   "key": "SkillGroup040003",
+   "category": 40,
+   "grade": 3,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040102",
+   "skillB": "Skill040103",
+   "isFirstB": true
+  },
+  "SkillGroup040004": {
+   "key": "SkillGroup040004",
+   "category": 40,
+   "grade": 4,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040202",
+   "skillB": "Skill040103",
+   "isFirstB": true
+  },
+  "SkillGroup040005": {
+   "key": "SkillGroup040005",
+   "category": 40,
+   "grade": 5,
+   "defaultSkill": "Skill040000",
+   "gatheringSkill": "Skill040001",
+   "skillA": "Skill040202",
+   "skillB": "Skill040203",
+   "isFirstB": true
+  },
+  "SkillGroup041000": {
+   "key": "SkillGroup041000",
+   "category": 41,
+   "grade": 0,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup041001": {
+   "key": "SkillGroup041001",
+   "category": 41,
+   "grade": 1,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041002",
+   "skillB": "Skill041003",
+   "isFirstB": false
+  },
+  "SkillGroup041002": {
+   "key": "SkillGroup041002",
+   "category": 41,
+   "grade": 2,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041102",
+   "skillB": "Skill041003",
+   "isFirstB": false
+  },
+  "SkillGroup041003": {
+   "key": "SkillGroup041003",
+   "category": 41,
+   "grade": 3,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041102",
+   "skillB": "Skill041103",
+   "isFirstB": false
+  },
+  "SkillGroup041004": {
+   "key": "SkillGroup041004",
+   "category": 41,
+   "grade": 4,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041202",
+   "skillB": "Skill041103",
+   "isFirstB": false
+  },
+  "SkillGroup041005": {
+   "key": "SkillGroup041005",
+   "category": 41,
+   "grade": 5,
+   "defaultSkill": "Skill041000",
+   "gatheringSkill": "Skill041001",
+   "skillA": "Skill041202",
+   "skillB": "Skill041203",
+   "isFirstB": false
+  },
+  "SkillGroup042000": {
+   "key": "SkillGroup042000",
+   "category": 42,
+   "grade": 0,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup042001": {
+   "key": "SkillGroup042001",
+   "category": 42,
+   "grade": 1,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042002",
+   "skillB": "Skill042003",
+   "isFirstB": true
+  },
+  "SkillGroup042002": {
+   "key": "SkillGroup042002",
+   "category": 42,
+   "grade": 2,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042102",
+   "skillB": "Skill042003",
+   "isFirstB": true
+  },
+  "SkillGroup042003": {
+   "key": "SkillGroup042003",
+   "category": 42,
+   "grade": 3,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042102",
+   "skillB": "Skill042103",
+   "isFirstB": true
+  },
+  "SkillGroup042004": {
+   "key": "SkillGroup042004",
+   "category": 42,
+   "grade": 4,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042202",
+   "skillB": "Skill042103",
+   "isFirstB": true
+  },
+  "SkillGroup042005": {
+   "key": "SkillGroup042005",
+   "category": 42,
+   "grade": 5,
+   "defaultSkill": "Skill042000",
+   "gatheringSkill": "Skill042001",
+   "skillA": "Skill042202",
+   "skillB": "Skill042203",
+   "isFirstB": true
+  },
+  "SkillGroup043000": {
+   "key": "SkillGroup043000",
+   "category": 43,
+   "grade": 0,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup043001": {
+   "key": "SkillGroup043001",
+   "category": 43,
+   "grade": 1,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043002",
+   "skillB": "Skill043003",
+   "isFirstB": false
+  },
+  "SkillGroup043002": {
+   "key": "SkillGroup043002",
+   "category": 43,
+   "grade": 2,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043102",
+   "skillB": "Skill043003",
+   "isFirstB": false
+  },
+  "SkillGroup043003": {
+   "key": "SkillGroup043003",
+   "category": 43,
+   "grade": 3,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043102",
+   "skillB": "Skill043103",
+   "isFirstB": false
+  },
+  "SkillGroup043004": {
+   "key": "SkillGroup043004",
+   "category": 43,
+   "grade": 4,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043202",
+   "skillB": "Skill043103",
+   "isFirstB": false
+  },
+  "SkillGroup043005": {
+   "key": "SkillGroup043005",
+   "category": 43,
+   "grade": 5,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043202",
+   "skillB": "Skill043203",
+   "isFirstB": false
+  },
+  "SkillGroup043010": {
+   "key": "SkillGroup043010",
+   "category": 43,
+   "grade": 10,
+   "defaultSkill": "Skill043000",
+   "gatheringSkill": "Skill043001",
+   "skillA": "Skill043802",
+   "skillB": "Skill043803",
+   "isFirstB": false
+  },
+  "SkillGroup044000": {
+   "key": "SkillGroup044000",
+   "category": 44,
+   "grade": 0,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup044001": {
+   "key": "SkillGroup044001",
+   "category": 44,
+   "grade": 1,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044002",
+   "skillB": "Skill044003",
+   "isFirstB": true
+  },
+  "SkillGroup044002": {
+   "key": "SkillGroup044002",
+   "category": 44,
+   "grade": 2,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044102",
+   "skillB": "Skill044003",
+   "isFirstB": true
+  },
+  "SkillGroup044003": {
+   "key": "SkillGroup044003",
+   "category": 44,
+   "grade": 3,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044102",
+   "skillB": "Skill044103",
+   "isFirstB": true
+  },
+  "SkillGroup044004": {
+   "key": "SkillGroup044004",
+   "category": 44,
+   "grade": 4,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044202",
+   "skillB": "Skill044103",
+   "isFirstB": true
+  },
+  "SkillGroup044005": {
+   "key": "SkillGroup044005",
+   "category": 44,
+   "grade": 5,
+   "defaultSkill": "Skill044000",
+   "gatheringSkill": "Skill044001",
+   "skillA": "Skill044202",
+   "skillB": "Skill044203",
+   "isFirstB": true
+  },
+  "SkillGroup045000": {
+   "key": "SkillGroup045000",
+   "category": 45,
+   "grade": 0,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup045001": {
+   "key": "SkillGroup045001",
+   "category": 45,
+   "grade": 1,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045002",
+   "skillB": "Skill045003",
+   "isFirstB": true
+  },
+  "SkillGroup045002": {
+   "key": "SkillGroup045002",
+   "category": 45,
+   "grade": 2,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045102",
+   "skillB": "Skill045003",
+   "isFirstB": true
+  },
+  "SkillGroup045003": {
+   "key": "SkillGroup045003",
+   "category": 45,
+   "grade": 3,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045102",
+   "skillB": "Skill045103",
+   "isFirstB": true
+  },
+  "SkillGroup045004": {
+   "key": "SkillGroup045004",
+   "category": 45,
+   "grade": 4,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045202",
+   "skillB": "Skill045103",
+   "isFirstB": true
+  },
+  "SkillGroup045005": {
+   "key": "SkillGroup045005",
+   "category": 45,
+   "grade": 5,
+   "defaultSkill": "Skill045000",
+   "gatheringSkill": "Skill045001",
+   "skillA": "Skill045202",
+   "skillB": "Skill045203",
+   "isFirstB": true
+  },
+  "SkillGroup046000": {
+   "key": "SkillGroup046000",
+   "category": 46,
+   "grade": 0,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup046001": {
+   "key": "SkillGroup046001",
+   "category": 46,
+   "grade": 1,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046002",
+   "skillB": "Skill046003",
+   "isFirstB": true
+  },
+  "SkillGroup046002": {
+   "key": "SkillGroup046002",
+   "category": 46,
+   "grade": 2,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046102",
+   "skillB": "Skill046003",
+   "isFirstB": true
+  },
+  "SkillGroup046003": {
+   "key": "SkillGroup046003",
+   "category": 46,
+   "grade": 3,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046102",
+   "skillB": "Skill046103",
+   "isFirstB": true
+  },
+  "SkillGroup046004": {
+   "key": "SkillGroup046004",
+   "category": 46,
+   "grade": 4,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046202",
+   "skillB": "Skill046103",
+   "isFirstB": true
+  },
+  "SkillGroup046005": {
+   "key": "SkillGroup046005",
+   "category": 46,
+   "grade": 5,
+   "defaultSkill": "Skill046000",
+   "gatheringSkill": "Skill046001",
+   "skillA": "Skill046202",
+   "skillB": "Skill046203",
+   "isFirstB": true
+  },
+  "SkillGroup047000": {
+   "key": "SkillGroup047000",
+   "category": 47,
+   "grade": 0,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup047001": {
+   "key": "SkillGroup047001",
+   "category": 47,
+   "grade": 1,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047002",
+   "skillB": "Skill047003",
+   "isFirstB": false
+  },
+  "SkillGroup047002": {
+   "key": "SkillGroup047002",
+   "category": 47,
+   "grade": 2,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047102",
+   "skillB": "Skill047003",
+   "isFirstB": false
+  },
+  "SkillGroup047003": {
+   "key": "SkillGroup047003",
+   "category": 47,
+   "grade": 3,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047102",
+   "skillB": "Skill047103",
+   "isFirstB": false
+  },
+  "SkillGroup047004": {
+   "key": "SkillGroup047004",
+   "category": 47,
+   "grade": 4,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047202",
+   "skillB": "Skill047103",
+   "isFirstB": false
+  },
+  "SkillGroup047005": {
+   "key": "SkillGroup047005",
+   "category": 47,
+   "grade": 5,
+   "defaultSkill": "Skill047000",
+   "gatheringSkill": "Skill047001",
+   "skillA": "Skill047202",
+   "skillB": "Skill047203",
+   "isFirstB": false
+  },
+  "SkillGroup048000": {
+   "key": "SkillGroup048000",
+   "category": 48,
+   "grade": 0,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup048001": {
+   "key": "SkillGroup048001",
+   "category": 48,
+   "grade": 1,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048002",
+   "skillB": "Skill048003",
+   "isFirstB": false
+  },
+  "SkillGroup048002": {
+   "key": "SkillGroup048002",
+   "category": 48,
+   "grade": 2,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048102",
+   "skillB": "Skill048003",
+   "isFirstB": false
+  },
+  "SkillGroup048003": {
+   "key": "SkillGroup048003",
+   "category": 48,
+   "grade": 3,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048102",
+   "skillB": "Skill048103",
+   "isFirstB": false
+  },
+  "SkillGroup048004": {
+   "key": "SkillGroup048004",
+   "category": 48,
+   "grade": 4,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048202",
+   "skillB": "Skill048103",
+   "isFirstB": false
+  },
+  "SkillGroup048005": {
+   "key": "SkillGroup048005",
+   "category": 48,
+   "grade": 5,
+   "defaultSkill": "Skill048000",
+   "gatheringSkill": "Skill048001",
+   "skillA": "Skill048202",
+   "skillB": "Skill048203",
+   "isFirstB": false
+  },
+  "SkillGroup049000": {
+   "key": "SkillGroup049000",
+   "category": 49,
+   "grade": 0,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup049001": {
+   "key": "SkillGroup049001",
+   "category": 49,
+   "grade": 1,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049002",
+   "skillB": "Skill049003",
+   "isFirstB": true
+  },
+  "SkillGroup049002": {
+   "key": "SkillGroup049002",
+   "category": 49,
+   "grade": 2,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049102",
+   "skillB": "Skill049003",
+   "isFirstB": true
+  },
+  "SkillGroup049003": {
+   "key": "SkillGroup049003",
+   "category": 49,
+   "grade": 3,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049102",
+   "skillB": "Skill049103",
+   "isFirstB": true
+  },
+  "SkillGroup049004": {
+   "key": "SkillGroup049004",
+   "category": 49,
+   "grade": 4,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049202",
+   "skillB": "Skill049103",
+   "isFirstB": true
+  },
+  "SkillGroup049005": {
+   "key": "SkillGroup049005",
+   "category": 49,
+   "grade": 5,
+   "defaultSkill": "Skill049000",
+   "gatheringSkill": "Skill049001",
+   "skillA": "Skill049202",
+   "skillB": "Skill049203",
+   "isFirstB": true
+  },
+  "SkillGroup050000": {
+   "key": "SkillGroup050000",
+   "category": 50,
+   "grade": 0,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup050001": {
+   "key": "SkillGroup050001",
+   "category": 50,
+   "grade": 1,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050002",
+   "skillB": "Skill050003",
+   "isFirstB": true
+  },
+  "SkillGroup050002": {
+   "key": "SkillGroup050002",
+   "category": 50,
+   "grade": 2,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050102",
+   "skillB": "Skill050003",
+   "isFirstB": true
+  },
+  "SkillGroup050003": {
+   "key": "SkillGroup050003",
+   "category": 50,
+   "grade": 3,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050102",
+   "skillB": "Skill050103",
+   "isFirstB": true
+  },
+  "SkillGroup050004": {
+   "key": "SkillGroup050004",
+   "category": 50,
+   "grade": 4,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050202",
+   "skillB": "Skill050103",
+   "isFirstB": true
+  },
+  "SkillGroup050005": {
+   "key": "SkillGroup050005",
+   "category": 50,
+   "grade": 5,
+   "defaultSkill": "Skill050000",
+   "gatheringSkill": "Skill050001",
+   "skillA": "Skill050202",
+   "skillB": "Skill050203",
+   "isFirstB": true
+  },
+  "SkillGroup051000": {
+   "key": "SkillGroup051000",
+   "category": 51,
+   "grade": 0,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup051001": {
+   "key": "SkillGroup051001",
+   "category": 51,
+   "grade": 1,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051002",
+   "skillB": "Skill051003",
+   "isFirstB": false
+  },
+  "SkillGroup051002": {
+   "key": "SkillGroup051002",
+   "category": 51,
+   "grade": 2,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051102",
+   "skillB": "Skill051003",
+   "isFirstB": false
+  },
+  "SkillGroup051003": {
+   "key": "SkillGroup051003",
+   "category": 51,
+   "grade": 3,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051102",
+   "skillB": "Skill051103",
+   "isFirstB": false
+  },
+  "SkillGroup051004": {
+   "key": "SkillGroup051004",
+   "category": 51,
+   "grade": 4,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051202",
+   "skillB": "Skill051103",
+   "isFirstB": false
+  },
+  "SkillGroup051005": {
+   "key": "SkillGroup051005",
+   "category": 51,
+   "grade": 5,
+   "defaultSkill": "Skill051000",
+   "gatheringSkill": "Skill051001",
+   "skillA": "Skill051202",
+   "skillB": "Skill051203",
+   "isFirstB": false
+  },
+  "SkillGroup052000": {
+   "key": "SkillGroup052000",
+   "category": 52,
+   "grade": 0,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup052001": {
+   "key": "SkillGroup052001",
+   "category": 52,
+   "grade": 1,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052002",
+   "skillB": "Skill052003",
+   "isFirstB": true
+  },
+  "SkillGroup052002": {
+   "key": "SkillGroup052002",
+   "category": 52,
+   "grade": 2,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052102",
+   "skillB": "Skill052003",
+   "isFirstB": true
+  },
+  "SkillGroup052003": {
+   "key": "SkillGroup052003",
+   "category": 52,
+   "grade": 3,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052102",
+   "skillB": "Skill052103",
+   "isFirstB": true
+  },
+  "SkillGroup052004": {
+   "key": "SkillGroup052004",
+   "category": 52,
+   "grade": 4,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052202",
+   "skillB": "Skill052103",
+   "isFirstB": true
+  },
+  "SkillGroup052005": {
+   "key": "SkillGroup052005",
+   "category": 52,
+   "grade": 5,
+   "defaultSkill": "Skill052000",
+   "gatheringSkill": "Skill052001",
+   "skillA": "Skill052202",
+   "skillB": "Skill052203",
+   "isFirstB": true
+  },
+  "SkillGroup053000": {
+   "key": "SkillGroup053000",
+   "category": 53,
+   "grade": 0,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup053001": {
+   "key": "SkillGroup053001",
+   "category": 53,
+   "grade": 1,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053002",
+   "skillB": "Skill053003",
+   "isFirstB": false
+  },
+  "SkillGroup053002": {
+   "key": "SkillGroup053002",
+   "category": 53,
+   "grade": 2,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053102",
+   "skillB": "Skill053003",
+   "isFirstB": false
+  },
+  "SkillGroup053003": {
+   "key": "SkillGroup053003",
+   "category": 53,
+   "grade": 3,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053102",
+   "skillB": "Skill053103",
+   "isFirstB": false
+  },
+  "SkillGroup053004": {
+   "key": "SkillGroup053004",
+   "category": 53,
+   "grade": 4,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053202",
+   "skillB": "Skill053103",
+   "isFirstB": false
+  },
+  "SkillGroup053005": {
+   "key": "SkillGroup053005",
+   "category": 53,
+   "grade": 5,
+   "defaultSkill": "Skill053000",
+   "gatheringSkill": "Skill053001",
+   "skillA": "Skill053202",
+   "skillB": "Skill053203",
+   "isFirstB": false
+  },
+  "SkillGroup054000": {
+   "key": "SkillGroup054000",
+   "category": 54,
+   "grade": 0,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup054001": {
+   "key": "SkillGroup054001",
+   "category": 54,
+   "grade": 1,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054002",
+   "skillB": "Skill054003",
+   "isFirstB": false
+  },
+  "SkillGroup054002": {
+   "key": "SkillGroup054002",
+   "category": 54,
+   "grade": 2,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054102",
+   "skillB": "Skill054003",
+   "isFirstB": false
+  },
+  "SkillGroup054003": {
+   "key": "SkillGroup054003",
+   "category": 54,
+   "grade": 3,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054102",
+   "skillB": "Skill054103",
+   "isFirstB": false
+  },
+  "SkillGroup054004": {
+   "key": "SkillGroup054004",
+   "category": 54,
+   "grade": 4,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054202",
+   "skillB": "Skill054103",
+   "isFirstB": false
+  },
+  "SkillGroup054005": {
+   "key": "SkillGroup054005",
+   "category": 54,
+   "grade": 5,
+   "defaultSkill": "Skill054000",
+   "gatheringSkill": "Skill054001",
+   "skillA": "Skill054202",
+   "skillB": "Skill054203",
+   "isFirstB": false
+  },
+  "SkillGroup055000": {
+   "key": "SkillGroup055000",
+   "category": 55,
+   "grade": 0,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup055001": {
+   "key": "SkillGroup055001",
+   "category": 55,
+   "grade": 1,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055002",
+   "skillB": "Skill055003",
+   "isFirstB": true
+  },
+  "SkillGroup055002": {
+   "key": "SkillGroup055002",
+   "category": 55,
+   "grade": 2,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055102",
+   "skillB": "Skill055003",
+   "isFirstB": true
+  },
+  "SkillGroup055003": {
+   "key": "SkillGroup055003",
+   "category": 55,
+   "grade": 3,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055102",
+   "skillB": "Skill055103",
+   "isFirstB": true
+  },
+  "SkillGroup055004": {
+   "key": "SkillGroup055004",
+   "category": 55,
+   "grade": 4,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055202",
+   "skillB": "Skill055103",
+   "isFirstB": true
+  },
+  "SkillGroup055005": {
+   "key": "SkillGroup055005",
+   "category": 55,
+   "grade": 5,
+   "defaultSkill": "Skill055000",
+   "gatheringSkill": "Skill055001",
+   "skillA": "Skill055202",
+   "skillB": "Skill055203",
+   "isFirstB": true
+  },
+  "SkillGroup056000": {
+   "key": "SkillGroup056000",
+   "category": 56,
+   "grade": 0,
+   "defaultSkill": "Skill056000",
+   "gatheringSkill": "Skill056001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup056001": {
+   "key": "SkillGroup056001",
+   "category": 56,
+   "grade": 1,
+   "defaultSkill": "Skill056000",
+   "gatheringSkill": "Skill056001",
+   "skillA": "Skill056002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup056002": {
+   "key": "SkillGroup056002",
+   "category": 56,
+   "grade": 2,
+   "defaultSkill": "Skill056100",
+   "gatheringSkill": "Skill056001",
+   "skillA": "Skill056002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup056003": {
+   "key": "SkillGroup056003",
+   "category": 56,
+   "grade": 3,
+   "defaultSkill": "Skill056100",
+   "gatheringSkill": "Skill056001",
+   "skillA": "Skill056102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup056004": {
+   "key": "SkillGroup056004",
+   "category": 56,
+   "grade": 4,
+   "defaultSkill": "Skill056200",
+   "gatheringSkill": "Skill056001",
+   "skillA": "Skill056102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup056005": {
+   "key": "SkillGroup056005",
+   "category": 56,
+   "grade": 5,
+   "defaultSkill": "Skill056200",
+   "gatheringSkill": "Skill056001",
+   "skillA": "Skill056202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup057000": {
+   "key": "SkillGroup057000",
+   "category": 57,
+   "grade": 0,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup057001": {
+   "key": "SkillGroup057001",
+   "category": 57,
+   "grade": 1,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057002",
+   "skillB": "Skill057003",
+   "isFirstB": false
+  },
+  "SkillGroup057002": {
+   "key": "SkillGroup057002",
+   "category": 57,
+   "grade": 2,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057102",
+   "skillB": "Skill057003",
+   "isFirstB": false
+  },
+  "SkillGroup057003": {
+   "key": "SkillGroup057003",
+   "category": 57,
+   "grade": 3,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057102",
+   "skillB": "Skill057103",
+   "isFirstB": false
+  },
+  "SkillGroup057004": {
+   "key": "SkillGroup057004",
+   "category": 57,
+   "grade": 4,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057202",
+   "skillB": "Skill057103",
+   "isFirstB": false
+  },
+  "SkillGroup057005": {
+   "key": "SkillGroup057005",
+   "category": 57,
+   "grade": 5,
+   "defaultSkill": "Skill057000",
+   "gatheringSkill": "Skill057001",
+   "skillA": "Skill057202",
+   "skillB": "Skill057203",
+   "isFirstB": false
+  },
+  "SkillGroup058000": {
+   "key": "SkillGroup058000",
+   "category": 58,
+   "grade": 0,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup058001": {
+   "key": "SkillGroup058001",
+   "category": 58,
+   "grade": 1,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058002",
+   "skillB": "Skill058003",
+   "isFirstB": true
+  },
+  "SkillGroup058002": {
+   "key": "SkillGroup058002",
+   "category": 58,
+   "grade": 2,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058102",
+   "skillB": "Skill058003",
+   "isFirstB": true
+  },
+  "SkillGroup058003": {
+   "key": "SkillGroup058003",
+   "category": 58,
+   "grade": 3,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058102",
+   "skillB": "Skill058103",
+   "isFirstB": true
+  },
+  "SkillGroup058004": {
+   "key": "SkillGroup058004",
+   "category": 58,
+   "grade": 4,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058202",
+   "skillB": "Skill058103",
+   "isFirstB": true
+  },
+  "SkillGroup058005": {
+   "key": "SkillGroup058005",
+   "category": 58,
+   "grade": 5,
+   "defaultSkill": "Skill058000",
+   "gatheringSkill": "Skill058001",
+   "skillA": "Skill058202",
+   "skillB": "Skill058203",
+   "isFirstB": true
+  },
+  "SkillGroup059000": {
+   "key": "SkillGroup059000",
+   "category": 59,
+   "grade": 0,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup059001": {
+   "key": "SkillGroup059001",
+   "category": 59,
+   "grade": 1,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059002",
+   "skillB": "Skill059003",
+   "isFirstB": true
+  },
+  "SkillGroup059002": {
+   "key": "SkillGroup059002",
+   "category": 59,
+   "grade": 2,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059102",
+   "skillB": "Skill059003",
+   "isFirstB": true
+  },
+  "SkillGroup059003": {
+   "key": "SkillGroup059003",
+   "category": 59,
+   "grade": 3,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059102",
+   "skillB": "Skill059103",
+   "isFirstB": true
+  },
+  "SkillGroup059004": {
+   "key": "SkillGroup059004",
+   "category": 59,
+   "grade": 4,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059202",
+   "skillB": "Skill059103",
+   "isFirstB": true
+  },
+  "SkillGroup059005": {
+   "key": "SkillGroup059005",
+   "category": 59,
+   "grade": 5,
+   "defaultSkill": "Skill059000",
+   "gatheringSkill": "Skill059001",
+   "skillA": "Skill059202",
+   "skillB": "Skill059203",
+   "isFirstB": true
+  },
+  "SkillGroup060000": {
+   "key": "SkillGroup060000",
+   "category": 60,
+   "grade": 0,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup060001": {
+   "key": "SkillGroup060001",
+   "category": 60,
+   "grade": 1,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060002",
+   "skillB": "Skill060003",
+   "isFirstB": false
+  },
+  "SkillGroup060002": {
+   "key": "SkillGroup060002",
+   "category": 60,
+   "grade": 2,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060102",
+   "skillB": "Skill060003",
+   "isFirstB": false
+  },
+  "SkillGroup060003": {
+   "key": "SkillGroup060003",
+   "category": 60,
+   "grade": 3,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060102",
+   "skillB": "Skill060103",
+   "isFirstB": false
+  },
+  "SkillGroup060004": {
+   "key": "SkillGroup060004",
+   "category": 60,
+   "grade": 4,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060202",
+   "skillB": "Skill060103",
+   "isFirstB": false
+  },
+  "SkillGroup060005": {
+   "key": "SkillGroup060005",
+   "category": 60,
+   "grade": 5,
+   "defaultSkill": "Skill060000",
+   "gatheringSkill": "Skill060001",
+   "skillA": "Skill060202",
+   "skillB": "Skill060203",
+   "isFirstB": false
+  },
+  "SkillGroup061000": {
+   "key": "SkillGroup061000",
+   "category": 61,
+   "grade": 0,
+   "defaultSkill": "Skill061000",
+   "gatheringSkill": "Skill061001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup061001": {
+   "key": "SkillGroup061001",
+   "category": 61,
+   "grade": 1,
+   "defaultSkill": "Skill061000",
+   "gatheringSkill": "Skill061001",
+   "skillA": "Skill061002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup061002": {
+   "key": "SkillGroup061002",
+   "category": 61,
+   "grade": 2,
+   "defaultSkill": "Skill061100",
+   "gatheringSkill": "Skill061001",
+   "skillA": "Skill061002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup061003": {
+   "key": "SkillGroup061003",
+   "category": 61,
+   "grade": 3,
+   "defaultSkill": "Skill061100",
+   "gatheringSkill": "Skill061001",
+   "skillA": "Skill061102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup061004": {
+   "key": "SkillGroup061004",
+   "category": 61,
+   "grade": 4,
+   "defaultSkill": "Skill061200",
+   "gatheringSkill": "Skill061001",
+   "skillA": "Skill061102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup061005": {
+   "key": "SkillGroup061005",
+   "category": 61,
+   "grade": 5,
+   "defaultSkill": "Skill061200",
+   "gatheringSkill": "Skill061001",
+   "skillA": "Skill061202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup062000": {
+   "key": "SkillGroup062000",
+   "category": 62,
+   "grade": 0,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup062001": {
+   "key": "SkillGroup062001",
+   "category": 62,
+   "grade": 1,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062002",
+   "skillB": "Skill062003",
+   "isFirstB": false
+  },
+  "SkillGroup062002": {
+   "key": "SkillGroup062002",
+   "category": 62,
+   "grade": 2,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062102",
+   "skillB": "Skill062003",
+   "isFirstB": false
+  },
+  "SkillGroup062003": {
+   "key": "SkillGroup062003",
+   "category": 62,
+   "grade": 3,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062102",
+   "skillB": "Skill062103",
+   "isFirstB": false
+  },
+  "SkillGroup062004": {
+   "key": "SkillGroup062004",
+   "category": 62,
+   "grade": 4,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062202",
+   "skillB": "Skill062103",
+   "isFirstB": false
+  },
+  "SkillGroup062005": {
+   "key": "SkillGroup062005",
+   "category": 62,
+   "grade": 5,
+   "defaultSkill": "Skill062000",
+   "gatheringSkill": "Skill062001",
+   "skillA": "Skill062202",
+   "skillB": "Skill062203",
+   "isFirstB": false
+  },
+  "SkillGroup063000": {
+   "key": "SkillGroup063000",
+   "category": 63,
+   "grade": 0,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup063001": {
+   "key": "SkillGroup063001",
+   "category": 63,
+   "grade": 1,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063002",
+   "skillB": "Skill063003",
+   "isFirstB": false
+  },
+  "SkillGroup063002": {
+   "key": "SkillGroup063002",
+   "category": 63,
+   "grade": 2,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063102",
+   "skillB": "Skill063003",
+   "isFirstB": false
+  },
+  "SkillGroup063003": {
+   "key": "SkillGroup063003",
+   "category": 63,
+   "grade": 3,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063102",
+   "skillB": "Skill063103",
+   "isFirstB": false
+  },
+  "SkillGroup063004": {
+   "key": "SkillGroup063004",
+   "category": 63,
+   "grade": 4,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063202",
+   "skillB": "Skill063103",
+   "isFirstB": false
+  },
+  "SkillGroup063005": {
+   "key": "SkillGroup063005",
+   "category": 63,
+   "grade": 5,
+   "defaultSkill": "Skill063000",
+   "gatheringSkill": "Skill063001",
+   "skillA": "Skill063202",
+   "skillB": "Skill063203",
+   "isFirstB": false
+  },
+  "SkillGroup064000": {
+   "key": "SkillGroup064000",
+   "category": 64,
+   "grade": 0,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064002",
+   "skillB": "Skill064003",
+   "isFirstB": false
+  },
+  "SkillGroup064001": {
+   "key": "SkillGroup064001",
+   "category": 64,
+   "grade": 1,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064102",
+   "skillB": "Skill064003",
+   "isFirstB": false
+  },
+  "SkillGroup064002": {
+   "key": "SkillGroup064002",
+   "category": 64,
+   "grade": 2,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064102",
+   "skillB": "Skill064103",
+   "isFirstB": false
+  },
+  "SkillGroup064003": {
+   "key": "SkillGroup064003",
+   "category": 64,
+   "grade": 3,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064202",
+   "skillB": "Skill064103",
+   "isFirstB": false
+  },
+  "SkillGroup064004": {
+   "key": "SkillGroup064004",
+   "category": 64,
+   "grade": 4,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064202",
+   "skillB": "Skill064203",
+   "isFirstB": false
+  },
+  "SkillGroup064005": {
+   "key": "SkillGroup064005",
+   "category": 64,
+   "grade": 5,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064202",
+   "skillB": "Skill064203",
+   "isFirstB": false
+  },
+  "SkillGroup064006": {
+   "key": "SkillGroup064006",
+   "category": 64,
+   "grade": 6,
+   "defaultSkill": "Skill064000",
+   "gatheringSkill": "Skill064001",
+   "skillA": "Skill064202",
+   "skillB": "Skill064203",
+   "isFirstB": false
+  },
+  "SkillGroup065000": {
+   "key": "SkillGroup065000",
+   "category": 65,
+   "grade": 0,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup065001": {
+   "key": "SkillGroup065001",
+   "category": 65,
+   "grade": 1,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065002",
+   "skillB": "Skill065003",
+   "isFirstB": false
+  },
+  "SkillGroup065002": {
+   "key": "SkillGroup065002",
+   "category": 65,
+   "grade": 2,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065102",
+   "skillB": "Skill065003",
+   "isFirstB": false
+  },
+  "SkillGroup065003": {
+   "key": "SkillGroup065003",
+   "category": 65,
+   "grade": 3,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065102",
+   "skillB": "Skill065103",
+   "isFirstB": false
+  },
+  "SkillGroup065004": {
+   "key": "SkillGroup065004",
+   "category": 65,
+   "grade": 4,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065202",
+   "skillB": "Skill065103",
+   "isFirstB": false
+  },
+  "SkillGroup065005": {
+   "key": "SkillGroup065005",
+   "category": 65,
+   "grade": 5,
+   "defaultSkill": "Skill065000",
+   "gatheringSkill": "Skill065001",
+   "skillA": "Skill065202",
+   "skillB": "Skill065203",
+   "isFirstB": false
+  },
+  "SkillGroup066000": {
+   "key": "SkillGroup066000",
+   "category": 66,
+   "grade": 0,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup066001": {
+   "key": "SkillGroup066001",
+   "category": 66,
+   "grade": 1,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066002",
+   "skillB": "Skill066003",
+   "isFirstB": false
+  },
+  "SkillGroup066002": {
+   "key": "SkillGroup066002",
+   "category": 66,
+   "grade": 2,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066102",
+   "skillB": "Skill066003",
+   "isFirstB": false
+  },
+  "SkillGroup066003": {
+   "key": "SkillGroup066003",
+   "category": 66,
+   "grade": 3,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066102",
+   "skillB": "Skill066103",
+   "isFirstB": false
+  },
+  "SkillGroup066004": {
+   "key": "SkillGroup066004",
+   "category": 66,
+   "grade": 4,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066202",
+   "skillB": "Skill066103",
+   "isFirstB": false
+  },
+  "SkillGroup066005": {
+   "key": "SkillGroup066005",
+   "category": 66,
+   "grade": 5,
+   "defaultSkill": "Skill066000",
+   "gatheringSkill": "Skill066001",
+   "skillA": "Skill066202",
+   "skillB": "Skill066203",
+   "isFirstB": false
+  },
+  "SkillGroup067000": {
+   "key": "SkillGroup067000",
+   "category": 67,
+   "grade": 0,
+   "defaultSkill": "Skill067000",
+   "gatheringSkill": "Skill067001",
+   "skillA": "Skill067002",
+   "skillB": "Skill067003",
+   "isFirstB": false
+  },
+  "SkillGroup067001": {
+   "key": "SkillGroup067001",
+   "category": 67,
+   "grade": 1,
+   "defaultSkill": "Skill067000",
+   "gatheringSkill": "Skill067001",
+   "skillA": "Skill067102",
+   "skillB": "Skill067003",
+   "isFirstB": false
+  },
+  "SkillGroup067002": {
+   "key": "SkillGroup067002",
+   "category": 67,
+   "grade": 2,
+   "defaultSkill": "Skill067000",
+   "gatheringSkill": "Skill067001",
+   "skillA": "Skill067102",
+   "skillB": "Skill067103",
+   "isFirstB": false
+  },
+  "SkillGroup067003": {
+   "key": "SkillGroup067003",
+   "category": 67,
+   "grade": 3,
+   "defaultSkill": "Skill067000",
+   "gatheringSkill": "Skill067001",
+   "skillA": "Skill067202",
+   "skillB": "Skill067103",
+   "isFirstB": false
+  },
+  "SkillGroup067004": {
+   "key": "SkillGroup067004",
+   "category": 67,
+   "grade": 4,
+   "defaultSkill": "Skill067000",
+   "gatheringSkill": "Skill067001",
+   "skillA": "Skill067202",
+   "skillB": "Skill067203",
+   "isFirstB": false
+  },
+  "SkillGroup068000": {
+   "key": "SkillGroup068000",
+   "category": 68,
+   "grade": 0,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup068001": {
+   "key": "SkillGroup068001",
+   "category": 68,
+   "grade": 1,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068002",
+   "skillB": "Skill068003",
+   "isFirstB": true
+  },
+  "SkillGroup068002": {
+   "key": "SkillGroup068002",
+   "category": 68,
+   "grade": 2,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068102",
+   "skillB": "Skill068003",
+   "isFirstB": true
+  },
+  "SkillGroup068003": {
+   "key": "SkillGroup068003",
+   "category": 68,
+   "grade": 3,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068102",
+   "skillB": "Skill068103",
+   "isFirstB": true
+  },
+  "SkillGroup068004": {
+   "key": "SkillGroup068004",
+   "category": 68,
+   "grade": 4,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068202",
+   "skillB": "Skill068103",
+   "isFirstB": true
+  },
+  "SkillGroup068005": {
+   "key": "SkillGroup068005",
+   "category": 68,
+   "grade": 5,
+   "defaultSkill": "Skill068000",
+   "gatheringSkill": "Skill068001",
+   "skillA": "Skill068202",
+   "skillB": "Skill068203",
+   "isFirstB": true
+  },
+  "SkillGroup069000": {
+   "key": "SkillGroup069000",
+   "category": 69,
+   "grade": 0,
+   "defaultSkill": "Skill069000",
+   "gatheringSkill": "Skill069001",
+   "skillA": "Skill069002",
+   "skillB": "Skill069003",
+   "isFirstB": true
+  },
+  "SkillGroup069001": {
+   "key": "SkillGroup069001",
+   "category": 69,
+   "grade": 1,
+   "defaultSkill": "Skill069000",
+   "gatheringSkill": "Skill069001",
+   "skillA": "Skill069102",
+   "skillB": "Skill069003",
+   "isFirstB": true
+  },
+  "SkillGroup069002": {
+   "key": "SkillGroup069002",
+   "category": 69,
+   "grade": 2,
+   "defaultSkill": "Skill069000",
+   "gatheringSkill": "Skill069001",
+   "skillA": "Skill069102",
+   "skillB": "Skill069103",
+   "isFirstB": true
+  },
+  "SkillGroup069003": {
+   "key": "SkillGroup069003",
+   "category": 69,
+   "grade": 3,
+   "defaultSkill": "Skill069000",
+   "gatheringSkill": "Skill069001",
+   "skillA": "Skill069202",
+   "skillB": "Skill069103",
+   "isFirstB": true
+  },
+  "SkillGroup069004": {
+   "key": "SkillGroup069004",
+   "category": 69,
+   "grade": 4,
+   "defaultSkill": "Skill069000",
+   "gatheringSkill": "Skill069001",
+   "skillA": "Skill069202",
+   "skillB": "Skill069203",
+   "isFirstB": true
+  },
+  "SkillGroup070000": {
+   "key": "SkillGroup070000",
+   "category": 70,
+   "grade": 0,
+   "defaultSkill": "Skill070000",
+   "gatheringSkill": "Skill070001",
+   "skillA": "Skill070002",
+   "skillB": "Skill070003",
+   "isFirstB": true
+  },
+  "SkillGroup070001": {
+   "key": "SkillGroup070001",
+   "category": 70,
+   "grade": 1,
+   "defaultSkill": "Skill070000",
+   "gatheringSkill": "Skill070001",
+   "skillA": "Skill070102",
+   "skillB": "Skill070003",
+   "isFirstB": true
+  },
+  "SkillGroup070002": {
+   "key": "SkillGroup070002",
+   "category": 70,
+   "grade": 2,
+   "defaultSkill": "Skill070000",
+   "gatheringSkill": "Skill070001",
+   "skillA": "Skill070102",
+   "skillB": "Skill070103",
+   "isFirstB": true
+  },
+  "SkillGroup070003": {
+   "key": "SkillGroup070003",
+   "category": 70,
+   "grade": 3,
+   "defaultSkill": "Skill070000",
+   "gatheringSkill": "Skill070001",
+   "skillA": "Skill070202",
+   "skillB": "Skill070103",
+   "isFirstB": true
+  },
+  "SkillGroup070004": {
+   "key": "SkillGroup070004",
+   "category": 70,
+   "grade": 4,
+   "defaultSkill": "Skill070000",
+   "gatheringSkill": "Skill070001",
+   "skillA": "Skill070202",
+   "skillB": "Skill070203",
+   "isFirstB": true
+  },
+  "SkillGroup071000": {
+   "key": "SkillGroup071000",
+   "category": 71,
+   "grade": 0,
+   "defaultSkill": "Skill071000",
+   "gatheringSkill": "Skill071001",
+   "skillA": "Skill071002",
+   "skillB": "Skill071003",
+   "isFirstB": true
+  },
+  "SkillGroup071001": {
+   "key": "SkillGroup071001",
+   "category": 71,
+   "grade": 1,
+   "defaultSkill": "Skill071000",
+   "gatheringSkill": "Skill071001",
+   "skillA": "Skill071102",
+   "skillB": "Skill071003",
+   "isFirstB": true
+  },
+  "SkillGroup071002": {
+   "key": "SkillGroup071002",
+   "category": 71,
+   "grade": 2,
+   "defaultSkill": "Skill071000",
+   "gatheringSkill": "Skill071001",
+   "skillA": "Skill071102",
+   "skillB": "Skill071103",
+   "isFirstB": true
+  },
+  "SkillGroup071003": {
+   "key": "SkillGroup071003",
+   "category": 71,
+   "grade": 3,
+   "defaultSkill": "Skill071000",
+   "gatheringSkill": "Skill071001",
+   "skillA": "Skill071202",
+   "skillB": "Skill071103",
+   "isFirstB": true
+  },
+  "SkillGroup071004": {
+   "key": "SkillGroup071004",
+   "category": 71,
+   "grade": 4,
+   "defaultSkill": "Skill071000",
+   "gatheringSkill": "Skill071001",
+   "skillA": "Skill071202",
+   "skillB": "Skill071203",
+   "isFirstB": true
+  },
+  "SkillGroup072000": {
+   "key": "SkillGroup072000",
+   "category": 72,
+   "grade": 0,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup072001": {
+   "key": "SkillGroup072001",
+   "category": 72,
+   "grade": 1,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072002",
+   "skillB": "Skill072003",
+   "isFirstB": true
+  },
+  "SkillGroup072002": {
+   "key": "SkillGroup072002",
+   "category": 72,
+   "grade": 2,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072102",
+   "skillB": "Skill072003",
+   "isFirstB": true
+  },
+  "SkillGroup072003": {
+   "key": "SkillGroup072003",
+   "category": 72,
+   "grade": 3,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072102",
+   "skillB": "Skill072103",
+   "isFirstB": true
+  },
+  "SkillGroup072004": {
+   "key": "SkillGroup072004",
+   "category": 72,
+   "grade": 4,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072202",
+   "skillB": "Skill072103",
+   "isFirstB": true
+  },
+  "SkillGroup072005": {
+   "key": "SkillGroup072005",
+   "category": 72,
+   "grade": 5,
+   "defaultSkill": "Skill072000",
+   "gatheringSkill": "Skill072001",
+   "skillA": "Skill072202",
+   "skillB": "Skill072203",
+   "isFirstB": true
+  },
+  "SkillGroup073000": {
+   "key": "SkillGroup073000",
+   "category": 73,
+   "grade": 0,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup073001": {
+   "key": "SkillGroup073001",
+   "category": 73,
+   "grade": 1,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073002",
+   "skillB": "Skill073003",
+   "isFirstB": true
+  },
+  "SkillGroup073002": {
+   "key": "SkillGroup073002",
+   "category": 73,
+   "grade": 2,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073102",
+   "skillB": "Skill073003",
+   "isFirstB": true
+  },
+  "SkillGroup073003": {
+   "key": "SkillGroup073003",
+   "category": 73,
+   "grade": 3,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073102",
+   "skillB": "Skill073103",
+   "isFirstB": true
+  },
+  "SkillGroup073004": {
+   "key": "SkillGroup073004",
+   "category": 73,
+   "grade": 4,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073202",
+   "skillB": "Skill073103",
+   "isFirstB": true
+  },
+  "SkillGroup073005": {
+   "key": "SkillGroup073005",
+   "category": 73,
+   "grade": 5,
+   "defaultSkill": "Skill073000",
+   "gatheringSkill": "Skill073001",
+   "skillA": "Skill073202",
+   "skillB": "Skill073203",
+   "isFirstB": true
+  },
+  "SkillGroup074000": {
+   "key": "SkillGroup074000",
+   "category": 74,
+   "grade": 0,
+   "defaultSkill": "Skill074000",
+   "gatheringSkill": "Skill074001",
+   "skillA": "Skill074002",
+   "skillB": "Skill074003",
+   "isFirstB": true
+  },
+  "SkillGroup074001": {
+   "key": "SkillGroup074001",
+   "category": 74,
+   "grade": 1,
+   "defaultSkill": "Skill074000",
+   "gatheringSkill": "Skill074001",
+   "skillA": "Skill074102",
+   "skillB": "Skill074003",
+   "isFirstB": true
+  },
+  "SkillGroup074002": {
+   "key": "SkillGroup074002",
+   "category": 74,
+   "grade": 2,
+   "defaultSkill": "Skill074000",
+   "gatheringSkill": "Skill074001",
+   "skillA": "Skill074102",
+   "skillB": "Skill074103",
+   "isFirstB": true
+  },
+  "SkillGroup074003": {
+   "key": "SkillGroup074003",
+   "category": 74,
+   "grade": 3,
+   "defaultSkill": "Skill074000",
+   "gatheringSkill": "Skill074001",
+   "skillA": "Skill074202",
+   "skillB": "Skill074103",
+   "isFirstB": true
+  },
+  "SkillGroup074004": {
+   "key": "SkillGroup074004",
+   "category": 74,
+   "grade": 4,
+   "defaultSkill": "Skill074000",
+   "gatheringSkill": "Skill074001",
+   "skillA": "Skill074202",
+   "skillB": "Skill074203",
+   "isFirstB": true
+  },
+  "SkillGroup075000": {
+   "key": "SkillGroup075000",
+   "category": 75,
+   "grade": 0,
+   "defaultSkill": "Skill075000",
+   "gatheringSkill": "Skill075001",
+   "skillA": "Skill075002",
+   "skillB": "Skill075003",
+   "isFirstB": true
+  },
+  "SkillGroup075001": {
+   "key": "SkillGroup075001",
+   "category": 75,
+   "grade": 1,
+   "defaultSkill": "Skill075000",
+   "gatheringSkill": "Skill075001",
+   "skillA": "Skill075102",
+   "skillB": "Skill075003",
+   "isFirstB": true
+  },
+  "SkillGroup075002": {
+   "key": "SkillGroup075002",
+   "category": 75,
+   "grade": 2,
+   "defaultSkill": "Skill075000",
+   "gatheringSkill": "Skill075001",
+   "skillA": "Skill075102",
+   "skillB": "Skill075103",
+   "isFirstB": true
+  },
+  "SkillGroup075003": {
+   "key": "SkillGroup075003",
+   "category": 75,
+   "grade": 3,
+   "defaultSkill": "Skill075000",
+   "gatheringSkill": "Skill075001",
+   "skillA": "Skill075202",
+   "skillB": "Skill075103",
+   "isFirstB": true
+  },
+  "SkillGroup075004": {
+   "key": "SkillGroup075004",
+   "category": 75,
+   "grade": 4,
+   "defaultSkill": "Skill075000",
+   "gatheringSkill": "Skill075001",
+   "skillA": "Skill075202",
+   "skillB": "Skill075203",
+   "isFirstB": true
+  },
+  "SkillGroup076000": {
+   "key": "SkillGroup076000",
+   "category": 76,
+   "grade": 0,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup076001": {
+   "key": "SkillGroup076001",
+   "category": 76,
+   "grade": 1,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076002",
+   "skillB": "Skill076003",
+   "isFirstB": true
+  },
+  "SkillGroup076002": {
+   "key": "SkillGroup076002",
+   "category": 76,
+   "grade": 2,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076102",
+   "skillB": "Skill076003",
+   "isFirstB": true
+  },
+  "SkillGroup076003": {
+   "key": "SkillGroup076003",
+   "category": 76,
+   "grade": 3,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076102",
+   "skillB": "Skill076103",
+   "isFirstB": true
+  },
+  "SkillGroup076004": {
+   "key": "SkillGroup076004",
+   "category": 76,
+   "grade": 4,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076202",
+   "skillB": "Skill076103",
+   "isFirstB": true
+  },
+  "SkillGroup076005": {
+   "key": "SkillGroup076005",
+   "category": 76,
+   "grade": 5,
+   "defaultSkill": "Skill076000",
+   "gatheringSkill": "Skill076001",
+   "skillA": "Skill076202",
+   "skillB": "Skill076203",
+   "isFirstB": true
+  },
+  "SkillGroup077000": {
+   "key": "SkillGroup077000",
+   "category": 77,
+   "grade": 0,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup077001": {
+   "key": "SkillGroup077001",
+   "category": 77,
+   "grade": 1,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077002",
+   "skillB": "Skill077003",
+   "isFirstB": true
+  },
+  "SkillGroup077002": {
+   "key": "SkillGroup077002",
+   "category": 77,
+   "grade": 2,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077102",
+   "skillB": "Skill077003",
+   "isFirstB": true
+  },
+  "SkillGroup077003": {
+   "key": "SkillGroup077003",
+   "category": 77,
+   "grade": 3,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077102",
+   "skillB": "Skill077103",
+   "isFirstB": true
+  },
+  "SkillGroup077004": {
+   "key": "SkillGroup077004",
+   "category": 77,
+   "grade": 4,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077202",
+   "skillB": "Skill077103",
+   "isFirstB": true
+  },
+  "SkillGroup077005": {
+   "key": "SkillGroup077005",
+   "category": 77,
+   "grade": 5,
+   "defaultSkill": "Skill077000",
+   "gatheringSkill": "Skill077001",
+   "skillA": "Skill077202",
+   "skillB": "Skill077203",
+   "isFirstB": true
+  },
+  "SkillGroup078000": {
+   "key": "SkillGroup078000",
+   "category": 78,
+   "grade": 0,
+   "defaultSkill": "Skill078000",
+   "gatheringSkill": "Skill078001",
+   "skillA": "Skill078002",
+   "skillB": "Skill078003",
+   "isFirstB": false
+  },
+  "SkillGroup078001": {
+   "key": "SkillGroup078001",
+   "category": 78,
+   "grade": 1,
+   "defaultSkill": "Skill078100",
+   "gatheringSkill": "Skill078001",
+   "skillA": "Skill078102",
+   "skillB": "Skill078003",
+   "isFirstB": false
+  },
+  "SkillGroup078002": {
+   "key": "SkillGroup078002",
+   "category": 78,
+   "grade": 2,
+   "defaultSkill": "Skill078100",
+   "gatheringSkill": "Skill078001",
+   "skillA": "Skill078102",
+   "skillB": "Skill078103",
+   "isFirstB": false
+  },
+  "SkillGroup078003": {
+   "key": "SkillGroup078003",
+   "category": 78,
+   "grade": 3,
+   "defaultSkill": "Skill078200",
+   "gatheringSkill": "Skill078001",
+   "skillA": "Skill078202",
+   "skillB": "Skill078103",
+   "isFirstB": false
+  },
+  "SkillGroup078004": {
+   "key": "SkillGroup078004",
+   "category": 78,
+   "grade": 4,
+   "defaultSkill": "Skill078200",
+   "gatheringSkill": "Skill078001",
+   "skillA": "Skill078202",
+   "skillB": "Skill078203",
+   "isFirstB": false
+  },
+  "SkillGroup079000": {
+   "key": "SkillGroup079000",
+   "category": 79,
+   "grade": 0,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup079001": {
+   "key": "SkillGroup079001",
+   "category": 79,
+   "grade": 1,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079002",
+   "skillB": "Skill079003",
+   "isFirstB": true
+  },
+  "SkillGroup079002": {
+   "key": "SkillGroup079002",
+   "category": 79,
+   "grade": 2,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079102",
+   "skillB": "Skill079003",
+   "isFirstB": true
+  },
+  "SkillGroup079003": {
+   "key": "SkillGroup079003",
+   "category": 79,
+   "grade": 3,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079102",
+   "skillB": "Skill079103",
+   "isFirstB": true
+  },
+  "SkillGroup079004": {
+   "key": "SkillGroup079004",
+   "category": 79,
+   "grade": 4,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079202",
+   "skillB": "Skill079103",
+   "isFirstB": true
+  },
+  "SkillGroup079005": {
+   "key": "SkillGroup079005",
+   "category": 79,
+   "grade": 5,
+   "defaultSkill": "Skill079000",
+   "gatheringSkill": "Skill079001",
+   "skillA": "Skill079202",
+   "skillB": "Skill079203",
+   "isFirstB": true
+  },
+  "SkillGroup080000": {
+   "key": "SkillGroup080000",
+   "category": 80,
+   "grade": 0,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup080001": {
+   "key": "SkillGroup080001",
+   "category": 80,
+   "grade": 1,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080002",
+   "skillB": "Skill080003",
+   "isFirstB": true
+  },
+  "SkillGroup080002": {
+   "key": "SkillGroup080002",
+   "category": 80,
+   "grade": 2,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080102",
+   "skillB": "Skill080003",
+   "isFirstB": true
+  },
+  "SkillGroup080003": {
+   "key": "SkillGroup080003",
+   "category": 80,
+   "grade": 3,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080102",
+   "skillB": "Skill080103",
+   "isFirstB": true
+  },
+  "SkillGroup080004": {
+   "key": "SkillGroup080004",
+   "category": 80,
+   "grade": 4,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080202",
+   "skillB": "Skill080103",
+   "isFirstB": true
+  },
+  "SkillGroup080005": {
+   "key": "SkillGroup080005",
+   "category": 80,
+   "grade": 5,
+   "defaultSkill": "Skill080000",
+   "gatheringSkill": "Skill080001",
+   "skillA": "Skill080202",
+   "skillB": "Skill080203",
+   "isFirstB": true
+  },
+  "SkillGroup081000": {
+   "key": "SkillGroup081000",
+   "category": 81,
+   "grade": 0,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup081001": {
+   "key": "SkillGroup081001",
+   "category": 81,
+   "grade": 1,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081002",
+   "skillB": "Skill081003",
+   "isFirstB": true
+  },
+  "SkillGroup081002": {
+   "key": "SkillGroup081002",
+   "category": 81,
+   "grade": 2,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081102",
+   "skillB": "Skill081003",
+   "isFirstB": true
+  },
+  "SkillGroup081003": {
+   "key": "SkillGroup081003",
+   "category": 81,
+   "grade": 3,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081102",
+   "skillB": "Skill081103",
+   "isFirstB": true
+  },
+  "SkillGroup081004": {
+   "key": "SkillGroup081004",
+   "category": 81,
+   "grade": 4,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081202",
+   "skillB": "Skill081103",
+   "isFirstB": true
+  },
+  "SkillGroup081005": {
+   "key": "SkillGroup081005",
+   "category": 81,
+   "grade": 5,
+   "defaultSkill": "Skill081000",
+   "gatheringSkill": "Skill081001",
+   "skillA": "Skill081202",
+   "skillB": "Skill081203",
+   "isFirstB": true
+  },
+  "SkillGroup082000": {
+   "key": "SkillGroup082000",
+   "category": 82,
+   "grade": 0,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup082001": {
+   "key": "SkillGroup082001",
+   "category": 82,
+   "grade": 1,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082002",
+   "skillB": "Skill082003",
+   "isFirstB": true
+  },
+  "SkillGroup082002": {
+   "key": "SkillGroup082002",
+   "category": 82,
+   "grade": 2,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082102",
+   "skillB": "Skill082003",
+   "isFirstB": true
+  },
+  "SkillGroup082003": {
+   "key": "SkillGroup082003",
+   "category": 82,
+   "grade": 3,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082102",
+   "skillB": "Skill082103",
+   "isFirstB": true
+  },
+  "SkillGroup082004": {
+   "key": "SkillGroup082004",
+   "category": 82,
+   "grade": 4,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082202",
+   "skillB": "Skill082103",
+   "isFirstB": true
+  },
+  "SkillGroup082005": {
+   "key": "SkillGroup082005",
+   "category": 82,
+   "grade": 5,
+   "defaultSkill": "Skill082000",
+   "gatheringSkill": "Skill082001",
+   "skillA": "Skill082202",
+   "skillB": "Skill082203",
+   "isFirstB": true
+  },
+  "SkillGroup083000": {
+   "key": "SkillGroup083000",
+   "category": 83,
+   "grade": 0,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup083001": {
+   "key": "SkillGroup083001",
+   "category": 83,
+   "grade": 1,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083002",
+   "skillB": "Skill083003",
+   "isFirstB": true
+  },
+  "SkillGroup083002": {
+   "key": "SkillGroup083002",
+   "category": 83,
+   "grade": 2,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083102",
+   "skillB": "Skill083003",
+   "isFirstB": true
+  },
+  "SkillGroup083003": {
+   "key": "SkillGroup083003",
+   "category": 83,
+   "grade": 3,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083102",
+   "skillB": "Skill083103",
+   "isFirstB": true
+  },
+  "SkillGroup083004": {
+   "key": "SkillGroup083004",
+   "category": 83,
+   "grade": 4,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083202",
+   "skillB": "Skill083103",
+   "isFirstB": true
+  },
+  "SkillGroup083005": {
+   "key": "SkillGroup083005",
+   "category": 83,
+   "grade": 5,
+   "defaultSkill": "Skill083000",
+   "gatheringSkill": "Skill083001",
+   "skillA": "Skill083202",
+   "skillB": "Skill083203",
+   "isFirstB": true
+  },
+  "SkillGroup084000": {
+   "key": "SkillGroup084000",
+   "category": 84,
+   "grade": 0,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup084001": {
+   "key": "SkillGroup084001",
+   "category": 84,
+   "grade": 1,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084002",
+   "skillB": "Skill084003",
+   "isFirstB": true
+  },
+  "SkillGroup084002": {
+   "key": "SkillGroup084002",
+   "category": 84,
+   "grade": 2,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084102",
+   "skillB": "Skill084003",
+   "isFirstB": true
+  },
+  "SkillGroup084003": {
+   "key": "SkillGroup084003",
+   "category": 84,
+   "grade": 3,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084102",
+   "skillB": "Skill084103",
+   "isFirstB": true
+  },
+  "SkillGroup084004": {
+   "key": "SkillGroup084004",
+   "category": 84,
+   "grade": 4,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084202",
+   "skillB": "Skill084103",
+   "isFirstB": true
+  },
+  "SkillGroup084005": {
+   "key": "SkillGroup084005",
+   "category": 84,
+   "grade": 5,
+   "defaultSkill": "Skill084000",
+   "gatheringSkill": "Skill084001",
+   "skillA": "Skill084202",
+   "skillB": "Skill084203",
+   "isFirstB": true
+  },
+  "SkillGroup085000": {
+   "key": "SkillGroup085000",
+   "category": 85,
+   "grade": 0,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup085001": {
+   "key": "SkillGroup085001",
+   "category": 85,
+   "grade": 1,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085002",
+   "skillB": "Skill085003",
+   "isFirstB": true
+  },
+  "SkillGroup085002": {
+   "key": "SkillGroup085002",
+   "category": 85,
+   "grade": 2,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085102",
+   "skillB": "Skill085003",
+   "isFirstB": true
+  },
+  "SkillGroup085003": {
+   "key": "SkillGroup085003",
+   "category": 85,
+   "grade": 3,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085102",
+   "skillB": "Skill085103",
+   "isFirstB": true
+  },
+  "SkillGroup085004": {
+   "key": "SkillGroup085004",
+   "category": 85,
+   "grade": 4,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085202",
+   "skillB": "Skill085103",
+   "isFirstB": true
+  },
+  "SkillGroup085005": {
+   "key": "SkillGroup085005",
+   "category": 85,
+   "grade": 5,
+   "defaultSkill": "Skill085000",
+   "gatheringSkill": "Skill085001",
+   "skillA": "Skill085202",
+   "skillB": "Skill085203",
+   "isFirstB": true
+  },
+  "SkillGroup086000": {
+   "key": "SkillGroup086000",
+   "category": 86,
+   "grade": 0,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086002",
+   "skillB": "",
+   "isFirstB": true
+  },
+  "SkillGroup086001": {
+   "key": "SkillGroup086001",
+   "category": 86,
+   "grade": 1,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086002",
+   "skillB": "Skill086003",
+   "isFirstB": true
+  },
+  "SkillGroup086002": {
+   "key": "SkillGroup086002",
+   "category": 86,
+   "grade": 2,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086102",
+   "skillB": "Skill086003",
+   "isFirstB": true
+  },
+  "SkillGroup086003": {
+   "key": "SkillGroup086003",
+   "category": 86,
+   "grade": 3,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086102",
+   "skillB": "Skill086103",
+   "isFirstB": true
+  },
+  "SkillGroup086004": {
+   "key": "SkillGroup086004",
+   "category": 86,
+   "grade": 4,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086202",
+   "skillB": "Skill086103",
+   "isFirstB": true
+  },
+  "SkillGroup086005": {
+   "key": "SkillGroup086005",
+   "category": 86,
+   "grade": 5,
+   "defaultSkill": "Skill086000",
+   "gatheringSkill": "Skill086001",
+   "skillA": "Skill086202",
+   "skillB": "Skill086203",
+   "isFirstB": true
+  },
+  "SkillGroup099000": {
+   "key": "SkillGroup099000",
+   "category": 99,
+   "grade": 0,
+   "defaultSkill": "Skill099000",
+   "gatheringSkill": "Skill099001",
+   "skillA": "Skill099002",
+   "skillB": "Skill099003",
+   "isFirstB": false
+  },
+  "SkillGroup099001": {
+   "key": "SkillGroup099001",
+   "category": 99,
+   "grade": 1,
+   "defaultSkill": "Skill099000",
+   "gatheringSkill": "Skill099001",
+   "skillA": "Skill099102",
+   "skillB": "Skill099003",
+   "isFirstB": false
+  },
+  "SkillGroup099002": {
+   "key": "SkillGroup099002",
+   "category": 99,
+   "grade": 2,
+   "defaultSkill": "Skill099000",
+   "gatheringSkill": "Skill099001",
+   "skillA": "Skill099102",
+   "skillB": "Skill099103",
+   "isFirstB": false
+  },
+  "SkillGroup099003": {
+   "key": "SkillGroup099003",
+   "category": 99,
+   "grade": 3,
+   "defaultSkill": "Skill099000",
+   "gatheringSkill": "Skill099001",
+   "skillA": "Skill099202",
+   "skillB": "Skill099103",
+   "isFirstB": false
+  },
+  "SkillGroup099004": {
+   "key": "SkillGroup099004",
+   "category": 99,
+   "grade": 4,
+   "defaultSkill": "Skill099000",
+   "gatheringSkill": "Skill099001",
+   "skillA": "Skill099202",
+   "skillB": "Skill099203",
+   "isFirstB": false
+  },
+  "SkillGroup100000": {
+   "key": "SkillGroup100000",
+   "category": 100,
+   "grade": 0,
+   "defaultSkill": "Skill100000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup101000": {
+   "key": "SkillGroup101000",
+   "category": 101,
+   "grade": 0,
+   "defaultSkill": "Skill101000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup102000": {
+   "key": "SkillGroup102000",
+   "category": 102,
+   "grade": 0,
+   "defaultSkill": "Skill102000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup103000": {
+   "key": "SkillGroup103000",
+   "category": 103,
+   "grade": 0,
+   "defaultSkill": "Skill103000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup104000": {
+   "key": "SkillGroup104000",
+   "category": 104,
+   "grade": 0,
+   "defaultSkill": "Skill104000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup112000": {
+   "key": "SkillGroup112000",
+   "category": 112,
+   "grade": 0,
+   "defaultSkill": "Skill112000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup156000": {
+   "key": "SkillGroup156000",
+   "category": 156,
+   "grade": 0,
+   "defaultSkill": "Skill156000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup158000": {
+   "key": "SkillGroup158000",
+   "category": 158,
+   "grade": 0,
+   "defaultSkill": "Skill158000",
+   "gatheringSkill": "",
+   "skillA": "Skill158010",
+   "skillB": "Skill158020",
+   "isFirstB": false
+  },
+  "SkillGroup512000": {
+   "key": "SkillGroup512000",
+   "category": 512,
+   "grade": 0,
+   "defaultSkill": "Skill512000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup114000": {
+   "key": "SkillGroup114000",
+   "category": 114,
+   "grade": 0,
+   "defaultSkill": "Skill114000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup115000": {
+   "key": "SkillGroup115000",
+   "category": 115,
+   "grade": 0,
+   "defaultSkill": "Skill115000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup116000": {
+   "key": "SkillGroup116000",
+   "category": 116,
+   "grade": 0,
+   "defaultSkill": "Skill116000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup122000": {
+   "key": "SkillGroup122000",
+   "category": 122,
+   "grade": 0,
+   "defaultSkill": "Skill122000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup126000": {
+   "key": "SkillGroup126000",
+   "category": 126,
+   "grade": 0,
+   "defaultSkill": "Skill126000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup128000": {
+   "key": "SkillGroup128000",
+   "category": 128,
+   "grade": 0,
+   "defaultSkill": "Skill128000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup523000": {
+   "key": "SkillGroup523000",
+   "category": 523,
+   "grade": 0,
+   "defaultSkill": "Skill128001",
+   "gatheringSkill": "",
+   "skillA": "Skill609001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup135000": {
+   "key": "SkillGroup135000",
+   "category": 135,
+   "grade": 0,
+   "defaultSkill": "",
+   "gatheringSkill": "",
+   "skillA": "Skill135000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup136000": {
+   "key": "SkillGroup136000",
+   "category": 136,
+   "grade": 0,
+   "defaultSkill": "Skill136000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup160000": {
+   "key": "SkillGroup160000",
+   "category": 160,
+   "grade": 0,
+   "defaultSkill": "Skill160000",
+   "gatheringSkill": "",
+   "skillA": "Skill160001",
+   "skillB": "Skill160002",
+   "isFirstB": false
+  },
+  "SkillGroup165000": {
+   "key": "SkillGroup165000",
+   "category": 165,
+   "grade": 0,
+   "defaultSkill": "Skill165000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup153000": {
+   "key": "SkillGroup153000",
+   "category": 153,
+   "grade": 0,
+   "defaultSkill": "Skill153000",
+   "gatheringSkill": "",
+   "skillA": "Skill153001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup170000": {
+   "key": "SkillGroup170000",
+   "category": 170,
+   "grade": 0,
+   "defaultSkill": "Skill170000",
+   "gatheringSkill": "",
+   "skillA": "Skill170001",
+   "skillB": "Skill170002",
+   "isFirstB": false
+  },
+  "SkillGroup171000": {
+   "key": "SkillGroup171000",
+   "category": 171,
+   "grade": 0,
+   "defaultSkill": "Skill171000",
+   "gatheringSkill": "",
+   "skillA": "Skill171011",
+   "skillB": "Skill171021",
+   "isFirstB": false
+  },
+  "SkillGroup173000": {
+   "key": "SkillGroup173000",
+   "category": 173,
+   "grade": 0,
+   "defaultSkill": "Skill173000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup522000": {
+   "key": "SkillGroup522000",
+   "category": 522,
+   "grade": 0,
+   "defaultSkill": "Skill522000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup178000": {
+   "key": "SkillGroup178000",
+   "category": 178,
+   "grade": 0,
+   "defaultSkill": "Skill178000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup180000": {
+   "key": "SkillGroup180000",
+   "category": 180,
+   "grade": 0,
+   "defaultSkill": "Skill180000",
+   "gatheringSkill": "",
+   "skillA": "Skill180010",
+   "skillB": "Skill180020",
+   "isFirstB": false
+  },
+  "SkillGroup181000": {
+   "key": "SkillGroup181000",
+   "category": 181,
+   "grade": 0,
+   "defaultSkill": "Skill181000",
+   "gatheringSkill": "",
+   "skillA": "Skill181020",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup182000": {
+   "key": "SkillGroup182000",
+   "category": 182,
+   "grade": 0,
+   "defaultSkill": "Skill182000",
+   "gatheringSkill": "",
+   "skillA": "Skill182010",
+   "skillB": "Skill182020",
+   "isFirstB": false
+  },
+  "SkillGroup183000": {
+   "key": "SkillGroup183000",
+   "category": 183,
+   "grade": 0,
+   "defaultSkill": "Skill183002",
+   "gatheringSkill": "",
+   "skillA": "Skill183010",
+   "skillB": "Skill183020",
+   "isFirstB": false
+  },
+  "SkillGroup184000": {
+   "key": "SkillGroup184000",
+   "category": 184,
+   "grade": 0,
+   "defaultSkill": "Skill184000",
+   "gatheringSkill": "",
+   "skillA": "Skill184010",
+   "skillB": "Skill184020",
+   "isFirstB": false
+  },
+  "SkillGroup185000": {
+   "key": "SkillGroup185000",
+   "category": 185,
+   "grade": 0,
+   "defaultSkill": "Skill185000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup186000": {
+   "key": "SkillGroup186000",
+   "category": 186,
+   "grade": 0,
+   "defaultSkill": "Skill186000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup187000": {
+   "key": "SkillGroup187000",
+   "category": 187,
+   "grade": 0,
+   "defaultSkill": "Skill187000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup188000": {
+   "key": "SkillGroup188000",
+   "category": 188,
+   "grade": 0,
+   "defaultSkill": "Skill188000",
+   "gatheringSkill": "",
+   "skillA": "Skill188010",
+   "skillB": "Skill188020",
+   "isFirstB": false
+  },
+  "SkillGroup189000": {
+   "key": "SkillGroup189000",
+   "category": 189,
+   "grade": 0,
+   "defaultSkill": "Skill189000",
+   "gatheringSkill": "",
+   "skillA": "Skill189010",
+   "skillB": "Skill189020",
+   "isFirstB": false
+  },
+  "SkillGroup190000": {
+   "key": "SkillGroup190000",
+   "category": 190,
+   "grade": 0,
+   "defaultSkill": "Skill190000",
+   "gatheringSkill": "",
+   "skillA": "Skill190010",
+   "skillB": "Skill190020",
+   "isFirstB": false
+  },
+  "SkillGroup191000": {
+   "key": "SkillGroup191000",
+   "category": 191,
+   "grade": 0,
+   "defaultSkill": "Skill191000",
+   "gatheringSkill": "",
+   "skillA": "Skill191010",
+   "skillB": "Skill191023",
+   "isFirstB": false
+  },
+  "SkillGroup192000": {
+   "key": "SkillGroup192000",
+   "category": 192,
+   "grade": 0,
+   "defaultSkill": "Skill192000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup193000": {
+   "key": "SkillGroup193000",
+   "category": 193,
+   "grade": 0,
+   "defaultSkill": "Skill193000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup195000": {
+   "key": "SkillGroup195000",
+   "category": 195,
+   "grade": 0,
+   "defaultSkill": "Skill195000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup141000": {
+   "key": "SkillGroup141000",
+   "category": 141,
+   "grade": 0,
+   "defaultSkill": "Skill141000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup199000": {
+   "key": "SkillGroup199000",
+   "category": 199,
+   "grade": 0,
+   "defaultSkill": "Skill199000",
+   "gatheringSkill": "",
+   "skillA": "Skill199010",
+   "skillB": "Skill199020",
+   "isFirstB": false
+  },
+  "SkillGroup201000": {
+   "key": "SkillGroup201000",
+   "category": 201,
+   "grade": 0,
+   "defaultSkill": "Skill201000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup203000": {
+   "key": "SkillGroup203000",
+   "category": 203,
+   "grade": 0,
+   "defaultSkill": "Skill203000",
+   "gatheringSkill": "",
+   "skillA": "Skill203010",
+   "skillB": "Skill203020",
+   "isFirstB": false
+  },
+  "SkillGroup204000": {
+   "key": "SkillGroup204000",
+   "category": 204,
+   "grade": 0,
+   "defaultSkill": "Skill204000",
+   "gatheringSkill": "",
+   "skillA": "Skill204010",
+   "skillB": "Skill204020",
+   "isFirstB": false
+  },
+  "SkillGroup205000": {
+   "key": "SkillGroup205000",
+   "category": 205,
+   "grade": 0,
+   "defaultSkill": "Skill205000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup208000": {
+   "key": "SkillGroup208000",
+   "category": 208,
+   "grade": 0,
+   "defaultSkill": "Skill208000",
+   "gatheringSkill": "",
+   "skillA": "Skill208010",
+   "skillB": "Skill208020",
+   "isFirstB": false
+  },
+  "SkillGroup198000": {
+   "key": "SkillGroup198000",
+   "category": 198,
+   "grade": 0,
+   "defaultSkill": "Skill198000",
+   "gatheringSkill": "",
+   "skillA": "Skill198010",
+   "skillB": "Skill198020",
+   "isFirstB": false
+  },
+  "SkillGroup210000": {
+   "key": "SkillGroup210000",
+   "category": 210,
+   "grade": 0,
+   "defaultSkill": "Skill210000",
+   "gatheringSkill": "",
+   "skillA": "Skill210010",
+   "skillB": "Skill210020",
+   "isFirstB": false
+  },
+  "SkillGroup211000": {
+   "key": "SkillGroup211000",
+   "category": 211,
+   "grade": 0,
+   "defaultSkill": "Skill211000",
+   "gatheringSkill": "",
+   "skillA": "Skill211010",
+   "skillB": "Skill211020",
+   "isFirstB": false
+  },
+  "SkillGroup212000": {
+   "key": "SkillGroup212000",
+   "category": 212,
+   "grade": 0,
+   "defaultSkill": "Skill212000",
+   "gatheringSkill": "",
+   "skillA": "Skill212011",
+   "skillB": "Skill212021",
+   "isFirstB": false
+  },
+  "SkillGroup213000": {
+   "key": "SkillGroup213000",
+   "category": 213,
+   "grade": 0,
+   "defaultSkill": "Skill002098",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup214000": {
+   "key": "SkillGroup214000",
+   "category": 214,
+   "grade": 0,
+   "defaultSkill": "Skill100000",
+   "gatheringSkill": "",
+   "skillA": "Skill214000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup216000": {
+   "key": "SkillGroup216000",
+   "category": 216,
+   "grade": 0,
+   "defaultSkill": "Skill216000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup217000": {
+   "key": "SkillGroup217000",
+   "category": 217,
+   "grade": 0,
+   "defaultSkill": "Skill217000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup218000": {
+   "key": "SkillGroup218000",
+   "category": 218,
+   "grade": 0,
+   "defaultSkill": "Skill218000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup219000": {
+   "key": "SkillGroup219000",
+   "category": 219,
+   "grade": 0,
+   "defaultSkill": "Skill219000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup220000": {
+   "key": "SkillGroup220000",
+   "category": 220,
+   "grade": 0,
+   "defaultSkill": "Skill220000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup221000": {
+   "key": "SkillGroup221000",
+   "category": 221,
+   "grade": 0,
+   "defaultSkill": "Skill221000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup222000": {
+   "key": "SkillGroup222000",
+   "category": 222,
+   "grade": 0,
+   "defaultSkill": "Skill100000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup223000": {
+   "key": "SkillGroup223000",
+   "category": 223,
+   "grade": 0,
+   "defaultSkill": "Skill100000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup224000": {
+   "key": "SkillGroup224000",
+   "category": 224,
+   "grade": 0,
+   "defaultSkill": "Skill224000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup225000": {
+   "key": "SkillGroup225000",
+   "category": 225,
+   "grade": 0,
+   "defaultSkill": "",
+   "gatheringSkill": "",
+   "skillA": "Skill225000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup226000": {
+   "key": "SkillGroup226000",
+   "category": 226,
+   "grade": 0,
+   "defaultSkill": "Skill226000",
+   "gatheringSkill": "",
+   "skillA": "Skill226010",
+   "skillB": "Skill226020",
+   "isFirstB": false
+  },
+  "SkillGroup227000": {
+   "key": "SkillGroup227000",
+   "category": 227,
+   "grade": 0,
+   "defaultSkill": "Skill227000",
+   "gatheringSkill": "",
+   "skillA": "Skill227010",
+   "skillB": "Skill227020",
+   "isFirstB": false
+  },
+  "SkillGroup228000": {
+   "key": "SkillGroup228000",
+   "category": 228,
+   "grade": 0,
+   "defaultSkill": "Skill228000",
+   "gatheringSkill": "",
+   "skillA": "Skill228010",
+   "skillB": "Skill228020",
+   "isFirstB": false
+  },
+  "SkillGroup229000": {
+   "key": "SkillGroup229000",
+   "category": 229,
+   "grade": 0,
+   "defaultSkill": "Skill229000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup230000": {
+   "key": "SkillGroup230000",
+   "category": 230,
+   "grade": 0,
+   "defaultSkill": "Skill230000",
+   "gatheringSkill": "",
+   "skillA": "Skill230010",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup240000": {
+   "key": "SkillGroup240000",
+   "category": 240,
+   "grade": 0,
+   "defaultSkill": "Skill240000",
+   "gatheringSkill": "",
+   "skillA": "Skill240001",
+   "skillB": "Skill240002",
+   "isFirstB": false
+  },
+  "SkillGroup241000": {
+   "key": "SkillGroup241000",
+   "category": 241,
+   "grade": 0,
+   "defaultSkill": "Skill241000",
+   "gatheringSkill": "",
+   "skillA": "Skill241001",
+   "skillB": "Skill241002",
+   "isFirstB": false
+  },
+  "SkillGroup242000": {
+   "key": "SkillGroup242000",
+   "category": 242,
+   "grade": 0,
+   "defaultSkill": "Skill242000",
+   "gatheringSkill": "",
+   "skillA": "Skill242001",
+   "skillB": "Skill242002",
+   "isFirstB": false
+  },
+  "SkillGroup243000": {
+   "key": "SkillGroup243000",
+   "category": 243,
+   "grade": 0,
+   "defaultSkill": "Skill243000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup244000": {
+   "key": "SkillGroup244000",
+   "category": 244,
+   "grade": 0,
+   "defaultSkill": "Skill244000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup245000": {
+   "key": "SkillGroup245000",
+   "category": 245,
+   "grade": 0,
+   "defaultSkill": "Skill245000",
+   "gatheringSkill": "",
+   "skillA": "Skill245001",
+   "skillB": "Skill245002",
+   "isFirstB": false
+  },
+  "SkillGroup246000": {
+   "key": "SkillGroup246000",
+   "category": 246,
+   "grade": 0,
+   "defaultSkill": "Skill246000",
+   "gatheringSkill": "",
+   "skillA": "Skill246010",
+   "skillB": "Skill246020",
+   "isFirstB": false
+  },
+  "SkillGroup247000": {
+   "key": "SkillGroup247000",
+   "category": 247,
+   "grade": 0,
+   "defaultSkill": "Skill247000",
+   "gatheringSkill": "",
+   "skillA": "Skill247002",
+   "skillB": "Skill247003",
+   "isFirstB": false
+  },
+  "SkillGroup248000": {
+   "key": "SkillGroup248000",
+   "category": 248,
+   "grade": 0,
+   "defaultSkill": "Skill248000",
+   "gatheringSkill": "",
+   "skillA": "Skill248002",
+   "skillB": "Skill248003",
+   "isFirstB": false
+  },
+  "SkillGroup249000": {
+   "key": "SkillGroup249000",
+   "category": 249,
+   "grade": 0,
+   "defaultSkill": "Skill249000",
+   "gatheringSkill": "",
+   "skillA": "Skill249002",
+   "skillB": "Skill249003",
+   "isFirstB": false
+  },
+  "SkillGroup501000": {
+   "key": "SkillGroup501000",
+   "category": 501,
+   "grade": 0,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup501001": {
+   "key": "SkillGroup501001",
+   "category": 501,
+   "grade": 1,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501002",
+   "skillB": "Skill501003",
+   "isFirstB": false
+  },
+  "SkillGroup501002": {
+   "key": "SkillGroup501002",
+   "category": 501,
+   "grade": 2,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501102",
+   "skillB": "Skill501003",
+   "isFirstB": false
+  },
+  "SkillGroup501003": {
+   "key": "SkillGroup501003",
+   "category": 501,
+   "grade": 3,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501102",
+   "skillB": "Skill501103",
+   "isFirstB": false
+  },
+  "SkillGroup501004": {
+   "key": "SkillGroup501004",
+   "category": 501,
+   "grade": 4,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501202",
+   "skillB": "Skill501103",
+   "isFirstB": false
+  },
+  "SkillGroup501005": {
+   "key": "SkillGroup501005",
+   "category": 501,
+   "grade": 5,
+   "defaultSkill": "Skill501000",
+   "gatheringSkill": "Skill501001",
+   "skillA": "Skill501202",
+   "skillB": "Skill501203",
+   "isFirstB": false
+  },
+  "SkillGroup502000": {
+   "key": "SkillGroup502000",
+   "category": 502,
+   "grade": 0,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup502001": {
+   "key": "SkillGroup502001",
+   "category": 502,
+   "grade": 1,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502002",
+   "skillB": "Skill502003",
+   "isFirstB": false
+  },
+  "SkillGroup502002": {
+   "key": "SkillGroup502002",
+   "category": 502,
+   "grade": 2,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502102",
+   "skillB": "Skill502003",
+   "isFirstB": false
+  },
+  "SkillGroup502003": {
+   "key": "SkillGroup502003",
+   "category": 502,
+   "grade": 3,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502102",
+   "skillB": "Skill502103",
+   "isFirstB": false
+  },
+  "SkillGroup502004": {
+   "key": "SkillGroup502004",
+   "category": 502,
+   "grade": 4,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502202",
+   "skillB": "Skill502103",
+   "isFirstB": false
+  },
+  "SkillGroup502005": {
+   "key": "SkillGroup502005",
+   "category": 502,
+   "grade": 5,
+   "defaultSkill": "Skill502000",
+   "gatheringSkill": "Skill502001",
+   "skillA": "Skill502202",
+   "skillB": "Skill502203",
+   "isFirstB": false
+  },
+  "SkillGroup503000": {
+   "key": "SkillGroup503000",
+   "category": 503,
+   "grade": 0,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup503001": {
+   "key": "SkillGroup503001",
+   "category": 503,
+   "grade": 1,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503002",
+   "skillB": "Skill503003",
+   "isFirstB": false
+  },
+  "SkillGroup503002": {
+   "key": "SkillGroup503002",
+   "category": 503,
+   "grade": 2,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503102",
+   "skillB": "Skill503003",
+   "isFirstB": false
+  },
+  "SkillGroup503003": {
+   "key": "SkillGroup503003",
+   "category": 503,
+   "grade": 3,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503102",
+   "skillB": "Skill503103",
+   "isFirstB": false
+  },
+  "SkillGroup503004": {
+   "key": "SkillGroup503004",
+   "category": 503,
+   "grade": 4,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503202",
+   "skillB": "Skill503103",
+   "isFirstB": false
+  },
+  "SkillGroup503005": {
+   "key": "SkillGroup503005",
+   "category": 503,
+   "grade": 5,
+   "defaultSkill": "Skill503000",
+   "gatheringSkill": "Skill503001",
+   "skillA": "Skill503202",
+   "skillB": "Skill503203",
+   "isFirstB": false
+  },
+  "SkillGroup504000": {
+   "key": "SkillGroup504000",
+   "category": 504,
+   "grade": 0,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup504001": {
+   "key": "SkillGroup504001",
+   "category": 504,
+   "grade": 1,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504002",
+   "skillB": "Skill504003",
+   "isFirstB": false
+  },
+  "SkillGroup504002": {
+   "key": "SkillGroup504002",
+   "category": 504,
+   "grade": 2,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504102",
+   "skillB": "Skill504003",
+   "isFirstB": false
+  },
+  "SkillGroup504003": {
+   "key": "SkillGroup504003",
+   "category": 504,
+   "grade": 3,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504102",
+   "skillB": "Skill504103",
+   "isFirstB": false
+  },
+  "SkillGroup504004": {
+   "key": "SkillGroup504004",
+   "category": 504,
+   "grade": 4,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504202",
+   "skillB": "Skill504103",
+   "isFirstB": false
+  },
+  "SkillGroup504005": {
+   "key": "SkillGroup504005",
+   "category": 504,
+   "grade": 5,
+   "defaultSkill": "Skill504000",
+   "gatheringSkill": "Skill504001",
+   "skillA": "Skill504202",
+   "skillB": "Skill504203",
+   "isFirstB": false
+  },
+  "SkillGroup505000": {
+   "key": "SkillGroup505000",
+   "category": 505,
+   "grade": 0,
+   "defaultSkill": "Skill505000",
+   "gatheringSkill": "Skill505001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup505001": {
+   "key": "SkillGroup505001",
+   "category": 505,
+   "grade": 1,
+   "defaultSkill": "Skill505000",
+   "gatheringSkill": "Skill505001",
+   "skillA": "Skill505002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup505002": {
+   "key": "SkillGroup505002",
+   "category": 505,
+   "grade": 2,
+   "defaultSkill": "Skill505100",
+   "gatheringSkill": "Skill505101",
+   "skillA": "Skill505002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup505003": {
+   "key": "SkillGroup505003",
+   "category": 505,
+   "grade": 3,
+   "defaultSkill": "Skill505100",
+   "gatheringSkill": "Skill505101",
+   "skillA": "Skill505102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup505004": {
+   "key": "SkillGroup505004",
+   "category": 505,
+   "grade": 4,
+   "defaultSkill": "Skill505200",
+   "gatheringSkill": "Skill505201",
+   "skillA": "Skill505102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup505005": {
+   "key": "SkillGroup505005",
+   "category": 505,
+   "grade": 5,
+   "defaultSkill": "Skill505200",
+   "gatheringSkill": "Skill505201",
+   "skillA": "Skill505202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506000": {
+   "key": "SkillGroup506000",
+   "category": 506,
+   "grade": 0,
+   "defaultSkill": "Skill506000",
+   "gatheringSkill": "Skill506001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506001": {
+   "key": "SkillGroup506001",
+   "category": 506,
+   "grade": 1,
+   "defaultSkill": "Skill506000",
+   "gatheringSkill": "Skill506001",
+   "skillA": "Skill506002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506002": {
+   "key": "SkillGroup506002",
+   "category": 506,
+   "grade": 2,
+   "defaultSkill": "Skill506100",
+   "gatheringSkill": "Skill506101",
+   "skillA": "Skill506002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506003": {
+   "key": "SkillGroup506003",
+   "category": 506,
+   "grade": 3,
+   "defaultSkill": "Skill506100",
+   "gatheringSkill": "Skill506101",
+   "skillA": "Skill506102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506004": {
+   "key": "SkillGroup506004",
+   "category": 506,
+   "grade": 4,
+   "defaultSkill": "Skill506200",
+   "gatheringSkill": "Skill506201",
+   "skillA": "Skill506102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup506005": {
+   "key": "SkillGroup506005",
+   "category": 506,
+   "grade": 5,
+   "defaultSkill": "Skill506200",
+   "gatheringSkill": "Skill506201",
+   "skillA": "Skill506202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507000": {
+   "key": "SkillGroup507000",
+   "category": 507,
+   "grade": 0,
+   "defaultSkill": "Skill507000",
+   "gatheringSkill": "Skill507001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507001": {
+   "key": "SkillGroup507001",
+   "category": 507,
+   "grade": 1,
+   "defaultSkill": "Skill507000",
+   "gatheringSkill": "Skill507001",
+   "skillA": "Skill507002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507002": {
+   "key": "SkillGroup507002",
+   "category": 507,
+   "grade": 2,
+   "defaultSkill": "Skill507100",
+   "gatheringSkill": "Skill507001",
+   "skillA": "Skill507002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507003": {
+   "key": "SkillGroup507003",
+   "category": 507,
+   "grade": 3,
+   "defaultSkill": "Skill507100",
+   "gatheringSkill": "Skill507001",
+   "skillA": "Skill507102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507004": {
+   "key": "SkillGroup507004",
+   "category": 507,
+   "grade": 4,
+   "defaultSkill": "Skill507200",
+   "gatheringSkill": "Skill507001",
+   "skillA": "Skill507102",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup507005": {
+   "key": "SkillGroup507005",
+   "category": 507,
+   "grade": 5,
+   "defaultSkill": "Skill507200",
+   "gatheringSkill": "Skill507001",
+   "skillA": "Skill507202",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup508000": {
+   "key": "SkillGroup508000",
+   "category": 508,
+   "grade": 0,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508002",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup508001": {
+   "key": "SkillGroup508001",
+   "category": 508,
+   "grade": 1,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508002",
+   "skillB": "Skill508003",
+   "isFirstB": false
+  },
+  "SkillGroup508002": {
+   "key": "SkillGroup508002",
+   "category": 508,
+   "grade": 2,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508102",
+   "skillB": "Skill508003",
+   "isFirstB": false
+  },
+  "SkillGroup508003": {
+   "key": "SkillGroup508003",
+   "category": 508,
+   "grade": 3,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508102",
+   "skillB": "Skill508103",
+   "isFirstB": false
+  },
+  "SkillGroup508004": {
+   "key": "SkillGroup508004",
+   "category": 508,
+   "grade": 4,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508202",
+   "skillB": "Skill508103",
+   "isFirstB": false
+  },
+  "SkillGroup508005": {
+   "key": "SkillGroup508005",
+   "category": 508,
+   "grade": 5,
+   "defaultSkill": "Skill508000",
+   "gatheringSkill": "Skill508001",
+   "skillA": "Skill508202",
+   "skillB": "Skill508203",
+   "isFirstB": false
+  },
+  "SkillGroup600000": {
+   "key": "SkillGroup600000",
+   "category": 600,
+   "grade": 0,
+   "defaultSkill": "Skill600001",
+   "gatheringSkill": "",
+   "skillA": "Skill600000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup601000": {
+   "key": "SkillGroup601000",
+   "category": 601,
+   "grade": 0,
+   "defaultSkill": "Skill601000",
+   "gatheringSkill": "",
+   "skillA": "Skill601001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup602000": {
+   "key": "SkillGroup602000",
+   "category": 602,
+   "grade": 0,
+   "defaultSkill": "Skill602000",
+   "gatheringSkill": "",
+   "skillA": "Skill602001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup603000": {
+   "key": "SkillGroup603000",
+   "category": 603,
+   "grade": 0,
+   "defaultSkill": "Skill603000",
+   "gatheringSkill": "",
+   "skillA": "Skill603001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup604000": {
+   "key": "SkillGroup604000",
+   "category": 604,
+   "grade": 0,
+   "defaultSkill": "Skill604000",
+   "gatheringSkill": "",
+   "skillA": "Skill604001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup605000": {
+   "key": "SkillGroup605000",
+   "category": 605,
+   "grade": 0,
+   "defaultSkill": "Skill605000",
+   "gatheringSkill": "",
+   "skillA": "Skill605001",
+   "skillB": "Skill605002",
+   "isFirstB": false
+  },
+  "SkillGroup606000": {
+   "key": "SkillGroup606000",
+   "category": 606,
+   "grade": 0,
+   "defaultSkill": "Skill606000",
+   "gatheringSkill": "",
+   "skillA": "Skill606001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup607000": {
+   "key": "SkillGroup607000",
+   "category": 607,
+   "grade": 0,
+   "defaultSkill": "Skill607000",
+   "gatheringSkill": "",
+   "skillA": "Skill607001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup608000": {
+   "key": "SkillGroup608000",
+   "category": 608,
+   "grade": 0,
+   "defaultSkill": "Skill608000",
+   "gatheringSkill": "",
+   "skillA": "Skill608001",
+   "skillB": "Skill608002",
+   "isFirstB": false
+  },
+  "SkillGroup609000": {
+   "key": "SkillGroup609000",
+   "category": 609,
+   "grade": 0,
+   "defaultSkill": "Skill609000",
+   "gatheringSkill": "",
+   "skillA": "Skill609001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup610000": {
+   "key": "SkillGroup610000",
+   "category": 610,
+   "grade": 0,
+   "defaultSkill": "Skill610000",
+   "gatheringSkill": "",
+   "skillA": "Skill610001",
+   "skillB": "Skill610002",
+   "isFirstB": false
+  },
+  "SkillGroup611000": {
+   "key": "SkillGroup611000",
+   "category": 611,
+   "grade": 0,
+   "defaultSkill": "Skill611000",
+   "gatheringSkill": "",
+   "skillA": "Skill611010",
+   "skillB": "Skill611020",
+   "isFirstB": false
+  },
+  "SkillGroup612000": {
+   "key": "SkillGroup612000",
+   "category": 612,
+   "grade": 0,
+   "defaultSkill": "Skill612000",
+   "gatheringSkill": "",
+   "skillA": "Skill612010",
+   "skillB": "Skill612020",
+   "isFirstB": false
+  },
+  "SkillGroup613000": {
+   "key": "SkillGroup613000",
+   "category": 613,
+   "grade": 0,
+   "defaultSkill": "Skill613000",
+   "gatheringSkill": "",
+   "skillA": "Skill613010",
+   "skillB": "Skill613020",
+   "isFirstB": false
+  },
+  "SkillGroup614000": {
+   "key": "SkillGroup614000",
+   "category": 614,
+   "grade": 0,
+   "defaultSkill": "Skill614000",
+   "gatheringSkill": "",
+   "skillA": "Skill614010",
+   "skillB": "Skill614020",
+   "isFirstB": false
+  },
+  "SkillGroup633000": {
+   "key": "SkillGroup633000",
+   "category": 633,
+   "grade": 0,
+   "defaultSkill": "Skill633001",
+   "gatheringSkill": "",
+   "skillA": "Skill600000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup634000": {
+   "key": "SkillGroup634000",
+   "category": 634,
+   "grade": 0,
+   "defaultSkill": "Skill634000",
+   "gatheringSkill": "",
+   "skillA": "Skill602001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup635000": {
+   "key": "SkillGroup635000",
+   "category": 635,
+   "grade": 0,
+   "defaultSkill": "Skill635000",
+   "gatheringSkill": "",
+   "skillA": "Skill603001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup636000": {
+   "key": "SkillGroup636000",
+   "category": 636,
+   "grade": 0,
+   "defaultSkill": "Skill636000",
+   "gatheringSkill": "",
+   "skillA": "Skill605001",
+   "skillB": "Skill605002",
+   "isFirstB": false
+  },
+  "SkillGroup637000": {
+   "key": "SkillGroup637000",
+   "category": 637,
+   "grade": 0,
+   "defaultSkill": "Skill637000",
+   "gatheringSkill": "",
+   "skillA": "Skill606001",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup638000": {
+   "key": "SkillGroup638000",
+   "category": 638,
+   "grade": 0,
+   "defaultSkill": "Skill638000",
+   "gatheringSkill": "",
+   "skillA": "Skill608001",
+   "skillB": "Skill608002",
+   "isFirstB": false
+  },
+  "SkillGroup718000": {
+   "key": "SkillGroup718000",
+   "category": 718,
+   "grade": 0,
+   "defaultSkill": "Skill718000",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup701000": {
+   "key": "SkillGroup701000",
+   "category": 701,
+   "grade": 0,
+   "defaultSkill": "Skill701000",
+   "gatheringSkill": "",
+   "skillA": "Skill701002",
+   "skillB": "Skill701003",
+   "isFirstB": false
+  },
+  "SkillGroup701001": {
+   "key": "SkillGroup701001",
+   "category": 701,
+   "grade": 1,
+   "defaultSkill": "Skill701004",
+   "gatheringSkill": "",
+   "skillA": "Skill701006",
+   "skillB": "Skill701007",
+   "isFirstB": false
+  },
+  "SkillGroup701002": {
+   "key": "SkillGroup701002",
+   "category": 701,
+   "grade": 2,
+   "defaultSkill": "Skill701004",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup100010": {
+   "key": "SkillGroup100010",
+   "category": 100,
+   "grade": 10,
+   "defaultSkill": "Skill500010",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup358010": {
+   "key": "SkillGroup358010",
+   "category": 358,
+   "grade": 10,
+   "defaultSkill": "Skill028000",
+   "gatheringSkill": "Skill028001",
+   "skillA": "Skill500020",
+   "skillB": "Skill028203",
+   "isFirstB": false
+  },
+  "SkillGroup362010": {
+   "key": "SkillGroup362010",
+   "category": 362,
+   "grade": 10,
+   "defaultSkill": "Skill019000",
+   "gatheringSkill": "Skill019001",
+   "skillA": "Skill500030",
+   "skillB": "Skill500031",
+   "isFirstB": false
+  },
+  "SkillGroup364010": {
+   "key": "SkillGroup364010",
+   "category": 364,
+   "grade": 10,
+   "defaultSkill": "Skill036201",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill500032",
+   "isFirstB": false
+  },
+  "SkillGroup374010": {
+   "key": "SkillGroup374010",
+   "category": 374,
+   "grade": 10,
+   "defaultSkill": "Skill003000",
+   "gatheringSkill": "Skill003001",
+   "skillA": "Skill500033",
+   "skillB": "Skill003203",
+   "isFirstB": false
+  },
+  "SkillGroup375010": {
+   "key": "SkillGroup375010",
+   "category": 375,
+   "grade": 10,
+   "defaultSkill": "Skill005000",
+   "gatheringSkill": "Skill005001",
+   "skillA": "Skill500034",
+   "skillB": "Skill005203",
+   "isFirstB": false
+  },
+  "SkillGroup571010": {
+   "key": "SkillGroup571010",
+   "category": 571,
+   "grade": 10,
+   "defaultSkill": "Skill034000",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill034202",
+   "skillB": "Skill571203",
+   "isFirstB": false
+  },
+  "SkillGroup572010": {
+   "key": "SkillGroup572010",
+   "category": 572,
+   "grade": 10,
+   "defaultSkill": "Skill031000",
+   "gatheringSkill": "Skill031001",
+   "skillA": "Skill031202",
+   "skillB": "Skill572203",
+   "isFirstB": false
+  },
+  "SkillGroup573010": {
+   "key": "SkillGroup573010",
+   "category": 573,
+   "grade": 10,
+   "defaultSkill": "Skill038000",
+   "gatheringSkill": "Skill038001",
+   "skillA": "Skill038202",
+   "skillB": "Skill573223",
+   "isFirstB": false
+  },
+  "SkillGroup575010": {
+   "key": "SkillGroup575010",
+   "category": 575,
+   "grade": 10,
+   "defaultSkill": "Skill036201",
+   "gatheringSkill": "Skill036001",
+   "skillA": "Skill036010",
+   "skillB": "Skill575223",
+   "isFirstB": false
+  },
+  "SkillGroup577010": {
+   "key": "SkillGroup577010",
+   "category": 577,
+   "grade": 10,
+   "defaultSkill": "Skill027000",
+   "gatheringSkill": "Skill027001",
+   "skillA": "Skill577202",
+   "skillB": "Skill577203",
+   "isFirstB": false
+  },
+  "SkillGroup582010": {
+   "key": "SkillGroup582010",
+   "category": 582,
+   "grade": 10,
+   "defaultSkill": "Skill018000",
+   "gatheringSkill": "Skill018001",
+   "skillA": "Skill018202",
+   "skillB": "Skill582203",
+   "isFirstB": false
+  },
+  "SkillGroup583010": {
+   "key": "SkillGroup583010",
+   "category": 583,
+   "grade": 10,
+   "defaultSkill": "Skill007000",
+   "gatheringSkill": "Skill007001",
+   "skillA": "Skill583202",
+   "skillB": "Skill583203",
+   "isFirstB": false
+  },
+  "SkillGroup810010": {
+   "key": "SkillGroup810010",
+   "category": 810,
+   "grade": 10,
+   "defaultSkill": "Skill807100",
+   "gatheringSkill": "",
+   "skillA": "Skill807202",
+   "skillB": "Skill807203",
+   "isFirstB": false
+  },
+  "SkillGroup811010": {
+   "key": "SkillGroup811010",
+   "category": 811,
+   "grade": 10,
+   "defaultSkill": "Skill827000",
+   "gatheringSkill": "",
+   "skillA": "Skill827202",
+   "skillB": "Skill827203",
+   "isFirstB": false
+  },
+  "SkillGroup812010": {
+   "key": "SkillGroup812010",
+   "category": 812,
+   "grade": 10,
+   "defaultSkill": "Skill812000",
+   "gatheringSkill": "",
+   "skillA": "Skill812202",
+   "skillB": "Skill812203",
+   "isFirstB": false
+  },
+  "SkillGroup813010": {
+   "key": "SkillGroup813010",
+   "category": 813,
+   "grade": 10,
+   "defaultSkill": "Skill850000",
+   "gatheringSkill": "",
+   "skillA": "Skill850202",
+   "skillB": "Skill850203",
+   "isFirstB": false
+  },
+  "SkillGroup816000": {
+   "key": "SkillGroup816000",
+   "category": 816,
+   "grade": 0,
+   "defaultSkill": "Skill611001",
+   "gatheringSkill": "",
+   "skillA": "Skill611010",
+   "skillB": "Skill611020",
+   "isFirstB": false
+  },
+  "SkillGroup817000": {
+   "key": "SkillGroup817000",
+   "category": 817,
+   "grade": 0,
+   "defaultSkill": "Skill612001",
+   "gatheringSkill": "",
+   "skillA": "Skill612010",
+   "skillB": "Skill612020",
+   "isFirstB": false
+  },
+  "SkillGroup818000": {
+   "key": "SkillGroup818000",
+   "category": 818,
+   "grade": 0,
+   "defaultSkill": "Skill613001",
+   "gatheringSkill": "",
+   "skillA": "Skill613010",
+   "skillB": "Skill613020",
+   "isFirstB": false
+  },
+  "SkillGroup819000": {
+   "key": "SkillGroup819000",
+   "category": 819,
+   "grade": 0,
+   "defaultSkill": "Skill614001",
+   "gatheringSkill": "",
+   "skillA": "Skill614010",
+   "skillB": "Skill614020",
+   "isFirstB": false
+  },
+  "SkillGroup830000": {
+   "key": "SkillGroup830000",
+   "category": 830,
+   "grade": 0,
+   "defaultSkill": "Skill530000",
+   "gatheringSkill": "",
+   "skillA": "Skill614010",
+   "skillB": "Skill614020",
+   "isFirstB": false
+  },
+  "SkillGroup831000": {
+   "key": "SkillGroup831000",
+   "category": 831,
+   "grade": 0,
+   "defaultSkill": "Skill531000",
+   "gatheringSkill": "",
+   "skillA": "Skill184010",
+   "skillB": "Skill184020",
+   "isFirstB": false
+  },
+  "SkillGroup832000": {
+   "key": "SkillGroup832000",
+   "category": 832,
+   "grade": 0,
+   "defaultSkill": "Skill532000",
+   "gatheringSkill": "",
+   "skillA": "Skill191010",
+   "skillB": "Skill191023",
+   "isFirstB": false
+  },
+  "SkillGroup833000": {
+   "key": "SkillGroup833000",
+   "category": 833,
+   "grade": 0,
+   "defaultSkill": "Skill533000",
+   "gatheringSkill": "",
+   "skillA": "Skill533010",
+   "skillB": "Skill199020",
+   "isFirstB": false
+  },
+  "SkillGroup834000": {
+   "key": "SkillGroup834000",
+   "category": 834,
+   "grade": 0,
+   "defaultSkill": "Skill534000",
+   "gatheringSkill": "",
+   "skillA": "Skill534010",
+   "skillB": "Skill198020",
+   "isFirstB": false
+  },
+  "SkillGroup998000": {
+   "key": "SkillGroup998000",
+   "category": 998,
+   "grade": 0,
+   "defaultSkill": "",
+   "gatheringSkill": "",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup640000": {
+   "key": "SkillGroup640000",
+   "category": 640,
+   "grade": 0,
+   "defaultSkill": "Skill183002",
+   "gatheringSkill": "",
+   "skillA": "Skill183010",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup801000": {
+   "key": "SkillGroup801000",
+   "category": 801,
+   "grade": 0,
+   "defaultSkill": "Skill801001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup801001": {
+   "key": "SkillGroup801001",
+   "category": 801,
+   "grade": 1,
+   "defaultSkill": "Skill801002",
+   "gatheringSkill": "Skill034001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup801002": {
+   "key": "SkillGroup801002",
+   "category": 801,
+   "grade": 2,
+   "defaultSkill": "Skill801003",
+   "gatheringSkill": "Skill034001",
+   "skillA": "",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup801003": {
+   "key": "SkillGroup801003",
+   "category": 801,
+   "grade": 3,
+   "defaultSkill": "Skill801004",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill801101",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup802000": {
+   "key": "SkillGroup802000",
+   "category": 802,
+   "grade": 0,
+   "defaultSkill": "Skill802001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill802011",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup802001": {
+   "key": "SkillGroup802001",
+   "category": 802,
+   "grade": 1,
+   "defaultSkill": "Skill802001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill802011",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup802002": {
+   "key": "SkillGroup802002",
+   "category": 802,
+   "grade": 2,
+   "defaultSkill": "Skill802001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill802012",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup802003": {
+   "key": "SkillGroup802003",
+   "category": 802,
+   "grade": 3,
+   "defaultSkill": "Skill802001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill802013",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup803000": {
+   "key": "SkillGroup803000",
+   "category": 803,
+   "grade": 0,
+   "defaultSkill": "Skill803001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill803011",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup803001": {
+   "key": "SkillGroup803001",
+   "category": 803,
+   "grade": 1,
+   "defaultSkill": "Skill803001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill803012",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup803002": {
+   "key": "SkillGroup803002",
+   "category": 803,
+   "grade": 2,
+   "defaultSkill": "Skill803001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill803013",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup803003": {
+   "key": "SkillGroup803003",
+   "category": 803,
+   "grade": 3,
+   "defaultSkill": "Skill803001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill803014",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup804000": {
+   "key": "SkillGroup804000",
+   "category": 804,
+   "grade": 0,
+   "defaultSkill": "Skill804001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill804011",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup804001": {
+   "key": "SkillGroup804001",
+   "category": 804,
+   "grade": 1,
+   "defaultSkill": "Skill804001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill804012",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup804002": {
+   "key": "SkillGroup804002",
+   "category": 804,
+   "grade": 2,
+   "defaultSkill": "Skill804001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill804013",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup804003": {
+   "key": "SkillGroup804003",
+   "category": 804,
+   "grade": 3,
+   "defaultSkill": "Skill804001",
+   "gatheringSkill": "Skill034001",
+   "skillA": "Skill804014",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup680000": {
+   "key": "SkillGroup680000",
+   "category": 680,
+   "grade": 0,
+   "defaultSkill": "Skill680001",
+   "gatheringSkill": "",
+   "skillA": "Skill680000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup681000": {
+   "key": "SkillGroup681000",
+   "category": 681,
+   "grade": 0,
+   "defaultSkill": "Skill100000",
+   "gatheringSkill": "",
+   "skillA": "Skill680000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup683000": {
+   "key": "SkillGroup683000",
+   "category": 683,
+   "grade": 0,
+   "defaultSkill": "Skill128000",
+   "gatheringSkill": "",
+   "skillA": "Skill680000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup689000": {
+   "key": "SkillGroup689000",
+   "category": 689,
+   "grade": 0,
+   "defaultSkill": "Skill141000",
+   "gatheringSkill": "",
+   "skillA": "Skill680000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup691000": {
+   "key": "SkillGroup691000",
+   "category": 691,
+   "grade": 0,
+   "defaultSkill": "Skill691000",
+   "gatheringSkill": "",
+   "skillA": "Skill680000",
+   "skillB": "",
+   "isFirstB": false
+  },
+  "SkillGroup695000": {
+   "key": "SkillGroup695000",
+   "category": 695,
+   "grade": 0,
+   "defaultSkill": "Skill208000",
+   "gatheringSkill": "",
+   "skillA": "Skill208010",
+   "skillB": "Skill208020",
+   "isFirstB": false
+  },
+  "SkillGroup696000": {
+   "key": "SkillGroup696000",
+   "category": 696,
+   "grade": 0,
+   "defaultSkill": "Skill203000",
+   "gatheringSkill": "",
+   "skillA": "Skill203010",
+   "skillB": "Skill203020",
+   "isFirstB": false
+  },
+  "SkillGroup697000": {
+   "key": "SkillGroup697000",
+   "category": 697,
+   "grade": 0,
+   "defaultSkill": "Skill204000",
+   "gatheringSkill": "",
+   "skillA": "Skill204010",
+   "skillB": "Skill204020",
+   "isFirstB": false
+  },
+  "SkillGroup698000": {
+   "key": "SkillGroup698000",
+   "category": 698,
+   "grade": 0,
+   "defaultSkill": "Skill199000",
+   "gatheringSkill": "",
+   "skillA": "Skill199010",
+   "skillB": "Skill199020",
+   "isFirstB": false
+  },
+  "SkillGroup699000": {
+   "key": "SkillGroup699000",
+   "category": 699,
+   "grade": 0,
+   "defaultSkill": "Skill248000",
+   "gatheringSkill": "",
+   "skillA": "Skill248002",
+   "skillB": "Skill248003",
+   "isFirstB": false
+  }
+ }
+}

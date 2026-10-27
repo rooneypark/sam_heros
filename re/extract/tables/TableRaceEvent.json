@@ -1,0 +1,122 @@
+{
+ "sheetName": "TableRaceEventData",
+ "tableIndex": 0,
+ "rows": {
+  "RaceEvent000": {
+   "key": "RaceEvent000",
+   "category": 0,
+   "targetPoint": 32,
+   "leftTime": 60.0,
+   "startPoint": "WorldBuilding099110",
+   "endPoint": "WorldBuilding099210",
+   "targetDungeon": [
+    "WorldBuilding019000",
+    "WorldBuilding020500",
+    "WorldBuilding019001"
+   ],
+   "targetBoss": [
+    "Unit000600",
+    "Unit000601",
+    "Unit000602"
+   ],
+   "targetQuest": [
+    "Quest000007",
+    "Quest000008",
+    "Quest000011",
+    "Quest000012",
+    "Quest000015",
+    "Quest000016",
+    "Quest000018",
+    "Quest000019",
+    "Quest000020",
+    "Quest000022",
+    "Quest000023",
+    "Quest000024"
+   ],
+   "startName": "LocalizeTown0000000",
+   "endName": "LocalizeTown0000002",
+   "rewardKey": "Item002005",
+   "rewardAmount": 100
+  },
+  "RaceEvent001": {
+   "key": "RaceEvent001",
+   "category": 1,
+   "targetPoint": 40,
+   "leftTime": 360.0,
+   "startPoint": "WorldBuilding099210",
+   "endPoint": "WorldBuilding099310",
+   "targetDungeon": [
+    "WorldBuilding019002",
+    "WorldBuilding019003",
+    "WorldBuilding020501",
+    "WorldBuilding019004"
+   ],
+   "targetBoss": [
+    "Unit000603",
+    "Unit000604",
+    "Unit000605"
+   ],
+   "targetQuest": [
+    "Quest000026",
+    "Quest000126",
+    "Quest000030",
+    "Quest000031",
+    "Quest000032",
+    "Quest000033",
+    "Quest000036",
+    "Quest000137",
+    "Quest000138",
+    "Quest000038",
+    "Quest000039",
+    "Quest000040",
+    "Quest000041",
+    "Quest000143",
+    "Quest000044",
+    "Quest000045"
+   ],
+   "startName": "LocalizeTown0000002",
+   "endName": "LocalizeTown0000004",
+   "rewardKey": "Item002005",
+   "rewardAmount": 200
+  },
+  "RaceEvent002": {
+   "key": "RaceEvent002",
+   "category": 2,
+   "targetPoint": 40,
+   "leftTime": 1440.0,
+   "startPoint": "WorldBuilding099310",
+   "endPoint": "WorldBuilding099410",
+   "targetDungeon": [
+    "WorldBuilding019005",
+    "WorldBuilding019006",
+    "WorldBuilding020502",
+    "WorldBuilding019007"
+   ],
+   "targetBoss": [
+    "Unit000606",
+    "Unit000607",
+    "Unit000608"
+   ],
+   "targetQuest": [
+    "Quest000047",
+    "Quest000147",
+    "Quest000048",
+    "Quest000052",
+    "Quest000053",
+    "Quest000054",
+    "Quest000057",
+    "Quest000059",
+    "Quest000060",
+    "Quest000160",
+    "Quest000061",
+    "Quest000062",
+    "Quest000063",
+    "Quest000064"
+   ],
+   "startName": "LocalizeTown0000004",
+   "endName": "LocalizeTown0000006",
+   "rewardKey": "Item002005",
+   "rewardAmount": 300
+  }
+ }
+}

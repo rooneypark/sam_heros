@@ -1,0 +1,654 @@
+{
+ "sheetName": "TableGuideQstData",
+ "tableIndex": 0,
+ "rows": {
+  "GuideQst001000": {
+   "key": "GuideQst001000",
+   "category": 1,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "4",
+   "questValue": 3,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst001001": {
+   "key": "GuideQst001001",
+   "category": 1,
+   "index": 1,
+   "questType": "TRAINING_LV",
+   "questKey": "",
+   "questValue": 10,
+   "desc": "LocalizeGuideQuestDesc000001",
+   "hintStr": "337.46,-88.93",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst001002": {
+   "key": "GuideQst001002",
+   "category": 1,
+   "index": 2,
+   "questType": "PUB",
+   "questKey": "",
+   "questValue": 10,
+   "desc": "LocalizeGuideQuestDesc000020",
+   "hintStr": "337.4683,-101.4696",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst001003": {
+   "key": "GuideQst001003",
+   "category": 1,
+   "index": 3,
+   "questType": "USER_LV",
+   "questKey": "",
+   "questValue": 10,
+   "desc": "LocalizeGuideQuestDesc000000",
+   "hintStr": "LocalizeGuideQuestUI000005",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst001004": {
+   "key": "GuideQst001004",
+   "category": 1,
+   "index": 4,
+   "questType": "EQUIP",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000003",
+   "hintStr": "332.04,-95.17",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst001005": {
+   "key": "GuideQst001005",
+   "category": 1,
+   "index": 5,
+   "questType": "BUILD",
+   "questKey": "WorldBuilding001000",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000019",
+   "hintStr": "321.05,-104.97",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst002000": {
+   "key": "GuideQst002000",
+   "category": 2,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "9",
+   "questValue": 4,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst002001": {
+   "key": "GuideQst002001",
+   "category": 2,
+   "index": 1,
+   "questType": "USER_LV",
+   "questKey": "",
+   "questValue": 15,
+   "desc": "LocalizeGuideQuestDesc000000",
+   "hintStr": "LocalizeGuideQuestUI000005",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst002002": {
+   "key": "GuideQst002002",
+   "category": 2,
+   "index": 2,
+   "questType": "DISMENTLE",
+   "questKey": "",
+   "questValue": 3,
+   "desc": "LocalizeGuideQuestDesc000004",
+   "hintStr": "332.04,-95.17",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst002003": {
+   "key": "GuideQst002003",
+   "category": 2,
+   "index": 3,
+   "questType": "DUNGEON",
+   "questKey": "",
+   "questValue": 5,
+   "desc": "LocalizeInstantQuestDaily000009",
+   "hintStr": "326.8,-101.59",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst002004": {
+   "key": "GuideQst002004",
+   "category": 2,
+   "index": 4,
+   "questType": "BUILD",
+   "questKey": "WorldBuilding002000",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000019",
+   "hintStr": "316.85,-100.95",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst002005": {
+   "key": "GuideQst002005",
+   "category": 2,
+   "index": 5,
+   "questType": "TOWER",
+   "questKey": "NORMAL",
+   "questValue": 3,
+   "desc": "LocalizeGuideQuestDesc000006",
+   "hintStr": "FOCUS_CHALLENGE",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst003000": {
+   "key": "GuideQst003000",
+   "category": 3,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "14",
+   "questValue": 4,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst003002": {
+   "key": "GuideQst003002",
+   "category": 3,
+   "index": 2,
+   "questType": "HERO_TRAINING",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000008",
+   "hintStr": "337.46,-101.46",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst003001": {
+   "key": "GuideQst003001",
+   "category": 3,
+   "index": 1,
+   "questType": "PUB",
+   "questKey": "",
+   "questValue": 20,
+   "desc": "LocalizeGuideQuestDesc000020",
+   "hintStr": "337.4683,-101.4696",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst003003": {
+   "key": "GuideQst003003",
+   "category": 3,
+   "index": 3,
+   "questType": "POTENTIAL",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000018",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst003004": {
+   "key": "GuideQst003004",
+   "category": 3,
+   "index": 4,
+   "questType": "CHARM",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000010",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst003005": {
+   "key": "GuideQst003005",
+   "category": 3,
+   "index": 5,
+   "questType": "TOWER",
+   "questKey": "SPECIAL",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000009",
+   "hintStr": "FOCUS_CHALLENGE",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst004000": {
+   "key": "GuideQst004000",
+   "category": 4,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "19",
+   "questValue": 4,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst004001": {
+   "key": "GuideQst004001",
+   "category": 4,
+   "index": 1,
+   "questType": "EQUIP_LV",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000005",
+   "hintStr": "332.04,-95.17",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst004002": {
+   "key": "GuideQst004002",
+   "category": 4,
+   "index": 2,
+   "questType": "PUB",
+   "questKey": "",
+   "questValue": 55,
+   "desc": "LocalizeGuideQuestDesc000020",
+   "hintStr": "337.4683,-101.4696",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst004003": {
+   "key": "GuideQst004003",
+   "category": 4,
+   "index": 3,
+   "questType": "TRAINING_LV",
+   "questKey": "",
+   "questValue": 60,
+   "desc": "LocalizeGuideQuestDesc000001",
+   "hintStr": "337.46,-88.93",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst004004": {
+   "key": "GuideQst004004",
+   "category": 4,
+   "index": 4,
+   "questType": "BUILD",
+   "questKey": "WorldBuilding008000",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000019",
+   "hintStr": "324.11,-98.22",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst004005": {
+   "key": "GuideQst004005",
+   "category": 4,
+   "index": 5,
+   "questType": "DEFENCE",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000011",
+   "hintStr": "FOCUS_CHALLENGE",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst005000": {
+   "key": "GuideQst005000",
+   "category": 5,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "24",
+   "questValue": 4,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst005001": {
+   "key": "GuideQst005001",
+   "category": 5,
+   "index": 1,
+   "questType": "PUB",
+   "questKey": "",
+   "questValue": 65,
+   "desc": "LocalizeGuideQuestDesc000020",
+   "hintStr": "337.4683,-101.4696",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst005002": {
+   "key": "GuideQst005002",
+   "category": 5,
+   "index": 2,
+   "questType": "HERO_MAX",
+   "questKey": "",
+   "questValue": 6,
+   "desc": "LocalizeGuideQuestDesc000007",
+   "hintStr": "337.46,-101.46",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst005003": {
+   "key": "GuideQst005003",
+   "category": 5,
+   "index": 3,
+   "questType": "TRAINING_LV",
+   "questKey": "",
+   "questValue": 65,
+   "desc": "LocalizeGuideQuestDesc000001",
+   "hintStr": "337.46,-88.93",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst005004": {
+   "key": "GuideQst005004",
+   "category": 5,
+   "index": 4,
+   "questType": "CHARM",
+   "questKey": "",
+   "questValue": 5,
+   "desc": "LocalizeGuideQuestDesc000010",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst005005": {
+   "key": "GuideQst005005",
+   "category": 5,
+   "index": 5,
+   "questType": "DIMENSION",
+   "questKey": "",
+   "questValue": 5,
+   "desc": "LocalizeGuideQuestDesc000013",
+   "hintStr": "FOCUS_CHALLENGE",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst006000": {
+   "key": "GuideQst006000",
+   "category": 6,
+   "index": 0,
+   "questType": "HERO_LV",
+   "questKey": "29",
+   "questValue": 4,
+   "desc": "LocalizeGuideQuestDesc000002",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst006001": {
+   "key": "GuideQst006001",
+   "category": 6,
+   "index": 1,
+   "questType": "POWER",
+   "questKey": "",
+   "questValue": 60000,
+   "desc": "LocalizeGuideQuestDesc000012",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst006002": {
+   "key": "GuideQst006002",
+   "category": 6,
+   "index": 2,
+   "questType": "PUB",
+   "questKey": "",
+   "questValue": 80,
+   "desc": "LocalizeGuideQuestDesc000020",
+   "hintStr": "337.4683,-101.4696",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  },
+  "GuideQst006003": {
+   "key": "GuideQst006003",
+   "category": 6,
+   "index": 3,
+   "questType": "RUNE_LV",
+   "questKey": "",
+   "questValue": 5,
+   "desc": "LocalizeGuideQuestDesc000015",
+   "hintStr": "",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    20,
+    5
+   ]
+  },
+  "GuideQst006004": {
+   "key": "GuideQst006004",
+   "category": 6,
+   "index": 4,
+   "questType": "RAID",
+   "questKey": "",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000016",
+   "hintStr": "FOCUS_CHALLENGE",
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    20,
+    3
+   ]
+  },
+  "GuideQst006005": {
+   "key": "GuideQst006005",
+   "category": 6,
+   "index": 5,
+   "questType": "MONSTER",
+   "questKey": "Unit000616",
+   "questValue": 1,
+   "desc": "LocalizeGuideQuestDesc000014",
+   "hintStr": "287.09,135.46",
+   "rewardKeyList": [
+    "Item002003",
+    "Item011004"
+   ],
+   "amountList": [
+    20,
+    10
+   ]
+  }
+ }
+}

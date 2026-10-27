@@ -4,3 +4,7 @@ references/original-motion/
 references/original-tiles/
 references/original-fx/
 docs/design/production/redesign-reference-study.png
+
+# Python local runtime cache
+__pycache__/
+*.pyc

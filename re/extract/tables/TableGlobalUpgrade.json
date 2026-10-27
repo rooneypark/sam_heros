@@ -1,0 +1,6026 @@
+{
+ "sheetName": "TableGlobalUpgradeData",
+ "tableIndex": 0,
+ "rows": {
+  "GlobalUpgrade000000": {
+   "key": "GlobalUpgrade000000",
+   "category": 0,
+   "level": 0,
+   "limitLv": 0,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat000000"
+  },
+  "GlobalUpgrade000001": {
+   "key": "GlobalUpgrade000001",
+   "category": 0,
+   "level": 1,
+   "limitLv": 0,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat000001"
+  },
+  "GlobalUpgrade000002": {
+   "key": "GlobalUpgrade000002",
+   "category": 0,
+   "level": 2,
+   "limitLv": 0,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat000002"
+  },
+  "GlobalUpgrade000003": {
+   "key": "GlobalUpgrade000003",
+   "category": 0,
+   "level": 3,
+   "limitLv": 1,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat000003"
+  },
+  "GlobalUpgrade000004": {
+   "key": "GlobalUpgrade000004",
+   "category": 0,
+   "level": 4,
+   "limitLv": 1,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat000004"
+  },
+  "GlobalUpgrade000005": {
+   "key": "GlobalUpgrade000005",
+   "category": 0,
+   "level": 5,
+   "limitLv": 1,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat000005"
+  },
+  "GlobalUpgrade000006": {
+   "key": "GlobalUpgrade000006",
+   "category": 0,
+   "level": 6,
+   "limitLv": 2,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat000006"
+  },
+  "GlobalUpgrade000007": {
+   "key": "GlobalUpgrade000007",
+   "category": 0,
+   "level": 7,
+   "limitLv": 2,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat000007"
+  },
+  "GlobalUpgrade000008": {
+   "key": "GlobalUpgrade000008",
+   "category": 0,
+   "level": 8,
+   "limitLv": 2,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat000008"
+  },
+  "GlobalUpgrade000009": {
+   "key": "GlobalUpgrade000009",
+   "category": 0,
+   "level": 9,
+   "limitLv": 3,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat000009"
+  },
+  "GlobalUpgrade000010": {
+   "key": "GlobalUpgrade000010",
+   "category": 0,
+   "level": 10,
+   "limitLv": 3,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat000010"
+  },
+  "GlobalUpgrade000011": {
+   "key": "GlobalUpgrade000011",
+   "category": 0,
+   "level": 11,
+   "limitLv": 3,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat000011"
+  },
+  "GlobalUpgrade000012": {
+   "key": "GlobalUpgrade000012",
+   "category": 0,
+   "level": 12,
+   "limitLv": 4,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat000012"
+  },
+  "GlobalUpgrade000013": {
+   "key": "GlobalUpgrade000013",
+   "category": 0,
+   "level": 13,
+   "limitLv": 4,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat000013"
+  },
+  "GlobalUpgrade000014": {
+   "key": "GlobalUpgrade000014",
+   "category": 0,
+   "level": 14,
+   "limitLv": 4,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat000014"
+  },
+  "GlobalUpgrade000015": {
+   "key": "GlobalUpgrade000015",
+   "category": 0,
+   "level": 15,
+   "limitLv": 5,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat000015"
+  },
+  "GlobalUpgrade000016": {
+   "key": "GlobalUpgrade000016",
+   "category": 0,
+   "level": 16,
+   "limitLv": 5,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat000016"
+  },
+  "GlobalUpgrade000017": {
+   "key": "GlobalUpgrade000017",
+   "category": 0,
+   "level": 17,
+   "limitLv": 5,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat000017"
+  },
+  "GlobalUpgrade000018": {
+   "key": "GlobalUpgrade000018",
+   "category": 0,
+   "level": 18,
+   "limitLv": 6,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    7
+   ],
+   "upgradeKey": "UpgradeStat000018"
+  },
+  "GlobalUpgrade000019": {
+   "key": "GlobalUpgrade000019",
+   "category": 0,
+   "level": 19,
+   "limitLv": 6,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    7
+   ],
+   "upgradeKey": "UpgradeStat000019"
+  },
+  "GlobalUpgrade000020": {
+   "key": "GlobalUpgrade000020",
+   "category": 0,
+   "level": 20,
+   "limitLv": 6,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    7
+   ],
+   "upgradeKey": "UpgradeStat000020"
+  },
+  "GlobalUpgrade000021": {
+   "key": "GlobalUpgrade000021",
+   "category": 0,
+   "level": 21,
+   "limitLv": 7,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat000021"
+  },
+  "GlobalUpgrade000022": {
+   "key": "GlobalUpgrade000022",
+   "category": 0,
+   "level": 22,
+   "limitLv": 7,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat000022"
+  },
+  "GlobalUpgrade000023": {
+   "key": "GlobalUpgrade000023",
+   "category": 0,
+   "level": 23,
+   "limitLv": 7,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat000023"
+  },
+  "GlobalUpgrade000024": {
+   "key": "GlobalUpgrade000024",
+   "category": 0,
+   "level": 24,
+   "limitLv": 8,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    9
+   ],
+   "upgradeKey": "UpgradeStat000024"
+  },
+  "GlobalUpgrade000025": {
+   "key": "GlobalUpgrade000025",
+   "category": 0,
+   "level": 25,
+   "limitLv": 8,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    9
+   ],
+   "upgradeKey": "UpgradeStat000025"
+  },
+  "GlobalUpgrade000026": {
+   "key": "GlobalUpgrade000026",
+   "category": 0,
+   "level": 26,
+   "limitLv": 8,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    9
+   ],
+   "upgradeKey": "UpgradeStat000026"
+  },
+  "GlobalUpgrade000027": {
+   "key": "GlobalUpgrade000027",
+   "category": 0,
+   "level": 27,
+   "limitLv": 9,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat000027"
+  },
+  "GlobalUpgrade000028": {
+   "key": "GlobalUpgrade000028",
+   "category": 0,
+   "level": 28,
+   "limitLv": 9,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat000028"
+  },
+  "GlobalUpgrade000029": {
+   "key": "GlobalUpgrade000029",
+   "category": 0,
+   "level": 29,
+   "limitLv": 9,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat000029"
+  },
+  "GlobalUpgrade000030": {
+   "key": "GlobalUpgrade000030",
+   "category": 0,
+   "level": 30,
+   "limitLv": 10,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    12
+   ],
+   "upgradeKey": "UpgradeStat000030"
+  },
+  "GlobalUpgrade000031": {
+   "key": "GlobalUpgrade000031",
+   "category": 0,
+   "level": 31,
+   "limitLv": 10,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    12
+   ],
+   "upgradeKey": "UpgradeStat000031"
+  },
+  "GlobalUpgrade000032": {
+   "key": "GlobalUpgrade000032",
+   "category": 0,
+   "level": 32,
+   "limitLv": 10,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    12
+   ],
+   "upgradeKey": "UpgradeStat000032"
+  },
+  "GlobalUpgrade000033": {
+   "key": "GlobalUpgrade000033",
+   "category": 0,
+   "level": 33,
+   "limitLv": 11,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    14
+   ],
+   "upgradeKey": "UpgradeStat000033"
+  },
+  "GlobalUpgrade000034": {
+   "key": "GlobalUpgrade000034",
+   "category": 0,
+   "level": 34,
+   "limitLv": 11,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    14
+   ],
+   "upgradeKey": "UpgradeStat000034"
+  },
+  "GlobalUpgrade000035": {
+   "key": "GlobalUpgrade000035",
+   "category": 0,
+   "level": 35,
+   "limitLv": 11,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    14
+   ],
+   "upgradeKey": "UpgradeStat000035"
+  },
+  "GlobalUpgrade000036": {
+   "key": "GlobalUpgrade000036",
+   "category": 0,
+   "level": 36,
+   "limitLv": 12,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    16
+   ],
+   "upgradeKey": "UpgradeStat000036"
+  },
+  "GlobalUpgrade000037": {
+   "key": "GlobalUpgrade000037",
+   "category": 0,
+   "level": 37,
+   "limitLv": 12,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    16
+   ],
+   "upgradeKey": "UpgradeStat000037"
+  },
+  "GlobalUpgrade000038": {
+   "key": "GlobalUpgrade000038",
+   "category": 0,
+   "level": 38,
+   "limitLv": 12,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    16
+   ],
+   "upgradeKey": "UpgradeStat000038"
+  },
+  "GlobalUpgrade000039": {
+   "key": "GlobalUpgrade000039",
+   "category": 0,
+   "level": 39,
+   "limitLv": 13,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    18
+   ],
+   "upgradeKey": "UpgradeStat000039"
+  },
+  "GlobalUpgrade000040": {
+   "key": "GlobalUpgrade000040",
+   "category": 0,
+   "level": 40,
+   "limitLv": 13,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    18
+   ],
+   "upgradeKey": "UpgradeStat000040"
+  },
+  "GlobalUpgrade000041": {
+   "key": "GlobalUpgrade000041",
+   "category": 0,
+   "level": 41,
+   "limitLv": 13,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    18
+   ],
+   "upgradeKey": "UpgradeStat000041"
+  },
+  "GlobalUpgrade000042": {
+   "key": "GlobalUpgrade000042",
+   "category": 0,
+   "level": 42,
+   "limitLv": 14,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat000042"
+  },
+  "GlobalUpgrade000043": {
+   "key": "GlobalUpgrade000043",
+   "category": 0,
+   "level": 43,
+   "limitLv": 14,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat000043"
+  },
+  "GlobalUpgrade000044": {
+   "key": "GlobalUpgrade000044",
+   "category": 0,
+   "level": 44,
+   "limitLv": 14,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat000044"
+  },
+  "GlobalUpgrade000045": {
+   "key": "GlobalUpgrade000045",
+   "category": 0,
+   "level": 45,
+   "limitLv": 15,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    22
+   ],
+   "upgradeKey": "UpgradeStat000045"
+  },
+  "GlobalUpgrade000046": {
+   "key": "GlobalUpgrade000046",
+   "category": 0,
+   "level": 46,
+   "limitLv": 15,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    22
+   ],
+   "upgradeKey": "UpgradeStat000046"
+  },
+  "GlobalUpgrade000047": {
+   "key": "GlobalUpgrade000047",
+   "category": 0,
+   "level": 47,
+   "limitLv": 15,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    22
+   ],
+   "upgradeKey": "UpgradeStat000047"
+  },
+  "GlobalUpgrade000048": {
+   "key": "GlobalUpgrade000048",
+   "category": 0,
+   "level": 48,
+   "limitLv": 16,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    24
+   ],
+   "upgradeKey": "UpgradeStat000048"
+  },
+  "GlobalUpgrade000049": {
+   "key": "GlobalUpgrade000049",
+   "category": 0,
+   "level": 49,
+   "limitLv": 16,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    24
+   ],
+   "upgradeKey": "UpgradeStat000049"
+  },
+  "GlobalUpgrade000050": {
+   "key": "GlobalUpgrade000050",
+   "category": 0,
+   "level": 50,
+   "limitLv": 16,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    24
+   ],
+   "upgradeKey": "UpgradeStat000050"
+  },
+  "GlobalUpgrade000051": {
+   "key": "GlobalUpgrade000051",
+   "category": 0,
+   "level": 51,
+   "limitLv": 17,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    26
+   ],
+   "upgradeKey": "UpgradeStat000051"
+  },
+  "GlobalUpgrade000052": {
+   "key": "GlobalUpgrade000052",
+   "category": 0,
+   "level": 52,
+   "limitLv": 17,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    26
+   ],
+   "upgradeKey": "UpgradeStat000052"
+  },
+  "GlobalUpgrade000053": {
+   "key": "GlobalUpgrade000053",
+   "category": 0,
+   "level": 53,
+   "limitLv": 17,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    26
+   ],
+   "upgradeKey": "UpgradeStat000053"
+  },
+  "GlobalUpgrade000054": {
+   "key": "GlobalUpgrade000054",
+   "category": 0,
+   "level": 54,
+   "limitLv": 18,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    28
+   ],
+   "upgradeKey": "UpgradeStat000054"
+  },
+  "GlobalUpgrade000055": {
+   "key": "GlobalUpgrade000055",
+   "category": 0,
+   "level": 55,
+   "limitLv": 18,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    28
+   ],
+   "upgradeKey": "UpgradeStat000055"
+  },
+  "GlobalUpgrade000056": {
+   "key": "GlobalUpgrade000056",
+   "category": 0,
+   "level": 56,
+   "limitLv": 18,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    28
+   ],
+   "upgradeKey": "UpgradeStat000056"
+  },
+  "GlobalUpgrade000057": {
+   "key": "GlobalUpgrade000057",
+   "category": 0,
+   "level": 57,
+   "limitLv": 19,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat000057"
+  },
+  "GlobalUpgrade000058": {
+   "key": "GlobalUpgrade000058",
+   "category": 0,
+   "level": 58,
+   "limitLv": 19,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat000058"
+  },
+  "GlobalUpgrade000059": {
+   "key": "GlobalUpgrade000059",
+   "category": 0,
+   "level": 59,
+   "limitLv": 19,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat000059"
+  },
+  "GlobalUpgrade000060": {
+   "key": "GlobalUpgrade000060",
+   "category": 0,
+   "level": 60,
+   "limitLv": 20,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    33
+   ],
+   "upgradeKey": "UpgradeStat000060"
+  },
+  "GlobalUpgrade000061": {
+   "key": "GlobalUpgrade000061",
+   "category": 0,
+   "level": 61,
+   "limitLv": 20,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    33
+   ],
+   "upgradeKey": "UpgradeStat000061"
+  },
+  "GlobalUpgrade000062": {
+   "key": "GlobalUpgrade000062",
+   "category": 0,
+   "level": 62,
+   "limitLv": 20,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    33
+   ],
+   "upgradeKey": "UpgradeStat000062"
+  },
+  "GlobalUpgrade000063": {
+   "key": "GlobalUpgrade000063",
+   "category": 0,
+   "level": 63,
+   "limitLv": 21,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    36
+   ],
+   "upgradeKey": "UpgradeStat000063"
+  },
+  "GlobalUpgrade000064": {
+   "key": "GlobalUpgrade000064",
+   "category": 0,
+   "level": 64,
+   "limitLv": 21,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    36
+   ],
+   "upgradeKey": "UpgradeStat000064"
+  },
+  "GlobalUpgrade000065": {
+   "key": "GlobalUpgrade000065",
+   "category": 0,
+   "level": 65,
+   "limitLv": 21,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    36
+   ],
+   "upgradeKey": "UpgradeStat000065"
+  },
+  "GlobalUpgrade000066": {
+   "key": "GlobalUpgrade000066",
+   "category": 0,
+   "level": 66,
+   "limitLv": 22,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    39
+   ],
+   "upgradeKey": "UpgradeStat000066"
+  },
+  "GlobalUpgrade000067": {
+   "key": "GlobalUpgrade000067",
+   "category": 0,
+   "level": 67,
+   "limitLv": 22,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    39
+   ],
+   "upgradeKey": "UpgradeStat000067"
+  },
+  "GlobalUpgrade000068": {
+   "key": "GlobalUpgrade000068",
+   "category": 0,
+   "level": 68,
+   "limitLv": 22,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    39
+   ],
+   "upgradeKey": "UpgradeStat000068"
+  },
+  "GlobalUpgrade000069": {
+   "key": "GlobalUpgrade000069",
+   "category": 0,
+   "level": 69,
+   "limitLv": 23,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat000069"
+  },
+  "GlobalUpgrade000070": {
+   "key": "GlobalUpgrade000070",
+   "category": 0,
+   "level": 70,
+   "limitLv": 23,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat000070"
+  },
+  "GlobalUpgrade000071": {
+   "key": "GlobalUpgrade000071",
+   "category": 0,
+   "level": 71,
+   "limitLv": 23,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat000071"
+  },
+  "GlobalUpgrade000072": {
+   "key": "GlobalUpgrade000072",
+   "category": 0,
+   "level": 72,
+   "limitLv": 24,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    45
+   ],
+   "upgradeKey": "UpgradeStat000072"
+  },
+  "GlobalUpgrade000073": {
+   "key": "GlobalUpgrade000073",
+   "category": 0,
+   "level": 73,
+   "limitLv": 24,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    45
+   ],
+   "upgradeKey": "UpgradeStat000073"
+  },
+  "GlobalUpgrade000074": {
+   "key": "GlobalUpgrade000074",
+   "category": 0,
+   "level": 74,
+   "limitLv": 24,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    45
+   ],
+   "upgradeKey": "UpgradeStat000074"
+  },
+  "GlobalUpgrade000075": {
+   "key": "GlobalUpgrade000075",
+   "category": 0,
+   "level": 75,
+   "limitLv": 25,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    48
+   ],
+   "upgradeKey": "UpgradeStat000075"
+  },
+  "GlobalUpgrade000076": {
+   "key": "GlobalUpgrade000076",
+   "category": 0,
+   "level": 76,
+   "limitLv": 25,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    48
+   ],
+   "upgradeKey": "UpgradeStat000076"
+  },
+  "GlobalUpgrade000077": {
+   "key": "GlobalUpgrade000077",
+   "category": 0,
+   "level": 77,
+   "limitLv": 25,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    48
+   ],
+   "upgradeKey": "UpgradeStat000077"
+  },
+  "GlobalUpgrade000078": {
+   "key": "GlobalUpgrade000078",
+   "category": 0,
+   "level": 78,
+   "limitLv": 26,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    51
+   ],
+   "upgradeKey": "UpgradeStat000078"
+  },
+  "GlobalUpgrade000079": {
+   "key": "GlobalUpgrade000079",
+   "category": 0,
+   "level": 79,
+   "limitLv": 26,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    51
+   ],
+   "upgradeKey": "UpgradeStat000079"
+  },
+  "GlobalUpgrade000080": {
+   "key": "GlobalUpgrade000080",
+   "category": 0,
+   "level": 80,
+   "limitLv": 26,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    51
+   ],
+   "upgradeKey": "UpgradeStat000080"
+  },
+  "GlobalUpgrade000081": {
+   "key": "GlobalUpgrade000081",
+   "category": 0,
+   "level": 81,
+   "limitLv": 27,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    54
+   ],
+   "upgradeKey": "UpgradeStat000081"
+  },
+  "GlobalUpgrade000082": {
+   "key": "GlobalUpgrade000082",
+   "category": 0,
+   "level": 82,
+   "limitLv": 27,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    54
+   ],
+   "upgradeKey": "UpgradeStat000082"
+  },
+  "GlobalUpgrade000083": {
+   "key": "GlobalUpgrade000083",
+   "category": 0,
+   "level": 83,
+   "limitLv": 27,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    54
+   ],
+   "upgradeKey": "UpgradeStat000083"
+  },
+  "GlobalUpgrade000084": {
+   "key": "GlobalUpgrade000084",
+   "category": 0,
+   "level": 84,
+   "limitLv": 28,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    57
+   ],
+   "upgradeKey": "UpgradeStat000084"
+  },
+  "GlobalUpgrade000085": {
+   "key": "GlobalUpgrade000085",
+   "category": 0,
+   "level": 85,
+   "limitLv": 28,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    57
+   ],
+   "upgradeKey": "UpgradeStat000085"
+  },
+  "GlobalUpgrade000086": {
+   "key": "GlobalUpgrade000086",
+   "category": 0,
+   "level": 86,
+   "limitLv": 28,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    57
+   ],
+   "upgradeKey": "UpgradeStat000086"
+  },
+  "GlobalUpgrade000087": {
+   "key": "GlobalUpgrade000087",
+   "category": 0,
+   "level": 87,
+   "limitLv": 29,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat000087"
+  },
+  "GlobalUpgrade000088": {
+   "key": "GlobalUpgrade000088",
+   "category": 0,
+   "level": 88,
+   "limitLv": 29,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat000088"
+  },
+  "GlobalUpgrade000089": {
+   "key": "GlobalUpgrade000089",
+   "category": 0,
+   "level": 89,
+   "limitLv": 29,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat000089"
+  },
+  "GlobalUpgrade000090": {
+   "key": "GlobalUpgrade000090",
+   "category": 0,
+   "level": 90,
+   "limitLv": 30,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    64
+   ],
+   "upgradeKey": "UpgradeStat000090"
+  },
+  "GlobalUpgrade000091": {
+   "key": "GlobalUpgrade000091",
+   "category": 0,
+   "level": 91,
+   "limitLv": 30,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    64
+   ],
+   "upgradeKey": "UpgradeStat000091"
+  },
+  "GlobalUpgrade000092": {
+   "key": "GlobalUpgrade000092",
+   "category": 0,
+   "level": 92,
+   "limitLv": 30,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    64
+   ],
+   "upgradeKey": "UpgradeStat000092"
+  },
+  "GlobalUpgrade000093": {
+   "key": "GlobalUpgrade000093",
+   "category": 0,
+   "level": 93,
+   "limitLv": 31,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    68
+   ],
+   "upgradeKey": "UpgradeStat000093"
+  },
+  "GlobalUpgrade000094": {
+   "key": "GlobalUpgrade000094",
+   "category": 0,
+   "level": 94,
+   "limitLv": 31,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    68
+   ],
+   "upgradeKey": "UpgradeStat000094"
+  },
+  "GlobalUpgrade000095": {
+   "key": "GlobalUpgrade000095",
+   "category": 0,
+   "level": 95,
+   "limitLv": 31,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    68
+   ],
+   "upgradeKey": "UpgradeStat000095"
+  },
+  "GlobalUpgrade000096": {
+   "key": "GlobalUpgrade000096",
+   "category": 0,
+   "level": 96,
+   "limitLv": 32,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    72
+   ],
+   "upgradeKey": "UpgradeStat000096"
+  },
+  "GlobalUpgrade000097": {
+   "key": "GlobalUpgrade000097",
+   "category": 0,
+   "level": 97,
+   "limitLv": 32,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    72
+   ],
+   "upgradeKey": "UpgradeStat000097"
+  },
+  "GlobalUpgrade000098": {
+   "key": "GlobalUpgrade000098",
+   "category": 0,
+   "level": 98,
+   "limitLv": 32,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    72
+   ],
+   "upgradeKey": "UpgradeStat000098"
+  },
+  "GlobalUpgrade000099": {
+   "key": "GlobalUpgrade000099",
+   "category": 0,
+   "level": 99,
+   "limitLv": 33,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    76
+   ],
+   "upgradeKey": "UpgradeStat000099"
+  },
+  "GlobalUpgrade000100": {
+   "key": "GlobalUpgrade000100",
+   "category": 0,
+   "level": 100,
+   "limitLv": 33,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    76
+   ],
+   "upgradeKey": "UpgradeStat000100"
+  },
+  "GlobalUpgrade000101": {
+   "key": "GlobalUpgrade000101",
+   "category": 0,
+   "level": 101,
+   "limitLv": 33,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    76
+   ],
+   "upgradeKey": "UpgradeStat000101"
+  },
+  "GlobalUpgrade000102": {
+   "key": "GlobalUpgrade000102",
+   "category": 0,
+   "level": 102,
+   "limitLv": 34,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat000102"
+  },
+  "GlobalUpgrade000103": {
+   "key": "GlobalUpgrade000103",
+   "category": 0,
+   "level": 103,
+   "limitLv": 34,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat000103"
+  },
+  "GlobalUpgrade000104": {
+   "key": "GlobalUpgrade000104",
+   "category": 0,
+   "level": 104,
+   "limitLv": 34,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat000104"
+  },
+  "GlobalUpgrade000105": {
+   "key": "GlobalUpgrade000105",
+   "category": 0,
+   "level": 105,
+   "limitLv": 35,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    84
+   ],
+   "upgradeKey": "UpgradeStat000105"
+  },
+  "GlobalUpgrade000106": {
+   "key": "GlobalUpgrade000106",
+   "category": 0,
+   "level": 106,
+   "limitLv": 35,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    84
+   ],
+   "upgradeKey": "UpgradeStat000106"
+  },
+  "GlobalUpgrade000107": {
+   "key": "GlobalUpgrade000107",
+   "category": 0,
+   "level": 107,
+   "limitLv": 35,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    84
+   ],
+   "upgradeKey": "UpgradeStat000107"
+  },
+  "GlobalUpgrade000108": {
+   "key": "GlobalUpgrade000108",
+   "category": 0,
+   "level": 108,
+   "limitLv": 36,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    88
+   ],
+   "upgradeKey": "UpgradeStat000108"
+  },
+  "GlobalUpgrade000109": {
+   "key": "GlobalUpgrade000109",
+   "category": 0,
+   "level": 109,
+   "limitLv": 36,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    88
+   ],
+   "upgradeKey": "UpgradeStat000109"
+  },
+  "GlobalUpgrade000110": {
+   "key": "GlobalUpgrade000110",
+   "category": 0,
+   "level": 110,
+   "limitLv": 36,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    88
+   ],
+   "upgradeKey": "UpgradeStat000110"
+  },
+  "GlobalUpgrade000111": {
+   "key": "GlobalUpgrade000111",
+   "category": 0,
+   "level": 111,
+   "limitLv": 37,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    92
+   ],
+   "upgradeKey": "UpgradeStat000111"
+  },
+  "GlobalUpgrade000112": {
+   "key": "GlobalUpgrade000112",
+   "category": 0,
+   "level": 112,
+   "limitLv": 37,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    92
+   ],
+   "upgradeKey": "UpgradeStat000112"
+  },
+  "GlobalUpgrade000113": {
+   "key": "GlobalUpgrade000113",
+   "category": 0,
+   "level": 113,
+   "limitLv": 37,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    92
+   ],
+   "upgradeKey": "UpgradeStat000113"
+  },
+  "GlobalUpgrade000114": {
+   "key": "GlobalUpgrade000114",
+   "category": 0,
+   "level": 114,
+   "limitLv": 38,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    96
+   ],
+   "upgradeKey": "UpgradeStat000114"
+  },
+  "GlobalUpgrade000115": {
+   "key": "GlobalUpgrade000115",
+   "category": 0,
+   "level": 115,
+   "limitLv": 38,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    96
+   ],
+   "upgradeKey": "UpgradeStat000115"
+  },
+  "GlobalUpgrade000116": {
+   "key": "GlobalUpgrade000116",
+   "category": 0,
+   "level": 116,
+   "limitLv": 38,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    96
+   ],
+   "upgradeKey": "UpgradeStat000116"
+  },
+  "GlobalUpgrade000117": {
+   "key": "GlobalUpgrade000117",
+   "category": 0,
+   "level": 117,
+   "limitLv": 39,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    100
+   ],
+   "upgradeKey": "UpgradeStat000117"
+  },
+  "GlobalUpgrade000118": {
+   "key": "GlobalUpgrade000118",
+   "category": 0,
+   "level": 118,
+   "limitLv": 39,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    100
+   ],
+   "upgradeKey": "UpgradeStat000118"
+  },
+  "GlobalUpgrade000119": {
+   "key": "GlobalUpgrade000119",
+   "category": 0,
+   "level": 119,
+   "limitLv": 39,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    100
+   ],
+   "upgradeKey": "UpgradeStat000119"
+  },
+  "GlobalUpgrade000120": {
+   "key": "GlobalUpgrade000120",
+   "category": 0,
+   "level": 120,
+   "limitLv": 40,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    105
+   ],
+   "upgradeKey": "UpgradeStat000120"
+  },
+  "GlobalUpgrade000121": {
+   "key": "GlobalUpgrade000121",
+   "category": 0,
+   "level": 121,
+   "limitLv": 40,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    105
+   ],
+   "upgradeKey": "UpgradeStat000121"
+  },
+  "GlobalUpgrade000122": {
+   "key": "GlobalUpgrade000122",
+   "category": 0,
+   "level": 122,
+   "limitLv": 40,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    105
+   ],
+   "upgradeKey": "UpgradeStat000122"
+  },
+  "GlobalUpgrade000123": {
+   "key": "GlobalUpgrade000123",
+   "category": 0,
+   "level": 123,
+   "limitLv": 41,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    110
+   ],
+   "upgradeKey": "UpgradeStat000123"
+  },
+  "GlobalUpgrade000124": {
+   "key": "GlobalUpgrade000124",
+   "category": 0,
+   "level": 124,
+   "limitLv": 41,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    110
+   ],
+   "upgradeKey": "UpgradeStat000124"
+  },
+  "GlobalUpgrade000125": {
+   "key": "GlobalUpgrade000125",
+   "category": 0,
+   "level": 125,
+   "limitLv": 41,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    110
+   ],
+   "upgradeKey": "UpgradeStat000125"
+  },
+  "GlobalUpgrade000126": {
+   "key": "GlobalUpgrade000126",
+   "category": 0,
+   "level": 126,
+   "limitLv": 42,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    115
+   ],
+   "upgradeKey": "UpgradeStat000126"
+  },
+  "GlobalUpgrade000127": {
+   "key": "GlobalUpgrade000127",
+   "category": 0,
+   "level": 127,
+   "limitLv": 42,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    115
+   ],
+   "upgradeKey": "UpgradeStat000127"
+  },
+  "GlobalUpgrade000128": {
+   "key": "GlobalUpgrade000128",
+   "category": 0,
+   "level": 128,
+   "limitLv": 42,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    115
+   ],
+   "upgradeKey": "UpgradeStat000128"
+  },
+  "GlobalUpgrade000129": {
+   "key": "GlobalUpgrade000129",
+   "category": 0,
+   "level": 129,
+   "limitLv": 43,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    120
+   ],
+   "upgradeKey": "UpgradeStat000129"
+  },
+  "GlobalUpgrade000130": {
+   "key": "GlobalUpgrade000130",
+   "category": 0,
+   "level": 130,
+   "limitLv": 43,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    120
+   ],
+   "upgradeKey": "UpgradeStat000130"
+  },
+  "GlobalUpgrade000131": {
+   "key": "GlobalUpgrade000131",
+   "category": 0,
+   "level": 131,
+   "limitLv": 43,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    120
+   ],
+   "upgradeKey": "UpgradeStat000131"
+  },
+  "GlobalUpgrade000132": {
+   "key": "GlobalUpgrade000132",
+   "category": 0,
+   "level": 132,
+   "limitLv": 44,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    125
+   ],
+   "upgradeKey": "UpgradeStat000132"
+  },
+  "GlobalUpgrade000133": {
+   "key": "GlobalUpgrade000133",
+   "category": 0,
+   "level": 133,
+   "limitLv": 44,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    125
+   ],
+   "upgradeKey": "UpgradeStat000133"
+  },
+  "GlobalUpgrade000134": {
+   "key": "GlobalUpgrade000134",
+   "category": 0,
+   "level": 134,
+   "limitLv": 44,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    125
+   ],
+   "upgradeKey": "UpgradeStat000134"
+  },
+  "GlobalUpgrade000135": {
+   "key": "GlobalUpgrade000135",
+   "category": 0,
+   "level": 135,
+   "limitLv": 45,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    130
+   ],
+   "upgradeKey": "UpgradeStat000135"
+  },
+  "GlobalUpgrade000136": {
+   "key": "GlobalUpgrade000136",
+   "category": 0,
+   "level": 136,
+   "limitLv": 45,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    130
+   ],
+   "upgradeKey": "UpgradeStat000136"
+  },
+  "GlobalUpgrade000137": {
+   "key": "GlobalUpgrade000137",
+   "category": 0,
+   "level": 137,
+   "limitLv": 45,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    130
+   ],
+   "upgradeKey": "UpgradeStat000137"
+  },
+  "GlobalUpgrade000138": {
+   "key": "GlobalUpgrade000138",
+   "category": 0,
+   "level": 138,
+   "limitLv": 46,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    135
+   ],
+   "upgradeKey": "UpgradeStat000138"
+  },
+  "GlobalUpgrade000139": {
+   "key": "GlobalUpgrade000139",
+   "category": 0,
+   "level": 139,
+   "limitLv": 46,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    135
+   ],
+   "upgradeKey": "UpgradeStat000139"
+  },
+  "GlobalUpgrade000140": {
+   "key": "GlobalUpgrade000140",
+   "category": 0,
+   "level": 140,
+   "limitLv": 46,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    135
+   ],
+   "upgradeKey": "UpgradeStat000140"
+  },
+  "GlobalUpgrade000141": {
+   "key": "GlobalUpgrade000141",
+   "category": 0,
+   "level": 141,
+   "limitLv": 47,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    140
+   ],
+   "upgradeKey": "UpgradeStat000141"
+  },
+  "GlobalUpgrade000142": {
+   "key": "GlobalUpgrade000142",
+   "category": 0,
+   "level": 142,
+   "limitLv": 47,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    140
+   ],
+   "upgradeKey": "UpgradeStat000142"
+  },
+  "GlobalUpgrade000143": {
+   "key": "GlobalUpgrade000143",
+   "category": 0,
+   "level": 143,
+   "limitLv": 47,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    140
+   ],
+   "upgradeKey": "UpgradeStat000143"
+  },
+  "GlobalUpgrade000144": {
+   "key": "GlobalUpgrade000144",
+   "category": 0,
+   "level": 144,
+   "limitLv": 48,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    145
+   ],
+   "upgradeKey": "UpgradeStat000144"
+  },
+  "GlobalUpgrade000145": {
+   "key": "GlobalUpgrade000145",
+   "category": 0,
+   "level": 145,
+   "limitLv": 48,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    145
+   ],
+   "upgradeKey": "UpgradeStat000145"
+  },
+  "GlobalUpgrade000146": {
+   "key": "GlobalUpgrade000146",
+   "category": 0,
+   "level": 146,
+   "limitLv": 48,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    145
+   ],
+   "upgradeKey": "UpgradeStat000146"
+  },
+  "GlobalUpgrade000147": {
+   "key": "GlobalUpgrade000147",
+   "category": 0,
+   "level": 147,
+   "limitLv": 49,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    150
+   ],
+   "upgradeKey": "UpgradeStat000147"
+  },
+  "GlobalUpgrade000148": {
+   "key": "GlobalUpgrade000148",
+   "category": 0,
+   "level": 148,
+   "limitLv": 49,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    150
+   ],
+   "upgradeKey": "UpgradeStat000148"
+  },
+  "GlobalUpgrade000149": {
+   "key": "GlobalUpgrade000149",
+   "category": 0,
+   "level": 149,
+   "limitLv": 49,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    150
+   ],
+   "upgradeKey": "UpgradeStat000149"
+  },
+  "GlobalUpgrade000150": {
+   "key": "GlobalUpgrade000150",
+   "category": 0,
+   "level": 150,
+   "limitLv": 50,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    160
+   ],
+   "upgradeKey": "UpgradeStat000150"
+  },
+  "GlobalUpgrade000151": {
+   "key": "GlobalUpgrade000151",
+   "category": 0,
+   "level": 151,
+   "limitLv": 50,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    160
+   ],
+   "upgradeKey": "UpgradeStat000151"
+  },
+  "GlobalUpgrade000152": {
+   "key": "GlobalUpgrade000152",
+   "category": 0,
+   "level": 152,
+   "limitLv": 50,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    160
+   ],
+   "upgradeKey": "UpgradeStat000152"
+  },
+  "GlobalUpgrade000153": {
+   "key": "GlobalUpgrade000153",
+   "category": 0,
+   "level": 153,
+   "limitLv": 51,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    170
+   ],
+   "upgradeKey": "UpgradeStat000153"
+  },
+  "GlobalUpgrade000154": {
+   "key": "GlobalUpgrade000154",
+   "category": 0,
+   "level": 154,
+   "limitLv": 51,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    170
+   ],
+   "upgradeKey": "UpgradeStat000154"
+  },
+  "GlobalUpgrade000155": {
+   "key": "GlobalUpgrade000155",
+   "category": 0,
+   "level": 155,
+   "limitLv": 51,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    170
+   ],
+   "upgradeKey": "UpgradeStat000155"
+  },
+  "GlobalUpgrade000156": {
+   "key": "GlobalUpgrade000156",
+   "category": 0,
+   "level": 156,
+   "limitLv": 52,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    180
+   ],
+   "upgradeKey": "UpgradeStat000156"
+  },
+  "GlobalUpgrade000157": {
+   "key": "GlobalUpgrade000157",
+   "category": 0,
+   "level": 157,
+   "limitLv": 52,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    180
+   ],
+   "upgradeKey": "UpgradeStat000157"
+  },
+  "GlobalUpgrade000158": {
+   "key": "GlobalUpgrade000158",
+   "category": 0,
+   "level": 158,
+   "limitLv": 52,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    180
+   ],
+   "upgradeKey": "UpgradeStat000158"
+  },
+  "GlobalUpgrade000159": {
+   "key": "GlobalUpgrade000159",
+   "category": 0,
+   "level": 159,
+   "limitLv": 53,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    190
+   ],
+   "upgradeKey": "UpgradeStat000159"
+  },
+  "GlobalUpgrade000160": {
+   "key": "GlobalUpgrade000160",
+   "category": 0,
+   "level": 160,
+   "limitLv": 53,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    190
+   ],
+   "upgradeKey": "UpgradeStat000160"
+  },
+  "GlobalUpgrade000161": {
+   "key": "GlobalUpgrade000161",
+   "category": 0,
+   "level": 161,
+   "limitLv": 53,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    190
+   ],
+   "upgradeKey": "UpgradeStat000161"
+  },
+  "GlobalUpgrade000162": {
+   "key": "GlobalUpgrade000162",
+   "category": 0,
+   "level": 162,
+   "limitLv": 54,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    200
+   ],
+   "upgradeKey": "UpgradeStat000162"
+  },
+  "GlobalUpgrade000163": {
+   "key": "GlobalUpgrade000163",
+   "category": 0,
+   "level": 163,
+   "limitLv": 54,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    200
+   ],
+   "upgradeKey": "UpgradeStat000163"
+  },
+  "GlobalUpgrade000164": {
+   "key": "GlobalUpgrade000164",
+   "category": 0,
+   "level": 164,
+   "limitLv": 54,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    200
+   ],
+   "upgradeKey": "UpgradeStat000164"
+  },
+  "GlobalUpgrade000165": {
+   "key": "GlobalUpgrade000165",
+   "category": 0,
+   "level": 165,
+   "limitLv": 55,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    210
+   ],
+   "upgradeKey": "UpgradeStat000165"
+  },
+  "GlobalUpgrade000166": {
+   "key": "GlobalUpgrade000166",
+   "category": 0,
+   "level": 166,
+   "limitLv": 55,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    210
+   ],
+   "upgradeKey": "UpgradeStat000166"
+  },
+  "GlobalUpgrade000167": {
+   "key": "GlobalUpgrade000167",
+   "category": 0,
+   "level": 167,
+   "limitLv": 55,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    210
+   ],
+   "upgradeKey": "UpgradeStat000167"
+  },
+  "GlobalUpgrade000168": {
+   "key": "GlobalUpgrade000168",
+   "category": 0,
+   "level": 168,
+   "limitLv": 56,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    220
+   ],
+   "upgradeKey": "UpgradeStat000168"
+  },
+  "GlobalUpgrade000169": {
+   "key": "GlobalUpgrade000169",
+   "category": 0,
+   "level": 169,
+   "limitLv": 56,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    220
+   ],
+   "upgradeKey": "UpgradeStat000169"
+  },
+  "GlobalUpgrade000170": {
+   "key": "GlobalUpgrade000170",
+   "category": 0,
+   "level": 170,
+   "limitLv": 56,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    220
+   ],
+   "upgradeKey": "UpgradeStat000170"
+  },
+  "GlobalUpgrade000171": {
+   "key": "GlobalUpgrade000171",
+   "category": 0,
+   "level": 171,
+   "limitLv": 57,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    230
+   ],
+   "upgradeKey": "UpgradeStat000171"
+  },
+  "GlobalUpgrade000172": {
+   "key": "GlobalUpgrade000172",
+   "category": 0,
+   "level": 172,
+   "limitLv": 57,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    230
+   ],
+   "upgradeKey": "UpgradeStat000172"
+  },
+  "GlobalUpgrade000173": {
+   "key": "GlobalUpgrade000173",
+   "category": 0,
+   "level": 173,
+   "limitLv": 57,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    230
+   ],
+   "upgradeKey": "UpgradeStat000173"
+  },
+  "GlobalUpgrade000174": {
+   "key": "GlobalUpgrade000174",
+   "category": 0,
+   "level": 174,
+   "limitLv": 58,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    240
+   ],
+   "upgradeKey": "UpgradeStat000174"
+  },
+  "GlobalUpgrade000175": {
+   "key": "GlobalUpgrade000175",
+   "category": 0,
+   "level": 175,
+   "limitLv": 58,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    240
+   ],
+   "upgradeKey": "UpgradeStat000175"
+  },
+  "GlobalUpgrade000176": {
+   "key": "GlobalUpgrade000176",
+   "category": 0,
+   "level": 176,
+   "limitLv": 58,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    240
+   ],
+   "upgradeKey": "UpgradeStat000176"
+  },
+  "GlobalUpgrade000177": {
+   "key": "GlobalUpgrade000177",
+   "category": 0,
+   "level": 177,
+   "limitLv": 59,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    250
+   ],
+   "upgradeKey": "UpgradeStat000177"
+  },
+  "GlobalUpgrade000178": {
+   "key": "GlobalUpgrade000178",
+   "category": 0,
+   "level": 178,
+   "limitLv": 59,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    250
+   ],
+   "upgradeKey": "UpgradeStat000178"
+  },
+  "GlobalUpgrade000179": {
+   "key": "GlobalUpgrade000179",
+   "category": 0,
+   "level": 179,
+   "limitLv": 59,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    250
+   ],
+   "upgradeKey": "UpgradeStat000179"
+  },
+  "GlobalUpgrade000180": {
+   "key": "GlobalUpgrade000180",
+   "category": 0,
+   "level": 180,
+   "limitLv": 60,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    260
+   ],
+   "upgradeKey": "UpgradeStat000180"
+  },
+  "GlobalUpgrade000181": {
+   "key": "GlobalUpgrade000181",
+   "category": 0,
+   "level": 181,
+   "limitLv": 60,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    260
+   ],
+   "upgradeKey": "UpgradeStat000181"
+  },
+  "GlobalUpgrade000182": {
+   "key": "GlobalUpgrade000182",
+   "category": 0,
+   "level": 182,
+   "limitLv": 60,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    260
+   ],
+   "upgradeKey": "UpgradeStat000182"
+  },
+  "GlobalUpgrade000183": {
+   "key": "GlobalUpgrade000183",
+   "category": 0,
+   "level": 183,
+   "limitLv": 61,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    270
+   ],
+   "upgradeKey": "UpgradeStat000183"
+  },
+  "GlobalUpgrade000184": {
+   "key": "GlobalUpgrade000184",
+   "category": 0,
+   "level": 184,
+   "limitLv": 61,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    270
+   ],
+   "upgradeKey": "UpgradeStat000184"
+  },
+  "GlobalUpgrade000185": {
+   "key": "GlobalUpgrade000185",
+   "category": 0,
+   "level": 185,
+   "limitLv": 61,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    270
+   ],
+   "upgradeKey": "UpgradeStat000185"
+  },
+  "GlobalUpgrade000186": {
+   "key": "GlobalUpgrade000186",
+   "category": 0,
+   "level": 186,
+   "limitLv": 62,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    280
+   ],
+   "upgradeKey": "UpgradeStat000186"
+  },
+  "GlobalUpgrade000187": {
+   "key": "GlobalUpgrade000187",
+   "category": 0,
+   "level": 187,
+   "limitLv": 62,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    280
+   ],
+   "upgradeKey": "UpgradeStat000187"
+  },
+  "GlobalUpgrade000188": {
+   "key": "GlobalUpgrade000188",
+   "category": 0,
+   "level": 188,
+   "limitLv": 62,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    280
+   ],
+   "upgradeKey": "UpgradeStat000188"
+  },
+  "GlobalUpgrade000189": {
+   "key": "GlobalUpgrade000189",
+   "category": 0,
+   "level": 189,
+   "limitLv": 63,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    290
+   ],
+   "upgradeKey": "UpgradeStat000189"
+  },
+  "GlobalUpgrade000190": {
+   "key": "GlobalUpgrade000190",
+   "category": 0,
+   "level": 190,
+   "limitLv": 63,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    290
+   ],
+   "upgradeKey": "UpgradeStat000190"
+  },
+  "GlobalUpgrade000191": {
+   "key": "GlobalUpgrade000191",
+   "category": 0,
+   "level": 191,
+   "limitLv": 63,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    290
+   ],
+   "upgradeKey": "UpgradeStat000191"
+  },
+  "GlobalUpgrade000192": {
+   "key": "GlobalUpgrade000192",
+   "category": 0,
+   "level": 192,
+   "limitLv": 64,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    300
+   ],
+   "upgradeKey": "UpgradeStat000192"
+  },
+  "GlobalUpgrade000193": {
+   "key": "GlobalUpgrade000193",
+   "category": 0,
+   "level": 193,
+   "limitLv": 64,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    300
+   ],
+   "upgradeKey": "UpgradeStat000193"
+  },
+  "GlobalUpgrade000194": {
+   "key": "GlobalUpgrade000194",
+   "category": 0,
+   "level": 194,
+   "limitLv": 64,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    300
+   ],
+   "upgradeKey": "UpgradeStat000194"
+  },
+  "GlobalUpgrade000195": {
+   "key": "GlobalUpgrade000195",
+   "category": 0,
+   "level": 195,
+   "limitLv": 65,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    310
+   ],
+   "upgradeKey": "UpgradeStat000195"
+  },
+  "GlobalUpgrade000196": {
+   "key": "GlobalUpgrade000196",
+   "category": 0,
+   "level": 196,
+   "limitLv": 65,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    310
+   ],
+   "upgradeKey": "UpgradeStat000196"
+  },
+  "GlobalUpgrade000197": {
+   "key": "GlobalUpgrade000197",
+   "category": 0,
+   "level": 197,
+   "limitLv": 65,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    310
+   ],
+   "upgradeKey": "UpgradeStat000197"
+  },
+  "GlobalUpgrade000198": {
+   "key": "GlobalUpgrade000198",
+   "category": 0,
+   "level": 198,
+   "limitLv": 66,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    320
+   ],
+   "upgradeKey": "UpgradeStat000198"
+  },
+  "GlobalUpgrade000199": {
+   "key": "GlobalUpgrade000199",
+   "category": 0,
+   "level": 199,
+   "limitLv": 66,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    320
+   ],
+   "upgradeKey": "UpgradeStat000199"
+  },
+  "GlobalUpgrade000200": {
+   "key": "GlobalUpgrade000200",
+   "category": 0,
+   "level": 200,
+   "limitLv": 66,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    320
+   ],
+   "upgradeKey": "UpgradeStat000200"
+  },
+  "GlobalUpgrade000201": {
+   "key": "GlobalUpgrade000201",
+   "category": 0,
+   "level": 201,
+   "limitLv": 67,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    330
+   ],
+   "upgradeKey": "UpgradeStat000201"
+  },
+  "GlobalUpgrade000202": {
+   "key": "GlobalUpgrade000202",
+   "category": 0,
+   "level": 202,
+   "limitLv": 67,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    330
+   ],
+   "upgradeKey": "UpgradeStat000202"
+  },
+  "GlobalUpgrade000203": {
+   "key": "GlobalUpgrade000203",
+   "category": 0,
+   "level": 203,
+   "limitLv": 67,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    330
+   ],
+   "upgradeKey": "UpgradeStat000203"
+  },
+  "GlobalUpgrade000204": {
+   "key": "GlobalUpgrade000204",
+   "category": 0,
+   "level": 204,
+   "limitLv": 68,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    340
+   ],
+   "upgradeKey": "UpgradeStat000204"
+  },
+  "GlobalUpgrade000205": {
+   "key": "GlobalUpgrade000205",
+   "category": 0,
+   "level": 205,
+   "limitLv": 68,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    340
+   ],
+   "upgradeKey": "UpgradeStat000205"
+  },
+  "GlobalUpgrade000206": {
+   "key": "GlobalUpgrade000206",
+   "category": 0,
+   "level": 206,
+   "limitLv": 68,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    340
+   ],
+   "upgradeKey": "UpgradeStat000206"
+  },
+  "GlobalUpgrade000207": {
+   "key": "GlobalUpgrade000207",
+   "category": 0,
+   "level": 207,
+   "limitLv": 69,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    350
+   ],
+   "upgradeKey": "UpgradeStat000207"
+  },
+  "GlobalUpgrade000208": {
+   "key": "GlobalUpgrade000208",
+   "category": 0,
+   "level": 208,
+   "limitLv": 69,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    350
+   ],
+   "upgradeKey": "UpgradeStat000208"
+  },
+  "GlobalUpgrade000209": {
+   "key": "GlobalUpgrade000209",
+   "category": 0,
+   "level": 209,
+   "limitLv": 69,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    350
+   ],
+   "upgradeKey": "UpgradeStat000209"
+  },
+  "GlobalUpgrade000210": {
+   "key": "GlobalUpgrade000210",
+   "category": 0,
+   "level": 210,
+   "limitLv": 70,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    360
+   ],
+   "upgradeKey": "UpgradeStat000210"
+  },
+  "GlobalUpgrade000211": {
+   "key": "GlobalUpgrade000211",
+   "category": 0,
+   "level": 211,
+   "limitLv": 70,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    360
+   ],
+   "upgradeKey": "UpgradeStat000211"
+  },
+  "GlobalUpgrade000212": {
+   "key": "GlobalUpgrade000212",
+   "category": 0,
+   "level": 212,
+   "limitLv": 70,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    360
+   ],
+   "upgradeKey": "UpgradeStat000212"
+  },
+  "GlobalUpgrade000213": {
+   "key": "GlobalUpgrade000213",
+   "category": 0,
+   "level": 213,
+   "limitLv": 71,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    370
+   ],
+   "upgradeKey": "UpgradeStat000213"
+  },
+  "GlobalUpgrade000214": {
+   "key": "GlobalUpgrade000214",
+   "category": 0,
+   "level": 214,
+   "limitLv": 71,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    370
+   ],
+   "upgradeKey": "UpgradeStat000214"
+  },
+  "GlobalUpgrade000215": {
+   "key": "GlobalUpgrade000215",
+   "category": 0,
+   "level": 215,
+   "limitLv": 71,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    370
+   ],
+   "upgradeKey": "UpgradeStat000215"
+  },
+  "GlobalUpgrade000216": {
+   "key": "GlobalUpgrade000216",
+   "category": 0,
+   "level": 216,
+   "limitLv": 72,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    380
+   ],
+   "upgradeKey": "UpgradeStat000216"
+  },
+  "GlobalUpgrade000217": {
+   "key": "GlobalUpgrade000217",
+   "category": 0,
+   "level": 217,
+   "limitLv": 72,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    380
+   ],
+   "upgradeKey": "UpgradeStat000217"
+  },
+  "GlobalUpgrade000218": {
+   "key": "GlobalUpgrade000218",
+   "category": 0,
+   "level": 218,
+   "limitLv": 72,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    380
+   ],
+   "upgradeKey": "UpgradeStat000218"
+  },
+  "GlobalUpgrade000219": {
+   "key": "GlobalUpgrade000219",
+   "category": 0,
+   "level": 219,
+   "limitLv": 73,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    390
+   ],
+   "upgradeKey": "UpgradeStat000219"
+  },
+  "GlobalUpgrade000220": {
+   "key": "GlobalUpgrade000220",
+   "category": 0,
+   "level": 220,
+   "limitLv": 73,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    390
+   ],
+   "upgradeKey": "UpgradeStat000220"
+  },
+  "GlobalUpgrade000221": {
+   "key": "GlobalUpgrade000221",
+   "category": 0,
+   "level": 221,
+   "limitLv": 73,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    390
+   ],
+   "upgradeKey": "UpgradeStat000221"
+  },
+  "GlobalUpgrade000222": {
+   "key": "GlobalUpgrade000222",
+   "category": 0,
+   "level": 222,
+   "limitLv": 74,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    400
+   ],
+   "upgradeKey": "UpgradeStat000222"
+  },
+  "GlobalUpgrade000223": {
+   "key": "GlobalUpgrade000223",
+   "category": 0,
+   "level": 223,
+   "limitLv": 74,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    400
+   ],
+   "upgradeKey": "UpgradeStat000223"
+  },
+  "GlobalUpgrade000224": {
+   "key": "GlobalUpgrade000224",
+   "category": 0,
+   "level": 224,
+   "limitLv": 74,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    400
+   ],
+   "upgradeKey": "UpgradeStat000224"
+  },
+  "GlobalUpgrade000225": {
+   "key": "GlobalUpgrade000225",
+   "category": 0,
+   "level": 225,
+   "limitLv": 75,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    410
+   ],
+   "upgradeKey": "UpgradeStat000225"
+  },
+  "GlobalUpgrade000226": {
+   "key": "GlobalUpgrade000226",
+   "category": 0,
+   "level": 226,
+   "limitLv": 75,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    420
+   ],
+   "upgradeKey": "UpgradeStat000226"
+  },
+  "GlobalUpgrade000227": {
+   "key": "GlobalUpgrade000227",
+   "category": 0,
+   "level": 227,
+   "limitLv": 75,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    430
+   ],
+   "upgradeKey": "UpgradeStat000227"
+  },
+  "GlobalUpgrade000228": {
+   "key": "GlobalUpgrade000228",
+   "category": 0,
+   "level": 228,
+   "limitLv": 76,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    440
+   ],
+   "upgradeKey": "UpgradeStat000228"
+  },
+  "GlobalUpgrade000229": {
+   "key": "GlobalUpgrade000229",
+   "category": 0,
+   "level": 229,
+   "limitLv": 76,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    450
+   ],
+   "upgradeKey": "UpgradeStat000229"
+  },
+  "GlobalUpgrade000230": {
+   "key": "GlobalUpgrade000230",
+   "category": 0,
+   "level": 230,
+   "limitLv": 76,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    460
+   ],
+   "upgradeKey": "UpgradeStat000230"
+  },
+  "GlobalUpgrade000231": {
+   "key": "GlobalUpgrade000231",
+   "category": 0,
+   "level": 231,
+   "limitLv": 77,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    470
+   ],
+   "upgradeKey": "UpgradeStat000231"
+  },
+  "GlobalUpgrade000232": {
+   "key": "GlobalUpgrade000232",
+   "category": 0,
+   "level": 232,
+   "limitLv": 77,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    480
+   ],
+   "upgradeKey": "UpgradeStat000232"
+  },
+  "GlobalUpgrade000233": {
+   "key": "GlobalUpgrade000233",
+   "category": 0,
+   "level": 233,
+   "limitLv": 77,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    490
+   ],
+   "upgradeKey": "UpgradeStat000233"
+  },
+  "GlobalUpgrade000234": {
+   "key": "GlobalUpgrade000234",
+   "category": 0,
+   "level": 234,
+   "limitLv": 78,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    500
+   ],
+   "upgradeKey": "UpgradeStat000234"
+  },
+  "GlobalUpgrade000235": {
+   "key": "GlobalUpgrade000235",
+   "category": 0,
+   "level": 235,
+   "limitLv": 78,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    550
+   ],
+   "upgradeKey": "UpgradeStat000235"
+  },
+  "GlobalUpgrade000236": {
+   "key": "GlobalUpgrade000236",
+   "category": 0,
+   "level": 236,
+   "limitLv": 78,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    600
+   ],
+   "upgradeKey": "UpgradeStat000236"
+  },
+  "GlobalUpgrade000237": {
+   "key": "GlobalUpgrade000237",
+   "category": 0,
+   "level": 237,
+   "limitLv": 79,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    700
+   ],
+   "upgradeKey": "UpgradeStat000237"
+  },
+  "GlobalUpgrade000238": {
+   "key": "GlobalUpgrade000238",
+   "category": 0,
+   "level": 238,
+   "limitLv": 79,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    800
+   ],
+   "upgradeKey": "UpgradeStat000238"
+  },
+  "GlobalUpgrade000239": {
+   "key": "GlobalUpgrade000239",
+   "category": 0,
+   "level": 239,
+   "limitLv": 79,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    900
+   ],
+   "upgradeKey": "UpgradeStat000239"
+  },
+  "GlobalUpgrade000240": {
+   "key": "GlobalUpgrade000240",
+   "category": 0,
+   "level": 240,
+   "limitLv": 80,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000240"
+  },
+  "GlobalUpgrade000241": {
+   "key": "GlobalUpgrade000241",
+   "category": 0,
+   "level": 241,
+   "limitLv": 80,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000241"
+  },
+  "GlobalUpgrade000242": {
+   "key": "GlobalUpgrade000242",
+   "category": 0,
+   "level": 242,
+   "limitLv": 80,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000242"
+  },
+  "GlobalUpgrade000243": {
+   "key": "GlobalUpgrade000243",
+   "category": 0,
+   "level": 243,
+   "limitLv": 81,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000243"
+  },
+  "GlobalUpgrade000244": {
+   "key": "GlobalUpgrade000244",
+   "category": 0,
+   "level": 244,
+   "limitLv": 81,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000244"
+  },
+  "GlobalUpgrade000245": {
+   "key": "GlobalUpgrade000245",
+   "category": 0,
+   "level": 245,
+   "limitLv": 81,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000245"
+  },
+  "GlobalUpgrade000246": {
+   "key": "GlobalUpgrade000246",
+   "category": 0,
+   "level": 246,
+   "limitLv": 82,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000246"
+  },
+  "GlobalUpgrade000247": {
+   "key": "GlobalUpgrade000247",
+   "category": 0,
+   "level": 247,
+   "limitLv": 82,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000247"
+  },
+  "GlobalUpgrade000248": {
+   "key": "GlobalUpgrade000248",
+   "category": 0,
+   "level": 248,
+   "limitLv": 82,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000248"
+  },
+  "GlobalUpgrade000249": {
+   "key": "GlobalUpgrade000249",
+   "category": 0,
+   "level": 249,
+   "limitLv": 83,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000249"
+  },
+  "GlobalUpgrade000250": {
+   "key": "GlobalUpgrade000250",
+   "category": 0,
+   "level": 250,
+   "limitLv": 83,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000250"
+  },
+  "GlobalUpgrade000251": {
+   "key": "GlobalUpgrade000251",
+   "category": 0,
+   "level": 251,
+   "limitLv": 83,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000251"
+  },
+  "GlobalUpgrade000252": {
+   "key": "GlobalUpgrade000252",
+   "category": 0,
+   "level": 252,
+   "limitLv": 84,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000252"
+  },
+  "GlobalUpgrade000253": {
+   "key": "GlobalUpgrade000253",
+   "category": 0,
+   "level": 253,
+   "limitLv": 84,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000253"
+  },
+  "GlobalUpgrade000254": {
+   "key": "GlobalUpgrade000254",
+   "category": 0,
+   "level": 254,
+   "limitLv": 84,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000254"
+  },
+  "GlobalUpgrade000255": {
+   "key": "GlobalUpgrade000255",
+   "category": 0,
+   "level": 255,
+   "limitLv": 85,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000255"
+  },
+  "GlobalUpgrade000256": {
+   "key": "GlobalUpgrade000256",
+   "category": 0,
+   "level": 256,
+   "limitLv": 85,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000256"
+  },
+  "GlobalUpgrade000257": {
+   "key": "GlobalUpgrade000257",
+   "category": 0,
+   "level": 257,
+   "limitLv": 85,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000257"
+  },
+  "GlobalUpgrade000258": {
+   "key": "GlobalUpgrade000258",
+   "category": 0,
+   "level": 258,
+   "limitLv": 86,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000258"
+  },
+  "GlobalUpgrade000259": {
+   "key": "GlobalUpgrade000259",
+   "category": 0,
+   "level": 259,
+   "limitLv": 86,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000259"
+  },
+  "GlobalUpgrade000260": {
+   "key": "GlobalUpgrade000260",
+   "category": 0,
+   "level": 260,
+   "limitLv": 86,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000260"
+  },
+  "GlobalUpgrade000261": {
+   "key": "GlobalUpgrade000261",
+   "category": 0,
+   "level": 261,
+   "limitLv": 87,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000261"
+  },
+  "GlobalUpgrade000262": {
+   "key": "GlobalUpgrade000262",
+   "category": 0,
+   "level": 262,
+   "limitLv": 87,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000262"
+  },
+  "GlobalUpgrade000263": {
+   "key": "GlobalUpgrade000263",
+   "category": 0,
+   "level": 263,
+   "limitLv": 87,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000263"
+  },
+  "GlobalUpgrade000264": {
+   "key": "GlobalUpgrade000264",
+   "category": 0,
+   "level": 264,
+   "limitLv": 88,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000264"
+  },
+  "GlobalUpgrade000265": {
+   "key": "GlobalUpgrade000265",
+   "category": 0,
+   "level": 265,
+   "limitLv": 88,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000265"
+  },
+  "GlobalUpgrade000266": {
+   "key": "GlobalUpgrade000266",
+   "category": 0,
+   "level": 266,
+   "limitLv": 88,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000266"
+  },
+  "GlobalUpgrade000267": {
+   "key": "GlobalUpgrade000267",
+   "category": 0,
+   "level": 267,
+   "limitLv": 89,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000267"
+  },
+  "GlobalUpgrade000268": {
+   "key": "GlobalUpgrade000268",
+   "category": 0,
+   "level": 268,
+   "limitLv": 89,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000268"
+  },
+  "GlobalUpgrade000269": {
+   "key": "GlobalUpgrade000269",
+   "category": 0,
+   "level": 269,
+   "limitLv": 89,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000269"
+  },
+  "GlobalUpgrade000270": {
+   "key": "GlobalUpgrade000270",
+   "category": 0,
+   "level": 270,
+   "limitLv": 90,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000270"
+  },
+  "GlobalUpgrade000271": {
+   "key": "GlobalUpgrade000271",
+   "category": 0,
+   "level": 271,
+   "limitLv": 90,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000271"
+  },
+  "GlobalUpgrade000272": {
+   "key": "GlobalUpgrade000272",
+   "category": 0,
+   "level": 272,
+   "limitLv": 90,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000272"
+  },
+  "GlobalUpgrade000273": {
+   "key": "GlobalUpgrade000273",
+   "category": 0,
+   "level": 273,
+   "limitLv": 91,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000273"
+  },
+  "GlobalUpgrade000274": {
+   "key": "GlobalUpgrade000274",
+   "category": 0,
+   "level": 274,
+   "limitLv": 91,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000274"
+  },
+  "GlobalUpgrade000275": {
+   "key": "GlobalUpgrade000275",
+   "category": 0,
+   "level": 275,
+   "limitLv": 91,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000275"
+  },
+  "GlobalUpgrade000276": {
+   "key": "GlobalUpgrade000276",
+   "category": 0,
+   "level": 276,
+   "limitLv": 92,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000276"
+  },
+  "GlobalUpgrade000277": {
+   "key": "GlobalUpgrade000277",
+   "category": 0,
+   "level": 277,
+   "limitLv": 92,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000277"
+  },
+  "GlobalUpgrade000278": {
+   "key": "GlobalUpgrade000278",
+   "category": 0,
+   "level": 278,
+   "limitLv": 92,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000278"
+  },
+  "GlobalUpgrade000279": {
+   "key": "GlobalUpgrade000279",
+   "category": 0,
+   "level": 279,
+   "limitLv": 93,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000279"
+  },
+  "GlobalUpgrade000280": {
+   "key": "GlobalUpgrade000280",
+   "category": 0,
+   "level": 280,
+   "limitLv": 93,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000280"
+  },
+  "GlobalUpgrade000281": {
+   "key": "GlobalUpgrade000281",
+   "category": 0,
+   "level": 281,
+   "limitLv": 93,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000281"
+  },
+  "GlobalUpgrade000282": {
+   "key": "GlobalUpgrade000282",
+   "category": 0,
+   "level": 282,
+   "limitLv": 94,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000282"
+  },
+  "GlobalUpgrade000283": {
+   "key": "GlobalUpgrade000283",
+   "category": 0,
+   "level": 283,
+   "limitLv": 94,
+   "isLimit": false,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000283"
+  },
+  "GlobalUpgrade000284": {
+   "key": "GlobalUpgrade000284",
+   "category": 0,
+   "level": 284,
+   "limitLv": 94,
+   "isLimit": true,
+   "needResource": [
+    "STONE"
+   ],
+   "needValue": [
+    1000
+   ],
+   "upgradeKey": "UpgradeStat000284"
+  },
+  "GlobalUpgrade001000": {
+   "key": "GlobalUpgrade001000",
+   "category": 1,
+   "level": 0,
+   "limitLv": 0,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat001000"
+  },
+  "GlobalUpgrade001001": {
+   "key": "GlobalUpgrade001001",
+   "category": 1,
+   "level": 1,
+   "limitLv": 4,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat001001"
+  },
+  "GlobalUpgrade001002": {
+   "key": "GlobalUpgrade001002",
+   "category": 1,
+   "level": 2,
+   "limitLv": 6,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat001002"
+  },
+  "GlobalUpgrade001003": {
+   "key": "GlobalUpgrade001003",
+   "category": 1,
+   "level": 3,
+   "limitLv": 9,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat001003"
+  },
+  "GlobalUpgrade001004": {
+   "key": "GlobalUpgrade001004",
+   "category": 1,
+   "level": 4,
+   "limitLv": 12,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat001004"
+  },
+  "GlobalUpgrade001005": {
+   "key": "GlobalUpgrade001005",
+   "category": 1,
+   "level": 5,
+   "limitLv": 15,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat001005"
+  },
+  "GlobalUpgrade001006": {
+   "key": "GlobalUpgrade001006",
+   "category": 1,
+   "level": 6,
+   "limitLv": 19,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat001006"
+  },
+  "GlobalUpgrade001007": {
+   "key": "GlobalUpgrade001007",
+   "category": 1,
+   "level": 7,
+   "limitLv": 22,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat001007"
+  },
+  "GlobalUpgrade001008": {
+   "key": "GlobalUpgrade001008",
+   "category": 1,
+   "level": 8,
+   "limitLv": 25,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat001008"
+  },
+  "GlobalUpgrade001009": {
+   "key": "GlobalUpgrade001009",
+   "category": 1,
+   "level": 9,
+   "limitLv": 29,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat001009"
+  },
+  "GlobalUpgrade001010": {
+   "key": "GlobalUpgrade001010",
+   "category": 1,
+   "level": 10,
+   "limitLv": 32,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat001010"
+  },
+  "GlobalUpgrade001011": {
+   "key": "GlobalUpgrade001011",
+   "category": 1,
+   "level": 11,
+   "limitLv": 35,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat001011"
+  },
+  "GlobalUpgrade001012": {
+   "key": "GlobalUpgrade001012",
+   "category": 1,
+   "level": 12,
+   "limitLv": 39,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat001012"
+  },
+  "GlobalUpgrade001013": {
+   "key": "GlobalUpgrade001013",
+   "category": 1,
+   "level": 13,
+   "limitLv": 42,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat001013"
+  },
+  "GlobalUpgrade001014": {
+   "key": "GlobalUpgrade001014",
+   "category": 1,
+   "level": 14,
+   "limitLv": 45,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat001014"
+  },
+  "GlobalUpgrade001015": {
+   "key": "GlobalUpgrade001015",
+   "category": 1,
+   "level": 15,
+   "limitLv": 49,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat001015"
+  },
+  "GlobalUpgrade001016": {
+   "key": "GlobalUpgrade001016",
+   "category": 1,
+   "level": 16,
+   "limitLv": 52,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat001016"
+  },
+  "GlobalUpgrade001017": {
+   "key": "GlobalUpgrade001017",
+   "category": 1,
+   "level": 17,
+   "limitLv": 55,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat001017"
+  },
+  "GlobalUpgrade001018": {
+   "key": "GlobalUpgrade001018",
+   "category": 1,
+   "level": 18,
+   "limitLv": 57,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat001018"
+  },
+  "GlobalUpgrade001019": {
+   "key": "GlobalUpgrade001019",
+   "category": 1,
+   "level": 19,
+   "limitLv": 59,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat001019"
+  },
+  "GlobalUpgrade001020": {
+   "key": "GlobalUpgrade001020",
+   "category": 1,
+   "level": 20,
+   "limitLv": 62,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat001020"
+  },
+  "GlobalUpgrade001021": {
+   "key": "GlobalUpgrade001021",
+   "category": 1,
+   "level": 21,
+   "limitLv": 64,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat001021"
+  },
+  "GlobalUpgrade001022": {
+   "key": "GlobalUpgrade001022",
+   "category": 1,
+   "level": 22,
+   "limitLv": 67,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat001022"
+  },
+  "GlobalUpgrade001023": {
+   "key": "GlobalUpgrade001023",
+   "category": 1,
+   "level": 23,
+   "limitLv": 69,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat001023"
+  },
+  "GlobalUpgrade001024": {
+   "key": "GlobalUpgrade001024",
+   "category": 1,
+   "level": 24,
+   "limitLv": 72,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001024"
+  },
+  "GlobalUpgrade001025": {
+   "key": "GlobalUpgrade001025",
+   "category": 1,
+   "level": 25,
+   "limitLv": 74,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001025"
+  },
+  "GlobalUpgrade001026": {
+   "key": "GlobalUpgrade001026",
+   "category": 1,
+   "level": 26,
+   "limitLv": 76,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001026"
+  },
+  "GlobalUpgrade001027": {
+   "key": "GlobalUpgrade001027",
+   "category": 1,
+   "level": 27,
+   "limitLv": 78,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001027"
+  },
+  "GlobalUpgrade001028": {
+   "key": "GlobalUpgrade001028",
+   "category": 1,
+   "level": 28,
+   "limitLv": 80,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001028"
+  },
+  "GlobalUpgrade001029": {
+   "key": "GlobalUpgrade001029",
+   "category": 1,
+   "level": 29,
+   "limitLv": 82,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001029"
+  },
+  "GlobalUpgrade001030": {
+   "key": "GlobalUpgrade001030",
+   "category": 1,
+   "level": 30,
+   "limitLv": 84,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001030"
+  },
+  "GlobalUpgrade001031": {
+   "key": "GlobalUpgrade001031",
+   "category": 1,
+   "level": 31,
+   "limitLv": 86,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001031"
+  },
+  "GlobalUpgrade001032": {
+   "key": "GlobalUpgrade001032",
+   "category": 1,
+   "level": 32,
+   "limitLv": 88,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001032"
+  },
+  "GlobalUpgrade001033": {
+   "key": "GlobalUpgrade001033",
+   "category": 1,
+   "level": 33,
+   "limitLv": 90,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001033"
+  },
+  "GlobalUpgrade001034": {
+   "key": "GlobalUpgrade001034",
+   "category": 1,
+   "level": 34,
+   "limitLv": 92,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001034"
+  },
+  "GlobalUpgrade001035": {
+   "key": "GlobalUpgrade001035",
+   "category": 1,
+   "level": 35,
+   "limitLv": 94,
+   "isLimit": false,
+   "needResource": [
+    "RED_STONE"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat001035"
+  },
+  "GlobalUpgrade002000": {
+   "key": "GlobalUpgrade002000",
+   "category": 2,
+   "level": 0,
+   "limitLv": 0,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002001": {
+   "key": "GlobalUpgrade002001",
+   "category": 2,
+   "level": 1,
+   "limitLv": 1,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002002": {
+   "key": "GlobalUpgrade002002",
+   "category": 2,
+   "level": 2,
+   "limitLv": 2,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    3
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002003": {
+   "key": "GlobalUpgrade002003",
+   "category": 2,
+   "level": 3,
+   "limitLv": 3,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002004": {
+   "key": "GlobalUpgrade002004",
+   "category": 2,
+   "level": 4,
+   "limitLv": 4,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    5
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002005": {
+   "key": "GlobalUpgrade002005",
+   "category": 2,
+   "level": 5,
+   "limitLv": 5,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002006": {
+   "key": "GlobalUpgrade002006",
+   "category": 2,
+   "level": 6,
+   "limitLv": 6,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    7
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002007": {
+   "key": "GlobalUpgrade002007",
+   "category": 2,
+   "level": 7,
+   "limitLv": 7,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002008": {
+   "key": "GlobalUpgrade002008",
+   "category": 2,
+   "level": 8,
+   "limitLv": 8,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    9
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002009": {
+   "key": "GlobalUpgrade002009",
+   "category": 2,
+   "level": 9,
+   "limitLv": 9,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002010": {
+   "key": "GlobalUpgrade002010",
+   "category": 2,
+   "level": 10,
+   "limitLv": 10,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002011": {
+   "key": "GlobalUpgrade002011",
+   "category": 2,
+   "level": 11,
+   "limitLv": 11,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    11
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002012": {
+   "key": "GlobalUpgrade002012",
+   "category": 2,
+   "level": 12,
+   "limitLv": 12,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    11
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002013": {
+   "key": "GlobalUpgrade002013",
+   "category": 2,
+   "level": 13,
+   "limitLv": 13,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    12
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002014": {
+   "key": "GlobalUpgrade002014",
+   "category": 2,
+   "level": 14,
+   "limitLv": 14,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    12
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002015": {
+   "key": "GlobalUpgrade002015",
+   "category": 2,
+   "level": 15,
+   "limitLv": 15,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    13
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002016": {
+   "key": "GlobalUpgrade002016",
+   "category": 2,
+   "level": 16,
+   "limitLv": 16,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    13
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002017": {
+   "key": "GlobalUpgrade002017",
+   "category": 2,
+   "level": 17,
+   "limitLv": 17,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    14
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002018": {
+   "key": "GlobalUpgrade002018",
+   "category": 2,
+   "level": 18,
+   "limitLv": 18,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    14
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002019": {
+   "key": "GlobalUpgrade002019",
+   "category": 2,
+   "level": 19,
+   "limitLv": 19,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    15
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002020": {
+   "key": "GlobalUpgrade002020",
+   "category": 2,
+   "level": 20,
+   "limitLv": 20,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    15
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002021": {
+   "key": "GlobalUpgrade002021",
+   "category": 2,
+   "level": 21,
+   "limitLv": 21,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    16
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002022": {
+   "key": "GlobalUpgrade002022",
+   "category": 2,
+   "level": 22,
+   "limitLv": 22,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    16
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002023": {
+   "key": "GlobalUpgrade002023",
+   "category": 2,
+   "level": 23,
+   "limitLv": 23,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    17
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002024": {
+   "key": "GlobalUpgrade002024",
+   "category": 2,
+   "level": 24,
+   "limitLv": 24,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    17
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002025": {
+   "key": "GlobalUpgrade002025",
+   "category": 2,
+   "level": 25,
+   "limitLv": 25,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    18
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002026": {
+   "key": "GlobalUpgrade002026",
+   "category": 2,
+   "level": 26,
+   "limitLv": 26,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    18
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002027": {
+   "key": "GlobalUpgrade002027",
+   "category": 2,
+   "level": 27,
+   "limitLv": 27,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    19
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002028": {
+   "key": "GlobalUpgrade002028",
+   "category": 2,
+   "level": 28,
+   "limitLv": 28,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    19
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002029": {
+   "key": "GlobalUpgrade002029",
+   "category": 2,
+   "level": 29,
+   "limitLv": 29,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002030": {
+   "key": "GlobalUpgrade002030",
+   "category": 2,
+   "level": 30,
+   "limitLv": 30,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002031": {
+   "key": "GlobalUpgrade002031",
+   "category": 2,
+   "level": 31,
+   "limitLv": 31,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    31
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002032": {
+   "key": "GlobalUpgrade002032",
+   "category": 2,
+   "level": 32,
+   "limitLv": 32,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    31
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002033": {
+   "key": "GlobalUpgrade002033",
+   "category": 2,
+   "level": 33,
+   "limitLv": 33,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    32
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002034": {
+   "key": "GlobalUpgrade002034",
+   "category": 2,
+   "level": 34,
+   "limitLv": 34,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    32
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002035": {
+   "key": "GlobalUpgrade002035",
+   "category": 2,
+   "level": 35,
+   "limitLv": 35,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    33
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002036": {
+   "key": "GlobalUpgrade002036",
+   "category": 2,
+   "level": 36,
+   "limitLv": 36,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    33
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002037": {
+   "key": "GlobalUpgrade002037",
+   "category": 2,
+   "level": 37,
+   "limitLv": 37,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    34
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002038": {
+   "key": "GlobalUpgrade002038",
+   "category": 2,
+   "level": 38,
+   "limitLv": 38,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    34
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002039": {
+   "key": "GlobalUpgrade002039",
+   "category": 2,
+   "level": 39,
+   "limitLv": 39,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    36
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002040": {
+   "key": "GlobalUpgrade002040",
+   "category": 2,
+   "level": 40,
+   "limitLv": 40,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    36
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002041": {
+   "key": "GlobalUpgrade002041",
+   "category": 2,
+   "level": 41,
+   "limitLv": 41,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    38
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002042": {
+   "key": "GlobalUpgrade002042",
+   "category": 2,
+   "level": 42,
+   "limitLv": 42,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    38
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002043": {
+   "key": "GlobalUpgrade002043",
+   "category": 2,
+   "level": 43,
+   "limitLv": 43,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002044": {
+   "key": "GlobalUpgrade002044",
+   "category": 2,
+   "level": 44,
+   "limitLv": 44,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002045": {
+   "key": "GlobalUpgrade002045",
+   "category": 2,
+   "level": 45,
+   "limitLv": 45,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002046": {
+   "key": "GlobalUpgrade002046",
+   "category": 2,
+   "level": 46,
+   "limitLv": 46,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002047": {
+   "key": "GlobalUpgrade002047",
+   "category": 2,
+   "level": 47,
+   "limitLv": 47,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    44
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002048": {
+   "key": "GlobalUpgrade002048",
+   "category": 2,
+   "level": 48,
+   "limitLv": 48,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    44
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002049": {
+   "key": "GlobalUpgrade002049",
+   "category": 2,
+   "level": 49,
+   "limitLv": 49,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    46
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002050": {
+   "key": "GlobalUpgrade002050",
+   "category": 2,
+   "level": 50,
+   "limitLv": 50,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    46
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002051": {
+   "key": "GlobalUpgrade002051",
+   "category": 2,
+   "level": 51,
+   "limitLv": 51,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    48
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002052": {
+   "key": "GlobalUpgrade002052",
+   "category": 2,
+   "level": 52,
+   "limitLv": 52,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    48
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002053": {
+   "key": "GlobalUpgrade002053",
+   "category": 2,
+   "level": 53,
+   "limitLv": 53,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002054": {
+   "key": "GlobalUpgrade002054",
+   "category": 2,
+   "level": 54,
+   "limitLv": 54,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002055": {
+   "key": "GlobalUpgrade002055",
+   "category": 2,
+   "level": 55,
+   "limitLv": 55,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    53
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002056": {
+   "key": "GlobalUpgrade002056",
+   "category": 2,
+   "level": 56,
+   "limitLv": 56,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    53
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002057": {
+   "key": "GlobalUpgrade002057",
+   "category": 2,
+   "level": 57,
+   "limitLv": 57,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    56
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002058": {
+   "key": "GlobalUpgrade002058",
+   "category": 2,
+   "level": 58,
+   "limitLv": 58,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    56
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002059": {
+   "key": "GlobalUpgrade002059",
+   "category": 2,
+   "level": 59,
+   "limitLv": 59,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    58
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002060": {
+   "key": "GlobalUpgrade002060",
+   "category": 2,
+   "level": 60,
+   "limitLv": 60,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    58
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002061": {
+   "key": "GlobalUpgrade002061",
+   "category": 2,
+   "level": 61,
+   "limitLv": 61,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002062": {
+   "key": "GlobalUpgrade002062",
+   "category": 2,
+   "level": 62,
+   "limitLv": 62,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002063": {
+   "key": "GlobalUpgrade002063",
+   "category": 2,
+   "level": 63,
+   "limitLv": 63,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    60
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002064": {
+   "key": "GlobalUpgrade002064",
+   "category": 2,
+   "level": 64,
+   "limitLv": 64,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    70
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002065": {
+   "key": "GlobalUpgrade002065",
+   "category": 2,
+   "level": 65,
+   "limitLv": 65,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    70
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002066": {
+   "key": "GlobalUpgrade002066",
+   "category": 2,
+   "level": 66,
+   "limitLv": 66,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    70
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002067": {
+   "key": "GlobalUpgrade002067",
+   "category": 2,
+   "level": 67,
+   "limitLv": 67,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002068": {
+   "key": "GlobalUpgrade002068",
+   "category": 2,
+   "level": 68,
+   "limitLv": 68,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002069": {
+   "key": "GlobalUpgrade002069",
+   "category": 2,
+   "level": 69,
+   "limitLv": 69,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    80
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002070": {
+   "key": "GlobalUpgrade002070",
+   "category": 2,
+   "level": 70,
+   "limitLv": 70,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    90
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002071": {
+   "key": "GlobalUpgrade002071",
+   "category": 2,
+   "level": 71,
+   "limitLv": 71,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    90
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002072": {
+   "key": "GlobalUpgrade002072",
+   "category": 2,
+   "level": 72,
+   "limitLv": 72,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    90
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade002073": {
+   "key": "GlobalUpgrade002073",
+   "category": 2,
+   "level": 73,
+   "limitLv": 73,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    100
+   ],
+   "upgradeKey": "UpgradeStat801001"
+  },
+  "GlobalUpgrade002074": {
+   "key": "GlobalUpgrade002074",
+   "category": 2,
+   "level": 74,
+   "limitLv": 74,
+   "isLimit": true,
+   "needResource": [
+    "EV_UP_NORMAL"
+   ],
+   "needValue": [
+    100
+   ],
+   "upgradeKey": "UpgradeStat801000"
+  },
+  "GlobalUpgrade003000": {
+   "key": "GlobalUpgrade003000",
+   "category": 3,
+   "level": 0,
+   "limitLv": 0,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003001": {
+   "key": "GlobalUpgrade003001",
+   "category": 3,
+   "level": 1,
+   "limitLv": 4,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003002": {
+   "key": "GlobalUpgrade003002",
+   "category": 3,
+   "level": 2,
+   "limitLv": 9,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003003": {
+   "key": "GlobalUpgrade003003",
+   "category": 3,
+   "level": 3,
+   "limitLv": 14,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003004": {
+   "key": "GlobalUpgrade003004",
+   "category": 3,
+   "level": 4,
+   "limitLv": 19,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003005": {
+   "key": "GlobalUpgrade003005",
+   "category": 3,
+   "level": 5,
+   "limitLv": 24,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003006": {
+   "key": "GlobalUpgrade003006",
+   "category": 3,
+   "level": 6,
+   "limitLv": 29,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    15
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003007": {
+   "key": "GlobalUpgrade003007",
+   "category": 3,
+   "level": 7,
+   "limitLv": 34,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003008": {
+   "key": "GlobalUpgrade003008",
+   "category": 3,
+   "level": 8,
+   "limitLv": 39,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    25
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003009": {
+   "key": "GlobalUpgrade003009",
+   "category": 3,
+   "level": 9,
+   "limitLv": 44,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003010": {
+   "key": "GlobalUpgrade003010",
+   "category": 3,
+   "level": 10,
+   "limitLv": 49,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    32
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003011": {
+   "key": "GlobalUpgrade003011",
+   "category": 3,
+   "level": 11,
+   "limitLv": 54,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    35
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003012": {
+   "key": "GlobalUpgrade003012",
+   "category": 3,
+   "level": 12,
+   "limitLv": 59,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    37
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003013": {
+   "key": "GlobalUpgrade003013",
+   "category": 3,
+   "level": 13,
+   "limitLv": 64,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat80100103"
+  },
+  "GlobalUpgrade003014": {
+   "key": "GlobalUpgrade003014",
+   "category": 3,
+   "level": 14,
+   "limitLv": 69,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade003015": {
+   "key": "GlobalUpgrade003015",
+   "category": 3,
+   "level": 15,
+   "limitLv": 72,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    45
+   ],
+   "upgradeKey": "UpgradeStat80100105"
+  },
+  "GlobalUpgrade003016": {
+   "key": "GlobalUpgrade003016",
+   "category": 3,
+   "level": 16,
+   "limitLv": 74,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat80100105"
+  },
+  "GlobalUpgrade004000": {
+   "key": "GlobalUpgrade004000",
+   "category": 4,
+   "level": 0,
+   "limitLv": 0,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    1
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004001": {
+   "key": "GlobalUpgrade004001",
+   "category": 4,
+   "level": 1,
+   "limitLv": 4,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    2
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004002": {
+   "key": "GlobalUpgrade004002",
+   "category": 4,
+   "level": 2,
+   "limitLv": 9,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    4
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004003": {
+   "key": "GlobalUpgrade004003",
+   "category": 4,
+   "level": 3,
+   "limitLv": 14,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    6
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004004": {
+   "key": "GlobalUpgrade004004",
+   "category": 4,
+   "level": 4,
+   "limitLv": 19,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    8
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004005": {
+   "key": "GlobalUpgrade004005",
+   "category": 4,
+   "level": 5,
+   "limitLv": 24,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    10
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004006": {
+   "key": "GlobalUpgrade004006",
+   "category": 4,
+   "level": 6,
+   "limitLv": 29,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    15
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004007": {
+   "key": "GlobalUpgrade004007",
+   "category": 4,
+   "level": 7,
+   "limitLv": 34,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    20
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004008": {
+   "key": "GlobalUpgrade004008",
+   "category": 4,
+   "level": 8,
+   "limitLv": 39,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    25
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004009": {
+   "key": "GlobalUpgrade004009",
+   "category": 4,
+   "level": 9,
+   "limitLv": 44,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    30
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004010": {
+   "key": "GlobalUpgrade004010",
+   "category": 4,
+   "level": 10,
+   "limitLv": 49,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    32
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004011": {
+   "key": "GlobalUpgrade004011",
+   "category": 4,
+   "level": 11,
+   "limitLv": 54,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    35
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004012": {
+   "key": "GlobalUpgrade004012",
+   "category": 4,
+   "level": 12,
+   "limitLv": 59,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    37
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004013": {
+   "key": "GlobalUpgrade004013",
+   "category": 4,
+   "level": 13,
+   "limitLv": 64,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    40
+   ],
+   "upgradeKey": "UpgradeStat80100106"
+  },
+  "GlobalUpgrade004014": {
+   "key": "GlobalUpgrade004014",
+   "category": 4,
+   "level": 14,
+   "limitLv": 69,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    42
+   ],
+   "upgradeKey": "UpgradeStat99900064"
+  },
+  "GlobalUpgrade004015": {
+   "key": "GlobalUpgrade004015",
+   "category": 4,
+   "level": 15,
+   "limitLv": 72,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    45
+   ],
+   "upgradeKey": "UpgradeStat80100105"
+  },
+  "GlobalUpgrade004016": {
+   "key": "GlobalUpgrade004016",
+   "category": 4,
+   "level": 16,
+   "limitLv": 74,
+   "isLimit": false,
+   "needResource": [
+    "EV_UP_SPECIAL"
+   ],
+   "needValue": [
+    50
+   ],
+   "upgradeKey": "UpgradeStat80100105"
+  }
+ }
+}

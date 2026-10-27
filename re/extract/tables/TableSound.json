@@ -1,0 +1,1982 @@
+{
+ "sheetName": "TableSoundData",
+ "tableIndex": 0,
+ "rows": {
+  "BGM_0000": {
+   "key": "BGM_0000",
+   "index": 0,
+   "name": "bgm_00",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0001": {
+   "key": "BGM_0001",
+   "index": 1,
+   "name": "bgm_01",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0002": {
+   "key": "BGM_0002",
+   "index": 2,
+   "name": "bgm_02",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0003": {
+   "key": "BGM_0003",
+   "index": 3,
+   "name": "bgm_03",
+   "playType": "BGM",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "BGM_0004": {
+   "key": "BGM_0004",
+   "index": 4,
+   "name": "bgm_04",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0005": {
+   "key": "BGM_0005",
+   "index": 5,
+   "name": "bgm_05",
+   "playType": "BGM",
+   "volume": 0.699999988079071,
+   "limit": 1
+  },
+  "BGM_0006": {
+   "key": "BGM_0006",
+   "index": 6,
+   "name": "sfx_14",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0007": {
+   "key": "BGM_0007",
+   "index": 7,
+   "name": "bgm_07",
+   "playType": "BGM",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "BGM_0008": {
+   "key": "BGM_0008",
+   "index": 8,
+   "name": "bgm_08",
+   "playType": "BGM",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "BGM_0009": {
+   "key": "BGM_0009",
+   "index": 9,
+   "name": "bgm_09",
+   "playType": "BGM",
+   "volume": 0.6000000238418579,
+   "limit": 1
+  },
+  "BGM_0010": {
+   "key": "BGM_0010",
+   "index": 10,
+   "name": "bgm_10",
+   "playType": "BGM",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "BGM_0011": {
+   "key": "BGM_0011",
+   "index": 11,
+   "name": "bgm_11",
+   "playType": "BGM",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "BGM_0012": {
+   "key": "BGM_0012",
+   "index": 12,
+   "name": "bgm_12",
+   "playType": "BGM",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "BGM_0013": {
+   "key": "BGM_0013",
+   "index": 13,
+   "name": "bgm_13",
+   "playType": "BGM",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "BGM_0014": {
+   "key": "BGM_0014",
+   "index": 14,
+   "name": "bgm_14",
+   "playType": "BGM",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "BGM_0015": {
+   "key": "BGM_0015",
+   "index": 15,
+   "name": "bgm_15",
+   "playType": "BGM",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "BGM_0016": {
+   "key": "BGM_0016",
+   "index": 16,
+   "name": "bgm_16",
+   "playType": "BGM",
+   "volume": 0.20000000298023224,
+   "limit": 1
+  },
+  "BGM_0017": {
+   "key": "BGM_0017",
+   "index": 17,
+   "name": "bgm_17",
+   "playType": "BGM",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "BGM_0018": {
+   "key": "BGM_0018",
+   "index": 18,
+   "name": "bgm_18",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0019": {
+   "key": "BGM_0019",
+   "index": 19,
+   "name": "bgm_19",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "BGM_0020": {
+   "key": "BGM_0020",
+   "index": 20,
+   "name": "bgm_20",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0000": {
+   "key": "SFX_0000",
+   "index": 0,
+   "name": "sfx_00",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0001": {
+   "key": "SFX_0001",
+   "index": 1,
+   "name": "sfx_01",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0002": {
+   "key": "SFX_0002",
+   "index": 2,
+   "name": "sfx_02",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0003": {
+   "key": "SFX_0003",
+   "index": 3,
+   "name": "sfx_03",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0004": {
+   "key": "SFX_0004",
+   "index": 4,
+   "name": "sfx_04",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0005": {
+   "key": "SFX_0005",
+   "index": 5,
+   "name": "sfx_05",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0006": {
+   "key": "SFX_0006",
+   "index": 6,
+   "name": "sfx_06",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0007": {
+   "key": "SFX_0007",
+   "index": 7,
+   "name": "sfx_07",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0008": {
+   "key": "SFX_0008",
+   "index": 8,
+   "name": "sfx_08",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0009": {
+   "key": "SFX_0009",
+   "index": 9,
+   "name": "sfx_09",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0010": {
+   "key": "SFX_0010",
+   "index": 10,
+   "name": "sfx_10",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0011": {
+   "key": "SFX_0011",
+   "index": 11,
+   "name": "sfx_11",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0012": {
+   "key": "SFX_0012",
+   "index": 12,
+   "name": "sfx_12",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0013": {
+   "key": "SFX_0013",
+   "index": 13,
+   "name": "sfx_13",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0014": {
+   "key": "SFX_0014",
+   "index": 14,
+   "name": "sfx_14",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0015": {
+   "key": "SFX_0015",
+   "index": 15,
+   "name": "sfx_15",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0016": {
+   "key": "SFX_0016",
+   "index": 16,
+   "name": "sfx_16",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0017": {
+   "key": "SFX_0017",
+   "index": 17,
+   "name": "sfx_17",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0018": {
+   "key": "SFX_0018",
+   "index": 18,
+   "name": "sfx_18",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SFX_0019": {
+   "key": "SFX_0019",
+   "index": 19,
+   "name": "sfx_19",
+   "playType": "SFX",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SFX_0020": {
+   "key": "SFX_0020",
+   "index": 20,
+   "name": "sfx_20",
+   "playType": "SFX",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SFX_0021": {
+   "key": "SFX_0021",
+   "index": 21,
+   "name": "sfx_21",
+   "playType": "SFX",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BTN_0000": {
+   "key": "SOUND_BTN_0000",
+   "index": 0,
+   "name": "btn_00",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_BTN_0001": {
+   "key": "SOUND_BTN_0001",
+   "index": 1,
+   "name": "btn_01",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_CARD_0000": {
+   "key": "SOUND_CARD_0000",
+   "index": 0,
+   "name": "card_00",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_CARD_0001": {
+   "key": "SOUND_CARD_0001",
+   "index": 1,
+   "name": "card_01",
+   "playType": "ONESHOT",
+   "volume": 2.0,
+   "limit": 10
+  },
+  "SOUND_CARD_0002": {
+   "key": "SOUND_CARD_0002",
+   "index": 2,
+   "name": "card_02",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_CARD_0003": {
+   "key": "SOUND_CARD_0003",
+   "index": 3,
+   "name": "card_03",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_CARD_0004": {
+   "key": "SOUND_CARD_0004",
+   "index": 4,
+   "name": "card_04",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_BUILD_0000": {
+   "key": "SOUND_BUILD_0000",
+   "index": 0,
+   "name": "obj_bone",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0001": {
+   "key": "SOUND_BUILD_0001",
+   "index": 1,
+   "name": "obj_box",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0002": {
+   "key": "SOUND_BUILD_0002",
+   "index": 2,
+   "name": "obj_broken_1",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0003": {
+   "key": "SOUND_BUILD_0003",
+   "index": 3,
+   "name": "obj_broken_2",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0004": {
+   "key": "SOUND_BUILD_0004",
+   "index": 4,
+   "name": "obj_broken_3",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0005": {
+   "key": "SOUND_BUILD_0005",
+   "index": 5,
+   "name": "obj_egg",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_BUILD_0006": {
+   "key": "SOUND_BUILD_0006",
+   "index": 6,
+   "name": "obj_gold",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_ETC_0000": {
+   "key": "SOUND_ETC_0000",
+   "index": 0,
+   "name": "teleport",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 12
+  },
+  "SOUND_ETC_0001": {
+   "key": "SOUND_ETC_0001",
+   "index": 1,
+   "name": "move_00",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 20
+  },
+  "SOUND_ETC_0002": {
+   "key": "SOUND_ETC_0002",
+   "index": 2,
+   "name": "move_01",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 20
+  },
+  "SOUND_ETC_0003": {
+   "key": "SOUND_ETC_0003",
+   "index": 3,
+   "name": "item_00",
+   "playType": "ONESHOT",
+   "volume": 0.10000000149011612,
+   "limit": 20
+  },
+  "SOUND_ETC_0004": {
+   "key": "SOUND_ETC_0004",
+   "index": 4,
+   "name": "item_01",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_ETC_0005": {
+   "key": "SOUND_ETC_0005",
+   "index": 5,
+   "name": "item_02",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_ETC_0006": {
+   "key": "SOUND_ETC_0006",
+   "index": 6,
+   "name": "item_03",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_ETC_0007": {
+   "key": "SOUND_ETC_0007",
+   "index": 7,
+   "name": "item_04",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_ETC_0008": {
+   "key": "SOUND_ETC_0008",
+   "index": 8,
+   "name": "hero_levelup",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_ETC_0009": {
+   "key": "SOUND_ETC_0009",
+   "index": 9,
+   "name": "coin_00",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_ETC_0010": {
+   "key": "SOUND_ETC_0010",
+   "index": 10,
+   "name": "slot_01",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 20
+  },
+  "SOUND_ETC_0011": {
+   "key": "SOUND_ETC_0011",
+   "index": 11,
+   "name": "gold_mask",
+   "playType": "ONESHOT",
+   "volume": 0.0,
+   "limit": 20
+  },
+  "SOUND_ETC_0012": {
+   "key": "SOUND_ETC_0012",
+   "index": 12,
+   "name": "drop_00",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_ETC_0013": {
+   "key": "SOUND_ETC_0013",
+   "index": 13,
+   "name": "coin_00",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 30
+  },
+  "SOUND_DIE_0000": {
+   "key": "SOUND_DIE_0000",
+   "index": 0,
+   "name": "die_00",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_DIE_0001": {
+   "key": "SOUND_DIE_0001",
+   "index": 1,
+   "name": "die_01",
+   "playType": "ONESHOT",
+   "volume": 0.20000000298023224,
+   "limit": 5
+  },
+  "SOUND_DIE_0002": {
+   "key": "SOUND_DIE_0002",
+   "index": 2,
+   "name": "die_02",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_DIE_0003": {
+   "key": "SOUND_DIE_0003",
+   "index": 3,
+   "name": "die_03",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_DIE_0004": {
+   "key": "SOUND_DIE_0004",
+   "index": 4,
+   "name": "die_04",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_DIE_0005": {
+   "key": "SOUND_DIE_0005",
+   "index": 5,
+   "name": "die_05",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_DIE_0006": {
+   "key": "SOUND_DIE_0006",
+   "index": 6,
+   "name": "die_06",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_DIE_0007": {
+   "key": "SOUND_DIE_0007",
+   "index": 7,
+   "name": "die_07",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_DIE_0008": {
+   "key": "SOUND_DIE_0008",
+   "index": 8,
+   "name": "die_08",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 5
+  },
+  "SOUND_DIE_0009": {
+   "key": "SOUND_DIE_0009",
+   "index": 9,
+   "name": "die_09",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 5
+  },
+  "SOUND_ACTION_0000": {
+   "key": "SOUND_ACTION_0000",
+   "index": 0,
+   "name": "action_00",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 12
+  },
+  "SOUND_ACTION_0001": {
+   "key": "SOUND_ACTION_0001",
+   "index": 1,
+   "name": "action_01",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 12
+  },
+  "SOUND_SKILL_0000": {
+   "key": "SOUND_SKILL_0000",
+   "index": 0,
+   "name": "skill_000",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 2
+  },
+  "SOUND_SKILL_0001": {
+   "key": "SOUND_SKILL_0001",
+   "index": 1,
+   "name": "skill_001",
+   "playType": "ONESHOT",
+   "volume": 0.6000000238418579,
+   "limit": 3
+  },
+  "SOUND_SKILL_0002": {
+   "key": "SOUND_SKILL_0002",
+   "index": 2,
+   "name": "skill_002",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0003": {
+   "key": "SOUND_SKILL_0003",
+   "index": 3,
+   "name": "skill_003",
+   "playType": "ONESHOT",
+   "volume": 0.6000000238418579,
+   "limit": 5
+  },
+  "SOUND_SKILL_0004": {
+   "key": "SOUND_SKILL_0004",
+   "index": 4,
+   "name": "skill_004",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 3
+  },
+  "SOUND_SKILL_0005": {
+   "key": "SOUND_SKILL_0005",
+   "index": 5,
+   "name": "skill_034",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0006": {
+   "key": "SOUND_SKILL_0006",
+   "index": 6,
+   "name": "skill_006",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0007": {
+   "key": "SOUND_SKILL_0007",
+   "index": 7,
+   "name": "skill_007",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0008": {
+   "key": "SOUND_SKILL_0008",
+   "index": 8,
+   "name": "skill_008",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0009": {
+   "key": "SOUND_SKILL_0009",
+   "index": 9,
+   "name": "skill_009",
+   "playType": "ONESHOT",
+   "volume": 0.15000000596046448,
+   "limit": 5
+  },
+  "SOUND_SKILL_0010": {
+   "key": "SOUND_SKILL_0010",
+   "index": 10,
+   "name": "skill_006",
+   "playType": "ONESHOT",
+   "volume": 0.20000000298023224,
+   "limit": 5
+  },
+  "SOUND_SKILL_0099": {
+   "key": "SOUND_SKILL_0099",
+   "index": 99,
+   "name": "skill_010",
+   "playType": "ONESHOT",
+   "volume": 0.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0011": {
+   "key": "SOUND_SKILL_0011",
+   "index": 11,
+   "name": "skill_011",
+   "playType": "ONESHOT",
+   "volume": 0.20000000298023224,
+   "limit": 2
+  },
+  "SOUND_SKILL_0012": {
+   "key": "SOUND_SKILL_0012",
+   "index": 12,
+   "name": "skill_012",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0013": {
+   "key": "SOUND_SKILL_0013",
+   "index": 13,
+   "name": "skill_013",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0014": {
+   "key": "SOUND_SKILL_0014",
+   "index": 14,
+   "name": "skill_014",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0015": {
+   "key": "SOUND_SKILL_0015",
+   "index": 15,
+   "name": "skill_015",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0016": {
+   "key": "SOUND_SKILL_0016",
+   "index": 16,
+   "name": "skill_016",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0017": {
+   "key": "SOUND_SKILL_0017",
+   "index": 17,
+   "name": "skill_017",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0018": {
+   "key": "SOUND_SKILL_0018",
+   "index": 18,
+   "name": "skill_018",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0019": {
+   "key": "SOUND_SKILL_0019",
+   "index": 19,
+   "name": "skill_019",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0020": {
+   "key": "SOUND_SKILL_0020",
+   "index": 20,
+   "name": "skill_020",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0021": {
+   "key": "SOUND_SKILL_0021",
+   "index": 21,
+   "name": "skill_021",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 2
+  },
+  "SOUND_SKILL_0022": {
+   "key": "SOUND_SKILL_0022",
+   "index": 22,
+   "name": "skill_022",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 2
+  },
+  "SOUND_SKILL_0023": {
+   "key": "SOUND_SKILL_0023",
+   "index": 23,
+   "name": "skill_023",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0024": {
+   "key": "SOUND_SKILL_0024",
+   "index": 24,
+   "name": "skill_024",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0025": {
+   "key": "SOUND_SKILL_0025",
+   "index": 25,
+   "name": "skill_025",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0026": {
+   "key": "SOUND_SKILL_0026",
+   "index": 26,
+   "name": "skill_026",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0027": {
+   "key": "SOUND_SKILL_0027",
+   "index": 27,
+   "name": "skill_027",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0028": {
+   "key": "SOUND_SKILL_0028",
+   "index": 28,
+   "name": "skill_028",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 2
+  },
+  "SOUND_SKILL_0029": {
+   "key": "SOUND_SKILL_0029",
+   "index": 29,
+   "name": "skill_029",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0030": {
+   "key": "SOUND_SKILL_0030",
+   "index": 30,
+   "name": "skill_030",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_SKILL_0031": {
+   "key": "SOUND_SKILL_0031",
+   "index": 31,
+   "name": "skill_031",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0032": {
+   "key": "SOUND_SKILL_0032",
+   "index": 32,
+   "name": "skill_032",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0033": {
+   "key": "SOUND_SKILL_0033",
+   "index": 33,
+   "name": "skill_033",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0034": {
+   "key": "SOUND_SKILL_0034",
+   "index": 34,
+   "name": "skill_034",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0035": {
+   "key": "SOUND_SKILL_0035",
+   "index": 35,
+   "name": "skill_035",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0036": {
+   "key": "SOUND_SKILL_0036",
+   "index": 36,
+   "name": "skill_036",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0037": {
+   "key": "SOUND_SKILL_0037",
+   "index": 37,
+   "name": "skill_037",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0038": {
+   "key": "SOUND_SKILL_0038",
+   "index": 38,
+   "name": "skill_038",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0039": {
+   "key": "SOUND_SKILL_0039",
+   "index": 39,
+   "name": "skill_039",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0040": {
+   "key": "SOUND_SKILL_0040",
+   "index": 40,
+   "name": "skill_040",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0041": {
+   "key": "SOUND_SKILL_0041",
+   "index": 41,
+   "name": "skill_041",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 2
+  },
+  "SOUND_SKILL_0042": {
+   "key": "SOUND_SKILL_0042",
+   "index": 42,
+   "name": "skill_042",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0043": {
+   "key": "SOUND_SKILL_0043",
+   "index": 43,
+   "name": "skill_043",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0044": {
+   "key": "SOUND_SKILL_0044",
+   "index": 44,
+   "name": "skill_044",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0045": {
+   "key": "SOUND_SKILL_0045",
+   "index": 45,
+   "name": "skill_045",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0046": {
+   "key": "SOUND_SKILL_0046",
+   "index": 46,
+   "name": "skill_046",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0047": {
+   "key": "SOUND_SKILL_0047",
+   "index": 47,
+   "name": "skill_047",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0048": {
+   "key": "SOUND_SKILL_0048",
+   "index": 48,
+   "name": "skill_048",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0049": {
+   "key": "SOUND_SKILL_0049",
+   "index": 49,
+   "name": "skill_049",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0050": {
+   "key": "SOUND_SKILL_0050",
+   "index": 50,
+   "name": "skill_050",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0051": {
+   "key": "SOUND_SKILL_0051",
+   "index": 51,
+   "name": "skill_051",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0052": {
+   "key": "SOUND_SKILL_0052",
+   "index": 52,
+   "name": "skill_052",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0053": {
+   "key": "SOUND_SKILL_0053",
+   "index": 53,
+   "name": "skill_053",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0054": {
+   "key": "SOUND_SKILL_0054",
+   "index": 54,
+   "name": "skill_054",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0055": {
+   "key": "SOUND_SKILL_0055",
+   "index": 55,
+   "name": "skill_055",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0056": {
+   "key": "SOUND_SKILL_0056",
+   "index": 56,
+   "name": "skill_056",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0057": {
+   "key": "SOUND_SKILL_0057",
+   "index": 57,
+   "name": "skill_057",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0058": {
+   "key": "SOUND_SKILL_0058",
+   "index": 58,
+   "name": "skill_058",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0059": {
+   "key": "SOUND_SKILL_0059",
+   "index": 59,
+   "name": "skill_059",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 1
+  },
+  "SOUND_SKILL_0060": {
+   "key": "SOUND_SKILL_0060",
+   "index": 60,
+   "name": "skill_060",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 1
+  },
+  "SOUND_SKILL_0061": {
+   "key": "SOUND_SKILL_0061",
+   "index": 61,
+   "name": "skill_061",
+   "playType": "ONESHOT",
+   "volume": 2.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0062": {
+   "key": "SOUND_SKILL_0062",
+   "index": 62,
+   "name": "skill_062",
+   "playType": "ONESHOT",
+   "volume": 0.20000000298023224,
+   "limit": 10
+  },
+  "SOUND_SKILL_0063": {
+   "key": "SOUND_SKILL_0063",
+   "index": 63,
+   "name": "skill_063",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 2
+  },
+  "SOUND_SKILL_0064": {
+   "key": "SOUND_SKILL_0064",
+   "index": 64,
+   "name": "skill_064",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 10
+  },
+  "SOUND_SKILL_0065": {
+   "key": "SOUND_SKILL_0065",
+   "index": 65,
+   "name": "skill_065",
+   "playType": "ONESHOT",
+   "volume": 0.4000000059604645,
+   "limit": 1
+  },
+  "SOUND_SKILL_0066": {
+   "key": "SOUND_SKILL_0066",
+   "index": 66,
+   "name": "skill_066",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 1
+  },
+  "SOUND_SKILL_0067": {
+   "key": "SOUND_SKILL_0067",
+   "index": 67,
+   "name": "skill_067",
+   "playType": "ONESHOT",
+   "volume": 0.6000000238418579,
+   "limit": 1
+  },
+  "SOUND_SKILL_0068": {
+   "key": "SOUND_SKILL_0068",
+   "index": 68,
+   "name": "skill_068",
+   "playType": "ONESHOT",
+   "volume": 0.6000000238418579,
+   "limit": 1
+  },
+  "SOUND_SKILL_0069": {
+   "key": "SOUND_SKILL_0069",
+   "index": 69,
+   "name": "skill_069",
+   "playType": "ONESHOT",
+   "volume": 0.6000000238418579,
+   "limit": 1
+  },
+  "SOUND_SKILL_0070": {
+   "key": "SOUND_SKILL_0070",
+   "index": 70,
+   "name": "skill_070",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0071": {
+   "key": "SOUND_SKILL_0071",
+   "index": 71,
+   "name": "skill_071",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0072": {
+   "key": "SOUND_SKILL_0072",
+   "index": 72,
+   "name": "skill_072",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0073": {
+   "key": "SOUND_SKILL_0073",
+   "index": 73,
+   "name": "skill_073",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0074": {
+   "key": "SOUND_SKILL_0074",
+   "index": 74,
+   "name": "skill_074",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0075": {
+   "key": "SOUND_SKILL_0075",
+   "index": 75,
+   "name": "skill_075",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0076": {
+   "key": "SOUND_SKILL_0076",
+   "index": 76,
+   "name": "skill_076",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0077": {
+   "key": "SOUND_SKILL_0077",
+   "index": 77,
+   "name": "skill_077",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0078": {
+   "key": "SOUND_SKILL_0078",
+   "index": 78,
+   "name": "skill_078",
+   "playType": "ONESHOT",
+   "volume": 0.4000000059604645,
+   "limit": 10
+  },
+  "SOUND_SKILL_0079": {
+   "key": "SOUND_SKILL_0079",
+   "index": 79,
+   "name": "skill_079",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0080": {
+   "key": "SOUND_SKILL_0080",
+   "index": 80,
+   "name": "skill_080",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_SKILL_0081": {
+   "key": "SOUND_SKILL_0081",
+   "index": 81,
+   "name": "skill_081",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0082": {
+   "key": "SOUND_SKILL_0082",
+   "index": 82,
+   "name": "skill_082",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0083": {
+   "key": "SOUND_SKILL_0083",
+   "index": 83,
+   "name": "skill_083",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0084": {
+   "key": "SOUND_SKILL_0084",
+   "index": 84,
+   "name": "skill_084",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0085": {
+   "key": "SOUND_SKILL_0085",
+   "index": 85,
+   "name": "skill_085",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 3
+  },
+  "SOUND_SKILL_0086": {
+   "key": "SOUND_SKILL_0086",
+   "index": 86,
+   "name": "skill_086",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 3
+  },
+  "SOUND_SKILL_0087": {
+   "key": "SOUND_SKILL_0087",
+   "index": 87,
+   "name": "skill_66_attack",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0088": {
+   "key": "SOUND_SKILL_0088",
+   "index": 88,
+   "name": "skill_66_skill01_hit",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0089": {
+   "key": "SOUND_SKILL_0089",
+   "index": 89,
+   "name": "skill_66_skill02_start",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0090": {
+   "key": "SOUND_SKILL_0090",
+   "index": 90,
+   "name": "skill_66_skill02_prog",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0091": {
+   "key": "SOUND_SKILL_0091",
+   "index": 91,
+   "name": "skill_66_skill_thunder_sfx",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0092": {
+   "key": "SOUND_SKILL_0092",
+   "index": 92,
+   "name": "hero_67_attack01_hit",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0093": {
+   "key": "SOUND_SKILL_0093",
+   "index": 93,
+   "name": "Hero_67_Skill02_Start",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0094": {
+   "key": "SOUND_SKILL_0094",
+   "index": 94,
+   "name": "hero_67_.skill02_link",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0095": {
+   "key": "SOUND_SKILL_0095",
+   "index": 95,
+   "name": "hero_68_attack01_hit",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 10
+  },
+  "SOUND_SKILL_0096": {
+   "key": "SOUND_SKILL_0096",
+   "index": 96,
+   "name": "hero_68_skill01_hit",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0097": {
+   "key": "SOUND_SKILL_0097",
+   "index": 97,
+   "name": "hero_68_skill02_hit",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0098": {
+   "key": "SOUND_SKILL_0098",
+   "index": 98,
+   "name": "hero_77_skill_01_gold",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0100": {
+   "key": "SOUND_SKILL_0100",
+   "index": 100,
+   "name": "hero_78_skill01_tornado",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0101": {
+   "key": "SOUND_SKILL_0101",
+   "index": 101,
+   "name": "hero79_skill01_bat",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0102": {
+   "key": "SOUND_SKILL_0102",
+   "index": 102,
+   "name": "hero79_skill02_skeleton",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0103": {
+   "key": "SOUND_SKILL_0103",
+   "index": 103,
+   "name": "hero_67_attack01_hit",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0104": {
+   "key": "SOUND_SKILL_0104",
+   "index": 104,
+   "name": "hero_77_skill02_slash",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 10
+  },
+  "SOUND_SKILL_0105": {
+   "key": "SOUND_SKILL_0105",
+   "index": 105,
+   "name": "skill_578",
+   "playType": "ONESHOT",
+   "volume": 0.10000000149011612,
+   "limit": 2
+  },
+  "SOUND_SKILL_0556": {
+   "key": "SOUND_SKILL_0556",
+   "index": 556,
+   "name": "skill_556",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0557": {
+   "key": "SOUND_SKILL_0557",
+   "index": 557,
+   "name": "skill_557",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0558": {
+   "key": "SOUND_SKILL_0558",
+   "index": 558,
+   "name": "skill_558",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 10
+  },
+  "SOUND_SKILL_0559": {
+   "key": "SOUND_SKILL_0559",
+   "index": 559,
+   "name": "skill_559",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0560": {
+   "key": "SOUND_SKILL_0560",
+   "index": 560,
+   "name": "skill_560",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0561": {
+   "key": "SOUND_SKILL_0561",
+   "index": 561,
+   "name": "skill_561",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0562": {
+   "key": "SOUND_SKILL_0562",
+   "index": 562,
+   "name": "skill_562",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0563": {
+   "key": "SOUND_SKILL_0563",
+   "index": 563,
+   "name": "skill_563",
+   "playType": "ONESHOT",
+   "volume": 0.699999988079071,
+   "limit": 5
+  },
+  "SOUND_SKILL_0564": {
+   "key": "SOUND_SKILL_0564",
+   "index": 564,
+   "name": "skill_564",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0565": {
+   "key": "SOUND_SKILL_0565",
+   "index": 565,
+   "name": "skill_565",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0566": {
+   "key": "SOUND_SKILL_0566",
+   "index": 566,
+   "name": "skill_566",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0567": {
+   "key": "SOUND_SKILL_0567",
+   "index": 567,
+   "name": "skill_567",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0568": {
+   "key": "SOUND_SKILL_0568",
+   "index": 568,
+   "name": "skill_568",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0569": {
+   "key": "SOUND_SKILL_0569",
+   "index": 569,
+   "name": "skill_569",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0570": {
+   "key": "SOUND_SKILL_0570",
+   "index": 570,
+   "name": "skill_570",
+   "playType": "ONESHOT",
+   "volume": 0.8999999761581421,
+   "limit": 1
+  },
+  "SOUND_SKILL_0571": {
+   "key": "SOUND_SKILL_0571",
+   "index": 571,
+   "name": "skill_571",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 2
+  },
+  "SOUND_SKILL_0572": {
+   "key": "SOUND_SKILL_0572",
+   "index": 572,
+   "name": "skill_572",
+   "playType": "ONESHOT",
+   "volume": 0.20000000298023224,
+   "limit": 10
+  },
+  "SOUND_SKILL_0573": {
+   "key": "SOUND_SKILL_0573",
+   "index": 573,
+   "name": "skill_573",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 1
+  },
+  "SOUND_SKILL_0574": {
+   "key": "SOUND_SKILL_0574",
+   "index": 574,
+   "name": "skill_574",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_SKILL_0575": {
+   "key": "SOUND_SKILL_0575",
+   "index": 575,
+   "name": "skill_575",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 1
+  },
+  "SOUND_SKILL_0576": {
+   "key": "SOUND_SKILL_0576",
+   "index": 576,
+   "name": "skill_576",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 5
+  },
+  "SOUND_SKILL_0577": {
+   "key": "SOUND_SKILL_0577",
+   "index": 577,
+   "name": "skill_577",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 5
+  },
+  "SOUND_SKILL_0578": {
+   "key": "SOUND_SKILL_0578",
+   "index": 578,
+   "name": "skill_578",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 5
+  },
+  "SOUND_SKILL_0579": {
+   "key": "SOUND_SKILL_0579",
+   "index": 579,
+   "name": "skill_579",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 5
+  },
+  "SOUND_SKILL_0580": {
+   "key": "SOUND_SKILL_0580",
+   "index": 580,
+   "name": "skill_580",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_SKILL_0581": {
+   "key": "SOUND_SKILL_0581",
+   "index": 581,
+   "name": "skill_581",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 1
+  },
+  "SOUND_SKILL_0582": {
+   "key": "SOUND_SKILL_0582",
+   "index": 582,
+   "name": "skill_582",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 1
+  },
+  "SOUND_SKILL_0583": {
+   "key": "SOUND_SKILL_0583",
+   "index": 583,
+   "name": "skill_583",
+   "playType": "ONESHOT",
+   "volume": 0.800000011920929,
+   "limit": 1
+  },
+  "SOUND_SKILL_0584": {
+   "key": "SOUND_SKILL_0584",
+   "index": 584,
+   "name": "skill_584",
+   "playType": "ONESHOT",
+   "volume": 1.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0585": {
+   "key": "SOUND_SKILL_0585",
+   "index": 585,
+   "name": "skill_585",
+   "playType": "ONESHOT",
+   "volume": 1.5,
+   "limit": 5
+  },
+  "SOUND_SKILL_0586": {
+   "key": "SOUND_SKILL_0586",
+   "index": 586,
+   "name": "skill_586",
+   "playType": "ONESHOT",
+   "volume": 2.0,
+   "limit": 5
+  },
+  "SOUND_FISHING_0000": {
+   "key": "SOUND_FISHING_0000",
+   "index": 0,
+   "name": "Fishing_ResultFisrtGet",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_FISHING_0001": {
+   "key": "SOUND_FISHING_0001",
+   "index": 1,
+   "name": "Fishing_Result",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_FISHING_0002": {
+   "key": "SOUND_FISHING_0002",
+   "index": 2,
+   "name": "Fishing_BGM",
+   "playType": "BGM",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_FISHING_0003": {
+   "key": "SOUND_FISHING_0003",
+   "index": 3,
+   "name": "Fishing_BubbleHit",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_FISHING_0004": {
+   "key": "SOUND_FISHING_0004",
+   "index": 4,
+   "name": "Fishing_FishGet",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_FISHING_0005": {
+   "key": "SOUND_FISHING_0005",
+   "index": 5,
+   "name": "Fishing_Reel",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_CARD_0000": {
+   "key": "SOUND_EVENT_CARD_0000",
+   "index": 0,
+   "name": "Card_Pickup_Wish",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_CARD_0001": {
+   "key": "SOUND_EVENT_CARD_0001",
+   "index": 1,
+   "name": "Card_Pickup",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_CARD_0002": {
+   "key": "SOUND_EVENT_CARD_0002",
+   "index": 2,
+   "name": "Card_Shuffle",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_CARD_0003": {
+   "key": "SOUND_EVENT_CARD_0003",
+   "index": 3,
+   "name": "Card_Sorting",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_JUMP_0000": {
+   "key": "SOUND_EVENT_JUMP_0000",
+   "index": 0,
+   "name": "Jump_Solo_Jump",
+   "playType": "SFX",
+   "volume": 0.20000000298023224,
+   "limit": 5
+  },
+  "SOUND_EVENT_JUMP_0001": {
+   "key": "SOUND_EVENT_JUMP_0001",
+   "index": 1,
+   "name": "Jump_Falling",
+   "playType": "SFX",
+   "volume": 0.30000001192092896,
+   "limit": 1
+  },
+  "SOUND_EVENT_JUMP_0002": {
+   "key": "SOUND_EVENT_JUMP_0002",
+   "index": 2,
+   "name": "Jump_BGM",
+   "playType": "BGM",
+   "volume": 0.20000000298023224,
+   "limit": 1
+  },
+  "SOUND_EVENT_ROULETTE_0000": {
+   "key": "SOUND_EVENT_ROULETTE_0000",
+   "index": 0,
+   "name": "sfx_18",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_ROULETTE_0001": {
+   "key": "SOUND_EVENT_ROULETTE_0001",
+   "index": 1,
+   "name": "card_04",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_ROULETTE_0002": {
+   "key": "SOUND_EVENT_ROULETTE_0002",
+   "index": 2,
+   "name": "hero_levelup",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_ROULETTE_0003": {
+   "key": "SOUND_EVENT_ROULETTE_0003",
+   "index": 3,
+   "name": "Roulette_Spin",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_EVENT_RUMBERJACK_0000": {
+   "key": "SOUND_EVENT_RUMBERJACK_0000",
+   "index": 0,
+   "name": "action_00",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 12
+  },
+  "SOUND_EVENT_RUMBERJACK_0001": {
+   "key": "SOUND_EVENT_RUMBERJACK_0001",
+   "index": 1,
+   "name": "Rumberjack_BGM",
+   "playType": "BGM",
+   "volume": 0.20000000298023224,
+   "limit": 1
+  },
+  "SOUND_EVENT_PINBALL_0000": {
+   "key": "SOUND_EVENT_PINBALL_0000",
+   "index": 0,
+   "name": "skill_005",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 12
+  },
+  "SOUND_EVENT_PINBALL_0001": {
+   "key": "SOUND_EVENT_PINBALL_0001",
+   "index": 1,
+   "name": "btn_00",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 20
+  },
+  "SOUND_EVENT_PINBALL_0002": {
+   "key": "SOUND_EVENT_PINBALL_0002",
+   "index": 2,
+   "name": "skill_006",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 5
+  },
+  "SOUND_EVENT_PINBALL_0003": {
+   "key": "SOUND_EVENT_PINBALL_0003",
+   "index": 3,
+   "name": "die_05",
+   "playType": "ONESHOT",
+   "volume": 0.30000001192092896,
+   "limit": 5
+  },
+  "SOUND_EVENT_PINBALL_0004": {
+   "key": "SOUND_EVENT_PINBALL_0004",
+   "index": 4,
+   "name": "action_00",
+   "playType": "ONESHOT",
+   "volume": 1.0,
+   "limit": 1
+  },
+  "SOUND_EVENT_PINBALL_0005": {
+   "key": "SOUND_EVENT_PINBALL_0005",
+   "index": 5,
+   "name": "sfx_13",
+   "playType": "SFX",
+   "volume": 0.5,
+   "limit": 1
+  },
+  "SOUND_EVENT_SQUAD_0000": {
+   "key": "SOUND_EVENT_SQUAD_0000",
+   "index": 0,
+   "name": "skill_081",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  },
+  "SOUND_EVENT_SQUAD_0001": {
+   "key": "SOUND_EVENT_SQUAD_0001",
+   "index": 1,
+   "name": "dice",
+   "playType": "ONESHOT",
+   "volume": 0.5,
+   "limit": 10
+  }
+ }
+}

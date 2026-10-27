@@ -1,0 +1,1587 @@
+{
+ "sheetName": "TableRankRewardData",
+ "tableIndex": 0,
+ "rows": {
+  "RankReward000000": {
+   "key": "RankReward000000",
+   "category": 0,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item002008",
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    25,
+    750,
+    30,
+    1000
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000001": {
+   "key": "RankReward000001",
+   "category": 0,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item002008",
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    20,
+    450,
+    25,
+    800
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000002": {
+   "key": "RankReward000002",
+   "category": 0,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item002008",
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    15,
+    300,
+    20,
+    600
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000003": {
+   "key": "RankReward000003",
+   "category": 0,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002005",
+    "Item002008",
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    10,
+    150,
+    15,
+    500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000004": {
+   "key": "RankReward000004",
+   "category": 0,
+   "index": 4,
+   "minRank": 21,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002005",
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    5,
+    10,
+    400
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000005": {
+   "key": "RankReward000005",
+   "category": 0,
+   "index": 5,
+   "minRank": 101,
+   "maxRank": 150,
+   "rewardKeys": [
+    "Item009014",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    5,
+    300
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward000006": {
+   "key": "RankReward000006",
+   "category": 0,
+   "index": 6,
+   "minRank": 151,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001000": {
+   "key": "RankReward001000",
+   "category": 1,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003",
+    "Item009400"
+   ],
+   "rewardAmounts": [
+    50,
+    700,
+    25
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001001": {
+   "key": "RankReward001001",
+   "category": 1,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003",
+    "Item009400"
+   ],
+   "rewardAmounts": [
+    40,
+    500,
+    15
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001002": {
+   "key": "RankReward001002",
+   "category": 1,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003",
+    "Item009400"
+   ],
+   "rewardAmounts": [
+    30,
+    300,
+    10
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001003": {
+   "key": "RankReward001003",
+   "category": 1,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003",
+    "Item009400"
+   ],
+   "rewardAmounts": [
+    20,
+    250,
+    5
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001004": {
+   "key": "RankReward001004",
+   "category": 1,
+   "index": 4,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    10,
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001005": {
+   "key": "RankReward001005",
+   "category": 1,
+   "index": 5,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    150
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward001006": {
+   "key": "RankReward001006",
+   "category": 1,
+   "index": 6,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward002000": {
+   "key": "RankReward002000",
+   "category": 2,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item009037",
+    "Item008030",
+    "Item013007",
+    "Item008025"
+   ],
+   "rewardAmounts": [
+    50,
+    10,
+    2,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008030",
+    "Item013007",
+    "Item008025"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002001": {
+   "key": "RankReward002001",
+   "category": 2,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item009037",
+    "Item008029",
+    "Item013008",
+    "Item008024"
+   ],
+   "rewardAmounts": [
+    20,
+    8,
+    2,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008029",
+    "Item013008",
+    "Item008024"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002002": {
+   "key": "RankReward002002",
+   "category": 2,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item009037",
+    "Item008029",
+    "Item013009",
+    "Item008024"
+   ],
+   "rewardAmounts": [
+    10,
+    6,
+    1,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008029",
+    "Item013009",
+    "Item008024"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002003": {
+   "key": "RankReward002003",
+   "category": 2,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002005",
+    "Item009037",
+    "Item008009",
+    "Item013010",
+    "Item008004"
+   ],
+   "rewardAmounts": [
+    5,
+    4,
+    2,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008009",
+    "Item013010",
+    "Item008004"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002004": {
+   "key": "RankReward002004",
+   "category": 2,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002005",
+    "Item009037",
+    "Item008009",
+    "Item013011",
+    "Item008004"
+   ],
+   "rewardAmounts": [
+    2,
+    3,
+    1,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008009",
+    "Item013011",
+    "Item008004"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002005": {
+   "key": "RankReward002005",
+   "category": 2,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003",
+    "Item009037",
+    "Item008008",
+    "Item009037",
+    "Item008003"
+   ],
+   "rewardAmounts": [
+    100,
+    2,
+    1,
+    2,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008008",
+    "Item009037",
+    "Item008003"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward002006": {
+   "key": "RankReward002006",
+   "category": 2,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003",
+    "Item009037",
+    "Item008007",
+    "Item009037",
+    "Item008002"
+   ],
+   "rewardAmounts": [
+    50,
+    1,
+    1,
+    1,
+    1
+   ],
+   "unlockRwd": [
+    "Item009037",
+    "Item008007",
+    "Item009037",
+    "Item008002"
+   ],
+   "unlockLv": [
+    3,
+    5,
+    7,
+    9
+   ]
+  },
+  "RankReward801000": {
+   "key": "RankReward801000",
+   "category": 801,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100,
+    1500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801001": {
+   "key": "RankReward801001",
+   "category": 801,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50,
+    750
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801002": {
+   "key": "RankReward801002",
+   "category": 801,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    25,
+    500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801003": {
+   "key": "RankReward801003",
+   "category": 801,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    15,
+    300
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801004": {
+   "key": "RankReward801004",
+   "category": 801,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    10,
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801005": {
+   "key": "RankReward801005",
+   "category": 801,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801006": {
+   "key": "RankReward801006",
+   "category": 801,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward801007": {
+   "key": "RankReward801007",
+   "category": 801,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802000": {
+   "key": "RankReward802000",
+   "category": 802,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100,
+    1500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802001": {
+   "key": "RankReward802001",
+   "category": 802,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50,
+    750
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802002": {
+   "key": "RankReward802002",
+   "category": 802,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    25,
+    500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802003": {
+   "key": "RankReward802003",
+   "category": 802,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    15,
+    300
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802004": {
+   "key": "RankReward802004",
+   "category": 802,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    10,
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802005": {
+   "key": "RankReward802005",
+   "category": 802,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802006": {
+   "key": "RankReward802006",
+   "category": 802,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward802007": {
+   "key": "RankReward802007",
+   "category": 802,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701000": {
+   "key": "RankReward701000",
+   "category": 701,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item013001",
+    "Item002005",
+    "Item002044"
+   ],
+   "rewardAmounts": [
+    1,
+    1000,
+    30
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701001": {
+   "key": "RankReward701001",
+   "category": 701,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item013002",
+    "Item002005",
+    "Item002044"
+   ],
+   "rewardAmounts": [
+    1,
+    500,
+    20
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701002": {
+   "key": "RankReward701002",
+   "category": 701,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item013003",
+    "Item002005",
+    "Item002044"
+   ],
+   "rewardAmounts": [
+    1,
+    300,
+    10
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701003": {
+   "key": "RankReward701003",
+   "category": 701,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item013004",
+    "Item002005",
+    "Item002044"
+   ],
+   "rewardAmounts": [
+    1,
+    100,
+    5
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701004": {
+   "key": "RankReward701004",
+   "category": 701,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item013005",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    40,
+    800
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701005": {
+   "key": "RankReward701005",
+   "category": 701,
+   "index": 5,
+   "minRank": 101,
+   "maxRank": 1000,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    20,
+    400
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701006": {
+   "key": "RankReward701006",
+   "category": 701,
+   "index": 6,
+   "minRank": 1001,
+   "maxRank": 5000,
+   "rewardKeys": [
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    10,
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward701007": {
+   "key": "RankReward701007",
+   "category": 701,
+   "index": 7,
+   "minRank": 5001,
+   "maxRank": 10000,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803000": {
+   "key": "RankReward803000",
+   "category": 803,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item20000036",
+    "Item013016",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    1,
+    50,
+    1000
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803001": {
+   "key": "RankReward803001",
+   "category": 803,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item20000036",
+    "Item013016",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    1,
+    25,
+    800
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803002": {
+   "key": "RankReward803002",
+   "category": 803,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item20000036",
+    "Item013016",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    1,
+    20,
+    600
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803003": {
+   "key": "RankReward803003",
+   "category": 803,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item013016",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    10,
+    500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803004": {
+   "key": "RankReward803004",
+   "category": 803,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    400,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803005": {
+   "key": "RankReward803005",
+   "category": 803,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    300,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803006": {
+   "key": "RankReward803006",
+   "category": 803,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    200,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward803007": {
+   "key": "RankReward803007",
+   "category": 803,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    100,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805000": {
+   "key": "RankReward805000",
+   "category": 805,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002006",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    5,
+    50,
+    1000
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805001": {
+   "key": "RankReward805001",
+   "category": 805,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002006",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    3,
+    25,
+    800
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805002": {
+   "key": "RankReward805002",
+   "category": 805,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002006",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    2,
+    20,
+    600
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805003": {
+   "key": "RankReward805003",
+   "category": 805,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002006",
+    "Item002005",
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    1,
+    10,
+    500
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805004": {
+   "key": "RankReward805004",
+   "category": 805,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    400,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805005": {
+   "key": "RankReward805005",
+   "category": 805,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    300,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805006": {
+   "key": "RankReward805006",
+   "category": 805,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    200,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward805007": {
+   "key": "RankReward805007",
+   "category": 805,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003",
+    "Item007002"
+   ],
+   "rewardAmounts": [
+    100,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806000": {
+   "key": "RankReward806000",
+   "category": 806,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item013014"
+   ],
+   "rewardAmounts": [
+    50,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806001": {
+   "key": "RankReward806001",
+   "category": 806,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item013014"
+   ],
+   "rewardAmounts": [
+    25,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806002": {
+   "key": "RankReward806002",
+   "category": 806,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item013014"
+   ],
+   "rewardAmounts": [
+    20,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806003": {
+   "key": "RankReward806003",
+   "category": 806,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002005",
+    "Item013014"
+   ],
+   "rewardAmounts": [
+    10,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806004": {
+   "key": "RankReward806004",
+   "category": 806,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806005": {
+   "key": "RankReward806005",
+   "category": 806,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    150
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806006": {
+   "key": "RankReward806006",
+   "category": 806,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward806007": {
+   "key": "RankReward806007",
+   "category": 806,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807000": {
+   "key": "RankReward807000",
+   "category": 807,
+   "index": 0,
+   "minRank": 0,
+   "maxRank": 1,
+   "rewardKeys": [
+    "Item002005",
+    "Item20000037"
+   ],
+   "rewardAmounts": [
+    50,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807001": {
+   "key": "RankReward807001",
+   "category": 807,
+   "index": 1,
+   "minRank": 0,
+   "maxRank": 2,
+   "rewardKeys": [
+    "Item002005",
+    "Item20000037"
+   ],
+   "rewardAmounts": [
+    25,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807002": {
+   "key": "RankReward807002",
+   "category": 807,
+   "index": 2,
+   "minRank": 0,
+   "maxRank": 3,
+   "rewardKeys": [
+    "Item002005",
+    "Item20000037"
+   ],
+   "rewardAmounts": [
+    20,
+    1
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807003": {
+   "key": "RankReward807003",
+   "category": 807,
+   "index": 3,
+   "minRank": 4,
+   "maxRank": 10,
+   "rewardKeys": [
+    "Item002005"
+   ],
+   "rewardAmounts": [
+    10
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807004": {
+   "key": "RankReward807004",
+   "category": 807,
+   "index": 4,
+   "minRank": 11,
+   "maxRank": 20,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    200
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807005": {
+   "key": "RankReward807005",
+   "category": 807,
+   "index": 5,
+   "minRank": 21,
+   "maxRank": 50,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    150
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807006": {
+   "key": "RankReward807006",
+   "category": 807,
+   "index": 6,
+   "minRank": 51,
+   "maxRank": 100,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    100
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  },
+  "RankReward807007": {
+   "key": "RankReward807007",
+   "category": 807,
+   "index": 7,
+   "minRank": 101,
+   "maxRank": 0,
+   "rewardKeys": [
+    "Item002003"
+   ],
+   "rewardAmounts": [
+    50
+   ],
+   "unlockRwd": [],
+   "unlockLv": [
+    0
+   ]
+  }
+ }
+}

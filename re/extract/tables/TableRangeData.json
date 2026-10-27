@@ -1,0 +1,1086 @@
+{
+ "sheetName": "TableRangeDataData",
+ "tableIndex": 0,
+ "rows": {
+  "RangeData000000": {
+   "key": "RangeData000000",
+   "category": 0,
+   "index": 0,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 120.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData000001": {
+   "key": "RangeData000001",
+   "category": 0,
+   "index": 1,
+   "startPos": "TARGET",
+   "pivotType": "CENTER",
+   "rangeRadius": 0.0,
+   "rangeAngle": 0.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData000002": {
+   "key": "RangeData000002",
+   "category": 0,
+   "index": 2,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 5.0,
+   "rangeAngle": 5.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000003": {
+   "key": "RangeData000003",
+   "category": 0,
+   "index": 3,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 5.0,
+   "rangeAngle": 1.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000004": {
+   "key": "RangeData000004",
+   "category": 0,
+   "index": 4,
+   "startPos": "OTHER_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.5,
+   "rangeAngle": 1.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000005": {
+   "key": "RangeData000005",
+   "category": 0,
+   "index": 5,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 10.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000006": {
+   "key": "RangeData000006",
+   "category": 0,
+   "index": 6,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 5.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000007": {
+   "key": "RangeData000007",
+   "category": 0,
+   "index": 7,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 5.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000008": {
+   "key": "RangeData000008",
+   "category": 0,
+   "index": 8,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 6.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000009": {
+   "key": "RangeData000009",
+   "category": 0,
+   "index": 9,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 6.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000010": {
+   "key": "RangeData000010",
+   "category": 0,
+   "index": 10,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 8.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000011": {
+   "key": "RangeData000011",
+   "category": 0,
+   "index": 11,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 7.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000012": {
+   "key": "RangeData000012",
+   "category": 0,
+   "index": 12,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.5,
+   "rangeAngle": 6.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000013": {
+   "key": "RangeData000013",
+   "category": 0,
+   "index": 13,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 9.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000014": {
+   "key": "RangeData000014",
+   "category": 0,
+   "index": 14,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 6.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000015": {
+   "key": "RangeData000015",
+   "category": 0,
+   "index": 15,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 4.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000016": {
+   "key": "RangeData000016",
+   "category": 0,
+   "index": 16,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 1.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000017": {
+   "key": "RangeData000017",
+   "category": 0,
+   "index": 17,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 3.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000018": {
+   "key": "RangeData000018",
+   "category": 0,
+   "index": 18,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 2.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000019": {
+   "key": "RangeData000019",
+   "category": 0,
+   "index": 19,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.5,
+   "rangeAngle": 10.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000020": {
+   "key": "RangeData000020",
+   "category": 0,
+   "index": 20,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 5.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000021": {
+   "key": "RangeData000021",
+   "category": 0,
+   "index": 21,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 10.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000022": {
+   "key": "RangeData000022",
+   "category": 0,
+   "index": 22,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 20.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000023": {
+   "key": "RangeData000023",
+   "category": 0,
+   "index": 23,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 5.0,
+   "rangeAngle": 20.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000024": {
+   "key": "RangeData000024",
+   "category": 0,
+   "index": 24,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 20.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000025": {
+   "key": "RangeData000025",
+   "category": 0,
+   "index": 25,
+   "startPos": "MINE_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 10.0,
+   "rangeType": "BOX"
+  },
+  "RangeData000026": {
+   "key": "RangeData000026",
+   "category": 0,
+   "index": 26,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 2.5,
+   "rangeType": "BOX"
+  },
+  "RangeData000027": {
+   "key": "RangeData000027",
+   "category": 0,
+   "index": 27,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.25,
+   "rangeAngle": 3.0,
+   "rangeType": "BOX"
+  },
+  "RangeData004000": {
+   "key": "RangeData004000",
+   "category": 4,
+   "index": 0,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005000": {
+   "key": "RangeData005000",
+   "category": 5,
+   "index": 0,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 60.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005001": {
+   "key": "RangeData005001",
+   "category": 5,
+   "index": 1,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 60.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005002": {
+   "key": "RangeData005002",
+   "category": 5,
+   "index": 2,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 45.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005003": {
+   "key": "RangeData005003",
+   "category": 5,
+   "index": 3,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 90.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005004": {
+   "key": "RangeData005004",
+   "category": 5,
+   "index": 4,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005005": {
+   "key": "RangeData005005",
+   "category": 5,
+   "index": 5,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 90.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005006": {
+   "key": "RangeData005006",
+   "category": 5,
+   "index": 6,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 90.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005007": {
+   "key": "RangeData005007",
+   "category": 5,
+   "index": 7,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 7.0,
+   "rangeAngle": 90.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005008": {
+   "key": "RangeData005008",
+   "category": 5,
+   "index": 8,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005009": {
+   "key": "RangeData005009",
+   "category": 5,
+   "index": 9,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005010": {
+   "key": "RangeData005010",
+   "category": 5,
+   "index": 10,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 60.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005011": {
+   "key": "RangeData005011",
+   "category": 5,
+   "index": 11,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005012": {
+   "key": "RangeData005012",
+   "category": 5,
+   "index": 12,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 60.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005013": {
+   "key": "RangeData005013",
+   "category": 5,
+   "index": 13,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 150.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005014": {
+   "key": "RangeData005014",
+   "category": 5,
+   "index": 14,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 150.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005015": {
+   "key": "RangeData005015",
+   "category": 5,
+   "index": 15,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 6.0,
+   "rangeAngle": 150.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005016": {
+   "key": "RangeData005016",
+   "category": 5,
+   "index": 16,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 120.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005017": {
+   "key": "RangeData005017",
+   "category": 5,
+   "index": 17,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 7.0,
+   "rangeAngle": 120.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005018": {
+   "key": "RangeData005018",
+   "category": 5,
+   "index": 18,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 120.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005019": {
+   "key": "RangeData005019",
+   "category": 5,
+   "index": 19,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData005020": {
+   "key": "RangeData005020",
+   "category": 5,
+   "index": 20,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 90.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006000": {
+   "key": "RangeData006000",
+   "category": 6,
+   "index": 0,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 0.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006001": {
+   "key": "RangeData006001",
+   "category": 6,
+   "index": 1,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006002": {
+   "key": "RangeData006002",
+   "category": 6,
+   "index": 2,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006003": {
+   "key": "RangeData006003",
+   "category": 6,
+   "index": 3,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006004": {
+   "key": "RangeData006004",
+   "category": 6,
+   "index": 4,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006005": {
+   "key": "RangeData006005",
+   "category": 6,
+   "index": 5,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006006": {
+   "key": "RangeData006006",
+   "category": 6,
+   "index": 6,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 6.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006007": {
+   "key": "RangeData006007",
+   "category": 6,
+   "index": 7,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 7.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006008": {
+   "key": "RangeData006008",
+   "category": 6,
+   "index": 8,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 8.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006009": {
+   "key": "RangeData006009",
+   "category": 6,
+   "index": 9,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 9.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006010": {
+   "key": "RangeData006010",
+   "category": 6,
+   "index": 10,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006011": {
+   "key": "RangeData006011",
+   "category": 6,
+   "index": 11,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 11.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006012": {
+   "key": "RangeData006012",
+   "category": 6,
+   "index": 12,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 12.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006013": {
+   "key": "RangeData006013",
+   "category": 6,
+   "index": 13,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 13.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006015": {
+   "key": "RangeData006015",
+   "category": 6,
+   "index": 15,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006020": {
+   "key": "RangeData006020",
+   "category": 6,
+   "index": 20,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 20.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006030": {
+   "key": "RangeData006030",
+   "category": 6,
+   "index": 30,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 30.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006125": {
+   "key": "RangeData006125",
+   "category": 6,
+   "index": 125,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.25,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006625": {
+   "key": "RangeData006625",
+   "category": 6,
+   "index": 625,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData006635": {
+   "key": "RangeData006635",
+   "category": 6,
+   "index": 635,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007001": {
+   "key": "RangeData007001",
+   "category": 7,
+   "index": 1,
+   "startPos": 0,
+   "pivotType": "CENTER",
+   "rangeRadius": 1.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007002": {
+   "key": "RangeData007002",
+   "category": 7,
+   "index": 2,
+   "startPos": 0,
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007003": {
+   "key": "RangeData007003",
+   "category": 7,
+   "index": 3,
+   "startPos": 0,
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007004": {
+   "key": "RangeData007004",
+   "category": 7,
+   "index": 4,
+   "startPos": 0,
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007005": {
+   "key": "RangeData007005",
+   "category": 7,
+   "index": 5,
+   "startPos": 0,
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007006": {
+   "key": "RangeData007006",
+   "category": 7,
+   "index": 6,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007007": {
+   "key": "RangeData007007",
+   "category": 7,
+   "index": 7,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData007008": {
+   "key": "RangeData007008",
+   "category": 7,
+   "index": 8,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008000": {
+   "key": "RangeData008000",
+   "category": 8,
+   "index": 0,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 0.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008001": {
+   "key": "RangeData008001",
+   "category": 8,
+   "index": 1,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008002": {
+   "key": "RangeData008002",
+   "category": 8,
+   "index": 2,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008003": {
+   "key": "RangeData008003",
+   "category": 8,
+   "index": 3,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 3.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008004": {
+   "key": "RangeData008004",
+   "category": 8,
+   "index": 4,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008005": {
+   "key": "RangeData008005",
+   "category": 8,
+   "index": 5,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008006": {
+   "key": "RangeData008006",
+   "category": 8,
+   "index": 6,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 2.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008007": {
+   "key": "RangeData008007",
+   "category": 8,
+   "index": 7,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData008008": {
+   "key": "RangeData008008",
+   "category": 8,
+   "index": 8,
+   "startPos": "OTHER_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009000": {
+   "key": "RangeData009000",
+   "category": 9,
+   "index": 0,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009001": {
+   "key": "RangeData009001",
+   "category": 9,
+   "index": 1,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 1.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009002": {
+   "key": "RangeData009002",
+   "category": 9,
+   "index": 2,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009003": {
+   "key": "RangeData009003",
+   "category": 9,
+   "index": 3,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 3.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009050": {
+   "key": "RangeData009050",
+   "category": 9,
+   "index": 50,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 0.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData009025": {
+   "key": "RangeData009025",
+   "category": 9,
+   "index": 25,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 2.5,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData010004": {
+   "key": "RangeData010004",
+   "category": 10,
+   "index": 4,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 4.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData010005": {
+   "key": "RangeData010005",
+   "category": 10,
+   "index": 5,
+   "startPos": "MINE_FRONT",
+   "pivotType": "PIVOT",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData011001": {
+   "key": "RangeData011001",
+   "category": 11,
+   "index": 1,
+   "startPos": "MINE_FRONT",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 180.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData012000": {
+   "key": "RangeData012000",
+   "category": 12,
+   "index": 0,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 300.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData012001": {
+   "key": "RangeData012001",
+   "category": 12,
+   "index": 1,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 1.0,
+   "rangeAngle": 300.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData012004": {
+   "key": "RangeData012004",
+   "category": 12,
+   "index": 4,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 300.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData012005": {
+   "key": "RangeData012005",
+   "category": 12,
+   "index": 5,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 300.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData012010": {
+   "key": "RangeData012010",
+   "category": 12,
+   "index": 10,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 300.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData013004": {
+   "key": "RangeData013004",
+   "category": 13,
+   "index": 4,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 4.0,
+   "rangeAngle": 260.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData013005": {
+   "key": "RangeData013005",
+   "category": 13,
+   "index": 5,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 260.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData013010": {
+   "key": "RangeData013010",
+   "category": 13,
+   "index": 10,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 10.0,
+   "rangeAngle": 260.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData014005": {
+   "key": "RangeData014005",
+   "category": 14,
+   "index": 5,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 200.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData014007": {
+   "key": "RangeData014007",
+   "category": 14,
+   "index": 7,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 7.0,
+   "rangeAngle": 200.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData015000": {
+   "key": "RangeData015000",
+   "category": 15,
+   "index": 0,
+   "startPos": "MINE_RANDOM",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 360.0,
+   "rangeType": "CIRCLE"
+  },
+  "RangeData999000": {
+   "key": "RangeData999000",
+   "category": 999,
+   "index": 0,
+   "startPos": "MINE_CENTER",
+   "pivotType": "CENTER",
+   "rangeRadius": 5.0,
+   "rangeAngle": 200.0,
+   "rangeType": "CIRCLE"
+  }
+ }
+}

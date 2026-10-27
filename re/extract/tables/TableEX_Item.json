@@ -1,0 +1,41 @@
+{
+ "sheetName": "TableEX_ItemData",
+ "tableIndex": 0,
+ "rows": {
+  "EX_Item000": {
+   "key": "EX_Item000",
+   "index": 0,
+   "item": "DropItem800000",
+   "rCnt": 50,
+   "gCnt": 3
+  },
+  "EX_Item001": {
+   "key": "EX_Item001",
+   "index": 1,
+   "item": "Item012000",
+   "rCnt": 50,
+   "gCnt": 50
+  },
+  "EX_Item002": {
+   "key": "EX_Item002",
+   "index": 2,
+   "item": "Item012001",
+   "rCnt": 50,
+   "gCnt": 1
+  },
+  "EX_Item003": {
+   "key": "EX_Item003",
+   "index": 3,
+   "item": "Item012003",
+   "rCnt": 50,
+   "gCnt": 50
+  },
+  "EX_Item004": {
+   "key": "EX_Item004",
+   "index": 4,
+   "item": "DropItem510002",
+   "rCnt": 10,
+   "gCnt": 1
+  }
+ }
+}

@@ -1,0 +1,3126 @@
+{
+ "sheetName": "TableEventTowerData",
+ "tableIndex": 0,
+ "rows": {
+  "EventTower8150001": {
+   "key": "EventTower8150001",
+   "category": 815,
+   "floor": 1,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120011",
+    "MonsterGroup6120012",
+    "MonsterGroup6120013"
+   ],
+   "monsterLv": 10,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150002": {
+   "key": "EventTower8150002",
+   "category": 815,
+   "floor": 2,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120021",
+    "MonsterGroup6120022",
+    "MonsterGroup6120023"
+   ],
+   "monsterLv": 15,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150003": {
+   "key": "EventTower8150003",
+   "category": 815,
+   "floor": 3,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120031",
+    "MonsterGroup6120032",
+    "MonsterGroup6120033"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150004": {
+   "key": "EventTower8150004",
+   "category": 815,
+   "floor": 4,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120041",
+    "MonsterGroup6120042",
+    "MonsterGroup6120043"
+   ],
+   "monsterLv": 25,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150005": {
+   "key": "EventTower8150005",
+   "category": 815,
+   "floor": 5,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120051",
+    "MonsterGroup6120052",
+    "MonsterGroup6120053"
+   ],
+   "monsterLv": 40,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150006": {
+   "key": "EventTower8150006",
+   "category": 815,
+   "floor": 6,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120061",
+    "MonsterGroup6120062",
+    "MonsterGroup6120063"
+   ],
+   "monsterLv": 55,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002006"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150007": {
+   "key": "EventTower8150007",
+   "category": 815,
+   "floor": 7,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120071",
+    "MonsterGroup6120072",
+    "MonsterGroup6120073"
+   ],
+   "monsterLv": 70,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150008": {
+   "key": "EventTower8150008",
+   "category": 815,
+   "floor": 8,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120081",
+    "MonsterGroup6120082",
+    "MonsterGroup6120083"
+   ],
+   "monsterLv": 80,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150009": {
+   "key": "EventTower8150009",
+   "category": 815,
+   "floor": 9,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120091",
+    "MonsterGroup6120092",
+    "MonsterGroup6120093"
+   ],
+   "monsterLv": 100,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150010": {
+   "key": "EventTower8150010",
+   "category": 815,
+   "floor": 10,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120101",
+    "MonsterGroup6120102",
+    "MonsterGroup6120103"
+   ],
+   "monsterLv": 120,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150011": {
+   "key": "EventTower8150011",
+   "category": 815,
+   "floor": 11,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120111",
+    "MonsterGroup6120112",
+    "MonsterGroup6120113"
+   ],
+   "monsterLv": 140,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007005"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150012": {
+   "key": "EventTower8150012",
+   "category": 815,
+   "floor": 12,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120121",
+    "MonsterGroup6120122",
+    "MonsterGroup6120123"
+   ],
+   "monsterLv": 160,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150013": {
+   "key": "EventTower8150013",
+   "category": 815,
+   "floor": 13,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120131",
+    "MonsterGroup6120132",
+    "MonsterGroup6120133"
+   ],
+   "monsterLv": 190,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150014": {
+   "key": "EventTower8150014",
+   "category": 815,
+   "floor": 14,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120141",
+    "MonsterGroup6120142",
+    "MonsterGroup6120143"
+   ],
+   "monsterLv": 250,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011001"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150015": {
+   "key": "EventTower8150015",
+   "category": 815,
+   "floor": 15,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120151",
+    "MonsterGroup6120152",
+    "MonsterGroup6120153"
+   ],
+   "monsterLv": 290,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150016": {
+   "key": "EventTower8150016",
+   "category": 815,
+   "floor": 16,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120161",
+    "MonsterGroup6120162",
+    "MonsterGroup6120163"
+   ],
+   "monsterLv": 330,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002026"
+   ],
+   "reawrdCount": [
+    300
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150017": {
+   "key": "EventTower8150017",
+   "category": 815,
+   "floor": 17,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120171",
+    "MonsterGroup6120172",
+    "MonsterGroup6120173"
+   ],
+   "monsterLv": 370,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150018": {
+   "key": "EventTower8150018",
+   "category": 815,
+   "floor": 18,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120181",
+    "MonsterGroup6120182",
+    "MonsterGroup6120183"
+   ],
+   "monsterLv": 400,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002029"
+   ],
+   "reawrdCount": [
+    40
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150019": {
+   "key": "EventTower8150019",
+   "category": 815,
+   "floor": 19,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6120191",
+    "MonsterGroup6120192",
+    "MonsterGroup6120193"
+   ],
+   "monsterLv": 450,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002030"
+   ],
+   "reawrdCount": [
+    30
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150020": {
+   "key": "EventTower8150020",
+   "category": 815,
+   "floor": 20,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120201",
+    "MonsterGroup6120202",
+    "MonsterGroup6120203"
+   ],
+   "monsterLv": 500,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007000"
+   ],
+   "reawrdCount": [
+    20
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150021": {
+   "key": "EventTower8150021",
+   "category": 815,
+   "floor": 21,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120211",
+    "MonsterGroup6120212",
+    "MonsterGroup6120213"
+   ],
+   "monsterLv": 600,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150022": {
+   "key": "EventTower8150022",
+   "category": 815,
+   "floor": 22,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120221",
+    "MonsterGroup6120222",
+    "MonsterGroup6120223"
+   ],
+   "monsterLv": 690,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150023": {
+   "key": "EventTower8150023",
+   "category": 815,
+   "floor": 23,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120231",
+    "MonsterGroup6120232",
+    "MonsterGroup6120233"
+   ],
+   "monsterLv": 760,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150024": {
+   "key": "EventTower8150024",
+   "category": 815,
+   "floor": 24,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120241",
+    "MonsterGroup6120242",
+    "MonsterGroup6120243"
+   ],
+   "monsterLv": 840,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150025": {
+   "key": "EventTower8150025",
+   "category": 815,
+   "floor": 25,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120251",
+    "MonsterGroup6120252",
+    "MonsterGroup6120253"
+   ],
+   "monsterLv": 880,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150026": {
+   "key": "EventTower8150026",
+   "category": 815,
+   "floor": 26,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120261",
+    "MonsterGroup6120262",
+    "MonsterGroup6120263"
+   ],
+   "monsterLv": 980,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150027": {
+   "key": "EventTower8150027",
+   "category": 815,
+   "floor": 27,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120271",
+    "MonsterGroup6120272",
+    "MonsterGroup6120273"
+   ],
+   "monsterLv": 1080,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150028": {
+   "key": "EventTower8150028",
+   "category": 815,
+   "floor": 28,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120281",
+    "MonsterGroup6120282",
+    "MonsterGroup6120283"
+   ],
+   "monsterLv": 1180,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150029": {
+   "key": "EventTower8150029",
+   "category": 815,
+   "floor": 29,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120291",
+    "MonsterGroup6120292",
+    "MonsterGroup6120293"
+   ],
+   "monsterLv": 1280,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8150030": {
+   "key": "EventTower8150030",
+   "category": 815,
+   "floor": 30,
+   "mapData": "Chess_Ice",
+   "monsterGroup": [
+    "MonsterGroup6120301",
+    "MonsterGroup6120302",
+    "MonsterGroup6120303"
+   ],
+   "monsterLv": 1380,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160001": {
+   "key": "EventTower8160001",
+   "category": 816,
+   "floor": 1,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130011",
+    "MonsterGroup6130012",
+    "MonsterGroup6130013"
+   ],
+   "monsterLv": 10,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160002": {
+   "key": "EventTower8160002",
+   "category": 816,
+   "floor": 2,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130021",
+    "MonsterGroup6130022",
+    "MonsterGroup6130023"
+   ],
+   "monsterLv": 15,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160003": {
+   "key": "EventTower8160003",
+   "category": 816,
+   "floor": 3,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130031",
+    "MonsterGroup6130032",
+    "MonsterGroup6130033"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160004": {
+   "key": "EventTower8160004",
+   "category": 816,
+   "floor": 4,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130041",
+    "MonsterGroup6130042",
+    "MonsterGroup6130043"
+   ],
+   "monsterLv": 25,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160005": {
+   "key": "EventTower8160005",
+   "category": 816,
+   "floor": 5,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130051",
+    "MonsterGroup6130052",
+    "MonsterGroup6130053"
+   ],
+   "monsterLv": 40,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160006": {
+   "key": "EventTower8160006",
+   "category": 816,
+   "floor": 6,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130061",
+    "MonsterGroup6130062",
+    "MonsterGroup6130063"
+   ],
+   "monsterLv": 55,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002006"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160007": {
+   "key": "EventTower8160007",
+   "category": 816,
+   "floor": 7,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130071",
+    "MonsterGroup6130072",
+    "MonsterGroup6130073"
+   ],
+   "monsterLv": 70,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160008": {
+   "key": "EventTower8160008",
+   "category": 816,
+   "floor": 8,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130081",
+    "MonsterGroup6130082",
+    "MonsterGroup6130083"
+   ],
+   "monsterLv": 80,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160009": {
+   "key": "EventTower8160009",
+   "category": 816,
+   "floor": 9,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130091",
+    "MonsterGroup6130092",
+    "MonsterGroup6130093"
+   ],
+   "monsterLv": 100,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160010": {
+   "key": "EventTower8160010",
+   "category": 816,
+   "floor": 10,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130101",
+    "MonsterGroup6130102",
+    "MonsterGroup6130103"
+   ],
+   "monsterLv": 120,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160011": {
+   "key": "EventTower8160011",
+   "category": 816,
+   "floor": 11,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130111",
+    "MonsterGroup6130112",
+    "MonsterGroup6130113"
+   ],
+   "monsterLv": 140,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007005"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160012": {
+   "key": "EventTower8160012",
+   "category": 816,
+   "floor": 12,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130121",
+    "MonsterGroup6130122",
+    "MonsterGroup6130123"
+   ],
+   "monsterLv": 160,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160013": {
+   "key": "EventTower8160013",
+   "category": 816,
+   "floor": 13,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130131",
+    "MonsterGroup6130132",
+    "MonsterGroup6130133"
+   ],
+   "monsterLv": 190,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160014": {
+   "key": "EventTower8160014",
+   "category": 816,
+   "floor": 14,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130141",
+    "MonsterGroup6130142",
+    "MonsterGroup6130143"
+   ],
+   "monsterLv": 250,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011001"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160015": {
+   "key": "EventTower8160015",
+   "category": 816,
+   "floor": 15,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6130151",
+    "MonsterGroup6130152",
+    "MonsterGroup6130153"
+   ],
+   "monsterLv": 290,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160016": {
+   "key": "EventTower8160016",
+   "category": 816,
+   "floor": 16,
+   "mapData": "Chess_Blood",
+   "monsterGroup": [
+    "MonsterGroup6130161",
+    "MonsterGroup6130162",
+    "MonsterGroup6130163"
+   ],
+   "monsterLv": 330,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002026"
+   ],
+   "reawrdCount": [
+    300
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160017": {
+   "key": "EventTower8160017",
+   "category": 816,
+   "floor": 17,
+   "mapData": "Chess_Blood",
+   "monsterGroup": [
+    "MonsterGroup6130171",
+    "MonsterGroup6130172",
+    "MonsterGroup6130173"
+   ],
+   "monsterLv": 370,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160018": {
+   "key": "EventTower8160018",
+   "category": 816,
+   "floor": 18,
+   "mapData": "Chess_Blood",
+   "monsterGroup": [
+    "MonsterGroup6130181",
+    "MonsterGroup6130182",
+    "MonsterGroup6130183"
+   ],
+   "monsterLv": 400,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002029"
+   ],
+   "reawrdCount": [
+    40
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160019": {
+   "key": "EventTower8160019",
+   "category": 816,
+   "floor": 19,
+   "mapData": "Chess_Blood",
+   "monsterGroup": [
+    "MonsterGroup6130191",
+    "MonsterGroup6130192",
+    "MonsterGroup6130193"
+   ],
+   "monsterLv": 450,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002030"
+   ],
+   "reawrdCount": [
+    30
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160020": {
+   "key": "EventTower8160020",
+   "category": 816,
+   "floor": 20,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130201",
+    "MonsterGroup6130202",
+    "MonsterGroup6130203"
+   ],
+   "monsterLv": 500,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007000"
+   ],
+   "reawrdCount": [
+    20
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160021": {
+   "key": "EventTower8160021",
+   "category": 816,
+   "floor": 21,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130211",
+    "MonsterGroup6130212",
+    "MonsterGroup6130213"
+   ],
+   "monsterLv": 600,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160022": {
+   "key": "EventTower8160022",
+   "category": 816,
+   "floor": 22,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130221",
+    "MonsterGroup6130222",
+    "MonsterGroup6130223"
+   ],
+   "monsterLv": 690,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160023": {
+   "key": "EventTower8160023",
+   "category": 816,
+   "floor": 23,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130231",
+    "MonsterGroup6130232",
+    "MonsterGroup6130233"
+   ],
+   "monsterLv": 760,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160024": {
+   "key": "EventTower8160024",
+   "category": 816,
+   "floor": 24,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130241",
+    "MonsterGroup6130242",
+    "MonsterGroup6130243"
+   ],
+   "monsterLv": 840,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160025": {
+   "key": "EventTower8160025",
+   "category": 816,
+   "floor": 25,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130251",
+    "MonsterGroup6130252",
+    "MonsterGroup6130253"
+   ],
+   "monsterLv": 880,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160026": {
+   "key": "EventTower8160026",
+   "category": 816,
+   "floor": 26,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130261",
+    "MonsterGroup6130262",
+    "MonsterGroup6130263"
+   ],
+   "monsterLv": 980,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160027": {
+   "key": "EventTower8160027",
+   "category": 816,
+   "floor": 27,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130271",
+    "MonsterGroup6130272",
+    "MonsterGroup6130273"
+   ],
+   "monsterLv": 1080,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160028": {
+   "key": "EventTower8160028",
+   "category": 816,
+   "floor": 28,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130281",
+    "MonsterGroup6130282",
+    "MonsterGroup6130283"
+   ],
+   "monsterLv": 1180,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160029": {
+   "key": "EventTower8160029",
+   "category": 816,
+   "floor": 29,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130291",
+    "MonsterGroup6130292",
+    "MonsterGroup6130293"
+   ],
+   "monsterLv": 1280,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8160030": {
+   "key": "EventTower8160030",
+   "category": 816,
+   "floor": 30,
+   "mapData": "Chess_Fire",
+   "monsterGroup": [
+    "MonsterGroup6130301",
+    "MonsterGroup6130302",
+    "MonsterGroup6130303"
+   ],
+   "monsterLv": 1380,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170001": {
+   "key": "EventTower8170001",
+   "category": 817,
+   "floor": 1,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140011",
+    "MonsterGroup6140012",
+    "MonsterGroup6140013"
+   ],
+   "monsterLv": 10,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170002": {
+   "key": "EventTower8170002",
+   "category": 817,
+   "floor": 2,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140021",
+    "MonsterGroup6140022",
+    "MonsterGroup6140023"
+   ],
+   "monsterLv": 15,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170003": {
+   "key": "EventTower8170003",
+   "category": 817,
+   "floor": 3,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140031",
+    "MonsterGroup6140032",
+    "MonsterGroup6140033"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170004": {
+   "key": "EventTower8170004",
+   "category": 817,
+   "floor": 4,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140041",
+    "MonsterGroup6140042",
+    "MonsterGroup6140043"
+   ],
+   "monsterLv": 25,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170005": {
+   "key": "EventTower8170005",
+   "category": 817,
+   "floor": 5,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140051",
+    "MonsterGroup6140052",
+    "MonsterGroup6140053"
+   ],
+   "monsterLv": 40,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170006": {
+   "key": "EventTower8170006",
+   "category": 817,
+   "floor": 6,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140061",
+    "MonsterGroup6140062",
+    "MonsterGroup6140063"
+   ],
+   "monsterLv": 55,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002006"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170007": {
+   "key": "EventTower8170007",
+   "category": 817,
+   "floor": 7,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140071",
+    "MonsterGroup6140072",
+    "MonsterGroup6140073"
+   ],
+   "monsterLv": 70,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170008": {
+   "key": "EventTower8170008",
+   "category": 817,
+   "floor": 8,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140081",
+    "MonsterGroup6140082",
+    "MonsterGroup6140083"
+   ],
+   "monsterLv": 80,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170009": {
+   "key": "EventTower8170009",
+   "category": 817,
+   "floor": 9,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140091",
+    "MonsterGroup6140092",
+    "MonsterGroup6140093"
+   ],
+   "monsterLv": 100,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170010": {
+   "key": "EventTower8170010",
+   "category": 817,
+   "floor": 10,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140101",
+    "MonsterGroup6140102",
+    "MonsterGroup6140103"
+   ],
+   "monsterLv": 120,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170011": {
+   "key": "EventTower8170011",
+   "category": 817,
+   "floor": 11,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140111",
+    "MonsterGroup6140112",
+    "MonsterGroup6140113"
+   ],
+   "monsterLv": 140,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007005"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170012": {
+   "key": "EventTower8170012",
+   "category": 817,
+   "floor": 12,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140121",
+    "MonsterGroup6140122",
+    "MonsterGroup6140123"
+   ],
+   "monsterLv": 160,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170013": {
+   "key": "EventTower8170013",
+   "category": 817,
+   "floor": 13,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140131",
+    "MonsterGroup6140132",
+    "MonsterGroup6140133"
+   ],
+   "monsterLv": 190,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170014": {
+   "key": "EventTower8170014",
+   "category": 817,
+   "floor": 14,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140141",
+    "MonsterGroup6140142",
+    "MonsterGroup6140143"
+   ],
+   "monsterLv": 250,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011001"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170015": {
+   "key": "EventTower8170015",
+   "category": 817,
+   "floor": 15,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140151",
+    "MonsterGroup6140152",
+    "MonsterGroup6140153"
+   ],
+   "monsterLv": 290,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170016": {
+   "key": "EventTower8170016",
+   "category": 817,
+   "floor": 16,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140161",
+    "MonsterGroup6140162",
+    "MonsterGroup6140163"
+   ],
+   "monsterLv": 330,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002026"
+   ],
+   "reawrdCount": [
+    300
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170017": {
+   "key": "EventTower8170017",
+   "category": 817,
+   "floor": 17,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140171",
+    "MonsterGroup6140172",
+    "MonsterGroup6140173"
+   ],
+   "monsterLv": 370,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170018": {
+   "key": "EventTower8170018",
+   "category": 817,
+   "floor": 18,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140181",
+    "MonsterGroup6140182",
+    "MonsterGroup6140183"
+   ],
+   "monsterLv": 400,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002029"
+   ],
+   "reawrdCount": [
+    40
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170019": {
+   "key": "EventTower8170019",
+   "category": 817,
+   "floor": 19,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6140191",
+    "MonsterGroup6140192",
+    "MonsterGroup6140193"
+   ],
+   "monsterLv": 450,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002030"
+   ],
+   "reawrdCount": [
+    30
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170020": {
+   "key": "EventTower8170020",
+   "category": 817,
+   "floor": 20,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140201",
+    "MonsterGroup6140202",
+    "MonsterGroup6140203"
+   ],
+   "monsterLv": 500,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007000"
+   ],
+   "reawrdCount": [
+    20
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170021": {
+   "key": "EventTower8170021",
+   "category": 817,
+   "floor": 21,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140211",
+    "MonsterGroup6140212",
+    "MonsterGroup6140213"
+   ],
+   "monsterLv": 600,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170022": {
+   "key": "EventTower8170022",
+   "category": 817,
+   "floor": 22,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140221",
+    "MonsterGroup6140222",
+    "MonsterGroup6140223"
+   ],
+   "monsterLv": 690,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170023": {
+   "key": "EventTower8170023",
+   "category": 817,
+   "floor": 23,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140231",
+    "MonsterGroup6140232",
+    "MonsterGroup6140233"
+   ],
+   "monsterLv": 760,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170024": {
+   "key": "EventTower8170024",
+   "category": 817,
+   "floor": 24,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140241",
+    "MonsterGroup6140242",
+    "MonsterGroup6140243"
+   ],
+   "monsterLv": 840,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170025": {
+   "key": "EventTower8170025",
+   "category": 817,
+   "floor": 25,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140251",
+    "MonsterGroup6140252",
+    "MonsterGroup6140253"
+   ],
+   "monsterLv": 880,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170026": {
+   "key": "EventTower8170026",
+   "category": 817,
+   "floor": 26,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140261",
+    "MonsterGroup6140262",
+    "MonsterGroup6140263"
+   ],
+   "monsterLv": 980,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170027": {
+   "key": "EventTower8170027",
+   "category": 817,
+   "floor": 27,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140271",
+    "MonsterGroup6140272",
+    "MonsterGroup6140273"
+   ],
+   "monsterLv": 1080,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170028": {
+   "key": "EventTower8170028",
+   "category": 817,
+   "floor": 28,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140281",
+    "MonsterGroup6140282",
+    "MonsterGroup6140283"
+   ],
+   "monsterLv": 1180,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170029": {
+   "key": "EventTower8170029",
+   "category": 817,
+   "floor": 29,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140291",
+    "MonsterGroup6140292",
+    "MonsterGroup6140293"
+   ],
+   "monsterLv": 1280,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8170030": {
+   "key": "EventTower8170030",
+   "category": 817,
+   "floor": 30,
+   "mapData": "Chess_blood",
+   "monsterGroup": [
+    "MonsterGroup6140301",
+    "MonsterGroup6140302",
+    "MonsterGroup6140303"
+   ],
+   "monsterLv": 1380,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180001": {
+   "key": "EventTower8180001",
+   "category": 818,
+   "floor": 1,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150011",
+    "MonsterGroup6150012",
+    "MonsterGroup6150013"
+   ],
+   "monsterLv": 10,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180002": {
+   "key": "EventTower8180002",
+   "category": 818,
+   "floor": 2,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150021",
+    "MonsterGroup6150022",
+    "MonsterGroup6150023"
+   ],
+   "monsterLv": 15,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180003": {
+   "key": "EventTower8180003",
+   "category": 818,
+   "floor": 3,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150031",
+    "MonsterGroup6150032",
+    "MonsterGroup6150033"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180004": {
+   "key": "EventTower8180004",
+   "category": 818,
+   "floor": 4,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150041",
+    "MonsterGroup6150042",
+    "MonsterGroup6150043"
+   ],
+   "monsterLv": 25,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180005": {
+   "key": "EventTower8180005",
+   "category": 818,
+   "floor": 5,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150051",
+    "MonsterGroup6150052",
+    "MonsterGroup6150053"
+   ],
+   "monsterLv": 40,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180006": {
+   "key": "EventTower8180006",
+   "category": 818,
+   "floor": 6,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150061",
+    "MonsterGroup6150062",
+    "MonsterGroup6150063"
+   ],
+   "monsterLv": 55,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002006"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180007": {
+   "key": "EventTower8180007",
+   "category": 818,
+   "floor": 7,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150071",
+    "MonsterGroup6150072",
+    "MonsterGroup6150073"
+   ],
+   "monsterLv": 70,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180008": {
+   "key": "EventTower8180008",
+   "category": 818,
+   "floor": 8,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150081",
+    "MonsterGroup6150082",
+    "MonsterGroup6150083"
+   ],
+   "monsterLv": 80,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180009": {
+   "key": "EventTower8180009",
+   "category": 818,
+   "floor": 9,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150091",
+    "MonsterGroup6150092",
+    "MonsterGroup6150093"
+   ],
+   "monsterLv": 100,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011003"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180010": {
+   "key": "EventTower8180010",
+   "category": 818,
+   "floor": 10,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150101",
+    "MonsterGroup6150102",
+    "MonsterGroup6150103"
+   ],
+   "monsterLv": 120,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180011": {
+   "key": "EventTower8180011",
+   "category": 818,
+   "floor": 11,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150111",
+    "MonsterGroup6150112",
+    "MonsterGroup6150113"
+   ],
+   "monsterLv": 140,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007005"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180012": {
+   "key": "EventTower8180012",
+   "category": 818,
+   "floor": 12,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150121",
+    "MonsterGroup6150122",
+    "MonsterGroup6150123"
+   ],
+   "monsterLv": 160,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180013": {
+   "key": "EventTower8180013",
+   "category": 818,
+   "floor": 13,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150131",
+    "MonsterGroup6150132",
+    "MonsterGroup6150133"
+   ],
+   "monsterLv": 190,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180014": {
+   "key": "EventTower8180014",
+   "category": 818,
+   "floor": 14,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150141",
+    "MonsterGroup6150142",
+    "MonsterGroup6150143"
+   ],
+   "monsterLv": 250,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item011001"
+   ],
+   "reawrdCount": [
+    25
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180015": {
+   "key": "EventTower8180015",
+   "category": 818,
+   "floor": 15,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150151",
+    "MonsterGroup6150152",
+    "MonsterGroup6150153"
+   ],
+   "monsterLv": 290,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180016": {
+   "key": "EventTower8180016",
+   "category": 818,
+   "floor": 16,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150161",
+    "MonsterGroup6150162",
+    "MonsterGroup6150163"
+   ],
+   "monsterLv": 330,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002026"
+   ],
+   "reawrdCount": [
+    300
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180017": {
+   "key": "EventTower8180017",
+   "category": 818,
+   "floor": 17,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150171",
+    "MonsterGroup6150172",
+    "MonsterGroup6150173"
+   ],
+   "monsterLv": 370,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180018": {
+   "key": "EventTower8180018",
+   "category": 818,
+   "floor": 18,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150181",
+    "MonsterGroup6150182",
+    "MonsterGroup6150183"
+   ],
+   "monsterLv": 400,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002029"
+   ],
+   "reawrdCount": [
+    40
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180019": {
+   "key": "EventTower8180019",
+   "category": 818,
+   "floor": 19,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6150191",
+    "MonsterGroup6150192",
+    "MonsterGroup6150193"
+   ],
+   "monsterLv": 450,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002030"
+   ],
+   "reawrdCount": [
+    30
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180020": {
+   "key": "EventTower8180020",
+   "category": 818,
+   "floor": 20,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150201",
+    "MonsterGroup6150202",
+    "MonsterGroup6150203"
+   ],
+   "monsterLv": 500,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item007000"
+   ],
+   "reawrdCount": [
+    20
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180021": {
+   "key": "EventTower8180021",
+   "category": 818,
+   "floor": 21,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150211",
+    "MonsterGroup6150212",
+    "MonsterGroup6150213"
+   ],
+   "monsterLv": 600,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180022": {
+   "key": "EventTower8180022",
+   "category": 818,
+   "floor": 22,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150221",
+    "MonsterGroup6150222",
+    "MonsterGroup6150223"
+   ],
+   "monsterLv": 690,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180023": {
+   "key": "EventTower8180023",
+   "category": 818,
+   "floor": 23,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150231",
+    "MonsterGroup6150232",
+    "MonsterGroup6150233"
+   ],
+   "monsterLv": 760,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180024": {
+   "key": "EventTower8180024",
+   "category": 818,
+   "floor": 24,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150241",
+    "MonsterGroup6150242",
+    "MonsterGroup6150243"
+   ],
+   "monsterLv": 840,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180025": {
+   "key": "EventTower8180025",
+   "category": 818,
+   "floor": 25,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150251",
+    "MonsterGroup6150252",
+    "MonsterGroup6150253"
+   ],
+   "monsterLv": 880,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180026": {
+   "key": "EventTower8180026",
+   "category": 818,
+   "floor": 26,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150261",
+    "MonsterGroup6150262",
+    "MonsterGroup6150263"
+   ],
+   "monsterLv": 980,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180027": {
+   "key": "EventTower8180027",
+   "category": 818,
+   "floor": 27,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150271",
+    "MonsterGroup6150272",
+    "MonsterGroup6150273"
+   ],
+   "monsterLv": 1080,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180028": {
+   "key": "EventTower8180028",
+   "category": 818,
+   "floor": 28,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150281",
+    "MonsterGroup6150282",
+    "MonsterGroup6150283"
+   ],
+   "monsterLv": 1180,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180029": {
+   "key": "EventTower8180029",
+   "category": 818,
+   "floor": 29,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150291",
+    "MonsterGroup6150292",
+    "MonsterGroup6150293"
+   ],
+   "monsterLv": 1280,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    200
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower8180030": {
+   "key": "EventTower8180030",
+   "category": 818,
+   "floor": 30,
+   "mapData": "Chess_Posion",
+   "monsterGroup": [
+    "MonsterGroup6150301",
+    "MonsterGroup6150302",
+    "MonsterGroup6150303"
+   ],
+   "monsterLv": 1380,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item008017"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000001": {
+   "key": "EventTower9000001",
+   "category": 900,
+   "floor": 1,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990011",
+    "MonsterGroup6990012",
+    "MonsterGroup6990013"
+   ],
+   "monsterLv": 10,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item003036"
+   ],
+   "reawrdCount": [
+    50
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000002": {
+   "key": "EventTower9000002",
+   "category": 900,
+   "floor": 2,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990021",
+    "MonsterGroup6990022",
+    "MonsterGroup6990023"
+   ],
+   "monsterLv": 15,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000003": {
+   "key": "EventTower9000003",
+   "category": 900,
+   "floor": 3,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990031",
+    "MonsterGroup6990032",
+    "MonsterGroup6990033"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item003036"
+   ],
+   "reawrdCount": [
+    50
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000004": {
+   "key": "EventTower9000004",
+   "category": 900,
+   "floor": 4,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990041",
+    "MonsterGroup6990042",
+    "MonsterGroup6990043"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000005": {
+   "key": "EventTower9000005",
+   "category": 900,
+   "floor": 5,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990051",
+    "MonsterGroup6990052",
+    "MonsterGroup6990053"
+   ],
+   "monsterLv": 20,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item003036"
+   ],
+   "reawrdCount": [
+    50
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000006": {
+   "key": "EventTower9000006",
+   "category": 900,
+   "floor": 6,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990061",
+    "MonsterGroup6990062",
+    "MonsterGroup6990063"
+   ],
+   "monsterLv": 25,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000007": {
+   "key": "EventTower9000007",
+   "category": 900,
+   "floor": 7,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990071",
+    "MonsterGroup6990072",
+    "MonsterGroup6990073"
+   ],
+   "monsterLv": 30,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item003036"
+   ],
+   "reawrdCount": [
+    50
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000008": {
+   "key": "EventTower9000008",
+   "category": 900,
+   "floor": 8,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990081",
+    "MonsterGroup6990082",
+    "MonsterGroup6990083"
+   ],
+   "monsterLv": 30,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item002003"
+   ],
+   "reawrdCount": [
+    100
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000009": {
+   "key": "EventTower9000009",
+   "category": 900,
+   "floor": 9,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990091",
+    "MonsterGroup6990092",
+    "MonsterGroup6990093"
+   ],
+   "monsterLv": 30,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item003036"
+   ],
+   "reawrdCount": [
+    50
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  },
+  "EventTower9000010": {
+   "key": "EventTower9000010",
+   "category": 900,
+   "floor": 10,
+   "mapData": "Chess",
+   "monsterGroup": [
+    "MonsterGroup6990101",
+    "MonsterGroup6990102",
+    "MonsterGroup6990103"
+   ],
+   "monsterLv": 35,
+   "limitTime": 90.0,
+   "bgTile": "bg_00",
+   "firstReward": [
+    "Item013012"
+   ],
+   "reawrdCount": [
+    1
+   ],
+   "commonDropItem": "",
+   "specialDropItem": "",
+   "displayItems": [],
+   "sDisplayItems": []
+  }
+ }
+}

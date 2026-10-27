@@ -1,0 +1,156 @@
+{
+ "sheetName": "TableRuneGrowthData",
+ "tableIndex": 0,
+ "rows": {
+  "RuneGrowth000": {
+   "key": "RuneGrowth000",
+   "level": 0,
+   "resourceAmount": 10
+  },
+  "RuneGrowth001": {
+   "key": "RuneGrowth001",
+   "level": 1,
+   "resourceAmount": 10
+  },
+  "RuneGrowth002": {
+   "key": "RuneGrowth002",
+   "level": 2,
+   "resourceAmount": 20
+  },
+  "RuneGrowth003": {
+   "key": "RuneGrowth003",
+   "level": 3,
+   "resourceAmount": 20
+  },
+  "RuneGrowth004": {
+   "key": "RuneGrowth004",
+   "level": 4,
+   "resourceAmount": 20
+  },
+  "RuneGrowth005": {
+   "key": "RuneGrowth005",
+   "level": 5,
+   "resourceAmount": 40
+  },
+  "RuneGrowth006": {
+   "key": "RuneGrowth006",
+   "level": 6,
+   "resourceAmount": 40
+  },
+  "RuneGrowth007": {
+   "key": "RuneGrowth007",
+   "level": 7,
+   "resourceAmount": 60
+  },
+  "RuneGrowth008": {
+   "key": "RuneGrowth008",
+   "level": 8,
+   "resourceAmount": 80
+  },
+  "RuneGrowth009": {
+   "key": "RuneGrowth009",
+   "level": 9,
+   "resourceAmount": 100
+  },
+  "RuneGrowth010": {
+   "key": "RuneGrowth010",
+   "level": 10,
+   "resourceAmount": 10
+  },
+  "RuneGrowth011": {
+   "key": "RuneGrowth011",
+   "level": 11,
+   "resourceAmount": 10
+  },
+  "RuneGrowth012": {
+   "key": "RuneGrowth012",
+   "level": 12,
+   "resourceAmount": 20
+  },
+  "RuneGrowth013": {
+   "key": "RuneGrowth013",
+   "level": 13,
+   "resourceAmount": 20
+  },
+  "RuneGrowth014": {
+   "key": "RuneGrowth014",
+   "level": 14,
+   "resourceAmount": 20
+  },
+  "RuneGrowth015": {
+   "key": "RuneGrowth015",
+   "level": 15,
+   "resourceAmount": 30
+  },
+  "RuneGrowth016": {
+   "key": "RuneGrowth016",
+   "level": 16,
+   "resourceAmount": 30
+  },
+  "RuneGrowth017": {
+   "key": "RuneGrowth017",
+   "level": 17,
+   "resourceAmount": 40
+  },
+  "RuneGrowth018": {
+   "key": "RuneGrowth018",
+   "level": 18,
+   "resourceAmount": 50
+  },
+  "RuneGrowth019": {
+   "key": "RuneGrowth019",
+   "level": 19,
+   "resourceAmount": 70
+  },
+  "RuneGrowth020": {
+   "key": "RuneGrowth020",
+   "level": 20,
+   "resourceAmount": 5
+  },
+  "RuneGrowth021": {
+   "key": "RuneGrowth021",
+   "level": 21,
+   "resourceAmount": 5
+  },
+  "RuneGrowth022": {
+   "key": "RuneGrowth022",
+   "level": 22,
+   "resourceAmount": 10
+  },
+  "RuneGrowth023": {
+   "key": "RuneGrowth023",
+   "level": 23,
+   "resourceAmount": 10
+  },
+  "RuneGrowth024": {
+   "key": "RuneGrowth024",
+   "level": 24,
+   "resourceAmount": 10
+  },
+  "RuneGrowth025": {
+   "key": "RuneGrowth025",
+   "level": 25,
+   "resourceAmount": 20
+  },
+  "RuneGrowth026": {
+   "key": "RuneGrowth026",
+   "level": 26,
+   "resourceAmount": 20
+  },
+  "RuneGrowth027": {
+   "key": "RuneGrowth027",
+   "level": 27,
+   "resourceAmount": 30
+  },
+  "RuneGrowth028": {
+   "key": "RuneGrowth028",
+   "level": 28,
+   "resourceAmount": 40
+  },
+  "RuneGrowth029": {
+   "key": "RuneGrowth029",
+   "level": 29,
+   "resourceAmount": 50
+  }
+ }
+}

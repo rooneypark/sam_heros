@@ -1,0 +1,3032 @@
+{
+ "sheetName": "TablePotentialData",
+ "tableIndex": 0,
+ "rows": {
+  "Potential00001": {
+   "key": "Potential00001",
+   "category": 1,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009060"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009060"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00002": {
+   "key": "Potential00002",
+   "category": 2,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009052"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00003": {
+   "key": "Potential00003",
+   "category": 3,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009048"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009048"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00004": {
+   "key": "Potential00004",
+   "category": 4,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00005": {
+   "key": "Potential00005",
+   "category": 5,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009049"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00006": {
+   "key": "Potential00006",
+   "category": 6,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00007": {
+   "key": "Potential00007",
+   "category": 7,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00008": {
+   "key": "Potential00008",
+   "category": 8,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009058"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00009": {
+   "key": "Potential00009",
+   "category": 9,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00010": {
+   "key": "Potential00010",
+   "category": 10,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00011": {
+   "key": "Potential00011",
+   "category": 11,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00012": {
+   "key": "Potential00012",
+   "category": 12,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00013": {
+   "key": "Potential00013",
+   "category": 13,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00014": {
+   "key": "Potential00014",
+   "category": 14,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009057"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009057"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00015": {
+   "key": "Potential00015",
+   "category": 15,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00016": {
+   "key": "Potential00016",
+   "category": 16,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00017": {
+   "key": "Potential00017",
+   "category": 17,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00018": {
+   "key": "Potential00018",
+   "category": 18,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00019": {
+   "key": "Potential00019",
+   "category": 19,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00020": {
+   "key": "Potential00020",
+   "category": 20,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009055"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00021": {
+   "key": "Potential00021",
+   "category": 21,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00022": {
+   "key": "Potential00022",
+   "category": 22,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00023": {
+   "key": "Potential00023",
+   "category": 23,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009060"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009060"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00024": {
+   "key": "Potential00024",
+   "category": 24,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00025": {
+   "key": "Potential00025",
+   "category": 25,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00026": {
+   "key": "Potential00026",
+   "category": 26,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00027": {
+   "key": "Potential00027",
+   "category": 27,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00028": {
+   "key": "Potential00028",
+   "category": 28,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009052"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00029": {
+   "key": "Potential00029",
+   "category": 29,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00030": {
+   "key": "Potential00030",
+   "category": 30,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00031": {
+   "key": "Potential00031",
+   "category": 31,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00032": {
+   "key": "Potential00032",
+   "category": 32,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009052"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00033": {
+   "key": "Potential00033",
+   "category": 33,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009061"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00034": {
+   "key": "Potential00034",
+   "category": 34,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00035": {
+   "key": "Potential00035",
+   "category": 35,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009055"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00036": {
+   "key": "Potential00036",
+   "category": 36,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00037": {
+   "key": "Potential00037",
+   "category": 37,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00038": {
+   "key": "Potential00038",
+   "category": 38,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00039": {
+   "key": "Potential00039",
+   "category": 39,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00040": {
+   "key": "Potential00040",
+   "category": 40,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00041": {
+   "key": "Potential00041",
+   "category": 41,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00042": {
+   "key": "Potential00042",
+   "category": 42,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00043": {
+   "key": "Potential00043",
+   "category": 43,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    180
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503006",
+    "UpgradeStat503007"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    180
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503008",
+    "UpgradeStat503009"
+   ],
+   "reqItem3": [
+    "Item009049"
+   ],
+   "reqAmount3": [
+    240
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503010",
+    "UpgradeStat503011"
+   ]
+  },
+  "Potential00044": {
+   "key": "Potential00044",
+   "category": 44,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00045": {
+   "key": "Potential00045",
+   "category": 45,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00046": {
+   "key": "Potential00046",
+   "category": 46,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00047": {
+   "key": "Potential00047",
+   "category": 47,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00048": {
+   "key": "Potential00048",
+   "category": 48,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00049": {
+   "key": "Potential00049",
+   "category": 49,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00050": {
+   "key": "Potential00050",
+   "category": 50,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00051": {
+   "key": "Potential00051",
+   "category": 51,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00052": {
+   "key": "Potential00052",
+   "category": 52,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00053": {
+   "key": "Potential00053",
+   "category": 53,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00054": {
+   "key": "Potential00054",
+   "category": 54,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00055": {
+   "key": "Potential00055",
+   "category": 55,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00056": {
+   "key": "Potential00056",
+   "category": 56,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00057": {
+   "key": "Potential00057",
+   "category": 57,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00058": {
+   "key": "Potential00058",
+   "category": 58,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00059": {
+   "key": "Potential00059",
+   "category": 59,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00060": {
+   "key": "Potential00060",
+   "category": 60,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00061": {
+   "key": "Potential00061",
+   "category": 61,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00062": {
+   "key": "Potential00062",
+   "category": 62,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00063": {
+   "key": "Potential00063",
+   "category": 63,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00064": {
+   "key": "Potential00064",
+   "category": 64,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00065": {
+   "key": "Potential00065",
+   "category": 65,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00066": {
+   "key": "Potential00066",
+   "category": 66,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00067": {
+   "key": "Potential00067",
+   "category": 67,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00068": {
+   "key": "Potential00068",
+   "category": 68,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00069": {
+   "key": "Potential00069",
+   "category": 69,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00070": {
+   "key": "Potential00070",
+   "category": 70,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00071": {
+   "key": "Potential00071",
+   "category": 71,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00072": {
+   "key": "Potential00072",
+   "category": 72,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00073": {
+   "key": "Potential00073",
+   "category": 73,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00074": {
+   "key": "Potential00074",
+   "category": 74,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00075": {
+   "key": "Potential00075",
+   "category": 75,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00076": {
+   "key": "Potential00076",
+   "category": 76,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00077": {
+   "key": "Potential00077",
+   "category": 77,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00078": {
+   "key": "Potential00078",
+   "category": 78,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00079": {
+   "key": "Potential00079",
+   "category": 79,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00080": {
+   "key": "Potential00080",
+   "category": 80,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00081": {
+   "key": "Potential00081",
+   "category": 81,
+   "reqItem1": [
+    "Item009048"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009049"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009050"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00082": {
+   "key": "Potential00082",
+   "category": 82,
+   "reqItem1": [
+    "Item009051"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009052"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009053"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00083": {
+   "key": "Potential00083",
+   "category": 83,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009058"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009059"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00084": {
+   "key": "Potential00084",
+   "category": 84,
+   "reqItem1": [
+    "Item009054"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009055"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009056"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00085": {
+   "key": "Potential00085",
+   "category": 85,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00086": {
+   "key": "Potential00086",
+   "category": 86,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    600
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503012",
+    "UpgradeStat503013"
+   ],
+   "reqItem2": [
+    "Item009061"
+   ],
+   "reqAmount2": [
+    480
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503014",
+    "UpgradeStat503015"
+   ],
+   "reqItem3": [
+    "Item009062"
+   ],
+   "reqAmount3": [
+    360
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503016",
+    "UpgradeStat503017"
+   ]
+  },
+  "Potential00501": {
+   "key": "Potential00501",
+   "category": 501,
+   "reqItem1": [
+    "Item009057"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009057"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009057"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00507": {
+   "key": "Potential00507",
+   "category": 507,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009060"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009060"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  },
+  "Potential00508": {
+   "key": "Potential00508",
+   "category": 508,
+   "reqItem1": [
+    "Item009060"
+   ],
+   "reqAmount1": [
+    60
+   ],
+   "grade1skillKeys1": [
+    "UpgradeStat503000",
+    "UpgradeStat503001"
+   ],
+   "reqItem2": [
+    "Item009060"
+   ],
+   "reqAmount2": [
+    120
+   ],
+   "grade1skillKeys2": [
+    "UpgradeStat503002",
+    "UpgradeStat503003"
+   ],
+   "reqItem3": [
+    "Item009060"
+   ],
+   "reqAmount3": [
+    180
+   ],
+   "grade1skillKeys3": [
+    "UpgradeStat503004",
+    "UpgradeStat503005"
+   ]
+  }
+ }
+}

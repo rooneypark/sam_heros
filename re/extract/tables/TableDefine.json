@@ -1,0 +1,2467 @@
+{
+ "sheetName": "TableDefineData",
+ "tableIndex": 0,
+ "rows": {
+  "Define_DEFAULT_HERO_COUNT": {
+   "key": "Define_DEFAULT_HERO_COUNT",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_PROLOGUE_HERO_COUNT": {
+   "key": "Define_PROLOGUE_HERO_COUNT",
+   "value": [
+    11.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_RETURN_DIST": {
+   "key": "Define_HERO_RETURN_DIST",
+   "value": [
+    1.7999999523162842
+   ],
+   "strVal": []
+  },
+  "Define_HERO_RETURN_DIST_ADD": {
+   "key": "Define_HERO_RETURN_DIST_ADD",
+   "value": [
+    0.44999998807907104
+   ],
+   "strVal": []
+  },
+  "Define_HERO_RETURN_DIST_DEFAULT": {
+   "key": "Define_HERO_RETURN_DIST_DEFAULT",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_RETURN_DIST_MAX": {
+   "key": "Define_HERO_RETURN_DIST_MAX",
+   "value": [
+    8.0
+   ],
+   "strVal": []
+  },
+  "Define_MONSTER_ROAMING_DIST": {
+   "key": "Define_MONSTER_ROAMING_DIST",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_COLLIDER_IDLE": {
+   "key": "Define_HERO_COLLIDER_IDLE",
+   "value": [
+    0.4000000059604645,
+    0.5,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_COLLIDER_MOVE": {
+   "key": "Define_HERO_COLLIDER_MOVE",
+   "value": [
+    0.20000000298023224,
+    0.3499999940395355,
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_HERO_COLLIDER_TIME": {
+   "key": "Define_HERO_COLLIDER_TIME",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_REMAIN_BONE_TIME": {
+   "key": "Define_REMAIN_BONE_TIME",
+   "value": [
+    0.0
+   ],
+   "strVal": []
+  },
+  "Define_HP_BAR_REMAIN_TIME": {
+   "key": "Define_HP_BAR_REMAIN_TIME",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_HP_BAR_REMAIN_RATE": {
+   "key": "Define_HP_BAR_REMAIN_RATE",
+   "value": [
+    0.30000001192092896
+   ],
+   "strVal": []
+  },
+  "Define_REMAIN_BONE_COLOR": {
+   "key": "Define_REMAIN_BONE_COLOR",
+   "value": [
+    0.800000011920929
+   ],
+   "strVal": []
+  },
+  "Define_SAVE_RESOURCE_MAX": {
+   "key": "Define_SAVE_RESOURCE_MAX",
+   "value": [
+    250.0,
+    250.0,
+    250.0
+   ],
+   "strVal": []
+  },
+  "Define_SAVE_ADD_RESOURCE_MAX": {
+   "key": "Define_SAVE_ADD_RESOURCE_MAX",
+   "value": [
+    250.0,
+    250.0,
+    250.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFAULT_RESOUCE_TOOL": {
+   "key": "Define_DEFAULT_RESOUCE_TOOL",
+   "value": [
+    2.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_BUILDING_TARGET_DIST": {
+   "key": "Define_BUILDING_TARGET_DIST",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_ELITE_MONSTER_LEVEL": {
+   "key": "Define_ELITE_MONSTER_LEVEL",
+   "value": [
+    3.0,
+    5.0,
+    8.0,
+    0.0
+   ],
+   "strVal": []
+  },
+  "Define_DUNGEON_POWER_RATE": {
+   "key": "Define_DUNGEON_POWER_RATE",
+   "value": [
+    1.100000023841858,
+    1.0,
+    0.8999999761581421
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_CAMERA": {
+   "key": "Define_CAMPING_CAMERA",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_RESURRECTION": {
+   "key": "Define_CAMPING_RESURRECTION",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_DETECT_RANGE": {
+   "key": "Define_CAMPING_DETECT_RANGE",
+   "value": [
+    2.0,
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_RETURN_DIST": {
+   "key": "Define_CAMPING_RETURN_DIST",
+   "value": [
+    12.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_ROAM_DIST": {
+   "key": "Define_CAMPING_ROAM_DIST",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_OPEN_CAMPING_LIMIT_LEVEL": {
+   "key": "Define_OPEN_CAMPING_LIMIT_LEVEL",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RESET_TIME": {
+   "key": "Define_PUB_RESET_TIME",
+   "value": [
+    1800.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_GRADE_WEIGHT": {
+   "key": "Define_PUB_GRADE_WEIGHT",
+   "value": [
+    10.0,
+    6.0,
+    3.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_GRADE_MIN": {
+   "key": "Define_PUB_GRADE_MIN",
+   "value": [
+    3.0,
+    12.0,
+    26.0,
+    45.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_GRADE_MAX": {
+   "key": "Define_PUB_GRADE_MAX",
+   "value": [
+    7.0,
+    18.0,
+    34.0,
+    49.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_COST": {
+   "key": "Define_PUB_COST",
+   "value": [
+    100.0,
+    150.0,
+    400.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_BONUS_MAX": {
+   "key": "Define_PUB_BONUS_MAX",
+   "value": [
+    10.0,
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_DEFAULT_DELAY": {
+   "key": "Define_CAMPING_DEFAULT_DELAY",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_RETURN_DELAY_TIME": {
+   "key": "Define_RETURN_DELAY_TIME",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_MONSTER_MOVE_DIST": {
+   "key": "Define_MONSTER_MOVE_DIST",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_CONSECUTIVE_KILL_TIME": {
+   "key": "Define_CONSECUTIVE_KILL_TIME",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_TALK_TIME": {
+   "key": "Define_TALK_TIME",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_SMALL_TALK_TIME": {
+   "key": "Define_SMALL_TALK_TIME",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_CONSECUTIVE_KILL_COUNT": {
+   "key": "Define_CONSECUTIVE_KILL_COUNT",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_CONSECUTIVE_KILL_BONUS": {
+   "key": "Define_CONSECUTIVE_KILL_BONUS",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_CONSECUTIVE_KILL_ADD": {
+   "key": "Define_CONSECUTIVE_KILL_ADD",
+   "value": [
+    0.0
+   ],
+   "strVal": []
+  },
+  "Define_BUILDING_RESOURCE_INIT": {
+   "key": "Define_BUILDING_RESOURCE_INIT",
+   "value": [
+    25.0,
+    25.0,
+    15.0,
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_BONUS_FIRST_RATE": {
+   "key": "Define_BONUS_FIRST_RATE",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_BONUS_RATE": {
+   "key": "Define_BONUS_RATE",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_GRADE_FIRST_RATE": {
+   "key": "Define_GRADE_FIRST_RATE",
+   "value": [
+    0.15000000596046448,
+    0.11999999731779099,
+    0.10000000149011612,
+    0.029999999329447746
+   ],
+   "strVal": []
+  },
+  "Define_GRADE_WEIGHT": {
+   "key": "Define_GRADE_WEIGHT",
+   "value": [
+    10.0,
+    6.0,
+    3.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_EVT_TIME": {
+   "key": "Define_PUB_EVT_TIME",
+   "value": [
+    259200.0
+   ],
+   "strVal": []
+  },
+  "Define_WORLD_RESURRECTION_TIME": {
+   "key": "Define_WORLD_RESURRECTION_TIME",
+   "value": [
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_EXP_LEVEL_PENALTY": {
+   "key": "Define_EXP_LEVEL_PENALTY",
+   "value": [
+    0.10000000149011612
+   ],
+   "strVal": []
+  },
+  "Define_RESURRECTION_DIA": {
+   "key": "Define_RESURRECTION_DIA",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_RESURRECTION_TIMER": {
+   "key": "Define_RESURRECTION_TIMER",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RESET_AD_MAX": {
+   "key": "Define_PUB_RESET_AD_MAX",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RESET_DIA_COST": {
+   "key": "Define_PUB_RESET_DIA_COST",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RESET_GOLD_COST": {
+   "key": "Define_PUB_RESET_GOLD_COST",
+   "value": [
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_CREATE_DISTANCE": {
+   "key": "Define_TREASUREBOX_CREATE_DISTANCE",
+   "value": [
+    100.0,
+    400.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_START_DELAY": {
+   "key": "Define_TREASUREBOX_START_DELAY",
+   "value": [
+    60.0,
+    120.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_RETURN_DELAY": {
+   "key": "Define_TREASUREBOX_RETURN_DELAY",
+   "value": [
+    600.0,
+    600.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_RETRY_DELAY": {
+   "key": "Define_TREASUREBOX_RETRY_DELAY",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_DAILY_MAX_ROULETTE": {
+   "key": "Define_TREASUREBOX_DAILY_MAX_ROULETTE",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_HIDE_DISTANCE": {
+   "key": "Define_TREASUREBOX_HIDE_DISTANCE",
+   "value": [
+    4900.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_DAILY_MAX": {
+   "key": "Define_TREASUREBOX_DAILY_MAX",
+   "value": [
+    5.0,
+    5.0,
+    5.0,
+    5.0,
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_INTERACTION_DIST": {
+   "key": "Define_INTERACTION_DIST",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_INTERACTION_DIST_RES": {
+   "key": "Define_INTERACTION_DIST_RES",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_ARROW_DIST_RATE": {
+   "key": "Define_ARROW_DIST_RATE",
+   "value": [
+    0.6000000238418579
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOS_BOSS_TIME": {
+   "key": "Define_TREASUREBOS_BOSS_TIME",
+   "value": [
+    120.0
+   ],
+   "strVal": []
+  },
+  "Define_BONFIRE_CLICK_TIMER": {
+   "key": "Define_BONFIRE_CLICK_TIMER",
+   "value": [
+    1.5
+   ],
+   "strVal": []
+  },
+  "Define_REVEAL_PACKAGE_POPUP": {
+   "key": "Define_REVEAL_PACKAGE_POPUP",
+   "value": [
+    900.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFAULT_CAMP_TIME": {
+   "key": "Define_DEFAULT_CAMP_TIME",
+   "value": [
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_WORLD_MAP_ZOOM_IN": {
+   "key": "Define_WORLD_MAP_ZOOM_IN",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_QUEST_MAX": {
+   "key": "Define_QUEST_MAX",
+   "value": [
+    100.0,
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_TOWER_COOLTIME": {
+   "key": "Define_TOWER_COOLTIME",
+   "value": [
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_GROWTH_TO_BASE": {
+   "key": "Define_GROWTH_TO_BASE",
+   "value": [
+    900.0,
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_TOWER_DAYS": {
+   "key": "Define_TOWER_DAYS",
+   "value": [
+    127.0,
+    73.0,
+    82.0,
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_BONUS_STONE_MAX": {
+   "key": "Define_DIMENSION_BONUS_STONE_MAX",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_STAT_ADD": {
+   "key": "Define_DIMENSION_STAT_ADD",
+   "value": [
+    1.100000023841858,
+    1.0399999618530273
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_POWER_DEFAULT": {
+   "key": "Define_DIMENSION_POWER_DEFAULT",
+   "value": [
+    250.0,
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_POWER_RATE": {
+   "key": "Define_DIMENSION_POWER_RATE",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_TIME_LIMIT": {
+   "key": "Define_DIMENSION_TIME_LIMIT",
+   "value": [
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_HP_STAT": {
+   "key": "Define_DIMENSION_HP_STAT",
+   "value": [
+    40.0,
+    30.0,
+    20.0,
+    10.0
+   ],
+   "strVal": [
+    "UpgradeStat30000000",
+    "UpgradeStat30000001",
+    "UpgradeStat30000002",
+    "UpgradeStat30000003"
+   ]
+  },
+  "Define_DIMENSION_ATK_STAT": {
+   "key": "Define_DIMENSION_ATK_STAT",
+   "value": [
+    40.0,
+    30.0,
+    20.0,
+    10.0
+   ],
+   "strVal": [
+    "UpgradeStat30100000",
+    "UpgradeStat30100001",
+    "UpgradeStat30100002",
+    "UpgradeStat30100003"
+   ]
+  },
+  "Define_DIMENSION_DETECT_STAT": {
+   "key": "Define_DIMENSION_DETECT_STAT",
+   "value": [
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_TOWER_ATTRIBUTE_OPEN": {
+   "key": "Define_TOWER_ATTRIBUTE_OPEN",
+   "value": [
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_ROLL_COST": {
+   "key": "Define_DIMENSION_ROLL_COST",
+   "value": [
+    1000.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_ROLL_COST_LEVEL": {
+   "key": "Define_DIMENSION_ROLL_COST_LEVEL",
+   "value": [
+    1.0499999523162842
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_ROLL_COST_ADD": {
+   "key": "Define_DIMENSION_ROLL_COST_ADD",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_DROP_LEVEL": {
+   "key": "Define_DIMENSION_DROP_LEVEL",
+   "value": [
+    1.0499999523162842
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_REROLL_COST": {
+   "key": "Define_DIMENSION_REROLL_COST",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_ITEM_LEVEL": {
+   "key": "Define_DIMENSION_ITEM_LEVEL",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_PASS_LEVEL_UP_COST": {
+   "key": "Define_PASS_LEVEL_UP_COST",
+   "value": [
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENTPASS_LEVEL_UP_COST": {
+   "key": "Define_EVENTPASS_LEVEL_UP_COST",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_DIA_RESOURCE_CHANGE": {
+   "key": "Define_DIA_RESOURCE_CHANGE",
+   "value": [
+    30.0,
+    20.0,
+    10.0,
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_DAILY_SALE": {
+   "key": "Define_PUB_DAILY_SALE",
+   "value": [
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_CAMP_EXP_UP": {
+   "key": "Define_CAMP_EXP_UP",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMP_MAX_UP": {
+   "key": "Define_CAMP_MAX_UP",
+   "value": [
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_AD_AUTO_PLAY_TIME": {
+   "key": "Define_AD_AUTO_PLAY_TIME",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_AD_PREMIUM_CAMP_TIME": {
+   "key": "Define_AD_PREMIUM_CAMP_TIME",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_PREMIUM_CAMP_RESURRECTION": {
+   "key": "Define_PREMIUM_CAMP_RESURRECTION",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_WORLD_RSRT_CNT": {
+   "key": "Define_WORLD_RSRT_CNT",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_CAMPING_DETECT_RANGE_MONSTER": {
+   "key": "Define_CAMPING_DETECT_RANGE_MONSTER",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_OPEN_LEVEL": {
+   "key": "Define_DIMENSION_OPEN_LEVEL",
+   "value": [
+    34.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RATE_LOCK_COUNT": {
+   "key": "Define_PUB_RATE_LOCK_COUNT",
+   "value": [
+    9.0
+   ],
+   "strVal": []
+  },
+  "Define_GOLD_PIG_MAX": {
+   "key": "Define_GOLD_PIG_MAX",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_GOLD_PIG_TICKET": {
+   "key": "Define_GOLD_PIG_TICKET",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_GOLD_PIG_OPEN_LEVEL": {
+   "key": "Define_GOLD_PIG_OPEN_LEVEL",
+   "value": [
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_GOLD_PIG_TIME_LIMIT": {
+   "key": "Define_GOLD_PIG_TIME_LIMIT",
+   "value": [
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_STAT_ADD": {
+   "key": "Define_DEFENCE_STAT_ADD",
+   "value": [
+    1.399999976158142,
+    1.25
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_AUTO_DETECT": {
+   "key": "Define_DEFENCE_AUTO_DETECT",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_HERO_COUNT": {
+   "key": "Define_DEFENCE_HERO_COUNT",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_OPEN_LEVEL": {
+   "key": "Define_DEFENCE_OPEN_LEVEL",
+   "value": [
+    29.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_TICKET": {
+   "key": "Define_DEFENCE_TICKET",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_CAMERA": {
+   "key": "Define_DEFENCE_CAMERA",
+   "value": [
+    18.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_SLOT_POWER": {
+   "key": "Define_DEFENCE_SLOT_POWER",
+   "value": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_GRADE_BONUS": {
+   "key": "Define_DEFENCE_GRADE_BONUS",
+   "value": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_EVT_RATE": {
+   "key": "Define_DEFENCE_EVT_RATE",
+   "value": [
+    0.10000000149011612
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_SYMBOL_CNT": {
+   "key": "Define_DEFENCE_SYMBOL_CNT",
+   "value": [
+    2.0,
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_SLEEP_MODE_TIME": {
+   "key": "Define_SLEEP_MODE_TIME",
+   "value": [
+    180.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_LIMIT_COUNT": {
+   "key": "Define_DIMENSION_LIMIT_COUNT",
+   "value": [
+    120.0,
+    240.0
+   ],
+   "strVal": []
+  },
+  "Define_INVENTORY_LIMIT_COUNT": {
+   "key": "Define_INVENTORY_LIMIT_COUNT",
+   "value": [
+    200.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_NEW_STAT_ADD": {
+   "key": "Define_DIMENSION_NEW_STAT_ADD",
+   "value": [
+    1.100000023841858,
+    1.0399999618530273
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_BUILDING_HP_ADD": {
+   "key": "Define_DEFENCE_BUILDING_HP_ADD",
+   "value": [
+    1.350000023841858
+   ],
+   "strVal": []
+  },
+  "Define_INFINITY_BOSS_DECREASE": {
+   "key": "Define_INFINITY_BOSS_DECREASE",
+   "value": [
+    0.15000000596046448,
+    0.15000000596046448
+   ],
+   "strVal": []
+  },
+  "Define_INFINITY_ADD_LEVEL": {
+   "key": "Define_INFINITY_ADD_LEVEL",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_INFINITY_ADD_STONE": {
+   "key": "Define_INFINITY_ADD_STONE",
+   "value": [
+    1.100000023841858
+   ],
+   "strVal": []
+  },
+  "Define_INFINITY_CLEAR_REWARD": {
+   "key": "Define_INFINITY_CLEAR_REWARD",
+   "value": [
+    200.0
+   ],
+   "strVal": [
+    "Item002003"
+   ]
+  },
+  "Define_EVENTTOOL_COLLECTIONRATE": {
+   "key": "Define_EVENTTOOL_COLLECTIONRATE",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_SWEEP_TREE_VALUE": {
+   "key": "Define_DEFENCE_SWEEP_TREE_VALUE",
+   "value": [
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_SWEEP_TREE_MAX": {
+   "key": "Define_DEFENCE_SWEEP_TREE_MAX",
+   "value": [
+    300.0
+   ],
+   "strVal": []
+  },
+  "Define_BATCHDISMANTLE_UNLOCKLV": {
+   "key": "Define_BATCHDISMANTLE_UNLOCKLV",
+   "value": [
+    40.0
+   ],
+   "strVal": []
+  },
+  "Define_SLEEPMODE_UNLOCKLV": {
+   "key": "Define_SLEEPMODE_UNLOCKLV",
+   "value": [
+    40.0
+   ],
+   "strVal": []
+  },
+  "Define_COLLECTION_UNLOCKLV": {
+   "key": "Define_COLLECTION_UNLOCKLV",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_DIMENSION_COOLTIME": {
+   "key": "Define_DIMENSION_COOLTIME",
+   "value": [
+    0.10000000149011612
+   ],
+   "strVal": []
+  },
+  "Define_PUB_MILEAGE_MIN": {
+   "key": "Define_PUB_MILEAGE_MIN",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_MILEAGE_MAX": {
+   "key": "Define_PUB_MILEAGE_MAX",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_MILEAGE_ADD": {
+   "key": "Define_PUB_MILEAGE_ADD",
+   "value": [
+    1.0,
+    3.0,
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_MILEAGE_SUPER": {
+   "key": "Define_PUB_MILEAGE_SUPER",
+   "value": [
+    4.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_MILEAGE_SUPER_RATE": {
+   "key": "Define_PUB_MILEAGE_SUPER_RATE",
+   "value": [
+    0.20000000298023224,
+    0.15000000596046448,
+    0.10000000149011612,
+    0.05000000074505806
+   ],
+   "strVal": []
+  },
+  "Define_COMON_MAXCOUNT": {
+   "key": "Define_COMON_MAXCOUNT",
+   "value": [
+    99999.0
+   ],
+   "strVal": []
+  },
+  "Define_BAIT_MAX": {
+   "key": "Define_BAIT_MAX",
+   "value": [
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_BAIT_DAILYGET": {
+   "key": "Define_BAIT_DAILYGET",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_BAIT_REFUND": {
+   "key": "Define_BAIT_REFUND",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_BAIT_SPEED": {
+   "key": "Define_BAIT_SPEED",
+   "value": [
+    1.600000023841858
+   ],
+   "strVal": []
+  },
+  "Define_DEFENCE_COOLTIME": {
+   "key": "Define_DEFENCE_COOLTIME",
+   "value": [
+    0.10000000149011612
+   ],
+   "strVal": []
+  },
+  "Define_COFISH_RATE_2": {
+   "key": "Define_COFISH_RATE_2",
+   "value": [
+    0.3499999940395355
+   ],
+   "strVal": []
+  },
+  "Define_COFISH_RATE_3": {
+   "key": "Define_COFISH_RATE_3",
+   "value": [
+    0.800000011920929
+   ],
+   "strVal": []
+  },
+  "Define_FISH_SUCCESS_MAX": {
+   "key": "Define_FISH_SUCCESS_MAX",
+   "value": [
+    0.44999998807907104
+   ],
+   "strVal": []
+  },
+  "Define_FISH_G_SUCCESS_MIN": {
+   "key": "Define_FISH_G_SUCCESS_MIN",
+   "value": [
+    0.10000000149011612
+   ],
+   "strVal": []
+  },
+  "Define_COLLECTION_UNLOCK_QUEST": {
+   "key": "Define_COLLECTION_UNLOCK_QUEST",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Quest000037"
+   ]
+  },
+  "Define_COLLECTION_MONSTER_UNLOCK_QUEST": {
+   "key": "Define_COLLECTION_MONSTER_UNLOCK_QUEST",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Quest000019"
+   ]
+  },
+  "Define_GOLD_TO_FRAGMENTS_RATE": {
+   "key": "Define_GOLD_TO_FRAGMENTS_RATE",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_MAX_DRAW_ARTIFACTS": {
+   "key": "Define_MAX_DRAW_ARTIFACTS",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_MINIMUM_CNT": {
+   "key": "Define_TREASUREBOX_MINIMUM_CNT",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_KEEP_RATIO": {
+   "key": "Define_TREASUREBOX_KEEP_RATIO",
+   "value": [
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_LIMIT_LEVEL": {
+   "key": "Define_TREASUREBOX_LIMIT_LEVEL",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_ENERGY_TIME": {
+   "key": "Define_EVENT_ENERGY_TIME",
+   "value": [
+    1200.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_ENERGY_COST": {
+   "key": "Define_EVENT_ENERGY_COST",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_ENERGY_MAX": {
+   "key": "Define_EVENT_ENERGY_MAX",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_ADD_LEVEL": {
+   "key": "Define_EVENT_ADD_LEVEL",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_INVENTORY_LIMIT_COUNT": {
+   "key": "Define_EVENT_INVENTORY_LIMIT_COUNT",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_OPEN_LEVEL": {
+   "key": "Define_HERO_TRAINING_OPEN_LEVEL",
+   "value": [
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_SLOT_OPEN_PURCHASE_PRICE": {
+   "key": "Define_HERO_TRAINING_SLOT_OPEN_PURCHASE_PRICE",
+   "value": [
+    300.0,
+    600.0,
+    1200.0,
+    2400.0,
+    4800.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_SLOT_UPGRADE_PRICE": {
+   "key": "Define_HERO_TRAINING_SLOT_UPGRADE_PRICE",
+   "value": [
+    300.0,
+    600.0,
+    900.0,
+    1200.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_DEFAULT_RECEIVE_STACK_COUNT": {
+   "key": "Define_HERO_TRAINING_DEFAULT_RECEIVE_STACK_COUNT",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_DEFAULT_OPEN_SLOT_COUNT": {
+   "key": "Define_HERO_TRAINING_DEFAULT_OPEN_SLOT_COUNT",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_HERO_TRAINING_TRAINING_TERM_SEC": {
+   "key": "Define_HERO_TRAINING_TRAINING_TERM_SEC",
+   "value": [
+    14400.0
+   ],
+   "strVal": []
+  },
+  "Define_SHARE_LEVEL": {
+   "key": "Define_SHARE_LEVEL",
+   "value": [
+    12.0
+   ],
+   "strVal": []
+  },
+  "Define_SHARE_REWARD": {
+   "key": "Define_SHARE_REWARD",
+   "value": [
+    50.0
+   ],
+   "strVal": [
+    "DIA"
+   ]
+  },
+  "Define_RIFT_RESET_LV": {
+   "key": "Define_RIFT_RESET_LV",
+   "value": [
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_RF_DROP_RATE": {
+   "key": "Define_RF_DROP_RATE",
+   "value": [
+    0.800000011920929
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_DUNGEON_PLACE": {
+   "key": "Define_RUNE_DUNGEON_PLACE",
+   "value": [
+    1.0,
+    2.0,
+    3.0,
+    4.0
+   ],
+   "strVal": [
+    "PlaceGroup907011",
+    "PlaceGroup907011",
+    "PlaceGroup907011",
+    "PlaceGroup907012"
+   ]
+  },
+  "Define_RUINS_GOLD_COUNT": {
+   "key": "Define_RUINS_GOLD_COUNT",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LEVEL_EASY": {
+   "key": "Define_RUNE_LEVEL_EASY",
+   "value": [
+    59.0,
+    59.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LEVEL_NORMAL": {
+   "key": "Define_RUNE_LEVEL_NORMAL",
+   "value": [
+    59.0,
+    59.0,
+    74.0,
+    94.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LEVEL_HARD": {
+   "key": "Define_RUNE_LEVEL_HARD",
+   "value": [
+    59.0,
+    59.0,
+    74.0,
+    94.0,
+    114.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_ELITE_RANDOM_RANGE": {
+   "key": "Define_RUINS_ELITE_RANDOM_RANGE",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Define_RUINS_NORMAL_RANGE",
+    "Define_RUINS_ELITE_1_RANGE",
+    "Define_RUINS_ELITE_2_RANGE",
+    "Define_RUINS_ELITE_3_RANGE",
+    "Define_RUINS_BOSS_RANGE"
+   ]
+  },
+  "Define_RUINS_NORMAL_RANGE": {
+   "key": "Define_RUINS_NORMAL_RANGE",
+   "value": [
+    0.8999999761581421,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_ELITE_1_RANGE": {
+   "key": "Define_RUINS_ELITE_1_RANGE",
+   "value": [
+    2.0,
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_ELITE_2_RANGE": {
+   "key": "Define_RUINS_ELITE_2_RANGE",
+   "value": [
+    6.0,
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_ELITE_3_RANGE": {
+   "key": "Define_RUINS_ELITE_3_RANGE",
+   "value": [
+    15.0,
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_BOSS_RANGE": {
+   "key": "Define_RUINS_BOSS_RANGE",
+   "value": [
+    40.0,
+    120.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_OPEN_LEVEL": {
+   "key": "Define_RUINS_OPEN_LEVEL",
+   "value": [
+    24.0
+   ],
+   "strVal": []
+  },
+  "Define_RUINS_RESOURCE_VALUE": {
+   "key": "Define_RUINS_RESOURCE_VALUE",
+   "value": [
+    100.0,
+    1000.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_CHARM_WEIGHT": {
+   "key": "Define_PUB_CHARM_WEIGHT",
+   "value": [
+    92.0,
+    8.0
+   ],
+   "strVal": []
+  },
+  "Define_CHARM_MAX_LEVEL": {
+   "key": "Define_CHARM_MAX_LEVEL",
+   "value": [
+    90.0,
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_CHARM_PURCHASE_COST": {
+   "key": "Define_CHARM_PURCHASE_COST",
+   "value": [
+    1000.0
+   ],
+   "strVal": []
+  },
+  "Define_CHARM_UNLOCK_LEVEL": {
+   "key": "Define_CHARM_UNLOCK_LEVEL",
+   "value": [
+    17.0
+   ],
+   "strVal": []
+  },
+  "Define_CHARM_MILEAGE_RATIO": {
+   "key": "Define_CHARM_MILEAGE_RATIO",
+   "value": [
+    1.0,
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_CHARM_MAX_COUNT": {
+   "key": "Define_PUB_CHARM_MAX_COUNT",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_DUNGEON_RSRT_AD_LIMIT": {
+   "key": "Define_DUNGEON_RSRT_AD_LIMIT",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LEVEL_INTERVER": {
+   "key": "Define_RUNE_LEVEL_INTERVER",
+   "value": [
+    10.0,
+    20.0,
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LEVEL_UP_COST": {
+   "key": "Define_RUNE_LEVEL_UP_COST",
+   "value": [
+    100.0,
+    100.0,
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_MAX_LEVEL": {
+   "key": "Define_RUNE_MAX_LEVEL",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_RUNE_LIMIIT_LEVEL": {
+   "key": "Define_RUNE_LIMIIT_LEVEL",
+   "value": [
+    49.0
+   ],
+   "strVal": []
+  },
+  "Define_RAID_CAMERA": {
+   "key": "Define_RAID_CAMERA",
+   "value": [
+    20.0,
+    12.0
+   ],
+   "strVal": []
+  },
+  "Define_RAID_TICKET_VALUE": {
+   "key": "Define_RAID_TICKET_VALUE",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_RAID_TICKET_ADD": {
+   "key": "Define_RAID_TICKET_ADD",
+   "value": [
+    30.0,
+    45.0
+   ],
+   "strVal": []
+  },
+  "Define_AD_SKIP_POPUP_DUNGEON": {
+   "key": "Define_AD_SKIP_POPUP_DUNGEON",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Dungeon000008"
+   ]
+  },
+  "Define_AD_SKIP_POPUP_TABLE_INDEX": {
+   "key": "Define_AD_SKIP_POPUP_TABLE_INDEX",
+   "value": [
+    0.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_AD_SKIP_RESALE_BUILDING": {
+   "key": "Define_AD_SKIP_RESALE_BUILDING",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "WorldBuilding099310",
+    "WorldBuilding099410",
+    "WorldBuilding099510"
+   ]
+  },
+  "Define_RAID_OPEN_LEVEL": {
+   "key": "Define_RAID_OPEN_LEVEL",
+   "value": [
+    39.0
+   ],
+   "strVal": []
+  },
+  "Define_RAID_TIER_RATE": {
+   "key": "Define_RAID_TIER_RATE",
+   "value": [
+    0.20000000298023224
+   ],
+   "strVal": []
+  },
+  "Define_MONTHLY_RATE_DAYS": {
+   "key": "Define_MONTHLY_RATE_DAYS",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENTTOP_COOLTIME": {
+   "key": "Define_EVENTTOP_COOLTIME",
+   "value": [
+    0.5
+   ],
+   "strVal": []
+  },
+  "Define_EVENTTOP_CAMERA": {
+   "key": "Define_EVENTTOP_CAMERA",
+   "value": [
+    13.0
+   ],
+   "strVal": []
+  },
+  "Define_FAME_UNIT_MAXLEVEL": {
+   "key": "Define_FAME_UNIT_MAXLEVEL",
+   "value": [
+    55.0
+   ],
+   "strVal": []
+  },
+  "Define_FAME_BUILDING_QUEST_CONDI": {
+   "key": "Define_FAME_BUILDING_QUEST_CONDI",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Quest000138"
+   ]
+  },
+  "Define_UNLOCK_QUEST_LV": {
+   "key": "Define_UNLOCK_QUEST_LV",
+   "value": [
+    11.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_GOLD_BAR_RATIO": {
+   "key": "Define_CONTRIBUTION_GOLD_BAR_RATIO",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_MAX_DAY": {
+   "key": "Define_CONTRIBUTION_MAX_DAY",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_BUY_EXP": {
+   "key": "Define_CONTRIBUTION_BUY_EXP",
+   "value": [
+    10.0,
+    100.0,
+    500.0,
+    1000.0,
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_BUY_COST": {
+   "key": "Define_CONTRIBUTION_BUY_COST",
+   "value": [
+    10.0,
+    100.0,
+    500.0,
+    1000.0,
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_BUY_GOLD_BAR_RATIO": {
+   "key": "Define_CONTRIBUTION_BUY_GOLD_BAR_RATIO",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RECOMMEND_HERO": {
+   "key": "Define_PUB_RECOMMEND_HERO",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Unit000018"
+   ]
+  },
+  "Define_BOSS_DROP_LEVEL": {
+   "key": "Define_BOSS_DROP_LEVEL",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_PUB_RECOMMEND_HERO_LEVEL": {
+   "key": "Define_PUB_RECOMMEND_HERO_LEVEL",
+   "value": [
+    49.0
+   ],
+   "strVal": []
+  },
+  "Define_UNLOCK_GUIDEQUEST_QUEST": {
+   "key": "Define_UNLOCK_GUIDEQUEST_QUEST",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Quest000006"
+   ]
+  },
+  "Define_PASS_SALE_TIME": {
+   "key": "Define_PASS_SALE_TIME",
+   "value": [
+    1711897216.0,
+    1714489216.0
+   ],
+   "strVal": []
+  },
+  "Define_MAX_HERO_CNT": {
+   "key": "Define_MAX_HERO_CNT",
+   "value": [
+    12.0
+   ],
+   "strVal": []
+  },
+  "Define_POTENTION_OPEN_LIMIT_LEVEL": {
+   "key": "Define_POTENTION_OPEN_LIMIT_LEVEL",
+   "value": [
+    19.0
+   ],
+   "strVal": []
+  },
+  "Define_POTENTION_LIMIT_MAX_LEVEL": {
+   "key": "Define_POTENTION_LIMIT_MAX_LEVEL",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_BOSSHUNT_OPEN_LEVEL": {
+   "key": "Define_BOSSHUNT_OPEN_LEVEL",
+   "value": [
+    19.0
+   ],
+   "strVal": []
+  },
+  "Define_BOSSHUNT_LIMIT_MAX_LEVEL": {
+   "key": "Define_BOSSHUNT_LIMIT_MAX_LEVEL",
+   "value": [
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_BOSSHUNT_TICKET": {
+   "key": "Define_BOSSHUNT_TICKET",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_BOSSHUNT_TICKET_MAX": {
+   "key": "Define_BOSSHUNT_TICKET_MAX",
+   "value": [
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_BOSSHUNT_SWEEP_ENABLE": {
+   "key": "Define_BOSSHUNT_SWEEP_ENABLE",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_SYMBOL_ENGRAVE_COST": {
+   "key": "Define_SYMBOL_ENGRAVE_COST",
+   "value": [
+    30.0,
+    90.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENTTOP_BUFF_VALUE": {
+   "key": "Define_EVENTTOP_BUFF_VALUE",
+   "value": [
+    18.0,
+    18.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENTTOP_RCD_PARTY_LEVEL": {
+   "key": "Define_EVENTTOP_RCD_PARTY_LEVEL",
+   "value": [
+    5.0,
+    5.0,
+    10.0,
+    10.0,
+    15.0,
+    15.0,
+    20.0,
+    20.0,
+    25.0,
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENTTOP_RCD_PARTY_COUNT": {
+   "key": "Define_EVENTTOP_RCD_PARTY_COUNT",
+   "value": [
+    4.0,
+    4.0,
+    4.0,
+    4.0,
+    5.0,
+    5.0,
+    5.0,
+    6.0,
+    6.0,
+    7.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_OPEN_LEVEL": {
+   "key": "Define_ABYSS_OPEN_LEVEL",
+   "value": [
+    24.0
+   ],
+   "strVal": [
+    "Quest000064"
+   ]
+  },
+  "Define_ABYSS_GACHA_COST": {
+   "key": "Define_ABYSS_GACHA_COST",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_GACHA_REPETE_NUM": {
+   "key": "Define_ABYSS_GACHA_REPETE_NUM",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_DUNGEON_CAMERA": {
+   "key": "Define_ABYSS_DUNGEON_CAMERA",
+   "value": [
+    22.0
+   ],
+   "strVal": []
+  },
+  "Define_GLOBAL_UNIT_DETECT_RANGE": {
+   "key": "Define_GLOBAL_UNIT_DETECT_RANGE",
+   "value": [
+    8.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRIBUTION_CONTRACT_LEVEL": {
+   "key": "Define_CONTRIBUTION_CONTRACT_LEVEL",
+   "value": [
+    11.0
+   ],
+   "strVal": []
+  },
+  "Define_CONTRACT_COOLTIME": {
+   "key": "Define_CONTRACT_COOLTIME",
+   "value": [
+    86400.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_LEVEL_MAX": {
+   "key": "Define_ABYSS_LEVEL_MAX",
+   "value": [
+    49.0,
+    999.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_STACK_MAX": {
+   "key": "Define_ABYSS_STACK_MAX",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_CHARM_ACCREWARD_COUNT": {
+   "key": "Define_CHARM_ACCREWARD_COUNT",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_PASS_EXP_RANGE": {
+   "key": "Define_ABYSS_PASS_EXP_RANGE",
+   "value": [
+    20.0,
+    25.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_PASS_EXP_LIMITE": {
+   "key": "Define_ABYSS_PASS_EXP_LIMITE",
+   "value": [
+    1400.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_MIMIC_ATTACK_COST": {
+   "key": "Define_ABYSS_MIMIC_ATTACK_COST",
+   "value": [
+    100.0,
+    100.0,
+    100.0,
+    200.0,
+    400.0,
+    600.0,
+    1000.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_MIMIC_APPEAR_RATE": {
+   "key": "Define_ABYSS_MIMIC_APPEAR_RATE",
+   "value": [
+    10.0,
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_DIA_ABYSS_GACHA_CHANGE": {
+   "key": "Define_DIA_ABYSS_GACHA_CHANGE",
+   "value": [
+    80.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_PRIVILEGE_DAY": {
+   "key": "Define_ABYSS_PRIVILEGE_DAY",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_ACQUIRE_MAX": {
+   "key": "Define_ABYSS_ACQUIRE_MAX",
+   "value": [
+    1000.0,
+    2000.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_INVENTORY_LIMIT_COUNT": {
+   "key": "Define_ABYSS_INVENTORY_LIMIT_COUNT",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_GATHER_COOLTIME": {
+   "key": "Define_ABYSS_GATHER_COOLTIME",
+   "value": [
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_TRS_COOLTIME": {
+   "key": "Define_ABYSS_TRS_COOLTIME",
+   "value": [
+    600.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_PASS_INVEN_ADD_COUNT": {
+   "key": "Define_ABYSS_PASS_INVEN_ADD_COUNT",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_CORROSION_LEGEND_DROP_MAX": {
+   "key": "Define_ABYSS_CORROSION_LEGEND_DROP_MAX",
+   "value": [
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_DROP_ITEM_LEVEL": {
+   "key": "Define_ABYSS_DROP_ITEM_LEVEL",
+   "value": [
+    101.0,
+    126.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_TOTAL_LINKER": {
+   "key": "Define_ABYSS_TOTAL_LINKER",
+   "value": [
+    1.0,
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_ABYSS_CYCLE_LINKER": {
+   "key": "Define_ABYSS_CYCLE_LINKER",
+   "value": [
+    9.0,
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHING_FIRST_SPAWN": {
+   "key": "Define_FISHING_FIRST_SPAWN",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHING_LEGEND_MAX": {
+   "key": "Define_FISHING_LEGEND_MAX",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHINGLINE_STAT": {
+   "key": "Define_FISHINGLINE_STAT",
+   "value": [
+    150.0,
+    175.0,
+    200.0,
+    250.0,
+    300.0,
+    350.0,
+    400.0,
+    450.0,
+    500.0,
+    550.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHINGHOOK_STAT": {
+   "key": "Define_FISHINGHOOK_STAT",
+   "value": [
+    11.0,
+    12.0,
+    13.0,
+    14.0,
+    15.0,
+    16.0,
+    17.0,
+    18.0,
+    19.0,
+    20.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHINGWEIGHT_STAT": {
+   "key": "Define_FISHINGWEIGHT_STAT",
+   "value": [
+    0.0,
+    30.0,
+    50.0,
+    70.0,
+    90.0,
+    105.0,
+    120.0,
+    135.0,
+    150.0,
+    165.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHIN_UPGRADE_VALUE": {
+   "key": "Define_FISHIN_UPGRADE_VALUE",
+   "value": [
+    100.0,
+    100.0,
+    150.0,
+    150.0,
+    200.0,
+    200.0,
+    250.0,
+    300.0,
+    350.0,
+    400.0
+   ],
+   "strVal": []
+  },
+  "Define_BALLOFDESTINY_VALUE": {
+   "key": "Define_BALLOFDESTINY_VALUE",
+   "value": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    8.0,
+    10.0,
+    15.0,
+    20.0,
+    25.0
+   ],
+   "strVal": []
+  },
+  "Define_BALLOFDESTINY_DISCOUNT_VALUE": {
+   "key": "Define_BALLOFDESTINY_DISCOUNT_VALUE",
+   "value": [
+    0.0,
+    1.0,
+    2.0,
+    5.0,
+    9.0,
+    10.0,
+    11.0,
+    12.0,
+    13.0,
+    14.0
+   ],
+   "strVal": []
+  },
+  "Define_BALLOFDESTINY_DEFAULT_VALUE": {
+   "key": "Define_BALLOFDESTINY_DEFAULT_VALUE",
+   "value": [
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_BALLOFDESTINY_TOTAL_COUNT": {
+   "key": "Define_BALLOFDESTINY_TOTAL_COUNT",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_ISEVENT_INSTANTQUEST_INDEX": {
+   "key": "Define_ISEVENT_INSTANTQUEST_INDEX",
+   "value": [
+    2.0
+   ],
+   "strVal": []
+  },
+  "Define_NORMAL_QUEST_IMAGE": {
+   "key": "Define_NORMAL_QUEST_IMAGE",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "ui_325"
+   ]
+  },
+  "Define_EVENT_CARD_QUEST_IMAGE": {
+   "key": "Define_EVENT_CARD_QUEST_IMAGE",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "UI_CardFlip_08"
+   ]
+  },
+  "Define_EVENT_COLLABO_INVITE_FRIEND": {
+   "key": "Define_EVENT_COLLABO_INVITE_FRIEND",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "IS2408HERO"
+   ]
+  },
+  "Define_EVENT_COLLABO_LVUP": {
+   "key": "Define_EVENT_COLLABO_LVUP",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "IS2408KARA"
+   ]
+  },
+  "Define_EVENT_COLLABO_PUBGET": {
+   "key": "Define_EVENT_COLLABO_PUBGET",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "IS2408GRACE"
+   ]
+  },
+  "Define_CHANGE_NICKNAME_COST": {
+   "key": "Define_CHANGE_NICKNAME_COST",
+   "value": [
+    600.0
+   ],
+   "strVal": []
+  },
+  "Define_LUMBERJACK_PASS_EXP": {
+   "key": "Define_LUMBERJACK_PASS_EXP",
+   "value": [
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_LUMBERJACK_MAX_STAGE": {
+   "key": "Define_LUMBERJACK_MAX_STAGE",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_LUMBERJACK_STAGE_WEIGHT": {
+   "key": "Define_LUMBERJACK_STAGE_WEIGHT",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_PET_HATCH_TIME": {
+   "key": "Define_EVENT_PET_HATCH_TIME",
+   "value": [
+    10.0,
+    60.0,
+    180.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_PET_NORMAL_EGG_RATE": {
+   "key": "Define_EVENT_PET_NORMAL_EGG_RATE",
+   "value": [
+    80.0,
+    20.0,
+    0.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_PET_EPIC_EGG_RATE": {
+   "key": "Define_EVENT_PET_EPIC_EGG_RATE",
+   "value": [
+    35.0,
+    50.0,
+    15.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_PET_LEGEND_EGG_RATE": {
+   "key": "Define_EVENT_PET_LEGEND_EGG_RATE",
+   "value": [
+    0.0,
+    40.0,
+    60.0
+   ],
+   "strVal": []
+  },
+  "Define_EVENT_PET_EXP_VALUE": {
+   "key": "Define_EVENT_PET_EXP_VALUE",
+   "value": [
+    100.0,
+    3000.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHING_GACHA_COST": {
+   "key": "Define_FISHING_GACHA_COST",
+   "value": [
+    300.0
+   ],
+   "strVal": []
+  },
+  "Define_FISHING_COUPON_COST": {
+   "key": "Define_FISHING_COUPON_COST",
+   "value": [
+    100.0
+   ],
+   "strVal": []
+  },
+  "Define_ROULETTE_LUCKY_CHANCE": {
+   "key": "Define_ROULETTE_LUCKY_CHANCE",
+   "value": [
+    5.0
+   ],
+   "strVal": []
+  },
+  "Define_ROULETTE_LUCKY_CORRECTION_VALUE": {
+   "key": "Define_ROULETTE_LUCKY_CORRECTION_VALUE",
+   "value": [
+    30.0,
+    40.0
+   ],
+   "strVal": []
+  },
+  "Define_PINBALL_WEIGHT_VALUE": {
+   "key": "Define_PINBALL_WEIGHT_VALUE",
+   "value": [
+    1.0,
+    2.0,
+    3.0,
+    5.0,
+    10.0,
+    20.0,
+    30.0,
+    50.0
+   ],
+   "strVal": []
+  },
+  "Define_PINBALL_GOAL_WEIGHT_VALUE": {
+   "key": "Define_PINBALL_GOAL_WEIGHT_VALUE",
+   "value": [
+    1.0,
+    2.0,
+    3.0,
+    10.0,
+    3.0,
+    2.0,
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_PINBALL_DEFAULT_VALUE": {
+   "key": "Define_PINBALL_DEFAULT_VALUE",
+   "value": [
+    1.0
+   ],
+   "strVal": []
+  },
+  "Define_PINBALL_MAX_BOUNCE_VALUE": {
+   "key": "Define_PINBALL_MAX_BOUNCE_VALUE",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_START_MAIL_REWARDS": {
+   "key": "Define_START_MAIL_REWARDS",
+   "value": [
+    10.0,
+    300.0,
+    5.0,
+    1.0,
+    3.0
+   ],
+   "strVal": [
+    "Item002005",
+    "Item002003",
+    "Item009013",
+    "Item009106",
+    "Item009104"
+   ]
+  },
+  "Define_IDLEREWARD_MAX_TIME": {
+   "key": "Define_IDLEREWARD_MAX_TIME",
+   "value": [
+    12.0
+   ],
+   "strVal": []
+  },
+  "Define_START_PORTALCOLLDOWN_ON_SINGLEUNITLEFT_TIME": {
+   "key": "Define_START_PORTALCOLLDOWN_ON_SINGLEUNITLEFT_TIME",
+   "value": [
+    10.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_JACKPOT_RATE": {
+   "key": "Define_TREASUREBOX_JACKPOT_RATE",
+   "value": [
+    0.029999999329447746
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_RANKUP_LEVEL": {
+   "key": "Define_TREASUREBOX_RANKUP_LEVEL",
+   "value": [
+    9.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_RANKUP_MAX_LEVEL": {
+   "key": "Define_TREASUREBOX_RANKUP_MAX_LEVEL",
+   "value": [
+    49.0
+   ],
+   "strVal": []
+  },
+  "Define_TREASUREBOX_RANKUP_REWARD_ITEM": {
+   "key": "Define_TREASUREBOX_RANKUP_REWARD_ITEM",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Item002003",
+    "Item002002",
+    "Item002001",
+    "Item002000",
+    "Item004001",
+    "Item003017",
+    "Item003025"
+   ]
+  },
+  "Define_TREASUREBOX_RANKUP_REWARD_RATIO": {
+   "key": "Define_TREASUREBOX_RANKUP_REWARD_RATIO",
+   "value": [
+    2.0,
+    2.0,
+    2.0,
+    2.0,
+    0.4000000059604645,
+    0.20000000298023224,
+    0.20000000298023224
+   ],
+   "strVal": []
+  },
+  "Define_QUEST_AUTO_TELEPORT_MIN_DISTANCE": {
+   "key": "Define_QUEST_AUTO_TELEPORT_MIN_DISTANCE",
+   "value": [
+    30.0
+   ],
+   "strVal": []
+  },
+  "Define_LUCK_MAIL_REWARD_LIST": {
+   "key": "Define_LUCK_MAIL_REWARD_LIST",
+   "value": [
+    10.0,
+    30.0,
+    50.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    100.0,
+    300.0
+   ],
+   "strVal": [
+    "Item002005",
+    "Item002005",
+    "Item002005",
+    "Item007013",
+    "Item007002",
+    "Item002043",
+    "Item009029",
+    "Item009013",
+    "Item009028",
+    "Item002026",
+    "Item002003"
+   ]
+  },
+  "Define_DAILLYLUCK_MAIL_REWARD_LIST": {
+   "key": "Define_DAILLYLUCK_MAIL_REWARD_LIST",
+   "value": [
+    1.0,
+    30.0
+   ],
+   "strVal": [
+    "Item003038",
+    "Item002005"
+   ]
+  },
+  "Define_RUMBLESQUAD_BOSS_MONSTERS": {
+   "key": "Define_RUMBLESQUAD_BOSS_MONSTERS",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Unit000470",
+    "Unit600198",
+    "Unit000457"
+   ]
+  },
+  "Define_RUMBLESQUAD_DICE_VALUE": {
+   "key": "Define_RUMBLESQUAD_DICE_VALUE",
+   "value": [
+    20.0,
+    40.0,
+    60.0,
+    80.0,
+    100.0,
+    150.0
+   ],
+   "strVal": []
+  },
+  "Define_RUMBLESQUAD_DICE_WEIGHT": {
+   "key": "Define_RUMBLESQUAD_DICE_WEIGHT",
+   "value": [
+    1.0,
+    1.0,
+    1.0,
+    2.0,
+    2.0,
+    3.0
+   ],
+   "strVal": []
+  },
+  "Define_FREE_PASS_KEY": {
+   "key": "Define_FREE_PASS_KEY",
+   "value": [
+    0.0
+   ],
+   "strVal": [
+    "Shop120010"
+   ]
+  },
+  "Define_OPEN_OFFERWALL_LIMIT_LEVEL": {
+   "key": "Define_OPEN_OFFERWALL_LIMIT_LEVEL",
+   "value": [
+    6.0
+   ],
+   "strVal": []
+  }
+ }
+}

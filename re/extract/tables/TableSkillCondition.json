@@ -1,0 +1,1358 @@
+{
+ "sheetName": "TableSkillConditionData",
+ "tableIndex": 0,
+ "rows": {
+  "SkillCondition000000": {
+   "key": "SkillCondition000000",
+   "category": 0,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition000001": {
+   "key": "SkillCondition000001",
+   "category": 0,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "BURN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition000002": {
+   "key": "SkillCondition000002",
+   "category": 0,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [],
+   "conditionCompares": [],
+   "conditionValues": [
+    0.0
+   ]
+  },
+  "SkillCondition005000": {
+   "key": "SkillCondition005000",
+   "category": 5,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition005001": {
+   "key": "SkillCondition005001",
+   "category": 5,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition006001": {
+   "key": "SkillCondition006001",
+   "category": 6,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition006002": {
+   "key": "SkillCondition006002",
+   "category": 6,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    2.0
+   ]
+  },
+  "SkillCondition006003": {
+   "key": "SkillCondition006003",
+   "category": 6,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition006004": {
+   "key": "SkillCondition006004",
+   "category": 6,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0
+   ]
+  },
+  "SkillCondition006005": {
+   "key": "SkillCondition006005",
+   "category": 6,
+   "index": 5,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0
+   ]
+  },
+  "SkillCondition006006": {
+   "key": "SkillCondition006006",
+   "category": 6,
+   "index": 6,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    6.0
+   ]
+  },
+  "SkillCondition006007": {
+   "key": "SkillCondition006007",
+   "category": 6,
+   "index": 7,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    7.0
+   ]
+  },
+  "SkillCondition006008": {
+   "key": "SkillCondition006008",
+   "category": 6,
+   "index": 8,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    8.0
+   ]
+  },
+  "SkillCondition006009": {
+   "key": "SkillCondition006009",
+   "category": 6,
+   "index": 9,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    9.0
+   ]
+  },
+  "SkillCondition006010": {
+   "key": "SkillCondition006010",
+   "category": 6,
+   "index": 10,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    10.0
+   ]
+  },
+  "SkillCondition006011": {
+   "key": "SkillCondition006011",
+   "category": 6,
+   "index": 11,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    11.0
+   ]
+  },
+  "SkillCondition006012": {
+   "key": "SkillCondition006012",
+   "category": 6,
+   "index": 12,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    12.0
+   ]
+  },
+  "SkillCondition006013": {
+   "key": "SkillCondition006013",
+   "category": 6,
+   "index": 13,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    13.0
+   ]
+  },
+  "SkillCondition006014": {
+   "key": "SkillCondition006014",
+   "category": 6,
+   "index": 14,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    14.0
+   ]
+  },
+  "SkillCondition006015": {
+   "key": "SkillCondition006015",
+   "category": 6,
+   "index": 15,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    15.0
+   ]
+  },
+  "SkillCondition007001": {
+   "key": "SkillCondition007001",
+   "category": 7,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition007003": {
+   "key": "SkillCondition007003",
+   "category": 7,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition007004": {
+   "key": "SkillCondition007004",
+   "category": 7,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0
+   ]
+  },
+  "SkillCondition007005": {
+   "key": "SkillCondition007005",
+   "category": 7,
+   "index": 5,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition007007": {
+   "key": "SkillCondition007007",
+   "category": 7,
+   "index": 7,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    7.0
+   ]
+  },
+  "SkillCondition007008": {
+   "key": "SkillCondition007008",
+   "category": 7,
+   "index": 8,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    8.0
+   ]
+  },
+  "SkillCondition007009": {
+   "key": "SkillCondition007009",
+   "category": 7,
+   "index": 9,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    9.0
+   ]
+  },
+  "SkillCondition007010": {
+   "key": "SkillCondition007010",
+   "category": 7,
+   "index": 10,
+   "selectType": "OR",
+   "conditionTypes": [
+    "POISON"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition007011": {
+   "key": "SkillCondition007011",
+   "category": 7,
+   "index": 11,
+   "selectType": "OR",
+   "conditionTypes": [
+    "FROZEN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition007012": {
+   "key": "SkillCondition007012",
+   "category": 7,
+   "index": 12,
+   "selectType": "OR",
+   "conditionTypes": [
+    "BURN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition007013": {
+   "key": "SkillCondition007013",
+   "category": 7,
+   "index": 13,
+   "selectType": "OR",
+   "conditionTypes": [
+    "BLEEDING"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition007014": {
+   "key": "SkillCondition007014",
+   "category": 7,
+   "index": 14,
+   "selectType": "OR",
+   "conditionTypes": [
+    "FROSTBITE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.019999999552965164
+   ]
+  },
+  "SkillCondition007015": {
+   "key": "SkillCondition007015",
+   "category": 7,
+   "index": 15,
+   "selectType": "AND",
+   "conditionTypes": [
+    "BURN",
+    "FROSTBITE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0,
+    0.019999999552965164
+   ]
+  },
+  "SkillCondition007016": {
+   "key": "SkillCondition007016",
+   "category": 7,
+   "index": 16,
+   "selectType": "OR",
+   "conditionTypes": [
+    "FROSTBITE",
+    "FROZEN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.019999999552965164,
+    1.0
+   ]
+  },
+  "SkillCondition008000": {
+   "key": "SkillCondition008000",
+   "category": 8,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.30000001192092896,
+    8.0
+   ]
+  },
+  "SkillCondition008001": {
+   "key": "SkillCondition008001",
+   "category": 8,
+   "index": 1,
+   "selectType": "AND",
+   "conditionTypes": [
+    "HP_RATE",
+    "BONDAGE"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.009999999776482582,
+    3.0
+   ]
+  },
+  "SkillCondition008002": {
+   "key": "SkillCondition008002",
+   "category": 8,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL"
+   ],
+   "conditionValues": [
+    0.30000001192092896
+   ]
+  },
+  "SkillCondition008003": {
+   "key": "SkillCondition008003",
+   "category": 8,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL"
+   ],
+   "conditionValues": [
+    0.5
+   ]
+  },
+  "SkillCondition008004": {
+   "key": "SkillCondition008004",
+   "category": 8,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL"
+   ],
+   "conditionValues": [
+    0.10000000149011612
+   ]
+  },
+  "SkillCondition008005": {
+   "key": "SkillCondition008005",
+   "category": 8,
+   "index": 5,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.30000001192092896
+   ]
+  },
+  "SkillCondition008006": {
+   "key": "SkillCondition008006",
+   "category": 8,
+   "index": 6,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL"
+   ],
+   "conditionValues": [
+    0.800000011920929
+   ]
+  },
+  "SkillCondition008007": {
+   "key": "SkillCondition008007",
+   "category": 8,
+   "index": 7,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.5
+   ]
+  },
+  "SkillCondition008008": {
+   "key": "SkillCondition008008",
+   "category": 8,
+   "index": 8,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.9900000095367432
+   ]
+  },
+  "SkillCondition008009": {
+   "key": "SkillCondition008009",
+   "category": 8,
+   "index": 9,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.800000011920929
+   ]
+  },
+  "SkillCondition008010": {
+   "key": "SkillCondition008010",
+   "category": 8,
+   "index": 10,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.8999999761581421
+   ]
+  },
+  "SkillCondition008011": {
+   "key": "SkillCondition008011",
+   "category": 8,
+   "index": 11,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.699999988079071
+   ]
+  },
+  "SkillCondition009000": {
+   "key": "SkillCondition009000",
+   "category": 9,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "EVASION"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    1.0
+   ]
+  },
+  "SkillCondition009001": {
+   "key": "SkillCondition009001",
+   "category": 9,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "EVASION"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0,
+    1.0
+   ]
+  },
+  "SkillCondition009002": {
+   "key": "SkillCondition009002",
+   "category": 9,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    9.0,
+    1.0
+   ]
+  },
+  "SkillCondition009003": {
+   "key": "SkillCondition009003",
+   "category": 9,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "BLEEDING"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    3.0
+   ]
+  },
+  "SkillCondition009004": {
+   "key": "SkillCondition009004",
+   "category": 9,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    1.0
+   ]
+  },
+  "SkillCondition009005": {
+   "key": "SkillCondition009005",
+   "category": 9,
+   "index": 5,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0,
+    1.0
+   ]
+  },
+  "SkillCondition009006": {
+   "key": "SkillCondition009006",
+   "category": 9,
+   "index": 6,
+   "selectType": "OR",
+   "conditionTypes": [
+    "BURN",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    3.0
+   ]
+  },
+  "SkillCondition009007": {
+   "key": "SkillCondition009007",
+   "category": 9,
+   "index": 7,
+   "selectType": "OR",
+   "conditionTypes": [
+    "POISON",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    3.0
+   ]
+  },
+  "SkillCondition009008": {
+   "key": "SkillCondition009008",
+   "category": 9,
+   "index": 8,
+   "selectType": "OR",
+   "conditionTypes": [
+    "FROZEN",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0,
+    5.0
+   ]
+  },
+  "SkillCondition009009": {
+   "key": "SkillCondition009009",
+   "category": 9,
+   "index": 9,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "EVASION"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0,
+    1.0
+   ]
+  },
+  "SkillCondition009010": {
+   "key": "SkillCondition009010",
+   "category": 9,
+   "index": 10,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "DAMAGE_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    1.0
+   ]
+  },
+  "SkillCondition009011": {
+   "key": "SkillCondition009011",
+   "category": 9,
+   "index": 11,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.699999988079071,
+    4.0
+   ]
+  },
+  "SkillCondition009012": {
+   "key": "SkillCondition009012",
+   "category": 9,
+   "index": 12,
+   "selectType": "OR",
+   "conditionTypes": [
+    "HP_RATE",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    0.699999988079071,
+    3.0
+   ]
+  },
+  "SkillCondition009013": {
+   "key": "SkillCondition009013",
+   "category": 9,
+   "index": 13,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DAMAGE_COUNT",
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0,
+    1.0
+   ]
+  },
+  "SkillCondition009014": {
+   "key": "SkillCondition009014",
+   "category": 9,
+   "index": 14,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ATTACK_COUNT",
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0,
+    1.0
+   ]
+  },
+  "SkillCondition010000": {
+   "key": "SkillCondition010000",
+   "category": 10,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DEAD_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition010001": {
+   "key": "SkillCondition010001",
+   "category": 10,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DEAD_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    2.0
+   ]
+  },
+  "SkillCondition010002": {
+   "key": "SkillCondition010002",
+   "category": 10,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DEAD_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0
+   ]
+  },
+  "SkillCondition010003": {
+   "key": "SkillCondition010003",
+   "category": 10,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DEAD_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0
+   ]
+  },
+  "SkillCondition010004": {
+   "key": "SkillCondition010004",
+   "category": 10,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DEAD_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0
+   ]
+  },
+  "SkillCondition010005": {
+   "key": "SkillCondition010005",
+   "category": 10,
+   "index": 5,
+   "selectType": "AND",
+   "conditionTypes": [
+    "DEAD_COUNT",
+    "HP_RATE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0,
+    0.30000001192092896
+   ]
+  },
+  "SkillCondition011000": {
+   "key": "SkillCondition011000",
+   "category": 11,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    6.0
+   ]
+  },
+  "SkillCondition011002": {
+   "key": "SkillCondition011002",
+   "category": 11,
+   "index": 2,
+   "selectType": "AND",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    2.0,
+    5.0
+   ]
+  },
+  "SkillCondition011003": {
+   "key": "SkillCondition011003",
+   "category": 11,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    5.0
+   ]
+  },
+  "SkillCondition011004": {
+   "key": "SkillCondition011004",
+   "category": 11,
+   "index": 4,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    4.0,
+    5.0
+   ]
+  },
+  "SkillCondition011005": {
+   "key": "SkillCondition011005",
+   "category": 11,
+   "index": 5,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    5.0
+   ]
+  },
+  "SkillCondition011008": {
+   "key": "SkillCondition011008",
+   "category": 11,
+   "index": 8,
+   "selectType": "AND",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "LOWER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    2.0,
+    10.0
+   ]
+  },
+  "SkillCondition011060": {
+   "key": "SkillCondition011060",
+   "category": 11,
+   "index": 60,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    6.0
+   ]
+  },
+  "SkillCondition011070": {
+   "key": "SkillCondition011070",
+   "category": 11,
+   "index": 70,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    7.0
+   ]
+  },
+  "SkillCondition011071": {
+   "key": "SkillCondition011071",
+   "category": 11,
+   "index": 71,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    4.0
+   ]
+  },
+  "SkillCondition011072": {
+   "key": "SkillCondition011072",
+   "category": 11,
+   "index": 72,
+   "selectType": "OR",
+   "conditionTypes": [
+    "DIST",
+    "ATTACK_COUNT"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL",
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    3.0,
+    3.0
+   ]
+  },
+  "SkillCondition012000": {
+   "key": "SkillCondition012000",
+   "category": 12,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "EVASION"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition013000": {
+   "key": "SkillCondition013000",
+   "category": 13,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "CRITICAL"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition014000": {
+   "key": "SkillCondition014000",
+   "category": 14,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "SELF_DEAD"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition015000": {
+   "key": "SkillCondition015000",
+   "category": 15,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ADD_BURN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition015001": {
+   "key": "SkillCondition015001",
+   "category": 15,
+   "index": 1,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ADD_POISON"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition015002": {
+   "key": "SkillCondition015002",
+   "category": 15,
+   "index": 2,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ADD_FROSTBITE"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition015003": {
+   "key": "SkillCondition015003",
+   "category": 15,
+   "index": 3,
+   "selectType": "OR",
+   "conditionTypes": [
+    "ADD_BLEEDING"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  },
+  "SkillCondition016000": {
+   "key": "SkillCondition016000",
+   "category": 16,
+   "index": 0,
+   "selectType": "OR",
+   "conditionTypes": [
+    "STUN"
+   ],
+   "conditionCompares": [
+    "GREATER_EQUAL"
+   ],
+   "conditionValues": [
+    1.0
+   ]
+  }
+ }
+}

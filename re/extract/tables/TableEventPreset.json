@@ -1,0 +1,1810 @@
+{
+ "sheetName": "TableEventPresetData",
+ "tableIndex": 0,
+ "rows": {
+  "Preset00900": {
+   "key": "Preset00900",
+   "nameKey": "LocalizeSeasonEventName000005",
+   "hasRank": false,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_006",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100110"
+   ],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": -1,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 900,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0001": {
+   "key": "Preset0001",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "UIPopSeasonEventShopSpring",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_431",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0002": {
+   "key": "Preset0002",
+   "nameKey": "LocalizeSeasonEventName000001",
+   "hasRank": false,
+   "rewardPrefabName": "UIPopSeasonEventShopChocolate",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_485",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 1,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0003": {
+   "key": "Preset0003",
+   "nameKey": "LocalizeSeasonEventName000002",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "UIEventWorldPopup",
+   "mapEffect": "Dream_01",
+   "WorldBuildingKey": "WorldBuilding000006",
+   "uiPopupBtn": "ui_577",
+   "uiRewardBtn": "ui_582",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "World800",
+   "engItem": "Item009033",
+   "userLevelIdx": 1,
+   "eventShopIdx": 803,
+   "eventRewardIdx": 2,
+   "eventWorldIdx": 800,
+   "eventTowerIdx": 800,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0004": {
+   "key": "Preset0004",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "WorldBuilding000011",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "UI_Event_002",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104"
+   ],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009033",
+   "userLevelIdx": 2,
+   "eventShopIdx": 804,
+   "eventRewardIdx": 3,
+   "eventWorldIdx": 801,
+   "eventTowerIdx": 801,
+   "nUpIdx": 2,
+   "sUpIdx": 3,
+   "randIdx": 801,
+   "questIdx": 0
+  },
+  "Preset0005": {
+   "key": "Preset0005",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "WorldBuilding000011",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "UI_Event_002",
+   "buffUpgradeKey": [
+    "UpgradeStat80100107"
+   ],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009033",
+   "userLevelIdx": 3,
+   "eventShopIdx": 805,
+   "eventRewardIdx": 4,
+   "eventWorldIdx": 801,
+   "eventTowerIdx": 802,
+   "nUpIdx": 2,
+   "sUpIdx": 3,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0006": {
+   "key": "Preset0006",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "WorldBuilding000011",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "UI_Event_002",
+   "buffUpgradeKey": [
+    "UpgradeStat80100108"
+   ],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009033",
+   "userLevelIdx": 3,
+   "eventShopIdx": 806,
+   "eventRewardIdx": 5,
+   "eventWorldIdx": 801,
+   "eventTowerIdx": 803,
+   "nUpIdx": 2,
+   "sUpIdx": 3,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0007": {
+   "key": "Preset0007",
+   "nameKey": "LocalizeSeasonEventName000004",
+   "hasRank": false,
+   "rewardPrefabName": "UIPopSeasonEventShopSpring",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_431",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 6,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0008": {
+   "key": "Preset0008",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "UIEventAttendancePopup",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 7,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0009": {
+   "key": "Preset0009",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "UI_Event_002",
+   "buffUpgradeKey": [
+    "UpgradeStat80100109"
+   ],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009033",
+   "userLevelIdx": 3,
+   "eventShopIdx": 807,
+   "eventRewardIdx": 8,
+   "eventWorldIdx": 801,
+   "eventTowerIdx": 804,
+   "nUpIdx": 2,
+   "sUpIdx": 3,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0010": {
+   "key": "Preset0010",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100110"
+   ],
+   "targetHeros": [
+    "Unit000061",
+    "Unit000062"
+   ],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 810,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0011": {
+   "key": "Preset0011",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100111"
+   ],
+   "targetHeros": [
+    "Unit000063",
+    "Unit000041"
+   ],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 811,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0012": {
+   "key": "Preset0012",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100112"
+   ],
+   "targetHeros": [
+    "Unit000064",
+    "Unit000065"
+   ],
+   "targetHeros1Pos": [
+    -35.92333984375,
+    -358.4744873046875
+   ],
+   "targetHeros2Pos": [
+    -11.62600040435791,
+    -324.9444885253906
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 812,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0013": {
+   "key": "Preset0013",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100110"
+   ],
+   "targetHeros": [
+    "Unit000066",
+    "Unit000067"
+   ],
+   "targetHeros1Pos": [
+    -31.0,
+    -229.6999969482422
+   ],
+   "targetHeros2Pos": [
+    -11.62600040435791,
+    -281.29998779296875
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 813,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0014": {
+   "key": "Preset0014",
+   "nameKey": "LocalizeFishingUI000008",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopFishingEventShop",
+   "shopPrefabName": "UIShopPopup_Event_Fishing",
+   "passPrefabName": "UIEventPassPopup",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_867",
+   "uiRewardBtn": "UI_Fishing_Icon_13",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup800",
+   "worldKey": "",
+   "engItem": "Item009078",
+   "userLevelIdx": 0,
+   "eventShopIdx": 808,
+   "eventRewardIdx": 11,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 803,
+   "questIdx": 5
+  },
+  "Preset0015": {
+   "key": "Preset0015",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIShopPopup_Event_BOD",
+   "passPrefabName": "",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_869",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009083",
+   "userLevelIdx": 0,
+   "eventShopIdx": 809,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 2
+  },
+  "Preset0016": {
+   "key": "Preset0016",
+   "nameKey": "LocalizeSeasonEventName000007",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopInfinitystairsEventShop",
+   "shopPrefabName": "UIShopPopup_Event_InfinityStairs",
+   "passPrefabName": "UIEventInfinityPassPopup",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_870",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup801",
+   "worldKey": "",
+   "engItem": "Item009085",
+   "userLevelIdx": 0,
+   "eventShopIdx": 817,
+   "eventRewardIdx": 12,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 805,
+   "questIdx": 0
+  },
+  "Preset0017": {
+   "key": "Preset0017",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIShopPopup_Event_Roulette",
+   "passPrefabName": "UIEventRoulettePassPopup",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_884",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup804",
+   "worldKey": "",
+   "engItem": "Item009083",
+   "userLevelIdx": 0,
+   "eventShopIdx": 811,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 6
+  },
+  "Preset0018": {
+   "key": "Preset0018",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100113"
+   ],
+   "targetHeros": [
+    "Unit000069",
+    "Unit000068"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 814,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0019": {
+   "key": "Preset0019",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100114"
+   ],
+   "targetHeros": [
+    "Unit000059",
+    "Unit000046",
+    "Unit000070"
+   ],
+   "targetHeros1Pos": [
+    -113.9000015258789,
+    -217.3000030517578
+   ],
+   "targetHeros2Pos": [
+    22.200000762939453,
+    -247.39999389648438
+   ],
+   "targetHeros3Pos": [
+    -23.799999237060547,
+    -280.0400085449219
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 815,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0020": {
+   "key": "Preset0020",
+   "nameKey": "LocalizeSeasonEventName000009",
+   "hasRank": true,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIPopLumberjackEventShop",
+   "passPrefabName": "UIEventLumberjackPassPopup",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_897",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup802",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 812,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 806,
+   "questIdx": 0
+  },
+  "Preset0021": {
+   "key": "Preset0021",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "UIEventAttendancePopup",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 13,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0022": {
+   "key": "Preset0022",
+   "nameKey": "LocalizeSeasonEventName000010",
+   "hasRank": false,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIShopPopup_Event_Tamagotchi",
+   "passPrefabName": "UIEventTamaPassPopup",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "Tamagotchi_Icon",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup803",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 813,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 4
+  },
+  "Preset0023": {
+   "key": "Preset0023",
+   "nameKey": "LocalizeSeasonEventName000000",
+   "hasRank": false,
+   "rewardPrefabName": "UIEventAttendancePopup",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 14,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0024": {
+   "key": "Preset0024",
+   "nameKey": "LocalizeSeasonEventName000011",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopPinballEventShop",
+   "shopPrefabName": "UIShopPopup_Event_Pinball",
+   "passPrefabName": "UIEventPinballPassPopup",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_906",
+   "uiRewardBtn": "UI_Pinball_Icon_04",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup805",
+   "worldKey": "",
+   "engItem": "Item009099",
+   "userLevelIdx": 0,
+   "eventShopIdx": 814,
+   "eventRewardIdx": 15,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 807,
+   "questIdx": 7
+  },
+  "Preset0025": {
+   "key": "Preset0025",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100115"
+   ],
+   "targetHeros": [
+    "Unit000071",
+    "Unit000072"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 816,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0026": {
+   "key": "Preset0026",
+   "nameKey": "LocalizeSeasonEventName000011",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopPinballEventShop",
+   "shopPrefabName": "UIShopPopup_Event_Pinball",
+   "passPrefabName": "UIEventPinballPassPopup",
+   "questPrefabName": "UIInstantQuestEventPopup",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_906",
+   "uiRewardBtn": "UI_Pinball_Icon_04",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "PassGroup805",
+   "worldKey": "",
+   "engItem": "Item009099",
+   "userLevelIdx": 0,
+   "eventShopIdx": 818,
+   "eventRewardIdx": 15,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 807,
+   "questIdx": 7
+  },
+  "Preset0027": {
+   "key": "Preset0027",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100116"
+   ],
+   "targetHeros": [
+    "Unit000073",
+    "Unit000074"
+   ],
+   "targetHeros1Pos": [
+    -41.400001525878906,
+    -213.60000610351562
+   ],
+   "targetHeros2Pos": [
+    3.5999999046325684,
+    -248.39999389648438
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 817,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0028": {
+   "key": "Preset0028",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100113"
+   ],
+   "targetHeros": [
+    "Unit000076",
+    "Unit000075"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 818,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0029": {
+   "key": "Preset0029",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100114"
+   ],
+   "targetHeros": [
+    "Unit000078",
+    "Unit000077"
+   ],
+   "targetHeros1Pos": [
+    -67.4000015258789,
+    -265.94000244140625
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 815,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0030": {
+   "key": "Preset0030",
+   "nameKey": "LocalizeSeasonEventName000013",
+   "hasRank": false,
+   "rewardPrefabName": "",
+   "shopPrefabName": "UIShopPopup_Event_RumbleSquad",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_988",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "Item009105",
+   "userLevelIdx": 0,
+   "eventShopIdx": 819,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  },
+  "Preset0031": {
+   "key": "Preset0031",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100115"
+   ],
+   "targetHeros": [
+    "Unit000079",
+    "Unit000080"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 816,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0032": {
+   "key": "Preset0032",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100116"
+   ],
+   "targetHeros": [
+    "Unit000085",
+    "Unit000067"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 817,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0033": {
+   "key": "Preset0033",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100113"
+   ],
+   "targetHeros": [
+    "Unit000082",
+    "Unit000075"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 818,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0034": {
+   "key": "Preset0034",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100114"
+   ],
+   "targetHeros": [
+    "Unit000083",
+    "Unit000070"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 815,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0035": {
+   "key": "Preset0035",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100115"
+   ],
+   "targetHeros": [
+    "Unit000084",
+    "Unit000071"
+   ],
+   "targetHeros1Pos": [
+    -74.0,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 816,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0036": {
+   "key": "Preset0036",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100116"
+   ],
+   "targetHeros": [
+    "Unit000081",
+    "Unit000074"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 817,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0037": {
+   "key": "Preset0037",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100113"
+   ],
+   "targetHeros": [
+    "Unit000040",
+    "Unit000075"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -203.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 818,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0038": {
+   "key": "Preset0038",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100114"
+   ],
+   "targetHeros": [
+    "Unit000078",
+    "Unit000031"
+   ],
+   "targetHeros1Pos": [
+    -43.5,
+    -305.45001220703125
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 815,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0039": {
+   "key": "Preset0039",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100115"
+   ],
+   "targetHeros": [
+    "Unit000052",
+    "Unit000071"
+   ],
+   "targetHeros1Pos": [
+    -107.0,
+    -260.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 816,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0040": {
+   "key": "Preset0040",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100116"
+   ],
+   "targetHeros": [
+    "Unit000066",
+    "Unit000067"
+   ],
+   "targetHeros1Pos": [
+    -72.0,
+    -231.0
+   ],
+   "targetHeros2Pos": [
+    1.0,
+    -241.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 817,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0041": {
+   "key": "Preset0041",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100113"
+   ],
+   "targetHeros": [
+    "Unit000040",
+    "Unit000075"
+   ],
+   "targetHeros1Pos": [
+    -118.0,
+    -228.0
+   ],
+   "targetHeros2Pos": [
+    34.0,
+    -251.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 818,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0042": {
+   "key": "Preset0042",
+   "nameKey": "LocalizeSeasonEventName000003",
+   "hasRank": true,
+   "rewardPrefabName": "UIPopSeasonEventShopGhost",
+   "shopPrefabName": "UIShopPopup_Event_Chess",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "UI_Event_003",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [
+    "UpgradeStat80100104",
+    "UpgradeStat80100114"
+   ],
+   "targetHeros": [
+    "Unit000083",
+    "Unit000070"
+   ],
+   "targetHeros1Pos": [
+    -126.0,
+    -265.0
+   ],
+   "targetHeros2Pos": [
+    35.29999923706055,
+    -267.3999938964844
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 0,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 815,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 802,
+   "questIdx": 0
+  },
+  "Preset0043": {
+   "key": "Preset0043",
+   "nameKey": "LocalizeSeasonEventName000004",
+   "hasRank": false,
+   "rewardPrefabName": "UIPopSeasonEventShopSpring",
+   "shopPrefabName": "",
+   "passPrefabName": "",
+   "questPrefabName": "",
+   "worldPrefabName": "",
+   "mapEffect": "",
+   "WorldBuildingKey": "",
+   "uiPopupBtn": "ui_431",
+   "uiRewardBtn": "",
+   "buffUpgradeKey": [],
+   "targetHeros": [],
+   "targetHeros1Pos": [
+    0.0
+   ],
+   "targetHeros2Pos": [
+    0.0
+   ],
+   "targetHeros3Pos": [
+    0.0
+   ],
+   "eventPass": "",
+   "worldKey": "",
+   "engItem": "",
+   "userLevelIdx": 0,
+   "eventShopIdx": 0,
+   "eventRewardIdx": 16,
+   "eventWorldIdx": 0,
+   "eventTowerIdx": 0,
+   "nUpIdx": 0,
+   "sUpIdx": 0,
+   "randIdx": 0,
+   "questIdx": 0
+  }
+ }
+}

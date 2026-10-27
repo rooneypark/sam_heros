@@ -1,0 +1,2190 @@
+{
+ "sheetName": "TableUserLevelData",
+ "tableIndex": 0,
+ "rows": {
+  "UserLevel000000": {
+   "key": "UserLevel000000",
+   "category": 0,
+   "level": 0,
+   "statKey": "UpgradeStat000000",
+   "needExp": 40
+  },
+  "UserLevel000001": {
+   "key": "UserLevel000001",
+   "category": 0,
+   "level": 1,
+   "statKey": "UpgradeStat000000",
+   "needExp": 90
+  },
+  "UserLevel000002": {
+   "key": "UserLevel000002",
+   "category": 0,
+   "level": 2,
+   "statKey": "UpgradeStat000000",
+   "needExp": 155
+  },
+  "UserLevel000003": {
+   "key": "UserLevel000003",
+   "category": 0,
+   "level": 3,
+   "statKey": "UpgradeStat000000",
+   "needExp": 240
+  },
+  "UserLevel000004": {
+   "key": "UserLevel000004",
+   "category": 0,
+   "level": 4,
+   "statKey": "UpgradeStat000000",
+   "needExp": 350
+  },
+  "UserLevel000005": {
+   "key": "UserLevel000005",
+   "category": 0,
+   "level": 5,
+   "statKey": "UpgradeStat000000",
+   "needExp": 490
+  },
+  "UserLevel000006": {
+   "key": "UserLevel000006",
+   "category": 0,
+   "level": 6,
+   "statKey": "UpgradeStat000000",
+   "needExp": 665
+  },
+  "UserLevel000007": {
+   "key": "UserLevel000007",
+   "category": 0,
+   "level": 7,
+   "statKey": "UpgradeStat000000",
+   "needExp": 880
+  },
+  "UserLevel000008": {
+   "key": "UserLevel000008",
+   "category": 0,
+   "level": 8,
+   "statKey": "UpgradeStat000000",
+   "needExp": 1140
+  },
+  "UserLevel000009": {
+   "key": "UserLevel000009",
+   "category": 0,
+   "level": 9,
+   "statKey": "UpgradeStat000000",
+   "needExp": 1450
+  },
+  "UserLevel000010": {
+   "key": "UserLevel000010",
+   "category": 0,
+   "level": 10,
+   "statKey": "UpgradeStat000000",
+   "needExp": 1815
+  },
+  "UserLevel000011": {
+   "key": "UserLevel000011",
+   "category": 0,
+   "level": 11,
+   "statKey": "UpgradeStat000000",
+   "needExp": 2245
+  },
+  "UserLevel000012": {
+   "key": "UserLevel000012",
+   "category": 0,
+   "level": 12,
+   "statKey": "UpgradeStat000000",
+   "needExp": 2750
+  },
+  "UserLevel000013": {
+   "key": "UserLevel000013",
+   "category": 0,
+   "level": 13,
+   "statKey": "UpgradeStat000000",
+   "needExp": 3340
+  },
+  "UserLevel000014": {
+   "key": "UserLevel000014",
+   "category": 0,
+   "level": 14,
+   "statKey": "UpgradeStat000000",
+   "needExp": 4025
+  },
+  "UserLevel000015": {
+   "key": "UserLevel000015",
+   "category": 0,
+   "level": 15,
+   "statKey": "UpgradeStat000000",
+   "needExp": 4815
+  },
+  "UserLevel000016": {
+   "key": "UserLevel000016",
+   "category": 0,
+   "level": 16,
+   "statKey": "UpgradeStat000000",
+   "needExp": 5720
+  },
+  "UserLevel000017": {
+   "key": "UserLevel000017",
+   "category": 0,
+   "level": 17,
+   "statKey": "UpgradeStat000000",
+   "needExp": 6750
+  },
+  "UserLevel000018": {
+   "key": "UserLevel000018",
+   "category": 0,
+   "level": 18,
+   "statKey": "UpgradeStat000000",
+   "needExp": 7915
+  },
+  "UserLevel000019": {
+   "key": "UserLevel000019",
+   "category": 0,
+   "level": 19,
+   "statKey": "UpgradeStat000000",
+   "needExp": 9225
+  },
+  "UserLevel000020": {
+   "key": "UserLevel000020",
+   "category": 0,
+   "level": 20,
+   "statKey": "UpgradeStat000000",
+   "needExp": 10690
+  },
+  "UserLevel000021": {
+   "key": "UserLevel000021",
+   "category": 0,
+   "level": 21,
+   "statKey": "UpgradeStat000000",
+   "needExp": 12315
+  },
+  "UserLevel000022": {
+   "key": "UserLevel000022",
+   "category": 0,
+   "level": 22,
+   "statKey": "UpgradeStat000000",
+   "needExp": 14105
+  },
+  "UserLevel000023": {
+   "key": "UserLevel000023",
+   "category": 0,
+   "level": 23,
+   "statKey": "UpgradeStat000000",
+   "needExp": 16065
+  },
+  "UserLevel000024": {
+   "key": "UserLevel000024",
+   "category": 0,
+   "level": 24,
+   "statKey": "UpgradeStat000000",
+   "needExp": 18200
+  },
+  "UserLevel000025": {
+   "key": "UserLevel000025",
+   "category": 0,
+   "level": 25,
+   "statKey": "UpgradeStat000000",
+   "needExp": 20515
+  },
+  "UserLevel000026": {
+   "key": "UserLevel000026",
+   "category": 0,
+   "level": 26,
+   "statKey": "UpgradeStat000000",
+   "needExp": 23015
+  },
+  "UserLevel000027": {
+   "key": "UserLevel000027",
+   "category": 0,
+   "level": 27,
+   "statKey": "UpgradeStat000000",
+   "needExp": 25705
+  },
+  "UserLevel000028": {
+   "key": "UserLevel000028",
+   "category": 0,
+   "level": 28,
+   "statKey": "UpgradeStat000000",
+   "needExp": 28145
+  },
+  "UserLevel000029": {
+   "key": "UserLevel000029",
+   "category": 0,
+   "level": 29,
+   "statKey": "UpgradeStat000000",
+   "needExp": 31050
+  },
+  "UserLevel000030": {
+   "key": "UserLevel000030",
+   "category": 0,
+   "level": 30,
+   "statKey": "UpgradeStat000000",
+   "needExp": 34340
+  },
+  "UserLevel000031": {
+   "key": "UserLevel000031",
+   "category": 0,
+   "level": 31,
+   "statKey": "UpgradeStat000000",
+   "needExp": 38010
+  },
+  "UserLevel000032": {
+   "key": "UserLevel000032",
+   "category": 0,
+   "level": 32,
+   "statKey": "UpgradeStat000000",
+   "needExp": 42080
+  },
+  "UserLevel000033": {
+   "key": "UserLevel000033",
+   "category": 0,
+   "level": 33,
+   "statKey": "UpgradeStat000000",
+   "needExp": 46565
+  },
+  "UserLevel000034": {
+   "key": "UserLevel000034",
+   "category": 0,
+   "level": 34,
+   "statKey": "UpgradeStat000000",
+   "needExp": 51475
+  },
+  "UserLevel000035": {
+   "key": "UserLevel000035",
+   "category": 0,
+   "level": 35,
+   "statKey": "UpgradeStat000000",
+   "needExp": 56820
+  },
+  "UserLevel000036": {
+   "key": "UserLevel000036",
+   "category": 0,
+   "level": 36,
+   "statKey": "UpgradeStat000000",
+   "needExp": 62615
+  },
+  "UserLevel000037": {
+   "key": "UserLevel000037",
+   "category": 0,
+   "level": 37,
+   "statKey": "UpgradeStat000000",
+   "needExp": 68870
+  },
+  "UserLevel000038": {
+   "key": "UserLevel000038",
+   "category": 0,
+   "level": 38,
+   "statKey": "UpgradeStat000000",
+   "needExp": 75600
+  },
+  "UserLevel000039": {
+   "key": "UserLevel000039",
+   "category": 0,
+   "level": 39,
+   "statKey": "UpgradeStat000000",
+   "needExp": 82815
+  },
+  "UserLevel000040": {
+   "key": "UserLevel000040",
+   "category": 0,
+   "level": 40,
+   "statKey": "UpgradeStat000000",
+   "needExp": 90530
+  },
+  "UserLevel000041": {
+   "key": "UserLevel000041",
+   "category": 0,
+   "level": 41,
+   "statKey": "UpgradeStat000000",
+   "needExp": 98755
+  },
+  "UserLevel000042": {
+   "key": "UserLevel000042",
+   "category": 0,
+   "level": 42,
+   "statKey": "UpgradeStat000000",
+   "needExp": 107505
+  },
+  "UserLevel000043": {
+   "key": "UserLevel000043",
+   "category": 0,
+   "level": 43,
+   "statKey": "UpgradeStat000000",
+   "needExp": 116790
+  },
+  "UserLevel000044": {
+   "key": "UserLevel000044",
+   "category": 0,
+   "level": 44,
+   "statKey": "UpgradeStat000000",
+   "needExp": 126620
+  },
+  "UserLevel000045": {
+   "key": "UserLevel000045",
+   "category": 0,
+   "level": 45,
+   "statKey": "UpgradeStat000000",
+   "needExp": 137010
+  },
+  "UserLevel000046": {
+   "key": "UserLevel000046",
+   "category": 0,
+   "level": 46,
+   "statKey": "UpgradeStat000000",
+   "needExp": 147970
+  },
+  "UserLevel000047": {
+   "key": "UserLevel000047",
+   "category": 0,
+   "level": 47,
+   "statKey": "UpgradeStat000000",
+   "needExp": 159515
+  },
+  "UserLevel000048": {
+   "key": "UserLevel000048",
+   "category": 0,
+   "level": 48,
+   "statKey": "UpgradeStat000000",
+   "needExp": 171655
+  },
+  "UserLevel000049": {
+   "key": "UserLevel000049",
+   "category": 0,
+   "level": 49,
+   "statKey": "UpgradeStat000000",
+   "needExp": 184405
+  },
+  "UserLevel000050": {
+   "key": "UserLevel000050",
+   "category": 0,
+   "level": 50,
+   "statKey": "UpgradeStat000000",
+   "needExp": 197775
+  },
+  "UserLevel000051": {
+   "key": "UserLevel000051",
+   "category": 0,
+   "level": 51,
+   "statKey": "UpgradeStat000000",
+   "needExp": 211775
+  },
+  "UserLevel000052": {
+   "key": "UserLevel000052",
+   "category": 0,
+   "level": 52,
+   "statKey": "UpgradeStat000000",
+   "needExp": 226420
+  },
+  "UserLevel000053": {
+   "key": "UserLevel000053",
+   "category": 0,
+   "level": 53,
+   "statKey": "UpgradeStat000000",
+   "needExp": 241720
+  },
+  "UserLevel000054": {
+   "key": "UserLevel000054",
+   "category": 0,
+   "level": 54,
+   "statKey": "UpgradeStat000000",
+   "needExp": 257690
+  },
+  "UserLevel000055": {
+   "key": "UserLevel000055",
+   "category": 0,
+   "level": 55,
+   "statKey": "UpgradeStat000000",
+   "needExp": 274340
+  },
+  "UserLevel000056": {
+   "key": "UserLevel000056",
+   "category": 0,
+   "level": 56,
+   "statKey": "UpgradeStat000000",
+   "needExp": 328505
+  },
+  "UserLevel000057": {
+   "key": "UserLevel000057",
+   "category": 0,
+   "level": 57,
+   "statKey": "UpgradeStat000000",
+   "needExp": 368245
+  },
+  "UserLevel000058": {
+   "key": "UserLevel000058",
+   "category": 0,
+   "level": 58,
+   "statKey": "UpgradeStat000000",
+   "needExp": 411000
+  },
+  "UserLevel000059": {
+   "key": "UserLevel000059",
+   "category": 0,
+   "level": 59,
+   "statKey": "UpgradeStat000000",
+   "needExp": 456870
+  },
+  "UserLevel000060": {
+   "key": "UserLevel000060",
+   "category": 0,
+   "level": 60,
+   "statKey": "UpgradeStat000000",
+   "needExp": 498230
+  },
+  "UserLevel000061": {
+   "key": "UserLevel000061",
+   "category": 0,
+   "level": 61,
+   "statKey": "UpgradeStat000000",
+   "needExp": 525950
+  },
+  "UserLevel000062": {
+   "key": "UserLevel000062",
+   "category": 0,
+   "level": 62,
+   "statKey": "UpgradeStat000000",
+   "needExp": 554920
+  },
+  "UserLevel000063": {
+   "key": "UserLevel000063",
+   "category": 0,
+   "level": 63,
+   "statKey": "UpgradeStat000000",
+   "needExp": 1755570
+  },
+  "UserLevel000064": {
+   "key": "UserLevel000064",
+   "category": 0,
+   "level": 64,
+   "statKey": "UpgradeStat000000",
+   "needExp": 1850430
+  },
+  "UserLevel000065": {
+   "key": "UserLevel000065",
+   "category": 0,
+   "level": 65,
+   "statKey": "UpgradeStat000000",
+   "needExp": 6498300
+  },
+  "UserLevel000066": {
+   "key": "UserLevel000066",
+   "category": 0,
+   "level": 66,
+   "statKey": "UpgradeStat000000",
+   "needExp": 13686000
+  },
+  "UserLevel000067": {
+   "key": "UserLevel000067",
+   "category": 0,
+   "level": 67,
+   "statKey": "UpgradeStat000000",
+   "needExp": 21608100
+  },
+  "UserLevel000068": {
+   "key": "UserLevel000068",
+   "category": 0,
+   "level": 68,
+   "statKey": "UpgradeStat000000",
+   "needExp": 22733700
+  },
+  "UserLevel000069": {
+   "key": "UserLevel000069",
+   "category": 0,
+   "level": 69,
+   "statKey": "UpgradeStat000000",
+   "needExp": 28390300
+  },
+  "UserLevel000070": {
+   "key": "UserLevel000070",
+   "category": 0,
+   "level": 70,
+   "statKey": "UpgradeStat000000",
+   "needExp": 32914150
+  },
+  "UserLevel000071": {
+   "key": "UserLevel000071",
+   "category": 0,
+   "level": 71,
+   "statKey": "UpgradeStat000000",
+   "needExp": 37438000
+  },
+  "UserLevel000072": {
+   "key": "UserLevel000072",
+   "category": 0,
+   "level": 72,
+   "statKey": "UpgradeStat000000",
+   "needExp": 41961850
+  },
+  "UserLevel000073": {
+   "key": "UserLevel000073",
+   "category": 0,
+   "level": 73,
+   "statKey": "UpgradeStat000000",
+   "needExp": 46485700
+  },
+  "UserLevel000074": {
+   "key": "UserLevel000074",
+   "category": 0,
+   "level": 74,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000075": {
+   "key": "UserLevel000075",
+   "category": 0,
+   "level": 75,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000076": {
+   "key": "UserLevel000076",
+   "category": 0,
+   "level": 76,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000077": {
+   "key": "UserLevel000077",
+   "category": 0,
+   "level": 77,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000078": {
+   "key": "UserLevel000078",
+   "category": 0,
+   "level": 78,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000079": {
+   "key": "UserLevel000079",
+   "category": 0,
+   "level": 79,
+   "statKey": "UpgradeStat000000",
+   "needExp": 81009550
+  },
+  "UserLevel000080": {
+   "key": "UserLevel000080",
+   "category": 0,
+   "level": 80,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000081": {
+   "key": "UserLevel000081",
+   "category": 0,
+   "level": 81,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000082": {
+   "key": "UserLevel000082",
+   "category": 0,
+   "level": 82,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000083": {
+   "key": "UserLevel000083",
+   "category": 0,
+   "level": 83,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000084": {
+   "key": "UserLevel000084",
+   "category": 0,
+   "level": 84,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000085": {
+   "key": "UserLevel000085",
+   "category": 0,
+   "level": 85,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000086": {
+   "key": "UserLevel000086",
+   "category": 0,
+   "level": 86,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000087": {
+   "key": "UserLevel000087",
+   "category": 0,
+   "level": 87,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000088": {
+   "key": "UserLevel000088",
+   "category": 0,
+   "level": 88,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000089": {
+   "key": "UserLevel000089",
+   "category": 0,
+   "level": 89,
+   "statKey": "UpgradeStat000000",
+   "needExp": 100000000
+  },
+  "UserLevel000090": {
+   "key": "UserLevel000090",
+   "category": 0,
+   "level": 90,
+   "statKey": "UpgradeStat000000",
+   "needExp": 150000000
+  },
+  "UserLevel000091": {
+   "key": "UserLevel000091",
+   "category": 0,
+   "level": 91,
+   "statKey": "UpgradeStat000000",
+   "needExp": 160000000
+  },
+  "UserLevel000092": {
+   "key": "UserLevel000092",
+   "category": 0,
+   "level": 92,
+   "statKey": "UpgradeStat000000",
+   "needExp": 170000000
+  },
+  "UserLevel000093": {
+   "key": "UserLevel000093",
+   "category": 0,
+   "level": 93,
+   "statKey": "UpgradeStat000000",
+   "needExp": 180000000
+  },
+  "UserLevel000094": {
+   "key": "UserLevel000094",
+   "category": 0,
+   "level": 94,
+   "statKey": "UpgradeStat000000",
+   "needExp": 190000000
+  },
+  "UserLevel010001": {
+   "key": "UserLevel010001",
+   "category": 1,
+   "level": 1,
+   "statKey": "UpgradeStat500012",
+   "needExp": 100
+  },
+  "UserLevel010002": {
+   "key": "UserLevel010002",
+   "category": 1,
+   "level": 2,
+   "statKey": "UpgradeStat500013",
+   "needExp": 500
+  },
+  "UserLevel010003": {
+   "key": "UserLevel010003",
+   "category": 1,
+   "level": 3,
+   "statKey": "UpgradeStat500012",
+   "needExp": 1300
+  },
+  "UserLevel010004": {
+   "key": "UserLevel010004",
+   "category": 1,
+   "level": 4,
+   "statKey": "UpgradeStat500013",
+   "needExp": 2500
+  },
+  "UserLevel010005": {
+   "key": "UserLevel010005",
+   "category": 1,
+   "level": 5,
+   "statKey": "UpgradeStat500012",
+   "needExp": 4100
+  },
+  "UserLevel010006": {
+   "key": "UserLevel010006",
+   "category": 1,
+   "level": 6,
+   "statKey": "UpgradeStat500013",
+   "needExp": 6100
+  },
+  "UserLevel010007": {
+   "key": "UserLevel010007",
+   "category": 1,
+   "level": 7,
+   "statKey": "UpgradeStat500012",
+   "needExp": 8500
+  },
+  "UserLevel010008": {
+   "key": "UserLevel010008",
+   "category": 1,
+   "level": 8,
+   "statKey": "UpgradeStat500013",
+   "needExp": 11300
+  },
+  "UserLevel010009": {
+   "key": "UserLevel010009",
+   "category": 1,
+   "level": 9,
+   "statKey": "UpgradeStat500016",
+   "needExp": 14500
+  },
+  "UserLevel010010": {
+   "key": "UserLevel010010",
+   "category": 1,
+   "level": 10,
+   "statKey": "UpgradeStat500013",
+   "needExp": 18100
+  },
+  "UserLevel010011": {
+   "key": "UserLevel010011",
+   "category": 1,
+   "level": 11,
+   "statKey": "UpgradeStat500012",
+   "needExp": 22100
+  },
+  "UserLevel010012": {
+   "key": "UserLevel010012",
+   "category": 1,
+   "level": 12,
+   "statKey": "UpgradeStat500013",
+   "needExp": 26500
+  },
+  "UserLevel010013": {
+   "key": "UserLevel010013",
+   "category": 1,
+   "level": 13,
+   "statKey": "UpgradeStat500012",
+   "needExp": 31300
+  },
+  "UserLevel010014": {
+   "key": "UserLevel010014",
+   "category": 1,
+   "level": 14,
+   "statKey": "UpgradeStat500013",
+   "needExp": 36500
+  },
+  "UserLevel010015": {
+   "key": "UserLevel010015",
+   "category": 1,
+   "level": 15,
+   "statKey": "UpgradeStat500012",
+   "needExp": 42100
+  },
+  "UserLevel010016": {
+   "key": "UserLevel010016",
+   "category": 1,
+   "level": 16,
+   "statKey": "UpgradeStat500013",
+   "needExp": 48100
+  },
+  "UserLevel010017": {
+   "key": "UserLevel010017",
+   "category": 1,
+   "level": 17,
+   "statKey": "UpgradeStat500012",
+   "needExp": 54500
+  },
+  "UserLevel010018": {
+   "key": "UserLevel010018",
+   "category": 1,
+   "level": 18,
+   "statKey": "UpgradeStat500013",
+   "needExp": 61300
+  },
+  "UserLevel010019": {
+   "key": "UserLevel010019",
+   "category": 1,
+   "level": 19,
+   "statKey": "UpgradeStat500012",
+   "needExp": 68500
+  },
+  "UserLevel010020": {
+   "key": "UserLevel010020",
+   "category": 1,
+   "level": 20,
+   "statKey": "UpgradeStat500013",
+   "needExp": 76100
+  },
+  "UserLevel010021": {
+   "key": "UserLevel010021",
+   "category": 1,
+   "level": 21,
+   "statKey": "UpgradeStat500012",
+   "needExp": 84100
+  },
+  "UserLevel010022": {
+   "key": "UserLevel010022",
+   "category": 1,
+   "level": 22,
+   "statKey": "UpgradeStat500013",
+   "needExp": 92500
+  },
+  "UserLevel010023": {
+   "key": "UserLevel010023",
+   "category": 1,
+   "level": 23,
+   "statKey": "UpgradeStat500012",
+   "needExp": 101300
+  },
+  "UserLevel010024": {
+   "key": "UserLevel010024",
+   "category": 1,
+   "level": 24,
+   "statKey": "UpgradeStat500013",
+   "needExp": 110500
+  },
+  "UserLevel010025": {
+   "key": "UserLevel010025",
+   "category": 1,
+   "level": 25,
+   "statKey": "UpgradeStat500012",
+   "needExp": 120100
+  },
+  "UserLevel010026": {
+   "key": "UserLevel010026",
+   "category": 1,
+   "level": 26,
+   "statKey": "UpgradeStat500013",
+   "needExp": 130100
+  },
+  "UserLevel010027": {
+   "key": "UserLevel010027",
+   "category": 1,
+   "level": 27,
+   "statKey": "UpgradeStat500012",
+   "needExp": 140500
+  },
+  "UserLevel010028": {
+   "key": "UserLevel010028",
+   "category": 1,
+   "level": 28,
+   "statKey": "UpgradeStat500013",
+   "needExp": 151300
+  },
+  "UserLevel010029": {
+   "key": "UserLevel010029",
+   "category": 1,
+   "level": 29,
+   "statKey": "UpgradeStat500012",
+   "needExp": 162500
+  },
+  "UserLevel010030": {
+   "key": "UserLevel010030",
+   "category": 1,
+   "level": 30,
+   "statKey": "UpgradeStat500013",
+   "needExp": 174100
+  },
+  "UserLevel010031": {
+   "key": "UserLevel010031",
+   "category": 1,
+   "level": 31,
+   "statKey": "UpgradeStat500012",
+   "needExp": 186100
+  },
+  "UserLevel010032": {
+   "key": "UserLevel010032",
+   "category": 1,
+   "level": 32,
+   "statKey": "UpgradeStat500013",
+   "needExp": 198500
+  },
+  "UserLevel010033": {
+   "key": "UserLevel010033",
+   "category": 1,
+   "level": 33,
+   "statKey": "UpgradeStat500012",
+   "needExp": 211300
+  },
+  "UserLevel010034": {
+   "key": "UserLevel010034",
+   "category": 1,
+   "level": 34,
+   "statKey": "UpgradeStat500013",
+   "needExp": 224500
+  },
+  "UserLevel010035": {
+   "key": "UserLevel010035",
+   "category": 1,
+   "level": 35,
+   "statKey": "UpgradeStat500012",
+   "needExp": 238100
+  },
+  "UserLevel010036": {
+   "key": "UserLevel010036",
+   "category": 1,
+   "level": 36,
+   "statKey": "UpgradeStat500013",
+   "needExp": 252100
+  },
+  "UserLevel010037": {
+   "key": "UserLevel010037",
+   "category": 1,
+   "level": 37,
+   "statKey": "UpgradeStat500012",
+   "needExp": 266500
+  },
+  "UserLevel010038": {
+   "key": "UserLevel010038",
+   "category": 1,
+   "level": 38,
+   "statKey": "UpgradeStat500013",
+   "needExp": 281300
+  },
+  "UserLevel010039": {
+   "key": "UserLevel010039",
+   "category": 1,
+   "level": 39,
+   "statKey": "UpgradeStat500012",
+   "needExp": 296500
+  },
+  "UserLevel010040": {
+   "key": "UserLevel010040",
+   "category": 1,
+   "level": 40,
+   "statKey": "UpgradeStat500013",
+   "needExp": 312100
+  },
+  "UserLevel010041": {
+   "key": "UserLevel010041",
+   "category": 1,
+   "level": 41,
+   "statKey": "UpgradeStat500012",
+   "needExp": 328100
+  },
+  "UserLevel010042": {
+   "key": "UserLevel010042",
+   "category": 1,
+   "level": 42,
+   "statKey": "UpgradeStat500013",
+   "needExp": 344500
+  },
+  "UserLevel010043": {
+   "key": "UserLevel010043",
+   "category": 1,
+   "level": 43,
+   "statKey": "UpgradeStat500012",
+   "needExp": 361300
+  },
+  "UserLevel010044": {
+   "key": "UserLevel010044",
+   "category": 1,
+   "level": 44,
+   "statKey": "UpgradeStat500013",
+   "needExp": 378500
+  },
+  "UserLevel010045": {
+   "key": "UserLevel010045",
+   "category": 1,
+   "level": 45,
+   "statKey": "UpgradeStat500012",
+   "needExp": 396100
+  },
+  "UserLevel010046": {
+   "key": "UserLevel010046",
+   "category": 1,
+   "level": 46,
+   "statKey": "UpgradeStat500013",
+   "needExp": 414100
+  },
+  "UserLevel010047": {
+   "key": "UserLevel010047",
+   "category": 1,
+   "level": 47,
+   "statKey": "UpgradeStat500012",
+   "needExp": 432500
+  },
+  "UserLevel010048": {
+   "key": "UserLevel010048",
+   "category": 1,
+   "level": 48,
+   "statKey": "UpgradeStat500013",
+   "needExp": 451300
+  },
+  "UserLevel010049": {
+   "key": "UserLevel010049",
+   "category": 1,
+   "level": 49,
+   "statKey": "UpgradeStat500012",
+   "needExp": 470500
+  },
+  "UserLevel010050": {
+   "key": "UserLevel010050",
+   "category": 1,
+   "level": 50,
+   "statKey": "UpgradeStat500013",
+   "needExp": 490100
+  },
+  "UserLevel010051": {
+   "key": "UserLevel010051",
+   "category": 1,
+   "level": 51,
+   "statKey": "UpgradeStat500012",
+   "needExp": 510100
+  },
+  "UserLevel010052": {
+   "key": "UserLevel010052",
+   "category": 1,
+   "level": 52,
+   "statKey": "UpgradeStat500013",
+   "needExp": 530500
+  },
+  "UserLevel010053": {
+   "key": "UserLevel010053",
+   "category": 1,
+   "level": 53,
+   "statKey": "UpgradeStat500012",
+   "needExp": 551300
+  },
+  "UserLevel010054": {
+   "key": "UserLevel010054",
+   "category": 1,
+   "level": 54,
+   "statKey": "UpgradeStat500013",
+   "needExp": 572500
+  },
+  "UserLevel010055": {
+   "key": "UserLevel010055",
+   "category": 1,
+   "level": 55,
+   "statKey": "UpgradeStat500012",
+   "needExp": 594100
+  },
+  "UserLevel010056": {
+   "key": "UserLevel010056",
+   "category": 1,
+   "level": 56,
+   "statKey": "UpgradeStat500013",
+   "needExp": 616100
+  },
+  "UserLevel010057": {
+   "key": "UserLevel010057",
+   "category": 1,
+   "level": 57,
+   "statKey": "UpgradeStat500012",
+   "needExp": 638500
+  },
+  "UserLevel010058": {
+   "key": "UserLevel010058",
+   "category": 1,
+   "level": 58,
+   "statKey": "UpgradeStat500013",
+   "needExp": 661300
+  },
+  "UserLevel010059": {
+   "key": "UserLevel010059",
+   "category": 1,
+   "level": 59,
+   "statKey": "UpgradeStat500012",
+   "needExp": 684500
+  },
+  "UserLevel010060": {
+   "key": "UserLevel010060",
+   "category": 1,
+   "level": 60,
+   "statKey": "UpgradeStat500013",
+   "needExp": 708100
+  },
+  "UserLevel010061": {
+   "key": "UserLevel010061",
+   "category": 1,
+   "level": 61,
+   "statKey": "UpgradeStat500012",
+   "needExp": 732100
+  },
+  "UserLevel010062": {
+   "key": "UserLevel010062",
+   "category": 1,
+   "level": 62,
+   "statKey": "UpgradeStat500013",
+   "needExp": 756500
+  },
+  "UserLevel010063": {
+   "key": "UserLevel010063",
+   "category": 1,
+   "level": 63,
+   "statKey": "UpgradeStat500012",
+   "needExp": 781300
+  },
+  "UserLevel010064": {
+   "key": "UserLevel010064",
+   "category": 1,
+   "level": 64,
+   "statKey": "UpgradeStat500013",
+   "needExp": 806500
+  },
+  "UserLevel010065": {
+   "key": "UserLevel010065",
+   "category": 1,
+   "level": 65,
+   "statKey": "UpgradeStat500012",
+   "needExp": 832100
+  },
+  "UserLevel010066": {
+   "key": "UserLevel010066",
+   "category": 1,
+   "level": 66,
+   "statKey": "UpgradeStat500013",
+   "needExp": 858100
+  },
+  "UserLevel010067": {
+   "key": "UserLevel010067",
+   "category": 1,
+   "level": 67,
+   "statKey": "UpgradeStat500012",
+   "needExp": 884500
+  },
+  "UserLevel010068": {
+   "key": "UserLevel010068",
+   "category": 1,
+   "level": 68,
+   "statKey": "UpgradeStat500013",
+   "needExp": 911300
+  },
+  "UserLevel010069": {
+   "key": "UserLevel010069",
+   "category": 1,
+   "level": 69,
+   "statKey": "UpgradeStat500012",
+   "needExp": 938500
+  },
+  "UserLevel020001": {
+   "key": "UserLevel020001",
+   "category": 2,
+   "level": 1,
+   "statKey": "UpgradeStat500016",
+   "needExp": 20
+  },
+  "UserLevel020002": {
+   "key": "UserLevel020002",
+   "category": 2,
+   "level": 2,
+   "statKey": "UpgradeStat500017",
+   "needExp": 40
+  },
+  "UserLevel020003": {
+   "key": "UserLevel020003",
+   "category": 2,
+   "level": 3,
+   "statKey": "UpgradeStat500016",
+   "needExp": 60
+  },
+  "UserLevel020004": {
+   "key": "UserLevel020004",
+   "category": 2,
+   "level": 4,
+   "statKey": "UpgradeStat500017",
+   "needExp": 80
+  },
+  "UserLevel020005": {
+   "key": "UserLevel020005",
+   "category": 2,
+   "level": 5,
+   "statKey": "UpgradeStat500016",
+   "needExp": 100
+  },
+  "UserLevel020006": {
+   "key": "UserLevel020006",
+   "category": 2,
+   "level": 6,
+   "statKey": "UpgradeStat500017",
+   "needExp": 140
+  },
+  "UserLevel020007": {
+   "key": "UserLevel020007",
+   "category": 2,
+   "level": 7,
+   "statKey": "UpgradeStat500016",
+   "needExp": 180
+  },
+  "UserLevel020008": {
+   "key": "UserLevel020008",
+   "category": 2,
+   "level": 8,
+   "statKey": "UpgradeStat500017",
+   "needExp": 220
+  },
+  "UserLevel020009": {
+   "key": "UserLevel020009",
+   "category": 2,
+   "level": 9,
+   "statKey": "UpgradeStat500016",
+   "needExp": 260
+  },
+  "UserLevel020010": {
+   "key": "UserLevel020010",
+   "category": 2,
+   "level": 10,
+   "statKey": "UpgradeStat500017",
+   "needExp": 300
+  },
+  "UserLevel020011": {
+   "key": "UserLevel020011",
+   "category": 2,
+   "level": 11,
+   "statKey": "UpgradeStat500016",
+   "needExp": 340
+  },
+  "UserLevel020012": {
+   "key": "UserLevel020012",
+   "category": 2,
+   "level": 12,
+   "statKey": "UpgradeStat500017",
+   "needExp": 380
+  },
+  "UserLevel020013": {
+   "key": "UserLevel020013",
+   "category": 2,
+   "level": 13,
+   "statKey": "UpgradeStat500016",
+   "needExp": 420
+  },
+  "UserLevel020014": {
+   "key": "UserLevel020014",
+   "category": 2,
+   "level": 14,
+   "statKey": "UpgradeStat500017",
+   "needExp": 460
+  },
+  "UserLevel020015": {
+   "key": "UserLevel020015",
+   "category": 2,
+   "level": 15,
+   "statKey": "UpgradeStat500016",
+   "needExp": 500
+  },
+  "UserLevel020016": {
+   "key": "UserLevel020016",
+   "category": 2,
+   "level": 16,
+   "statKey": "UpgradeStat500017",
+   "needExp": 540
+  },
+  "UserLevel020017": {
+   "key": "UserLevel020017",
+   "category": 2,
+   "level": 17,
+   "statKey": "UpgradeStat500016",
+   "needExp": 580
+  },
+  "UserLevel020018": {
+   "key": "UserLevel020018",
+   "category": 2,
+   "level": 18,
+   "statKey": "UpgradeStat500017",
+   "needExp": 680
+  },
+  "UserLevel020019": {
+   "key": "UserLevel020019",
+   "category": 2,
+   "level": 19,
+   "statKey": "UpgradeStat500016",
+   "needExp": 780
+  },
+  "UserLevel020020": {
+   "key": "UserLevel020020",
+   "category": 2,
+   "level": 20,
+   "statKey": "UpgradeStat500017",
+   "needExp": 880
+  },
+  "UserLevel020021": {
+   "key": "UserLevel020021",
+   "category": 2,
+   "level": 21,
+   "statKey": "UpgradeStat500016",
+   "needExp": 980
+  },
+  "UserLevel020022": {
+   "key": "UserLevel020022",
+   "category": 2,
+   "level": 22,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1080
+  },
+  "UserLevel020023": {
+   "key": "UserLevel020023",
+   "category": 2,
+   "level": 23,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1180
+  },
+  "UserLevel020024": {
+   "key": "UserLevel020024",
+   "category": 2,
+   "level": 24,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1280
+  },
+  "UserLevel020025": {
+   "key": "UserLevel020025",
+   "category": 2,
+   "level": 25,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1380
+  },
+  "UserLevel020026": {
+   "key": "UserLevel020026",
+   "category": 2,
+   "level": 26,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1480
+  },
+  "UserLevel020027": {
+   "key": "UserLevel020027",
+   "category": 2,
+   "level": 27,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1580
+  },
+  "UserLevel020028": {
+   "key": "UserLevel020028",
+   "category": 2,
+   "level": 28,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1680
+  },
+  "UserLevel020029": {
+   "key": "UserLevel020029",
+   "category": 2,
+   "level": 29,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1830
+  },
+  "UserLevel020030": {
+   "key": "UserLevel020030",
+   "category": 2,
+   "level": 30,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1980
+  },
+  "UserLevel020031": {
+   "key": "UserLevel020031",
+   "category": 2,
+   "level": 31,
+   "statKey": "UpgradeStat500016",
+   "needExp": 2130
+  },
+  "UserLevel020032": {
+   "key": "UserLevel020032",
+   "category": 2,
+   "level": 32,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2280
+  },
+  "UserLevel020033": {
+   "key": "UserLevel020033",
+   "category": 2,
+   "level": 33,
+   "statKey": "UpgradeStat500016",
+   "needExp": 2430
+  },
+  "UserLevel020034": {
+   "key": "UserLevel020034",
+   "category": 2,
+   "level": 34,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2580
+  },
+  "UserLevel020035": {
+   "key": "UserLevel020035",
+   "category": 2,
+   "level": 35,
+   "statKey": "UpgradeStat500016",
+   "needExp": 2760
+  },
+  "UserLevel020036": {
+   "key": "UserLevel020036",
+   "category": 2,
+   "level": 36,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2940
+  },
+  "UserLevel020037": {
+   "key": "UserLevel020037",
+   "category": 2,
+   "level": 37,
+   "statKey": "UpgradeStat500016",
+   "needExp": 3120
+  },
+  "UserLevel020038": {
+   "key": "UserLevel020038",
+   "category": 2,
+   "level": 38,
+   "statKey": "UpgradeStat500017",
+   "needExp": 3300
+  },
+  "UserLevel020039": {
+   "key": "UserLevel020039",
+   "category": 2,
+   "level": 39,
+   "statKey": "UpgradeStat500016",
+   "needExp": 3480
+  },
+  "UserLevel020040": {
+   "key": "UserLevel020040",
+   "category": 2,
+   "level": 40,
+   "statKey": "UpgradeStat500017",
+   "needExp": 3660
+  },
+  "UserLevel020041": {
+   "key": "UserLevel020041",
+   "category": 2,
+   "level": 41,
+   "statKey": "UpgradeStat500016",
+   "needExp": 3840
+  },
+  "UserLevel020042": {
+   "key": "UserLevel020042",
+   "category": 2,
+   "level": 42,
+   "statKey": "UpgradeStat500017",
+   "needExp": 4020
+  },
+  "UserLevel020043": {
+   "key": "UserLevel020043",
+   "category": 2,
+   "level": 43,
+   "statKey": "UpgradeStat500016",
+   "needExp": 4200
+  },
+  "UserLevel020044": {
+   "key": "UserLevel020044",
+   "category": 2,
+   "level": 44,
+   "statKey": "UpgradeStat500017",
+   "needExp": 4380
+  },
+  "UserLevel020045": {
+   "key": "UserLevel020045",
+   "category": 2,
+   "level": 45,
+   "statKey": "UpgradeStat500016",
+   "needExp": 4560
+  },
+  "UserLevel020046": {
+   "key": "UserLevel020046",
+   "category": 2,
+   "level": 46,
+   "statKey": "UpgradeStat500017",
+   "needExp": 4740
+  },
+  "UserLevel020047": {
+   "key": "UserLevel020047",
+   "category": 2,
+   "level": 47,
+   "statKey": "UpgradeStat500016",
+   "needExp": 4920
+  },
+  "UserLevel020048": {
+   "key": "UserLevel020048",
+   "category": 2,
+   "level": 48,
+   "statKey": "UpgradeStat500017",
+   "needExp": 5100
+  },
+  "UserLevel020049": {
+   "key": "UserLevel020049",
+   "category": 2,
+   "level": 49,
+   "statKey": "UpgradeStat500016",
+   "needExp": 5280
+  },
+  "UserLevel020050": {
+   "key": "UserLevel020050",
+   "category": 2,
+   "level": 50,
+   "statKey": "UpgradeStat500017",
+   "needExp": 5460
+  },
+  "UserLevel020051": {
+   "key": "UserLevel020051",
+   "category": 2,
+   "level": 51,
+   "statKey": "UpgradeStat500016",
+   "needExp": 5640
+  },
+  "UserLevel020052": {
+   "key": "UserLevel020052",
+   "category": 2,
+   "level": 52,
+   "statKey": "UpgradeStat500017",
+   "needExp": 5820
+  },
+  "UserLevel020053": {
+   "key": "UserLevel020053",
+   "category": 2,
+   "level": 53,
+   "statKey": "UpgradeStat500016",
+   "needExp": 6000
+  },
+  "UserLevel020054": {
+   "key": "UserLevel020054",
+   "category": 2,
+   "level": 54,
+   "statKey": "UpgradeStat500017",
+   "needExp": 6180
+  },
+  "UserLevel020055": {
+   "key": "UserLevel020055",
+   "category": 2,
+   "level": 55,
+   "statKey": "UpgradeStat500016",
+   "needExp": 6360
+  },
+  "UserLevel020056": {
+   "key": "UserLevel020056",
+   "category": 2,
+   "level": 56,
+   "statKey": "UpgradeStat500017",
+   "needExp": 6540
+  },
+  "UserLevel020057": {
+   "key": "UserLevel020057",
+   "category": 2,
+   "level": 57,
+   "statKey": "UpgradeStat500016",
+   "needExp": 6720
+  },
+  "UserLevel020058": {
+   "key": "UserLevel020058",
+   "category": 2,
+   "level": 58,
+   "statKey": "UpgradeStat500017",
+   "needExp": 6900
+  },
+  "UserLevel020059": {
+   "key": "UserLevel020059",
+   "category": 2,
+   "level": 59,
+   "statKey": "UpgradeStat500016",
+   "needExp": 7080
+  },
+  "UserLevel020060": {
+   "key": "UserLevel020060",
+   "category": 2,
+   "level": 60,
+   "statKey": "UpgradeStat500017",
+   "needExp": 7260
+  },
+  "UserLevel020061": {
+   "key": "UserLevel020061",
+   "category": 2,
+   "level": 61,
+   "statKey": "UpgradeStat500016",
+   "needExp": 7440
+  },
+  "UserLevel020062": {
+   "key": "UserLevel020062",
+   "category": 2,
+   "level": 62,
+   "statKey": "UpgradeStat500017",
+   "needExp": 7680
+  },
+  "UserLevel020063": {
+   "key": "UserLevel020063",
+   "category": 2,
+   "level": 63,
+   "statKey": "UpgradeStat500016",
+   "needExp": 7920
+  },
+  "UserLevel020064": {
+   "key": "UserLevel020064",
+   "category": 2,
+   "level": 64,
+   "statKey": "UpgradeStat500017",
+   "needExp": 8160
+  },
+  "UserLevel020065": {
+   "key": "UserLevel020065",
+   "category": 2,
+   "level": 65,
+   "statKey": "UpgradeStat500016",
+   "needExp": 8400
+  },
+  "UserLevel020066": {
+   "key": "UserLevel020066",
+   "category": 2,
+   "level": 66,
+   "statKey": "UpgradeStat500017",
+   "needExp": 8640
+  },
+  "UserLevel020067": {
+   "key": "UserLevel020067",
+   "category": 2,
+   "level": 67,
+   "statKey": "UpgradeStat500016",
+   "needExp": 8880
+  },
+  "UserLevel020068": {
+   "key": "UserLevel020068",
+   "category": 2,
+   "level": 68,
+   "statKey": "UpgradeStat500017",
+   "needExp": 9120
+  },
+  "UserLevel020069": {
+   "key": "UserLevel020069",
+   "category": 2,
+   "level": 69,
+   "statKey": "UpgradeStat500016",
+   "needExp": 9360
+  },
+  "UserLevel020070": {
+   "key": "UserLevel020070",
+   "category": 2,
+   "level": 70,
+   "statKey": "UpgradeStat500017",
+   "needExp": 9600
+  },
+  "UserLevel020071": {
+   "key": "UserLevel020071",
+   "category": 2,
+   "level": 71,
+   "statKey": "UpgradeStat500017",
+   "needExp": 9840
+  },
+  "UserLevel020072": {
+   "key": "UserLevel020072",
+   "category": 2,
+   "level": 72,
+   "statKey": "UpgradeStat500016",
+   "needExp": 10080
+  },
+  "UserLevel020073": {
+   "key": "UserLevel020073",
+   "category": 2,
+   "level": 73,
+   "statKey": "UpgradeStat500017",
+   "needExp": 10320
+  },
+  "UserLevel020074": {
+   "key": "UserLevel020074",
+   "category": 2,
+   "level": 74,
+   "statKey": "UpgradeStat500016",
+   "needExp": 10560
+  },
+  "UserLevel030001": {
+   "key": "UserLevel030001",
+   "category": 3,
+   "level": 1,
+   "statKey": "UpgradeStat500016",
+   "needExp": 30
+  },
+  "UserLevel030002": {
+   "key": "UserLevel030002",
+   "category": 3,
+   "level": 2,
+   "statKey": "UpgradeStat500017",
+   "needExp": 50
+  },
+  "UserLevel030003": {
+   "key": "UserLevel030003",
+   "category": 3,
+   "level": 3,
+   "statKey": "UpgradeStat500016",
+   "needExp": 70
+  },
+  "UserLevel030004": {
+   "key": "UserLevel030004",
+   "category": 3,
+   "level": 4,
+   "statKey": "UpgradeStat500017",
+   "needExp": 90
+  },
+  "UserLevel030005": {
+   "key": "UserLevel030005",
+   "category": 3,
+   "level": 5,
+   "statKey": "UpgradeStat500016",
+   "needExp": 110
+  },
+  "UserLevel030006": {
+   "key": "UserLevel030006",
+   "category": 3,
+   "level": 6,
+   "statKey": "UpgradeStat500017",
+   "needExp": 130
+  },
+  "UserLevel030007": {
+   "key": "UserLevel030007",
+   "category": 3,
+   "level": 7,
+   "statKey": "UpgradeStat500016",
+   "needExp": 150
+  },
+  "UserLevel030008": {
+   "key": "UserLevel030008",
+   "category": 3,
+   "level": 8,
+   "statKey": "UpgradeStat500017",
+   "needExp": 170
+  },
+  "UserLevel030009": {
+   "key": "UserLevel030009",
+   "category": 3,
+   "level": 9,
+   "statKey": "UpgradeStat500016",
+   "needExp": 190
+  },
+  "UserLevel030010": {
+   "key": "UserLevel030010",
+   "category": 3,
+   "level": 10,
+   "statKey": "UpgradeStat500017",
+   "needExp": 210
+  },
+  "UserLevel030011": {
+   "key": "UserLevel030011",
+   "category": 3,
+   "level": 11,
+   "statKey": "UpgradeStat500016",
+   "needExp": 250
+  },
+  "UserLevel030012": {
+   "key": "UserLevel030012",
+   "category": 3,
+   "level": 12,
+   "statKey": "UpgradeStat500017",
+   "needExp": 290
+  },
+  "UserLevel030013": {
+   "key": "UserLevel030013",
+   "category": 3,
+   "level": 13,
+   "statKey": "UpgradeStat500016",
+   "needExp": 330
+  },
+  "UserLevel030014": {
+   "key": "UserLevel030014",
+   "category": 3,
+   "level": 14,
+   "statKey": "UpgradeStat500017",
+   "needExp": 400
+  },
+  "UserLevel030015": {
+   "key": "UserLevel030015",
+   "category": 3,
+   "level": 15,
+   "statKey": "UpgradeStat500016",
+   "needExp": 470
+  },
+  "UserLevel030016": {
+   "key": "UserLevel030016",
+   "category": 3,
+   "level": 16,
+   "statKey": "UpgradeStat500017",
+   "needExp": 540
+  },
+  "UserLevel030017": {
+   "key": "UserLevel030017",
+   "category": 3,
+   "level": 17,
+   "statKey": "UpgradeStat500016",
+   "needExp": 790
+  },
+  "UserLevel030018": {
+   "key": "UserLevel030018",
+   "category": 3,
+   "level": 18,
+   "statKey": "UpgradeStat500017",
+   "needExp": 890
+  },
+  "UserLevel030019": {
+   "key": "UserLevel030019",
+   "category": 3,
+   "level": 19,
+   "statKey": "UpgradeStat500016",
+   "needExp": 990
+  },
+  "UserLevel030020": {
+   "key": "UserLevel030020",
+   "category": 3,
+   "level": 20,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1090
+  },
+  "UserLevel030021": {
+   "key": "UserLevel030021",
+   "category": 3,
+   "level": 21,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1190
+  },
+  "UserLevel030022": {
+   "key": "UserLevel030022",
+   "category": 3,
+   "level": 22,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1290
+  },
+  "UserLevel030023": {
+   "key": "UserLevel030023",
+   "category": 3,
+   "level": 23,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1390
+  },
+  "UserLevel030024": {
+   "key": "UserLevel030024",
+   "category": 3,
+   "level": 24,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1490
+  },
+  "UserLevel030025": {
+   "key": "UserLevel030025",
+   "category": 3,
+   "level": 25,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1640
+  },
+  "UserLevel030026": {
+   "key": "UserLevel030026",
+   "category": 3,
+   "level": 26,
+   "statKey": "UpgradeStat500017",
+   "needExp": 1790
+  },
+  "UserLevel030027": {
+   "key": "UserLevel030027",
+   "category": 3,
+   "level": 27,
+   "statKey": "UpgradeStat500016",
+   "needExp": 1940
+  },
+  "UserLevel030028": {
+   "key": "UserLevel030028",
+   "category": 3,
+   "level": 28,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2090
+  },
+  "UserLevel030029": {
+   "key": "UserLevel030029",
+   "category": 3,
+   "level": 29,
+   "statKey": "UpgradeStat500016",
+   "needExp": 2240
+  },
+  "UserLevel030030": {
+   "key": "UserLevel030030",
+   "category": 3,
+   "level": 30,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2390
+  },
+  "UserLevel030031": {
+   "key": "UserLevel030031",
+   "category": 3,
+   "level": 31,
+   "statKey": "UpgradeStat500016",
+   "needExp": 2640
+  },
+  "UserLevel030032": {
+   "key": "UserLevel030032",
+   "category": 3,
+   "level": 32,
+   "statKey": "UpgradeStat500017",
+   "needExp": 2890
+  },
+  "UserLevel030033": {
+   "key": "UserLevel030033",
+   "category": 3,
+   "level": 33,
+   "statKey": "UpgradeStat500016",
+   "needExp": 3140
+  },
+  "UserLevel030034": {
+   "key": "UserLevel030034",
+   "category": 3,
+   "level": 34,
+   "statKey": "UpgradeStat500017",
+   "needExp": 3390
+  },
+  "UserLevel030035": {
+   "key": "UserLevel030035",
+   "category": 3,
+   "level": 35,
+   "statKey": "UpgradeStat500016",
+   "needExp": 3640
+  },
+  "UserLevel030036": {
+   "key": "UserLevel030036",
+   "category": 3,
+   "level": 36,
+   "statKey": "UpgradeStat500017",
+   "needExp": 3890
+  },
+  "UserLevel030037": {
+   "key": "UserLevel030037",
+   "category": 3,
+   "level": 37,
+   "statKey": "UpgradeStat500016",
+   "needExp": 4140
+  },
+  "UserLevel030038": {
+   "key": "UserLevel030038",
+   "category": 3,
+   "level": 38,
+   "statKey": "UpgradeStat500017",
+   "needExp": 4390
+  },
+  "UserLevel030039": {
+   "key": "UserLevel030039",
+   "category": 3,
+   "level": 39,
+   "statKey": "UpgradeStat500016",
+   "needExp": 4640
+  },
+  "UserLevel030040": {
+   "key": "UserLevel030040",
+   "category": 3,
+   "level": 40,
+   "statKey": "UpgradeStat500017",
+   "needExp": 4890
+  },
+  "UserLevel030041": {
+   "key": "UserLevel030041",
+   "category": 3,
+   "level": 41,
+   "statKey": "UpgradeStat500016",
+   "needExp": 5240
+  },
+  "UserLevel030042": {
+   "key": "UserLevel030042",
+   "category": 3,
+   "level": 42,
+   "statKey": "UpgradeStat500017",
+   "needExp": 5590
+  },
+  "UserLevel030043": {
+   "key": "UserLevel030043",
+   "category": 3,
+   "level": 43,
+   "statKey": "UpgradeStat500016",
+   "needExp": 5940
+  },
+  "UserLevel030044": {
+   "key": "UserLevel030044",
+   "category": 3,
+   "level": 44,
+   "statKey": "UpgradeStat500017",
+   "needExp": 6290
+  },
+  "UserLevel030045": {
+   "key": "UserLevel030045",
+   "category": 3,
+   "level": 45,
+   "statKey": "UpgradeStat500016",
+   "needExp": 6640
+  },
+  "UserLevel030046": {
+   "key": "UserLevel030046",
+   "category": 3,
+   "level": 46,
+   "statKey": "UpgradeStat500017",
+   "needExp": 6990
+  },
+  "UserLevel030047": {
+   "key": "UserLevel030047",
+   "category": 3,
+   "level": 47,
+   "statKey": "UpgradeStat500016",
+   "needExp": 7340
+  },
+  "UserLevel030048": {
+   "key": "UserLevel030048",
+   "category": 3,
+   "level": 48,
+   "statKey": "UpgradeStat500017",
+   "needExp": 7690
+  },
+  "UserLevel030049": {
+   "key": "UserLevel030049",
+   "category": 3,
+   "level": 49,
+   "statKey": "UpgradeStat500016",
+   "needExp": 8040
+  },
+  "UserLevel030050": {
+   "key": "UserLevel030050",
+   "category": 3,
+   "level": 50,
+   "statKey": "UpgradeStat500017",
+   "needExp": 8390
+  },
+  "UserLevel030051": {
+   "key": "UserLevel030051",
+   "category": 3,
+   "level": 51,
+   "statKey": "UpgradeStat500016",
+   "needExp": 8840
+  },
+  "UserLevel030052": {
+   "key": "UserLevel030052",
+   "category": 3,
+   "level": 52,
+   "statKey": "UpgradeStat500017",
+   "needExp": 9290
+  },
+  "UserLevel030053": {
+   "key": "UserLevel030053",
+   "category": 3,
+   "level": 53,
+   "statKey": "UpgradeStat500016",
+   "needExp": 9740
+  },
+  "UserLevel030054": {
+   "key": "UserLevel030054",
+   "category": 3,
+   "level": 54,
+   "statKey": "UpgradeStat500017",
+   "needExp": 10190
+  },
+  "UserLevel030055": {
+   "key": "UserLevel030055",
+   "category": 3,
+   "level": 55,
+   "statKey": "UpgradeStat500016",
+   "needExp": 10640
+  },
+  "UserLevel030056": {
+   "key": "UserLevel030056",
+   "category": 3,
+   "level": 56,
+   "statKey": "UpgradeStat500017",
+   "needExp": 11090
+  },
+  "UserLevel030057": {
+   "key": "UserLevel030057",
+   "category": 3,
+   "level": 57,
+   "statKey": "UpgradeStat500016",
+   "needExp": 11540
+  },
+  "UserLevel030058": {
+   "key": "UserLevel030058",
+   "category": 3,
+   "level": 58,
+   "statKey": "UpgradeStat500017",
+   "needExp": 11990
+  },
+  "UserLevel030059": {
+   "key": "UserLevel030059",
+   "category": 3,
+   "level": 59,
+   "statKey": "UpgradeStat500016",
+   "needExp": 12440
+  },
+  "UserLevel030060": {
+   "key": "UserLevel030060",
+   "category": 3,
+   "level": 60,
+   "statKey": "UpgradeStat500017",
+   "needExp": 12890
+  },
+  "UserLevel030061": {
+   "key": "UserLevel030061",
+   "category": 3,
+   "level": 61,
+   "statKey": "UpgradeStat500016",
+   "needExp": 13340
+  },
+  "UserLevel030062": {
+   "key": "UserLevel030062",
+   "category": 3,
+   "level": 62,
+   "statKey": "UpgradeStat500017",
+   "needExp": 13790
+  },
+  "UserLevel030063": {
+   "key": "UserLevel030063",
+   "category": 3,
+   "level": 63,
+   "statKey": "UpgradeStat500016",
+   "needExp": 14240
+  },
+  "UserLevel030064": {
+   "key": "UserLevel030064",
+   "category": 3,
+   "level": 64,
+   "statKey": "UpgradeStat500017",
+   "needExp": 14690
+  },
+  "UserLevel030065": {
+   "key": "UserLevel030065",
+   "category": 3,
+   "level": 65,
+   "statKey": "UpgradeStat500016",
+   "needExp": 15140
+  },
+  "UserLevel030066": {
+   "key": "UserLevel030066",
+   "category": 3,
+   "level": 66,
+   "statKey": "UpgradeStat500017",
+   "needExp": 15590
+  },
+  "UserLevel030067": {
+   "key": "UserLevel030067",
+   "category": 3,
+   "level": 67,
+   "statKey": "UpgradeStat500016",
+   "needExp": 16040
+  },
+  "UserLevel030068": {
+   "key": "UserLevel030068",
+   "category": 3,
+   "level": 68,
+   "statKey": "UpgradeStat500017",
+   "needExp": 16490
+  },
+  "UserLevel030069": {
+   "key": "UserLevel030069",
+   "category": 3,
+   "level": 69,
+   "statKey": "UpgradeStat500016",
+   "needExp": 16940
+  },
+  "UserLevel030070": {
+   "key": "UserLevel030070",
+   "category": 3,
+   "level": 70,
+   "statKey": "UpgradeStat500017",
+   "needExp": 17390
+  },
+  "UserLevel030071": {
+   "key": "UserLevel030071",
+   "category": 3,
+   "level": 71,
+   "statKey": "UpgradeStat500017",
+   "needExp": 17840
+  },
+  "UserLevel030072": {
+   "key": "UserLevel030072",
+   "category": 3,
+   "level": 72,
+   "statKey": "UpgradeStat500016",
+   "needExp": 18290
+  },
+  "UserLevel030073": {
+   "key": "UserLevel030073",
+   "category": 3,
+   "level": 73,
+   "statKey": "UpgradeStat500017",
+   "needExp": 18740
+  },
+  "UserLevel030074": {
+   "key": "UserLevel030074",
+   "category": 3,
+   "level": 74,
+   "statKey": "UpgradeStat500016",
+   "needExp": 19190
+  }
+ }
+}

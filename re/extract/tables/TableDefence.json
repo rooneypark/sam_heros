@@ -1,0 +1,4626 @@
+{
+ "sheetName": "TableDefenceData",
+ "tableIndex": 0,
+ "rows": {
+  "Defence000000": {
+   "key": "Defence000000",
+   "category": 0,
+   "wave": 0,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 9,
+   "monsterExp": 1,
+   "appearTime": 0.0,
+   "elite": "NORMAL"
+  },
+  "Defence000001": {
+   "key": "Defence000001",
+   "category": 0,
+   "wave": 1,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 9,
+   "monsterExp": 1,
+   "appearTime": 4.0,
+   "elite": "NORMAL"
+  },
+  "Defence000002": {
+   "key": "Defence000002",
+   "category": 0,
+   "wave": 2,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 10,
+   "monsterExp": 1,
+   "appearTime": 8.0,
+   "elite": "NORMAL"
+  },
+  "Defence000003": {
+   "key": "Defence000003",
+   "category": 0,
+   "wave": 3,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 10,
+   "monsterExp": 1,
+   "appearTime": 12.0,
+   "elite": "NORMAL"
+  },
+  "Defence000004": {
+   "key": "Defence000004",
+   "category": 0,
+   "wave": 4,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 11,
+   "monsterExp": 1,
+   "appearTime": 16.0,
+   "elite": "BOSS"
+  },
+  "Defence000005": {
+   "key": "Defence000005",
+   "category": 0,
+   "wave": 5,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 12,
+   "monsterExp": 2,
+   "appearTime": 20.0,
+   "elite": "NORMAL"
+  },
+  "Defence000006": {
+   "key": "Defence000006",
+   "category": 0,
+   "wave": 6,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 12,
+   "monsterExp": 2,
+   "appearTime": 24.0,
+   "elite": "NORMAL"
+  },
+  "Defence000007": {
+   "key": "Defence000007",
+   "category": 0,
+   "wave": 7,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 13,
+   "monsterExp": 2,
+   "appearTime": 28.0,
+   "elite": "NORMAL"
+  },
+  "Defence000008": {
+   "key": "Defence000008",
+   "category": 0,
+   "wave": 8,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 13,
+   "monsterExp": 2,
+   "appearTime": 32.0,
+   "elite": "NORMAL"
+  },
+  "Defence000009": {
+   "key": "Defence000009",
+   "category": 0,
+   "wave": 9,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 14,
+   "monsterExp": 2,
+   "appearTime": 36.0,
+   "elite": "BOSS"
+  },
+  "Defence000010": {
+   "key": "Defence000010",
+   "category": 0,
+   "wave": 10,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 15,
+   "monsterExp": 3,
+   "appearTime": 40.0,
+   "elite": "NORMAL"
+  },
+  "Defence000011": {
+   "key": "Defence000011",
+   "category": 0,
+   "wave": 11,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 15,
+   "monsterExp": 3,
+   "appearTime": 44.0,
+   "elite": "NORMAL"
+  },
+  "Defence000012": {
+   "key": "Defence000012",
+   "category": 0,
+   "wave": 12,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 16,
+   "monsterExp": 3,
+   "appearTime": 48.0,
+   "elite": "NORMAL"
+  },
+  "Defence000013": {
+   "key": "Defence000013",
+   "category": 0,
+   "wave": 13,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 16,
+   "monsterExp": 3,
+   "appearTime": 52.0,
+   "elite": "NORMAL"
+  },
+  "Defence000014": {
+   "key": "Defence000014",
+   "category": 0,
+   "wave": 14,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 17,
+   "monsterExp": 3,
+   "appearTime": 56.0,
+   "elite": "BOSS"
+  },
+  "Defence000015": {
+   "key": "Defence000015",
+   "category": 0,
+   "wave": 15,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 18,
+   "monsterExp": 4,
+   "appearTime": 60.0,
+   "elite": "NORMAL"
+  },
+  "Defence000016": {
+   "key": "Defence000016",
+   "category": 0,
+   "wave": 16,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 18,
+   "monsterExp": 4,
+   "appearTime": 64.0,
+   "elite": "NORMAL"
+  },
+  "Defence000017": {
+   "key": "Defence000017",
+   "category": 0,
+   "wave": 17,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 19,
+   "monsterExp": 4,
+   "appearTime": 68.0,
+   "elite": "NORMAL"
+  },
+  "Defence000018": {
+   "key": "Defence000018",
+   "category": 0,
+   "wave": 18,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 19,
+   "monsterExp": 4,
+   "appearTime": 72.0,
+   "elite": "NORMAL"
+  },
+  "Defence000019": {
+   "key": "Defence000019",
+   "category": 0,
+   "wave": 19,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 20,
+   "monsterExp": 4,
+   "appearTime": 76.0,
+   "elite": "BOSS"
+  },
+  "Defence000020": {
+   "key": "Defence000020",
+   "category": 0,
+   "wave": 20,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 21,
+   "monsterExp": 5,
+   "appearTime": 80.0,
+   "elite": "NORMAL"
+  },
+  "Defence000021": {
+   "key": "Defence000021",
+   "category": 0,
+   "wave": 21,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 21,
+   "monsterExp": 5,
+   "appearTime": 84.0,
+   "elite": "NORMAL"
+  },
+  "Defence000022": {
+   "key": "Defence000022",
+   "category": 0,
+   "wave": 22,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 22,
+   "monsterExp": 5,
+   "appearTime": 88.0,
+   "elite": "NORMAL"
+  },
+  "Defence000023": {
+   "key": "Defence000023",
+   "category": 0,
+   "wave": 23,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 22,
+   "monsterExp": 5,
+   "appearTime": 92.0,
+   "elite": "NORMAL"
+  },
+  "Defence000024": {
+   "key": "Defence000024",
+   "category": 0,
+   "wave": 24,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 23,
+   "monsterExp": 5,
+   "appearTime": 96.0,
+   "elite": "BOSS"
+  },
+  "Defence000025": {
+   "key": "Defence000025",
+   "category": 0,
+   "wave": 25,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 24,
+   "monsterExp": 6,
+   "appearTime": 100.0,
+   "elite": "NORMAL"
+  },
+  "Defence000026": {
+   "key": "Defence000026",
+   "category": 0,
+   "wave": 26,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 24,
+   "monsterExp": 6,
+   "appearTime": 104.0,
+   "elite": "NORMAL"
+  },
+  "Defence000027": {
+   "key": "Defence000027",
+   "category": 0,
+   "wave": 27,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 25,
+   "monsterExp": 6,
+   "appearTime": 108.0,
+   "elite": "NORMAL"
+  },
+  "Defence000028": {
+   "key": "Defence000028",
+   "category": 0,
+   "wave": 28,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 25,
+   "monsterExp": 6,
+   "appearTime": 112.0,
+   "elite": "NORMAL"
+  },
+  "Defence000029": {
+   "key": "Defence000029",
+   "category": 0,
+   "wave": 29,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 26,
+   "monsterExp": 6,
+   "appearTime": 116.0,
+   "elite": "BOSS"
+  },
+  "Defence990000": {
+   "key": "Defence990000",
+   "category": 99,
+   "wave": 0,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 9,
+   "monsterExp": 1,
+   "appearTime": 0.0,
+   "elite": "NORMAL"
+  },
+  "Defence990001": {
+   "key": "Defence990001",
+   "category": 99,
+   "wave": 1,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 10,
+   "monsterExp": 1,
+   "appearTime": 4.0,
+   "elite": "NORMAL"
+  },
+  "Defence990002": {
+   "key": "Defence990002",
+   "category": 99,
+   "wave": 2,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 11,
+   "monsterExp": 1,
+   "appearTime": 8.0,
+   "elite": "NORMAL"
+  },
+  "Defence990003": {
+   "key": "Defence990003",
+   "category": 99,
+   "wave": 3,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 13,
+   "monsterExp": 1,
+   "appearTime": 12.0,
+   "elite": "NORMAL"
+  },
+  "Defence990004": {
+   "key": "Defence990004",
+   "category": 99,
+   "wave": 4,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 15,
+   "monsterExp": 1,
+   "appearTime": 16.0,
+   "elite": "BOSS"
+  },
+  "Defence990005": {
+   "key": "Defence990005",
+   "category": 99,
+   "wave": 5,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 18,
+   "monsterExp": 1,
+   "appearTime": 20.0,
+   "elite": "NORMAL"
+  },
+  "Defence990006": {
+   "key": "Defence990006",
+   "category": 99,
+   "wave": 6,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 21,
+   "monsterExp": 1,
+   "appearTime": 24.0,
+   "elite": "NORMAL"
+  },
+  "Defence990007": {
+   "key": "Defence990007",
+   "category": 99,
+   "wave": 7,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 25,
+   "monsterExp": 1,
+   "appearTime": 28.0,
+   "elite": "NORMAL"
+  },
+  "Defence990008": {
+   "key": "Defence990008",
+   "category": 99,
+   "wave": 8,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 29,
+   "monsterExp": 1,
+   "appearTime": 32.0,
+   "elite": "NORMAL"
+  },
+  "Defence990009": {
+   "key": "Defence990009",
+   "category": 99,
+   "wave": 9,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 34,
+   "monsterExp": 1,
+   "appearTime": 36.0,
+   "elite": "BOSS"
+  },
+  "Defence990010": {
+   "key": "Defence990010",
+   "category": 99,
+   "wave": 10,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 39,
+   "monsterExp": 2,
+   "appearTime": 40.0,
+   "elite": "NORMAL"
+  },
+  "Defence990011": {
+   "key": "Defence990011",
+   "category": 99,
+   "wave": 11,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 45,
+   "monsterExp": 2,
+   "appearTime": 44.0,
+   "elite": "NORMAL"
+  },
+  "Defence990012": {
+   "key": "Defence990012",
+   "category": 99,
+   "wave": 12,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 51,
+   "monsterExp": 2,
+   "appearTime": 48.0,
+   "elite": "NORMAL"
+  },
+  "Defence990013": {
+   "key": "Defence990013",
+   "category": 99,
+   "wave": 13,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 58,
+   "monsterExp": 2,
+   "appearTime": 52.0,
+   "elite": "NORMAL"
+  },
+  "Defence990014": {
+   "key": "Defence990014",
+   "category": 99,
+   "wave": 14,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 65,
+   "monsterExp": 2,
+   "appearTime": 56.0,
+   "elite": "BOSS"
+  },
+  "Defence990015": {
+   "key": "Defence990015",
+   "category": 99,
+   "wave": 15,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 73,
+   "monsterExp": 2,
+   "appearTime": 60.0,
+   "elite": "NORMAL"
+  },
+  "Defence990016": {
+   "key": "Defence990016",
+   "category": 99,
+   "wave": 16,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 81,
+   "monsterExp": 2,
+   "appearTime": 64.0,
+   "elite": "NORMAL"
+  },
+  "Defence990017": {
+   "key": "Defence990017",
+   "category": 99,
+   "wave": 17,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 90,
+   "monsterExp": 2,
+   "appearTime": 68.0,
+   "elite": "NORMAL"
+  },
+  "Defence990018": {
+   "key": "Defence990018",
+   "category": 99,
+   "wave": 18,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 99,
+   "monsterExp": 2,
+   "appearTime": 72.0,
+   "elite": "NORMAL"
+  },
+  "Defence990019": {
+   "key": "Defence990019",
+   "category": 99,
+   "wave": 19,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 109,
+   "monsterExp": 2,
+   "appearTime": 76.0,
+   "elite": "BOSS"
+  },
+  "Defence990020": {
+   "key": "Defence990020",
+   "category": 99,
+   "wave": 20,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 119,
+   "monsterExp": 3,
+   "appearTime": 80.0,
+   "elite": "NORMAL"
+  },
+  "Defence990021": {
+   "key": "Defence990021",
+   "category": 99,
+   "wave": 21,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 130,
+   "monsterExp": 3,
+   "appearTime": 84.0,
+   "elite": "NORMAL"
+  },
+  "Defence990022": {
+   "key": "Defence990022",
+   "category": 99,
+   "wave": 22,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 141,
+   "monsterExp": 3,
+   "appearTime": 88.0,
+   "elite": "NORMAL"
+  },
+  "Defence990023": {
+   "key": "Defence990023",
+   "category": 99,
+   "wave": 23,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 153,
+   "monsterExp": 3,
+   "appearTime": 92.0,
+   "elite": "NORMAL"
+  },
+  "Defence990024": {
+   "key": "Defence990024",
+   "category": 99,
+   "wave": 24,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 165,
+   "monsterExp": 3,
+   "appearTime": 96.0,
+   "elite": "BOSS"
+  },
+  "Defence990025": {
+   "key": "Defence990025",
+   "category": 99,
+   "wave": 25,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 178,
+   "monsterExp": 3,
+   "appearTime": 100.0,
+   "elite": "NORMAL"
+  },
+  "Defence990026": {
+   "key": "Defence990026",
+   "category": 99,
+   "wave": 26,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 191,
+   "monsterExp": 3,
+   "appearTime": 104.0,
+   "elite": "NORMAL"
+  },
+  "Defence990027": {
+   "key": "Defence990027",
+   "category": 99,
+   "wave": 27,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 205,
+   "monsterExp": 3,
+   "appearTime": 108.0,
+   "elite": "NORMAL"
+  },
+  "Defence990028": {
+   "key": "Defence990028",
+   "category": 99,
+   "wave": 28,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 219,
+   "monsterExp": 3,
+   "appearTime": 112.0,
+   "elite": "NORMAL"
+  },
+  "Defence990029": {
+   "key": "Defence990029",
+   "category": 99,
+   "wave": 29,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 234,
+   "monsterExp": 3,
+   "appearTime": 116.0,
+   "elite": "BOSS"
+  },
+  "Defence990030": {
+   "key": "Defence990030",
+   "category": 99,
+   "wave": 30,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 249,
+   "monsterExp": 4,
+   "appearTime": 120.0,
+   "elite": "NORMAL"
+  },
+  "Defence990031": {
+   "key": "Defence990031",
+   "category": 99,
+   "wave": 31,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 265,
+   "monsterExp": 4,
+   "appearTime": 124.0,
+   "elite": "NORMAL"
+  },
+  "Defence990032": {
+   "key": "Defence990032",
+   "category": 99,
+   "wave": 32,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 281,
+   "monsterExp": 4,
+   "appearTime": 128.0,
+   "elite": "NORMAL"
+  },
+  "Defence990033": {
+   "key": "Defence990033",
+   "category": 99,
+   "wave": 33,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 298,
+   "monsterExp": 4,
+   "appearTime": 132.0,
+   "elite": "NORMAL"
+  },
+  "Defence990034": {
+   "key": "Defence990034",
+   "category": 99,
+   "wave": 34,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 315,
+   "monsterExp": 4,
+   "appearTime": 136.0,
+   "elite": "BOSS"
+  },
+  "Defence990035": {
+   "key": "Defence990035",
+   "category": 99,
+   "wave": 35,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 333,
+   "monsterExp": 4,
+   "appearTime": 140.0,
+   "elite": "NORMAL"
+  },
+  "Defence990036": {
+   "key": "Defence990036",
+   "category": 99,
+   "wave": 36,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 351,
+   "monsterExp": 4,
+   "appearTime": 144.0,
+   "elite": "NORMAL"
+  },
+  "Defence990037": {
+   "key": "Defence990037",
+   "category": 99,
+   "wave": 37,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 370,
+   "monsterExp": 4,
+   "appearTime": 148.0,
+   "elite": "NORMAL"
+  },
+  "Defence990038": {
+   "key": "Defence990038",
+   "category": 99,
+   "wave": 38,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 389,
+   "monsterExp": 4,
+   "appearTime": 152.0,
+   "elite": "NORMAL"
+  },
+  "Defence990039": {
+   "key": "Defence990039",
+   "category": 99,
+   "wave": 39,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 409,
+   "monsterExp": 4,
+   "appearTime": 156.0,
+   "elite": "BOSS"
+  },
+  "Defence990040": {
+   "key": "Defence990040",
+   "category": 99,
+   "wave": 40,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 429,
+   "monsterExp": 5,
+   "appearTime": 160.0,
+   "elite": "NORMAL"
+  },
+  "Defence990041": {
+   "key": "Defence990041",
+   "category": 99,
+   "wave": 41,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 450,
+   "monsterExp": 5,
+   "appearTime": 164.0,
+   "elite": "NORMAL"
+  },
+  "Defence990042": {
+   "key": "Defence990042",
+   "category": 99,
+   "wave": 42,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 471,
+   "monsterExp": 5,
+   "appearTime": 168.0,
+   "elite": "NORMAL"
+  },
+  "Defence990043": {
+   "key": "Defence990043",
+   "category": 99,
+   "wave": 43,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 493,
+   "monsterExp": 5,
+   "appearTime": 172.0,
+   "elite": "NORMAL"
+  },
+  "Defence990044": {
+   "key": "Defence990044",
+   "category": 99,
+   "wave": 44,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 515,
+   "monsterExp": 5,
+   "appearTime": 176.0,
+   "elite": "BOSS"
+  },
+  "Defence990045": {
+   "key": "Defence990045",
+   "category": 99,
+   "wave": 45,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 538,
+   "monsterExp": 5,
+   "appearTime": 180.0,
+   "elite": "NORMAL"
+  },
+  "Defence990046": {
+   "key": "Defence990046",
+   "category": 99,
+   "wave": 46,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 561,
+   "monsterExp": 5,
+   "appearTime": 184.0,
+   "elite": "NORMAL"
+  },
+  "Defence990047": {
+   "key": "Defence990047",
+   "category": 99,
+   "wave": 47,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 585,
+   "monsterExp": 5,
+   "appearTime": 188.0,
+   "elite": "NORMAL"
+  },
+  "Defence990048": {
+   "key": "Defence990048",
+   "category": 99,
+   "wave": 48,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 609,
+   "monsterExp": 5,
+   "appearTime": 192.0,
+   "elite": "NORMAL"
+  },
+  "Defence990049": {
+   "key": "Defence990049",
+   "category": 99,
+   "wave": 49,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 634,
+   "monsterExp": 5,
+   "appearTime": 196.0,
+   "elite": "BOSS"
+  },
+  "Defence990050": {
+   "key": "Defence990050",
+   "category": 99,
+   "wave": 50,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 659,
+   "monsterExp": 6,
+   "appearTime": 200.0,
+   "elite": "NORMAL"
+  },
+  "Defence990051": {
+   "key": "Defence990051",
+   "category": 99,
+   "wave": 51,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 685,
+   "monsterExp": 6,
+   "appearTime": 204.0,
+   "elite": "NORMAL"
+  },
+  "Defence990052": {
+   "key": "Defence990052",
+   "category": 99,
+   "wave": 52,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 711,
+   "monsterExp": 6,
+   "appearTime": 208.0,
+   "elite": "NORMAL"
+  },
+  "Defence990053": {
+   "key": "Defence990053",
+   "category": 99,
+   "wave": 53,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 738,
+   "monsterExp": 6,
+   "appearTime": 212.0,
+   "elite": "NORMAL"
+  },
+  "Defence990054": {
+   "key": "Defence990054",
+   "category": 99,
+   "wave": 54,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 765,
+   "monsterExp": 6,
+   "appearTime": 216.0,
+   "elite": "BOSS"
+  },
+  "Defence990055": {
+   "key": "Defence990055",
+   "category": 99,
+   "wave": 55,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 793,
+   "monsterExp": 6,
+   "appearTime": 220.0,
+   "elite": "NORMAL"
+  },
+  "Defence990056": {
+   "key": "Defence990056",
+   "category": 99,
+   "wave": 56,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 821,
+   "monsterExp": 6,
+   "appearTime": 224.0,
+   "elite": "NORMAL"
+  },
+  "Defence990057": {
+   "key": "Defence990057",
+   "category": 99,
+   "wave": 57,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 850,
+   "monsterExp": 6,
+   "appearTime": 228.0,
+   "elite": "NORMAL"
+  },
+  "Defence990058": {
+   "key": "Defence990058",
+   "category": 99,
+   "wave": 58,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 879,
+   "monsterExp": 6,
+   "appearTime": 232.0,
+   "elite": "NORMAL"
+  },
+  "Defence990059": {
+   "key": "Defence990059",
+   "category": 99,
+   "wave": 59,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 909,
+   "monsterExp": 6,
+   "appearTime": 236.0,
+   "elite": "BOSS"
+  },
+  "Defence990060": {
+   "key": "Defence990060",
+   "category": 99,
+   "wave": 60,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 939,
+   "monsterExp": 7,
+   "appearTime": 240.0,
+   "elite": "NORMAL"
+  },
+  "Defence990061": {
+   "key": "Defence990061",
+   "category": 99,
+   "wave": 61,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 970,
+   "monsterExp": 7,
+   "appearTime": 244.0,
+   "elite": "NORMAL"
+  },
+  "Defence990062": {
+   "key": "Defence990062",
+   "category": 99,
+   "wave": 62,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 248.0,
+   "elite": "NORMAL"
+  },
+  "Defence990063": {
+   "key": "Defence990063",
+   "category": 99,
+   "wave": 63,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 252.0,
+   "elite": "NORMAL"
+  },
+  "Defence990064": {
+   "key": "Defence990064",
+   "category": 99,
+   "wave": 64,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 256.0,
+   "elite": "BOSS"
+  },
+  "Defence990065": {
+   "key": "Defence990065",
+   "category": 99,
+   "wave": 65,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 260.0,
+   "elite": "NORMAL"
+  },
+  "Defence990066": {
+   "key": "Defence990066",
+   "category": 99,
+   "wave": 66,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 264.0,
+   "elite": "NORMAL"
+  },
+  "Defence990067": {
+   "key": "Defence990067",
+   "category": 99,
+   "wave": 67,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 268.0,
+   "elite": "NORMAL"
+  },
+  "Defence990068": {
+   "key": "Defence990068",
+   "category": 99,
+   "wave": 68,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 272.0,
+   "elite": "NORMAL"
+  },
+  "Defence990069": {
+   "key": "Defence990069",
+   "category": 99,
+   "wave": 69,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 7,
+   "appearTime": 276.0,
+   "elite": "BOSS"
+  },
+  "Defence990070": {
+   "key": "Defence990070",
+   "category": 99,
+   "wave": 70,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 280.0,
+   "elite": "NORMAL"
+  },
+  "Defence990071": {
+   "key": "Defence990071",
+   "category": 99,
+   "wave": 71,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 284.0,
+   "elite": "NORMAL"
+  },
+  "Defence990072": {
+   "key": "Defence990072",
+   "category": 99,
+   "wave": 72,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 288.0,
+   "elite": "NORMAL"
+  },
+  "Defence990073": {
+   "key": "Defence990073",
+   "category": 99,
+   "wave": 73,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 292.0,
+   "elite": "NORMAL"
+  },
+  "Defence990074": {
+   "key": "Defence990074",
+   "category": 99,
+   "wave": 74,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 296.0,
+   "elite": "BOSS"
+  },
+  "Defence990075": {
+   "key": "Defence990075",
+   "category": 99,
+   "wave": 75,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 300.0,
+   "elite": "NORMAL"
+  },
+  "Defence990076": {
+   "key": "Defence990076",
+   "category": 99,
+   "wave": 76,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 304.0,
+   "elite": "NORMAL"
+  },
+  "Defence990077": {
+   "key": "Defence990077",
+   "category": 99,
+   "wave": 77,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 308.0,
+   "elite": "NORMAL"
+  },
+  "Defence990078": {
+   "key": "Defence990078",
+   "category": 99,
+   "wave": 78,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 312.0,
+   "elite": "NORMAL"
+  },
+  "Defence990079": {
+   "key": "Defence990079",
+   "category": 99,
+   "wave": 79,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 8,
+   "appearTime": 316.0,
+   "elite": "BOSS"
+  },
+  "Defence990080": {
+   "key": "Defence990080",
+   "category": 99,
+   "wave": 80,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 320.0,
+   "elite": "NORMAL"
+  },
+  "Defence990081": {
+   "key": "Defence990081",
+   "category": 99,
+   "wave": 81,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 324.0,
+   "elite": "NORMAL"
+  },
+  "Defence990082": {
+   "key": "Defence990082",
+   "category": 99,
+   "wave": 82,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 328.0,
+   "elite": "NORMAL"
+  },
+  "Defence990083": {
+   "key": "Defence990083",
+   "category": 99,
+   "wave": 83,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 332.0,
+   "elite": "NORMAL"
+  },
+  "Defence990084": {
+   "key": "Defence990084",
+   "category": 99,
+   "wave": 84,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 336.0,
+   "elite": "BOSS"
+  },
+  "Defence990085": {
+   "key": "Defence990085",
+   "category": 99,
+   "wave": 85,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 340.0,
+   "elite": "NORMAL"
+  },
+  "Defence990086": {
+   "key": "Defence990086",
+   "category": 99,
+   "wave": 86,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 344.0,
+   "elite": "NORMAL"
+  },
+  "Defence990087": {
+   "key": "Defence990087",
+   "category": 99,
+   "wave": 87,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 348.0,
+   "elite": "NORMAL"
+  },
+  "Defence990088": {
+   "key": "Defence990088",
+   "category": 99,
+   "wave": 88,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 352.0,
+   "elite": "NORMAL"
+  },
+  "Defence990089": {
+   "key": "Defence990089",
+   "category": 99,
+   "wave": 89,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 356.0,
+   "elite": "BOSS"
+  },
+  "Defence990090": {
+   "key": "Defence990090",
+   "category": 99,
+   "wave": 90,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 360.0,
+   "elite": "NORMAL"
+  },
+  "Defence990091": {
+   "key": "Defence990091",
+   "category": 99,
+   "wave": 91,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 364.0,
+   "elite": "NORMAL"
+  },
+  "Defence990092": {
+   "key": "Defence990092",
+   "category": 99,
+   "wave": 92,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 368.0,
+   "elite": "NORMAL"
+  },
+  "Defence990093": {
+   "key": "Defence990093",
+   "category": 99,
+   "wave": 93,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 372.0,
+   "elite": "NORMAL"
+  },
+  "Defence990094": {
+   "key": "Defence990094",
+   "category": 99,
+   "wave": 94,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 376.0,
+   "elite": "BOSS"
+  },
+  "Defence990095": {
+   "key": "Defence990095",
+   "category": 99,
+   "wave": 95,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 380.0,
+   "elite": "NORMAL"
+  },
+  "Defence990096": {
+   "key": "Defence990096",
+   "category": 99,
+   "wave": 96,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 384.0,
+   "elite": "NORMAL"
+  },
+  "Defence990097": {
+   "key": "Defence990097",
+   "category": 99,
+   "wave": 97,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 388.0,
+   "elite": "NORMAL"
+  },
+  "Defence990098": {
+   "key": "Defence990098",
+   "category": 99,
+   "wave": 98,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 392.0,
+   "elite": "NORMAL"
+  },
+  "Defence990099": {
+   "key": "Defence990099",
+   "category": 99,
+   "wave": 99,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 396.0,
+   "elite": "BOSS"
+  },
+  "Defence990100": {
+   "key": "Defence990100",
+   "category": 99,
+   "wave": 100,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 400.0,
+   "elite": "NORMAL"
+  },
+  "Defence990101": {
+   "key": "Defence990101",
+   "category": 99,
+   "wave": 101,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 404.0,
+   "elite": "NORMAL"
+  },
+  "Defence990102": {
+   "key": "Defence990102",
+   "category": 99,
+   "wave": 102,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 408.0,
+   "elite": "NORMAL"
+  },
+  "Defence990103": {
+   "key": "Defence990103",
+   "category": 99,
+   "wave": 103,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 412.0,
+   "elite": "NORMAL"
+  },
+  "Defence990104": {
+   "key": "Defence990104",
+   "category": 99,
+   "wave": 104,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 416.0,
+   "elite": "BOSS"
+  },
+  "Defence990105": {
+   "key": "Defence990105",
+   "category": 99,
+   "wave": 105,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 420.0,
+   "elite": "NORMAL"
+  },
+  "Defence990106": {
+   "key": "Defence990106",
+   "category": 99,
+   "wave": 106,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 424.0,
+   "elite": "NORMAL"
+  },
+  "Defence990107": {
+   "key": "Defence990107",
+   "category": 99,
+   "wave": 107,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 428.0,
+   "elite": "NORMAL"
+  },
+  "Defence990108": {
+   "key": "Defence990108",
+   "category": 99,
+   "wave": 108,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 432.0,
+   "elite": "NORMAL"
+  },
+  "Defence990109": {
+   "key": "Defence990109",
+   "category": 99,
+   "wave": 109,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 436.0,
+   "elite": "BOSS"
+  },
+  "Defence990110": {
+   "key": "Defence990110",
+   "category": 99,
+   "wave": 110,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 440.0,
+   "elite": "NORMAL"
+  },
+  "Defence990111": {
+   "key": "Defence990111",
+   "category": 99,
+   "wave": 111,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 444.0,
+   "elite": "NORMAL"
+  },
+  "Defence990112": {
+   "key": "Defence990112",
+   "category": 99,
+   "wave": 112,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 448.0,
+   "elite": "NORMAL"
+  },
+  "Defence990113": {
+   "key": "Defence990113",
+   "category": 99,
+   "wave": 113,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 452.0,
+   "elite": "NORMAL"
+  },
+  "Defence990114": {
+   "key": "Defence990114",
+   "category": 99,
+   "wave": 114,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 456.0,
+   "elite": "BOSS"
+  },
+  "Defence990115": {
+   "key": "Defence990115",
+   "category": 99,
+   "wave": 115,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 460.0,
+   "elite": "NORMAL"
+  },
+  "Defence990116": {
+   "key": "Defence990116",
+   "category": 99,
+   "wave": 116,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 464.0,
+   "elite": "NORMAL"
+  },
+  "Defence990117": {
+   "key": "Defence990117",
+   "category": 99,
+   "wave": 117,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 468.0,
+   "elite": "NORMAL"
+  },
+  "Defence990118": {
+   "key": "Defence990118",
+   "category": 99,
+   "wave": 118,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 472.0,
+   "elite": "NORMAL"
+  },
+  "Defence990119": {
+   "key": "Defence990119",
+   "category": 99,
+   "wave": 119,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 476.0,
+   "elite": "BOSS"
+  },
+  "Defence990120": {
+   "key": "Defence990120",
+   "category": 99,
+   "wave": 120,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 480.0,
+   "elite": "NORMAL"
+  },
+  "Defence990121": {
+   "key": "Defence990121",
+   "category": 99,
+   "wave": 121,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 484.0,
+   "elite": "NORMAL"
+  },
+  "Defence990122": {
+   "key": "Defence990122",
+   "category": 99,
+   "wave": 122,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 488.0,
+   "elite": "NORMAL"
+  },
+  "Defence990123": {
+   "key": "Defence990123",
+   "category": 99,
+   "wave": 123,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 492.0,
+   "elite": "NORMAL"
+  },
+  "Defence990124": {
+   "key": "Defence990124",
+   "category": 99,
+   "wave": 124,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 496.0,
+   "elite": "BOSS"
+  },
+  "Defence990125": {
+   "key": "Defence990125",
+   "category": 99,
+   "wave": 125,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 500.0,
+   "elite": "NORMAL"
+  },
+  "Defence990126": {
+   "key": "Defence990126",
+   "category": 99,
+   "wave": 126,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 504.0,
+   "elite": "NORMAL"
+  },
+  "Defence990127": {
+   "key": "Defence990127",
+   "category": 99,
+   "wave": 127,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 508.0,
+   "elite": "NORMAL"
+  },
+  "Defence990128": {
+   "key": "Defence990128",
+   "category": 99,
+   "wave": 128,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 512.0,
+   "elite": "NORMAL"
+  },
+  "Defence990129": {
+   "key": "Defence990129",
+   "category": 99,
+   "wave": 129,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 516.0,
+   "elite": "BOSS"
+  },
+  "Defence990130": {
+   "key": "Defence990130",
+   "category": 99,
+   "wave": 130,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 520.0,
+   "elite": "NORMAL"
+  },
+  "Defence990131": {
+   "key": "Defence990131",
+   "category": 99,
+   "wave": 131,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 524.0,
+   "elite": "NORMAL"
+  },
+  "Defence990132": {
+   "key": "Defence990132",
+   "category": 99,
+   "wave": 132,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 528.0,
+   "elite": "NORMAL"
+  },
+  "Defence990133": {
+   "key": "Defence990133",
+   "category": 99,
+   "wave": 133,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 532.0,
+   "elite": "NORMAL"
+  },
+  "Defence990134": {
+   "key": "Defence990134",
+   "category": 99,
+   "wave": 134,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 536.0,
+   "elite": "BOSS"
+  },
+  "Defence990135": {
+   "key": "Defence990135",
+   "category": 99,
+   "wave": 135,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 540.0,
+   "elite": "NORMAL"
+  },
+  "Defence990136": {
+   "key": "Defence990136",
+   "category": 99,
+   "wave": 136,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 544.0,
+   "elite": "NORMAL"
+  },
+  "Defence990137": {
+   "key": "Defence990137",
+   "category": 99,
+   "wave": 137,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 548.0,
+   "elite": "NORMAL"
+  },
+  "Defence990138": {
+   "key": "Defence990138",
+   "category": 99,
+   "wave": 138,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 552.0,
+   "elite": "NORMAL"
+  },
+  "Defence990139": {
+   "key": "Defence990139",
+   "category": 99,
+   "wave": 139,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 556.0,
+   "elite": "BOSS"
+  },
+  "Defence990140": {
+   "key": "Defence990140",
+   "category": 99,
+   "wave": 140,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 560.0,
+   "elite": "NORMAL"
+  },
+  "Defence990141": {
+   "key": "Defence990141",
+   "category": 99,
+   "wave": 141,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 564.0,
+   "elite": "NORMAL"
+  },
+  "Defence990142": {
+   "key": "Defence990142",
+   "category": 99,
+   "wave": 142,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 568.0,
+   "elite": "NORMAL"
+  },
+  "Defence990143": {
+   "key": "Defence990143",
+   "category": 99,
+   "wave": 143,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 572.0,
+   "elite": "NORMAL"
+  },
+  "Defence990144": {
+   "key": "Defence990144",
+   "category": 99,
+   "wave": 144,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 576.0,
+   "elite": "BOSS"
+  },
+  "Defence990145": {
+   "key": "Defence990145",
+   "category": 99,
+   "wave": 145,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 580.0,
+   "elite": "NORMAL"
+  },
+  "Defence990146": {
+   "key": "Defence990146",
+   "category": 99,
+   "wave": 146,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 584.0,
+   "elite": "NORMAL"
+  },
+  "Defence990147": {
+   "key": "Defence990147",
+   "category": 99,
+   "wave": 147,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 588.0,
+   "elite": "NORMAL"
+  },
+  "Defence990148": {
+   "key": "Defence990148",
+   "category": 99,
+   "wave": 148,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 592.0,
+   "elite": "NORMAL"
+  },
+  "Defence990149": {
+   "key": "Defence990149",
+   "category": 99,
+   "wave": 149,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 596.0,
+   "elite": "BOSS"
+  },
+  "Defence990150": {
+   "key": "Defence990150",
+   "category": 99,
+   "wave": 150,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 600.0,
+   "elite": "NORMAL"
+  },
+  "Defence990151": {
+   "key": "Defence990151",
+   "category": 99,
+   "wave": 151,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 604.0,
+   "elite": "NORMAL"
+  },
+  "Defence990152": {
+   "key": "Defence990152",
+   "category": 99,
+   "wave": 152,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 608.0,
+   "elite": "NORMAL"
+  },
+  "Defence990153": {
+   "key": "Defence990153",
+   "category": 99,
+   "wave": 153,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 612.0,
+   "elite": "NORMAL"
+  },
+  "Defence990154": {
+   "key": "Defence990154",
+   "category": 99,
+   "wave": 154,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 616.0,
+   "elite": "BOSS"
+  },
+  "Defence990155": {
+   "key": "Defence990155",
+   "category": 99,
+   "wave": 155,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 620.0,
+   "elite": "NORMAL"
+  },
+  "Defence990156": {
+   "key": "Defence990156",
+   "category": 99,
+   "wave": 156,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 624.0,
+   "elite": "NORMAL"
+  },
+  "Defence990157": {
+   "key": "Defence990157",
+   "category": 99,
+   "wave": 157,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 628.0,
+   "elite": "NORMAL"
+  },
+  "Defence990158": {
+   "key": "Defence990158",
+   "category": 99,
+   "wave": 158,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 632.0,
+   "elite": "NORMAL"
+  },
+  "Defence990159": {
+   "key": "Defence990159",
+   "category": 99,
+   "wave": 159,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 636.0,
+   "elite": "BOSS"
+  },
+  "Defence990160": {
+   "key": "Defence990160",
+   "category": 99,
+   "wave": 160,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 640.0,
+   "elite": "NORMAL"
+  },
+  "Defence990161": {
+   "key": "Defence990161",
+   "category": 99,
+   "wave": 161,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 644.0,
+   "elite": "NORMAL"
+  },
+  "Defence990162": {
+   "key": "Defence990162",
+   "category": 99,
+   "wave": 162,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 648.0,
+   "elite": "NORMAL"
+  },
+  "Defence990163": {
+   "key": "Defence990163",
+   "category": 99,
+   "wave": 163,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 652.0,
+   "elite": "NORMAL"
+  },
+  "Defence990164": {
+   "key": "Defence990164",
+   "category": 99,
+   "wave": 164,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 656.0,
+   "elite": "BOSS"
+  },
+  "Defence990165": {
+   "key": "Defence990165",
+   "category": 99,
+   "wave": 165,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 660.0,
+   "elite": "NORMAL"
+  },
+  "Defence990166": {
+   "key": "Defence990166",
+   "category": 99,
+   "wave": 166,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 664.0,
+   "elite": "NORMAL"
+  },
+  "Defence990167": {
+   "key": "Defence990167",
+   "category": 99,
+   "wave": 167,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 668.0,
+   "elite": "NORMAL"
+  },
+  "Defence990168": {
+   "key": "Defence990168",
+   "category": 99,
+   "wave": 168,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 672.0,
+   "elite": "NORMAL"
+  },
+  "Defence990169": {
+   "key": "Defence990169",
+   "category": 99,
+   "wave": 169,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 676.0,
+   "elite": "BOSS"
+  },
+  "Defence990170": {
+   "key": "Defence990170",
+   "category": 99,
+   "wave": 170,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 680.0,
+   "elite": "NORMAL"
+  },
+  "Defence990171": {
+   "key": "Defence990171",
+   "category": 99,
+   "wave": 171,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 684.0,
+   "elite": "NORMAL"
+  },
+  "Defence990172": {
+   "key": "Defence990172",
+   "category": 99,
+   "wave": 172,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 688.0,
+   "elite": "NORMAL"
+  },
+  "Defence990173": {
+   "key": "Defence990173",
+   "category": 99,
+   "wave": 173,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 692.0,
+   "elite": "NORMAL"
+  },
+  "Defence990174": {
+   "key": "Defence990174",
+   "category": 99,
+   "wave": 174,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 696.0,
+   "elite": "BOSS"
+  },
+  "Defence990175": {
+   "key": "Defence990175",
+   "category": 99,
+   "wave": 175,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 700.0,
+   "elite": "NORMAL"
+  },
+  "Defence990176": {
+   "key": "Defence990176",
+   "category": 99,
+   "wave": 176,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 704.0,
+   "elite": "NORMAL"
+  },
+  "Defence990177": {
+   "key": "Defence990177",
+   "category": 99,
+   "wave": 177,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 708.0,
+   "elite": "NORMAL"
+  },
+  "Defence990178": {
+   "key": "Defence990178",
+   "category": 99,
+   "wave": 178,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 712.0,
+   "elite": "NORMAL"
+  },
+  "Defence990179": {
+   "key": "Defence990179",
+   "category": 99,
+   "wave": 179,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 716.0,
+   "elite": "BOSS"
+  },
+  "Defence990180": {
+   "key": "Defence990180",
+   "category": 99,
+   "wave": 180,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 720.0,
+   "elite": "NORMAL"
+  },
+  "Defence990181": {
+   "key": "Defence990181",
+   "category": 99,
+   "wave": 181,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 724.0,
+   "elite": "NORMAL"
+  },
+  "Defence990182": {
+   "key": "Defence990182",
+   "category": 99,
+   "wave": 182,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 728.0,
+   "elite": "NORMAL"
+  },
+  "Defence990183": {
+   "key": "Defence990183",
+   "category": 99,
+   "wave": 183,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 732.0,
+   "elite": "NORMAL"
+  },
+  "Defence990184": {
+   "key": "Defence990184",
+   "category": 99,
+   "wave": 184,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 736.0,
+   "elite": "BOSS"
+  },
+  "Defence990185": {
+   "key": "Defence990185",
+   "category": 99,
+   "wave": 185,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 740.0,
+   "elite": "NORMAL"
+  },
+  "Defence990186": {
+   "key": "Defence990186",
+   "category": 99,
+   "wave": 186,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 744.0,
+   "elite": "NORMAL"
+  },
+  "Defence990187": {
+   "key": "Defence990187",
+   "category": 99,
+   "wave": 187,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 748.0,
+   "elite": "NORMAL"
+  },
+  "Defence990188": {
+   "key": "Defence990188",
+   "category": 99,
+   "wave": 188,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 752.0,
+   "elite": "NORMAL"
+  },
+  "Defence990189": {
+   "key": "Defence990189",
+   "category": 99,
+   "wave": 189,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 756.0,
+   "elite": "BOSS"
+  },
+  "Defence990190": {
+   "key": "Defence990190",
+   "category": 99,
+   "wave": 190,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 760.0,
+   "elite": "NORMAL"
+  },
+  "Defence990191": {
+   "key": "Defence990191",
+   "category": 99,
+   "wave": 191,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 764.0,
+   "elite": "NORMAL"
+  },
+  "Defence990192": {
+   "key": "Defence990192",
+   "category": 99,
+   "wave": 192,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 768.0,
+   "elite": "NORMAL"
+  },
+  "Defence990193": {
+   "key": "Defence990193",
+   "category": 99,
+   "wave": 193,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 772.0,
+   "elite": "NORMAL"
+  },
+  "Defence990194": {
+   "key": "Defence990194",
+   "category": 99,
+   "wave": 194,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 776.0,
+   "elite": "BOSS"
+  },
+  "Defence990195": {
+   "key": "Defence990195",
+   "category": 99,
+   "wave": 195,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 780.0,
+   "elite": "NORMAL"
+  },
+  "Defence990196": {
+   "key": "Defence990196",
+   "category": 99,
+   "wave": 196,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 784.0,
+   "elite": "NORMAL"
+  },
+  "Defence990197": {
+   "key": "Defence990197",
+   "category": 99,
+   "wave": 197,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 788.0,
+   "elite": "NORMAL"
+  },
+  "Defence990198": {
+   "key": "Defence990198",
+   "category": 99,
+   "wave": 198,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 792.0,
+   "elite": "NORMAL"
+  },
+  "Defence990199": {
+   "key": "Defence990199",
+   "category": 99,
+   "wave": 199,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 796.0,
+   "elite": "BOSS"
+  },
+  "Defence990200": {
+   "key": "Defence990200",
+   "category": 99,
+   "wave": 200,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 800.0,
+   "elite": "NORMAL"
+  },
+  "Defence990201": {
+   "key": "Defence990201",
+   "category": 99,
+   "wave": 201,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 804.0,
+   "elite": "NORMAL"
+  },
+  "Defence990202": {
+   "key": "Defence990202",
+   "category": 99,
+   "wave": 202,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 808.0,
+   "elite": "NORMAL"
+  },
+  "Defence990203": {
+   "key": "Defence990203",
+   "category": 99,
+   "wave": 203,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 812.0,
+   "elite": "NORMAL"
+  },
+  "Defence990204": {
+   "key": "Defence990204",
+   "category": 99,
+   "wave": 204,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 816.0,
+   "elite": "BOSS"
+  },
+  "Defence990205": {
+   "key": "Defence990205",
+   "category": 99,
+   "wave": 205,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 820.0,
+   "elite": "NORMAL"
+  },
+  "Defence990206": {
+   "key": "Defence990206",
+   "category": 99,
+   "wave": 206,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 824.0,
+   "elite": "NORMAL"
+  },
+  "Defence990207": {
+   "key": "Defence990207",
+   "category": 99,
+   "wave": 207,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 828.0,
+   "elite": "NORMAL"
+  },
+  "Defence990208": {
+   "key": "Defence990208",
+   "category": 99,
+   "wave": 208,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 832.0,
+   "elite": "NORMAL"
+  },
+  "Defence990209": {
+   "key": "Defence990209",
+   "category": 99,
+   "wave": 209,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 836.0,
+   "elite": "BOSS"
+  },
+  "Defence990210": {
+   "key": "Defence990210",
+   "category": 99,
+   "wave": 210,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 840.0,
+   "elite": "NORMAL"
+  },
+  "Defence990211": {
+   "key": "Defence990211",
+   "category": 99,
+   "wave": 211,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 844.0,
+   "elite": "NORMAL"
+  },
+  "Defence990212": {
+   "key": "Defence990212",
+   "category": 99,
+   "wave": 212,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 848.0,
+   "elite": "NORMAL"
+  },
+  "Defence990213": {
+   "key": "Defence990213",
+   "category": 99,
+   "wave": 213,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 852.0,
+   "elite": "NORMAL"
+  },
+  "Defence990214": {
+   "key": "Defence990214",
+   "category": 99,
+   "wave": 214,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 856.0,
+   "elite": "BOSS"
+  },
+  "Defence990215": {
+   "key": "Defence990215",
+   "category": 99,
+   "wave": 215,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 860.0,
+   "elite": "NORMAL"
+  },
+  "Defence990216": {
+   "key": "Defence990216",
+   "category": 99,
+   "wave": 216,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 864.0,
+   "elite": "NORMAL"
+  },
+  "Defence990217": {
+   "key": "Defence990217",
+   "category": 99,
+   "wave": 217,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 868.0,
+   "elite": "NORMAL"
+  },
+  "Defence990218": {
+   "key": "Defence990218",
+   "category": 99,
+   "wave": 218,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 872.0,
+   "elite": "NORMAL"
+  },
+  "Defence990219": {
+   "key": "Defence990219",
+   "category": 99,
+   "wave": 219,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 876.0,
+   "elite": "BOSS"
+  },
+  "Defence990220": {
+   "key": "Defence990220",
+   "category": 99,
+   "wave": 220,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 880.0,
+   "elite": "NORMAL"
+  },
+  "Defence990221": {
+   "key": "Defence990221",
+   "category": 99,
+   "wave": 221,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 884.0,
+   "elite": "NORMAL"
+  },
+  "Defence990222": {
+   "key": "Defence990222",
+   "category": 99,
+   "wave": 222,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 888.0,
+   "elite": "NORMAL"
+  },
+  "Defence990223": {
+   "key": "Defence990223",
+   "category": 99,
+   "wave": 223,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 892.0,
+   "elite": "NORMAL"
+  },
+  "Defence990224": {
+   "key": "Defence990224",
+   "category": 99,
+   "wave": 224,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 896.0,
+   "elite": "BOSS"
+  },
+  "Defence990225": {
+   "key": "Defence990225",
+   "category": 99,
+   "wave": 225,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 900.0,
+   "elite": "NORMAL"
+  },
+  "Defence990226": {
+   "key": "Defence990226",
+   "category": 99,
+   "wave": 226,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 904.0,
+   "elite": "NORMAL"
+  },
+  "Defence990227": {
+   "key": "Defence990227",
+   "category": 99,
+   "wave": 227,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 908.0,
+   "elite": "NORMAL"
+  },
+  "Defence990228": {
+   "key": "Defence990228",
+   "category": 99,
+   "wave": 228,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 912.0,
+   "elite": "NORMAL"
+  },
+  "Defence990229": {
+   "key": "Defence990229",
+   "category": 99,
+   "wave": 229,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 916.0,
+   "elite": "BOSS"
+  },
+  "Defence990230": {
+   "key": "Defence990230",
+   "category": 99,
+   "wave": 230,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 920.0,
+   "elite": "NORMAL"
+  },
+  "Defence990231": {
+   "key": "Defence990231",
+   "category": 99,
+   "wave": 231,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 924.0,
+   "elite": "NORMAL"
+  },
+  "Defence990232": {
+   "key": "Defence990232",
+   "category": 99,
+   "wave": 232,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 928.0,
+   "elite": "NORMAL"
+  },
+  "Defence990233": {
+   "key": "Defence990233",
+   "category": 99,
+   "wave": 233,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 932.0,
+   "elite": "NORMAL"
+  },
+  "Defence990234": {
+   "key": "Defence990234",
+   "category": 99,
+   "wave": 234,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 936.0,
+   "elite": "BOSS"
+  },
+  "Defence990235": {
+   "key": "Defence990235",
+   "category": 99,
+   "wave": 235,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 940.0,
+   "elite": "NORMAL"
+  },
+  "Defence990236": {
+   "key": "Defence990236",
+   "category": 99,
+   "wave": 236,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 944.0,
+   "elite": "NORMAL"
+  },
+  "Defence990237": {
+   "key": "Defence990237",
+   "category": 99,
+   "wave": 237,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 948.0,
+   "elite": "NORMAL"
+  },
+  "Defence990238": {
+   "key": "Defence990238",
+   "category": 99,
+   "wave": 238,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 952.0,
+   "elite": "NORMAL"
+  },
+  "Defence990239": {
+   "key": "Defence990239",
+   "category": 99,
+   "wave": 239,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 956.0,
+   "elite": "BOSS"
+  },
+  "Defence990240": {
+   "key": "Defence990240",
+   "category": 99,
+   "wave": 240,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 960.0,
+   "elite": "NORMAL"
+  },
+  "Defence990241": {
+   "key": "Defence990241",
+   "category": 99,
+   "wave": 241,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 964.0,
+   "elite": "NORMAL"
+  },
+  "Defence990242": {
+   "key": "Defence990242",
+   "category": 99,
+   "wave": 242,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 968.0,
+   "elite": "NORMAL"
+  },
+  "Defence990243": {
+   "key": "Defence990243",
+   "category": 99,
+   "wave": 243,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 972.0,
+   "elite": "NORMAL"
+  },
+  "Defence990244": {
+   "key": "Defence990244",
+   "category": 99,
+   "wave": 244,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 976.0,
+   "elite": "BOSS"
+  },
+  "Defence990245": {
+   "key": "Defence990245",
+   "category": 99,
+   "wave": 245,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 980.0,
+   "elite": "NORMAL"
+  },
+  "Defence990246": {
+   "key": "Defence990246",
+   "category": 99,
+   "wave": 246,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 984.0,
+   "elite": "NORMAL"
+  },
+  "Defence990247": {
+   "key": "Defence990247",
+   "category": 99,
+   "wave": 247,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 988.0,
+   "elite": "NORMAL"
+  },
+  "Defence990248": {
+   "key": "Defence990248",
+   "category": 99,
+   "wave": 248,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 992.0,
+   "elite": "NORMAL"
+  },
+  "Defence990249": {
+   "key": "Defence990249",
+   "category": 99,
+   "wave": 249,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 996.0,
+   "elite": "BOSS"
+  },
+  "Defence990250": {
+   "key": "Defence990250",
+   "category": 99,
+   "wave": 250,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1000.0,
+   "elite": "NORMAL"
+  },
+  "Defence990251": {
+   "key": "Defence990251",
+   "category": 99,
+   "wave": 251,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1004.0,
+   "elite": "NORMAL"
+  },
+  "Defence990252": {
+   "key": "Defence990252",
+   "category": 99,
+   "wave": 252,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1008.0,
+   "elite": "NORMAL"
+  },
+  "Defence990253": {
+   "key": "Defence990253",
+   "category": 99,
+   "wave": 253,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1012.0,
+   "elite": "NORMAL"
+  },
+  "Defence990254": {
+   "key": "Defence990254",
+   "category": 99,
+   "wave": 254,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1016.0,
+   "elite": "BOSS"
+  },
+  "Defence990255": {
+   "key": "Defence990255",
+   "category": 99,
+   "wave": 255,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1020.0,
+   "elite": "NORMAL"
+  },
+  "Defence990256": {
+   "key": "Defence990256",
+   "category": 99,
+   "wave": 256,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1024.0,
+   "elite": "NORMAL"
+  },
+  "Defence990257": {
+   "key": "Defence990257",
+   "category": 99,
+   "wave": 257,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1028.0,
+   "elite": "NORMAL"
+  },
+  "Defence990258": {
+   "key": "Defence990258",
+   "category": 99,
+   "wave": 258,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1032.0,
+   "elite": "NORMAL"
+  },
+  "Defence990259": {
+   "key": "Defence990259",
+   "category": 99,
+   "wave": 259,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1036.0,
+   "elite": "BOSS"
+  },
+  "Defence990260": {
+   "key": "Defence990260",
+   "category": 99,
+   "wave": 260,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1040.0,
+   "elite": "NORMAL"
+  },
+  "Defence990261": {
+   "key": "Defence990261",
+   "category": 99,
+   "wave": 261,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1044.0,
+   "elite": "NORMAL"
+  },
+  "Defence990262": {
+   "key": "Defence990262",
+   "category": 99,
+   "wave": 262,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1048.0,
+   "elite": "NORMAL"
+  },
+  "Defence990263": {
+   "key": "Defence990263",
+   "category": 99,
+   "wave": 263,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1052.0,
+   "elite": "NORMAL"
+  },
+  "Defence990264": {
+   "key": "Defence990264",
+   "category": 99,
+   "wave": 264,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1056.0,
+   "elite": "BOSS"
+  },
+  "Defence990265": {
+   "key": "Defence990265",
+   "category": 99,
+   "wave": 265,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1060.0,
+   "elite": "NORMAL"
+  },
+  "Defence990266": {
+   "key": "Defence990266",
+   "category": 99,
+   "wave": 266,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1064.0,
+   "elite": "NORMAL"
+  },
+  "Defence990267": {
+   "key": "Defence990267",
+   "category": 99,
+   "wave": 267,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1068.0,
+   "elite": "NORMAL"
+  },
+  "Defence990268": {
+   "key": "Defence990268",
+   "category": 99,
+   "wave": 268,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1072.0,
+   "elite": "NORMAL"
+  },
+  "Defence990269": {
+   "key": "Defence990269",
+   "category": 99,
+   "wave": 269,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1076.0,
+   "elite": "BOSS"
+  },
+  "Defence990270": {
+   "key": "Defence990270",
+   "category": 99,
+   "wave": 270,
+   "monsterGroup": [
+    "MonsterGroup801001",
+    "MonsterGroup801002",
+    "MonsterGroup801003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1080.0,
+   "elite": "NORMAL"
+  },
+  "Defence990271": {
+   "key": "Defence990271",
+   "category": 99,
+   "wave": 271,
+   "monsterGroup": [
+    "MonsterGroup802001",
+    "MonsterGroup802002",
+    "MonsterGroup802003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1084.0,
+   "elite": "NORMAL"
+  },
+  "Defence990272": {
+   "key": "Defence990272",
+   "category": 99,
+   "wave": 272,
+   "monsterGroup": [
+    "MonsterGroup803001",
+    "MonsterGroup803002",
+    "MonsterGroup803003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1088.0,
+   "elite": "NORMAL"
+  },
+  "Defence990273": {
+   "key": "Defence990273",
+   "category": 99,
+   "wave": 273,
+   "monsterGroup": [
+    "MonsterGroup804001",
+    "MonsterGroup804002",
+    "MonsterGroup804003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1092.0,
+   "elite": "NORMAL"
+  },
+  "Defence990274": {
+   "key": "Defence990274",
+   "category": 99,
+   "wave": 274,
+   "monsterGroup": [
+    "MonsterGroup805001",
+    "MonsterGroup805002",
+    "MonsterGroup805003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1096.0,
+   "elite": "BOSS"
+  },
+  "Defence990275": {
+   "key": "Defence990275",
+   "category": 99,
+   "wave": 275,
+   "monsterGroup": [
+    "MonsterGroup806001",
+    "MonsterGroup806002",
+    "MonsterGroup806003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1100.0,
+   "elite": "NORMAL"
+  },
+  "Defence990276": {
+   "key": "Defence990276",
+   "category": 99,
+   "wave": 276,
+   "monsterGroup": [
+    "MonsterGroup807001",
+    "MonsterGroup807002",
+    "MonsterGroup807003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1104.0,
+   "elite": "NORMAL"
+  },
+  "Defence990277": {
+   "key": "Defence990277",
+   "category": 99,
+   "wave": 277,
+   "monsterGroup": [
+    "MonsterGroup808001",
+    "MonsterGroup808002",
+    "MonsterGroup808003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1108.0,
+   "elite": "NORMAL"
+  },
+  "Defence990278": {
+   "key": "Defence990278",
+   "category": 99,
+   "wave": 278,
+   "monsterGroup": [
+    "MonsterGroup809001",
+    "MonsterGroup809002",
+    "MonsterGroup809003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1112.0,
+   "elite": "NORMAL"
+  },
+  "Defence990279": {
+   "key": "Defence990279",
+   "category": 99,
+   "wave": 279,
+   "monsterGroup": [
+    "MonsterGroup810001",
+    "MonsterGroup810002",
+    "MonsterGroup810003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1116.0,
+   "elite": "BOSS"
+  },
+  "Defence990280": {
+   "key": "Defence990280",
+   "category": 99,
+   "wave": 280,
+   "monsterGroup": [
+    "MonsterGroup811001",
+    "MonsterGroup811002",
+    "MonsterGroup811003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1120.0,
+   "elite": "NORMAL"
+  },
+  "Defence990281": {
+   "key": "Defence990281",
+   "category": 99,
+   "wave": 281,
+   "monsterGroup": [
+    "MonsterGroup812001",
+    "MonsterGroup812002",
+    "MonsterGroup812003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1124.0,
+   "elite": "NORMAL"
+  },
+  "Defence990282": {
+   "key": "Defence990282",
+   "category": 99,
+   "wave": 282,
+   "monsterGroup": [
+    "MonsterGroup813001",
+    "MonsterGroup813002",
+    "MonsterGroup813003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1128.0,
+   "elite": "NORMAL"
+  },
+  "Defence990283": {
+   "key": "Defence990283",
+   "category": 99,
+   "wave": 283,
+   "monsterGroup": [
+    "MonsterGroup814001",
+    "MonsterGroup814002",
+    "MonsterGroup814003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1132.0,
+   "elite": "NORMAL"
+  },
+  "Defence990284": {
+   "key": "Defence990284",
+   "category": 99,
+   "wave": 284,
+   "monsterGroup": [
+    "MonsterGroup815001",
+    "MonsterGroup815002",
+    "MonsterGroup815003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1136.0,
+   "elite": "BOSS"
+  },
+  "Defence990285": {
+   "key": "Defence990285",
+   "category": 99,
+   "wave": 285,
+   "monsterGroup": [
+    "MonsterGroup816001",
+    "MonsterGroup816002",
+    "MonsterGroup816003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1140.0,
+   "elite": "NORMAL"
+  },
+  "Defence990286": {
+   "key": "Defence990286",
+   "category": 99,
+   "wave": 286,
+   "monsterGroup": [
+    "MonsterGroup817001",
+    "MonsterGroup817002",
+    "MonsterGroup817003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1144.0,
+   "elite": "NORMAL"
+  },
+  "Defence990287": {
+   "key": "Defence990287",
+   "category": 99,
+   "wave": 287,
+   "monsterGroup": [
+    "MonsterGroup818001",
+    "MonsterGroup818002",
+    "MonsterGroup818003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1148.0,
+   "elite": "NORMAL"
+  },
+  "Defence990288": {
+   "key": "Defence990288",
+   "category": 99,
+   "wave": 288,
+   "monsterGroup": [
+    "MonsterGroup819001",
+    "MonsterGroup819002",
+    "MonsterGroup819003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1152.0,
+   "elite": "NORMAL"
+  },
+  "Defence990289": {
+   "key": "Defence990289",
+   "category": 99,
+   "wave": 289,
+   "monsterGroup": [
+    "MonsterGroup820001",
+    "MonsterGroup820002",
+    "MonsterGroup820003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1156.0,
+   "elite": "BOSS"
+  },
+  "Defence990290": {
+   "key": "Defence990290",
+   "category": 99,
+   "wave": 290,
+   "monsterGroup": [
+    "MonsterGroup821001",
+    "MonsterGroup821002",
+    "MonsterGroup821003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1160.0,
+   "elite": "NORMAL"
+  },
+  "Defence990291": {
+   "key": "Defence990291",
+   "category": 99,
+   "wave": 291,
+   "monsterGroup": [
+    "MonsterGroup822001",
+    "MonsterGroup822002",
+    "MonsterGroup822003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1164.0,
+   "elite": "NORMAL"
+  },
+  "Defence990292": {
+   "key": "Defence990292",
+   "category": 99,
+   "wave": 292,
+   "monsterGroup": [
+    "MonsterGroup823001",
+    "MonsterGroup823002",
+    "MonsterGroup823003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1168.0,
+   "elite": "NORMAL"
+  },
+  "Defence990293": {
+   "key": "Defence990293",
+   "category": 99,
+   "wave": 293,
+   "monsterGroup": [
+    "MonsterGroup824001",
+    "MonsterGroup824002",
+    "MonsterGroup824003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1172.0,
+   "elite": "NORMAL"
+  },
+  "Defence990294": {
+   "key": "Defence990294",
+   "category": 99,
+   "wave": 294,
+   "monsterGroup": [
+    "MonsterGroup825001",
+    "MonsterGroup825002",
+    "MonsterGroup825003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1176.0,
+   "elite": "BOSS"
+  },
+  "Defence990295": {
+   "key": "Defence990295",
+   "category": 99,
+   "wave": 295,
+   "monsterGroup": [
+    "MonsterGroup826001",
+    "MonsterGroup826002",
+    "MonsterGroup826003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1180.0,
+   "elite": "NORMAL"
+  },
+  "Defence990296": {
+   "key": "Defence990296",
+   "category": 99,
+   "wave": 296,
+   "monsterGroup": [
+    "MonsterGroup827001",
+    "MonsterGroup827002",
+    "MonsterGroup827003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1184.0,
+   "elite": "NORMAL"
+  },
+  "Defence990297": {
+   "key": "Defence990297",
+   "category": 99,
+   "wave": 297,
+   "monsterGroup": [
+    "MonsterGroup828001",
+    "MonsterGroup828002",
+    "MonsterGroup828003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1188.0,
+   "elite": "NORMAL"
+  },
+  "Defence990298": {
+   "key": "Defence990298",
+   "category": 99,
+   "wave": 298,
+   "monsterGroup": [
+    "MonsterGroup829001",
+    "MonsterGroup829002",
+    "MonsterGroup829003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1192.0,
+   "elite": "NORMAL"
+  },
+  "Defence990299": {
+   "key": "Defence990299",
+   "category": 99,
+   "wave": 299,
+   "monsterGroup": [
+    "MonsterGroup830001",
+    "MonsterGroup830002",
+    "MonsterGroup830003"
+   ],
+   "monsterLv": 999,
+   "monsterExp": 9,
+   "appearTime": 1196.0,
+   "elite": "BOSS"
+  }
+ }
+}

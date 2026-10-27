@@ -1,0 +1,231 @@
+{
+ "sheetName": "TableStoryDungeonData",
+ "tableIndex": 0,
+ "rows": {
+  "StoryDungeon00": {
+   "key": "StoryDungeon00",
+   "category": 0,
+   "mapData": "Story_1",
+   "image": "Unit000571",
+   "bgTile": "bg_00",
+   "rLv": 0,
+   "startLv": 9,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000570"
+   ],
+   "reward": [
+    "Item002003"
+   ],
+   "rewardCount": [
+    100
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon01": {
+   "key": "StoryDungeon01",
+   "category": 1,
+   "mapData": "Story_2",
+   "image": "Unit000572",
+   "bgTile": "bg_00",
+   "rLv": 0,
+   "startLv": 9,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570",
+    "Unit000571"
+   ],
+   "reward": [
+    "Item002003"
+   ],
+   "rewardCount": [
+    100
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon02": {
+   "key": "StoryDungeon02",
+   "category": 2,
+   "mapData": "Story_3",
+   "image": "Unit000573",
+   "bgTile": "bg_00",
+   "rLv": 8,
+   "startLv": 19,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570",
+    "Unit000571"
+   ],
+   "reward": [
+    "Item002003"
+   ],
+   "rewardCount": [
+    100
+   ],
+   "accumReward": "Item005002",
+   "accumRewardCount": 1
+  },
+  "StoryDungeon03": {
+   "key": "StoryDungeon03",
+   "category": 3,
+   "mapData": "Story_4",
+   "image": "Unit000582",
+   "bgTile": "bg_00",
+   "rLv": 13,
+   "startLv": 19,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570"
+   ],
+   "reward": [
+    "Item002003"
+   ],
+   "rewardCount": [
+    100
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon04": {
+   "key": "StoryDungeon04",
+   "category": 4,
+   "mapData": "Story_5",
+   "image": "Unit000574",
+   "bgTile": "bg_00",
+   "rLv": 18,
+   "startLv": 29,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570"
+   ],
+   "reward": [
+    "Item002003",
+    "Item002027"
+   ],
+   "rewardCount": [
+    100,
+    500
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon05": {
+   "key": "StoryDungeon05",
+   "category": 5,
+   "mapData": "Story_6",
+   "image": "Unit000577",
+   "bgTile": "bg_00",
+   "rLv": 23,
+   "startLv": 29,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570",
+    "Unit000574",
+    "Unit000575"
+   ],
+   "reward": [
+    "Item002003",
+    "Item002027"
+   ],
+   "rewardCount": [
+    100,
+    500
+   ],
+   "accumReward": "Item005003",
+   "accumRewardCount": 1
+  },
+  "StoryDungeon06": {
+   "key": "StoryDungeon06",
+   "category": 6,
+   "mapData": "Story_7",
+   "image": "Unit000007",
+   "bgTile": "bg_00",
+   "rLv": 28,
+   "startLv": 49,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570"
+   ],
+   "reward": [
+    "Item002003",
+    "Item002026"
+   ],
+   "rewardCount": [
+    100,
+    500
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon07": {
+   "key": "StoryDungeon07",
+   "category": 7,
+   "mapData": "Story_8",
+   "image": "Unit000019",
+   "bgTile": "bg_00",
+   "rLv": 33,
+   "startLv": 49,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570",
+    "Unit000571",
+    "Unit000583"
+   ],
+   "reward": [
+    "Item002003",
+    "Item002026"
+   ],
+   "rewardCount": [
+    100,
+    500
+   ],
+   "accumReward": "",
+   "accumRewardCount": 0
+  },
+  "StoryDungeon08": {
+   "key": "StoryDungeon08",
+   "category": 8,
+   "mapData": "Story_9",
+   "image": "Unit000045",
+   "bgTile": "bg_00",
+   "rLv": 38,
+   "startLv": 59,
+   "startHero": [
+    "Unit000579",
+    "Unit000580",
+    "Unit000581",
+    "Unit000570",
+    "Unit000571",
+    "Unit000583",
+    "Unit000574"
+   ],
+   "reward": [
+    "Item002003",
+    "Item002026"
+   ],
+   "rewardCount": [
+    100,
+    500
+   ],
+   "accumReward": "Item003045",
+   "accumRewardCount": 20
+  }
+ }
+}

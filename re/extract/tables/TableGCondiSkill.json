@@ -1,0 +1,94 @@
+{
+ "sheetName": "TableGCondiSkillData",
+ "tableIndex": 0,
+ "rows": {
+  "GCondiSkill000": {
+   "key": "GCondiSkill000",
+   "maxPt": 250,
+   "ptAmount": [
+    7,
+    1
+   ],
+   "condition": [
+    "SkillCondition015000",
+    "SkillCondition010000"
+   ],
+   "skill": "Skill801102",
+   "maxLevel": 3,
+   "bossPtMulti": 10,
+   "unit": "Unit000801",
+   "name": "LocalizeAbyssUI000041",
+   "desc": "LocalizeAbyssUI000035",
+   "image": "ui_824",
+   "imageLvMax": "ui_825",
+   "iconColor": "FDA625",
+   "effectColor": "FCEA10"
+  },
+  "GCondiSkill001": {
+   "key": "GCondiSkill001",
+   "maxPt": 250,
+   "ptAmount": [
+    3,
+    1
+   ],
+   "condition": [
+    "SkillCondition015003",
+    "SkillCondition010000"
+   ],
+   "skill": "Skill802101",
+   "maxLevel": 3,
+   "bossPtMulti": 10,
+   "unit": "Unit000802",
+   "name": "LocalizeAbyssUI000041",
+   "desc": "LocalizeAbyssUI000043",
+   "image": "ui_864",
+   "imageLvMax": "ui_865",
+   "iconColor": "DE448A",
+   "effectColor": "7D1D42"
+  },
+  "GCondiSkill002": {
+   "key": "GCondiSkill002",
+   "maxPt": 250,
+   "ptAmount": [
+    3,
+    1
+   ],
+   "condition": [
+    "SkillCondition015001",
+    "SkillCondition010000"
+   ],
+   "skill": "",
+   "maxLevel": 3,
+   "bossPtMulti": 10,
+   "unit": "Unit000803",
+   "name": "LocalizeAbyssUI000041",
+   "desc": "LocalizeAbyssUI000044",
+   "image": "ui_887",
+   "imageLvMax": "ui_888",
+   "iconColor": "DE448A",
+   "effectColor": "7D1D42"
+  },
+  "GCondiSkill003": {
+   "key": "GCondiSkill003",
+   "maxPt": 250,
+   "ptAmount": [
+    2,
+    1
+   ],
+   "condition": [
+    "SkillCondition015002",
+    "SkillCondition010000"
+   ],
+   "skill": "Skill804010",
+   "maxLevel": 3,
+   "bossPtMulti": 10,
+   "unit": "Unit000804",
+   "name": "LocalizeAbyssUI000041",
+   "desc": "LocalizeAbyssUI000045",
+   "image": "ui_901",
+   "imageLvMax": "ui_902",
+   "iconColor": "DE448A",
+   "effectColor": "7D1D42"
+  }
+ }
+}

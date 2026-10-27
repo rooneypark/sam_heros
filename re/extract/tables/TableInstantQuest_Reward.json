@@ -1,0 +1,568 @@
+{
+ "sheetName": "TableInstantQuest_RewardData",
+ "tableIndex": 0,
+ "rows": {
+  "InstantQuest_Reward000000": {
+   "key": "InstantQuest_Reward000000",
+   "category": 0,
+   "index": 0,
+   "score": 20,
+   "passExp": 20,
+   "rewardKeyList": [
+    "Item002003",
+    "Item004001"
+   ],
+   "amountList": [
+    25.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward000001": {
+   "key": "InstantQuest_Reward000001",
+   "category": 0,
+   "index": 1,
+   "score": 40,
+   "passExp": 30,
+   "rewardKeyList": [
+    "Item009013",
+    "Item005000"
+   ],
+   "amountList": [
+    1.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward000002": {
+   "key": "InstantQuest_Reward000002",
+   "category": 0,
+   "index": 2,
+   "score": 60,
+   "passExp": 40,
+   "rewardKeyList": [
+    "Item002003",
+    "Item004001"
+   ],
+   "amountList": [
+    25.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward000003": {
+   "key": "InstantQuest_Reward000003",
+   "category": 0,
+   "index": 3,
+   "score": 80,
+   "passExp": 60,
+   "rewardKeyList": [
+    "Item002003",
+    "Item005001"
+   ],
+   "amountList": [
+    50.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward000004": {
+   "key": "InstantQuest_Reward000004",
+   "category": 0,
+   "index": 4,
+   "score": 100,
+   "passExp": 100,
+   "rewardKeyList": [
+    "Item002005",
+    "Item004002"
+   ],
+   "amountList": [
+    10.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward001000": {
+   "key": "InstantQuest_Reward001000",
+   "category": 1,
+   "index": 0,
+   "score": 20,
+   "passExp": 80,
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    50.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward001001": {
+   "key": "InstantQuest_Reward001001",
+   "category": 1,
+   "index": 1,
+   "score": 40,
+   "passExp": 160,
+   "rewardKeyList": [
+    "Item002003",
+    "Item000024"
+   ],
+   "amountList": [
+    100.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward001002": {
+   "key": "InstantQuest_Reward001002",
+   "category": 1,
+   "index": 2,
+   "score": 60,
+   "passExp": 240,
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    100.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward001003": {
+   "key": "InstantQuest_Reward001003",
+   "category": 1,
+   "index": 3,
+   "score": 80,
+   "passExp": 320,
+   "rewardKeyList": [
+    "Item002003",
+    "Item009013"
+   ],
+   "amountList": [
+    150.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward001004": {
+   "key": "InstantQuest_Reward001004",
+   "category": 1,
+   "index": 4,
+   "score": 100,
+   "passExp": 400,
+   "rewardKeyList": [
+    "Item002005",
+    "Item004003"
+   ],
+   "amountList": [
+    30.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward002000": {
+   "key": "InstantQuest_Reward002000",
+   "category": 2,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009083"
+   ],
+   "amountList": [
+    3.0
+   ]
+  },
+  "InstantQuest_Reward002001": {
+   "key": "InstantQuest_Reward002001",
+   "category": 2,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009083"
+   ],
+   "amountList": [
+    3.0
+   ]
+  },
+  "InstantQuest_Reward002002": {
+   "key": "InstantQuest_Reward002002",
+   "category": 2,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009083"
+   ],
+   "amountList": [
+    3.0
+   ]
+  },
+  "InstantQuest_Reward002003": {
+   "key": "InstantQuest_Reward002003",
+   "category": 2,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009083"
+   ],
+   "amountList": [
+    3.0
+   ]
+  },
+  "InstantQuest_Reward002004": {
+   "key": "InstantQuest_Reward002004",
+   "category": 2,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009083"
+   ],
+   "amountList": [
+    3.0
+   ]
+  },
+  "InstantQuest_Reward003000": {
+   "key": "InstantQuest_Reward003000",
+   "category": 3,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009087"
+   ],
+   "amountList": [
+    1.0
+   ]
+  },
+  "InstantQuest_Reward003001": {
+   "key": "InstantQuest_Reward003001",
+   "category": 3,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003"
+   ],
+   "amountList": [
+    25.0
+   ]
+  },
+  "InstantQuest_Reward003002": {
+   "key": "InstantQuest_Reward003002",
+   "category": 3,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009087"
+   ],
+   "amountList": [
+    1.0
+   ]
+  },
+  "InstantQuest_Reward003003": {
+   "key": "InstantQuest_Reward003003",
+   "category": 3,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003"
+   ],
+   "amountList": [
+    25.0
+   ]
+  },
+  "InstantQuest_Reward003004": {
+   "key": "InstantQuest_Reward003004",
+   "category": 3,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009087"
+   ],
+   "amountList": [
+    1.0
+   ]
+  },
+  "InstantQuest_Reward004000": {
+   "key": "InstantQuest_Reward004000",
+   "category": 4,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009095"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward004001": {
+   "key": "InstantQuest_Reward004001",
+   "category": 4,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009095"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward004002": {
+   "key": "InstantQuest_Reward004002",
+   "category": 4,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009095",
+    "Item009096"
+   ],
+   "amountList": [
+    40.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward004003": {
+   "key": "InstantQuest_Reward004003",
+   "category": 4,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009095"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward004004": {
+   "key": "InstantQuest_Reward004004",
+   "category": 4,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009095",
+    "Item009096"
+   ],
+   "amountList": [
+    40.0,
+    2.0
+   ]
+  },
+  "InstantQuest_Reward005000": {
+   "key": "InstantQuest_Reward005000",
+   "category": 5,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003",
+    "Item007002"
+   ],
+   "amountList": [
+    50.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward005001": {
+   "key": "InstantQuest_Reward005001",
+   "category": 5,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003",
+    "Item007002"
+   ],
+   "amountList": [
+    50.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward005002": {
+   "key": "InstantQuest_Reward005002",
+   "category": 5,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003",
+    "Item007002"
+   ],
+   "amountList": [
+    100.0,
+    2.0
+   ]
+  },
+  "InstantQuest_Reward005003": {
+   "key": "InstantQuest_Reward005003",
+   "category": 5,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item002003",
+    "Item007002"
+   ],
+   "amountList": [
+    100.0,
+    2.0
+   ]
+  },
+  "InstantQuest_Reward005004": {
+   "key": "InstantQuest_Reward005004",
+   "category": 5,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009079",
+    "Item002003",
+    "Item007002"
+   ],
+   "amountList": [
+    1.0,
+    100.0,
+    2.0
+   ]
+  },
+  "InstantQuest_Reward006000": {
+   "key": "InstantQuest_Reward006000",
+   "category": 6,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009098"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward006001": {
+   "key": "InstantQuest_Reward006001",
+   "category": 6,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009098"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward006002": {
+   "key": "InstantQuest_Reward006002",
+   "category": 6,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009098"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward006003": {
+   "key": "InstantQuest_Reward006003",
+   "category": 6,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009098"
+   ],
+   "amountList": [
+    40.0
+   ]
+  },
+  "InstantQuest_Reward006004": {
+   "key": "InstantQuest_Reward006004",
+   "category": 6,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009098",
+    "Item002003"
+   ],
+   "amountList": [
+    40.0,
+    100.0
+   ]
+  },
+  "InstantQuest_Reward007000": {
+   "key": "InstantQuest_Reward007000",
+   "category": 7,
+   "index": 0,
+   "score": 20,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009100"
+   ],
+   "amountList": [
+    20.0
+   ]
+  },
+  "InstantQuest_Reward007001": {
+   "key": "InstantQuest_Reward007001",
+   "category": 7,
+   "index": 1,
+   "score": 40,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009100"
+   ],
+   "amountList": [
+    20.0
+   ]
+  },
+  "InstantQuest_Reward007002": {
+   "key": "InstantQuest_Reward007002",
+   "category": 7,
+   "index": 2,
+   "score": 60,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009100",
+    "Item009099"
+   ],
+   "amountList": [
+    20.0,
+    1.0
+   ]
+  },
+  "InstantQuest_Reward007003": {
+   "key": "InstantQuest_Reward007003",
+   "category": 7,
+   "index": 3,
+   "score": 80,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009100"
+   ],
+   "amountList": [
+    20.0
+   ]
+  },
+  "InstantQuest_Reward007004": {
+   "key": "InstantQuest_Reward007004",
+   "category": 7,
+   "index": 4,
+   "score": 100,
+   "passExp": 0,
+   "rewardKeyList": [
+    "Item009100",
+    "Item009099"
+   ],
+   "amountList": [
+    20.0,
+    1.0
+   ]
+  }
+ }
+}

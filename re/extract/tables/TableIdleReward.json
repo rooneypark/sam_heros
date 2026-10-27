@@ -1,0 +1,9544 @@
+{
+ "sheetName": "TableIdleRewardData",
+ "tableIndex": 0,
+ "rows": {
+  "IdleReward000000": {
+   "key": "IdleReward000000",
+   "lv": 0,
+   "reqExp": 50,
+   "dailyReward": "",
+   "lvUpAmount": 0,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    3,
+    5
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    0,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000001": {
+   "key": "IdleReward000001",
+   "lv": 1,
+   "reqExp": 50,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    3,
+    5
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000002": {
+   "key": "IdleReward000002",
+   "lv": 2,
+   "reqExp": 50,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    3,
+    6
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000003": {
+   "key": "IdleReward000003",
+   "lv": 3,
+   "reqExp": 50,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    3,
+    6
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000004": {
+   "key": "IdleReward000004",
+   "lv": 4,
+   "reqExp": 50,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    6
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000005": {
+   "key": "IdleReward000005",
+   "lv": 5,
+   "reqExp": 50,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    6
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000006": {
+   "key": "IdleReward000006",
+   "lv": 6,
+   "reqExp": 50,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    6
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000007": {
+   "key": "IdleReward000007",
+   "lv": 7,
+   "reqExp": 50,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    7
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000008": {
+   "key": "IdleReward000008",
+   "lv": 8,
+   "reqExp": 50,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    7
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000009": {
+   "key": "IdleReward000009",
+   "lv": 9,
+   "reqExp": 50,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    4,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000010": {
+   "key": "IdleReward000010",
+   "lv": 10,
+   "reqExp": 55,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    5,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000011": {
+   "key": "IdleReward000011",
+   "lv": 11,
+   "reqExp": 55,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    2,
+    5,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000012": {
+   "key": "IdleReward000012",
+   "lv": 12,
+   "reqExp": 55,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    5,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000013": {
+   "key": "IdleReward000013",
+   "lv": 13,
+   "reqExp": 55,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    5,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000014": {
+   "key": "IdleReward000014",
+   "lv": 14,
+   "reqExp": 55,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    5,
+    8
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000015": {
+   "key": "IdleReward000015",
+   "lv": 15,
+   "reqExp": 55,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    5,
+    9
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000016": {
+   "key": "IdleReward000016",
+   "lv": 16,
+   "reqExp": 55,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    5,
+    9
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000017": {
+   "key": "IdleReward000017",
+   "lv": 17,
+   "reqExp": 55,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    9
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000018": {
+   "key": "IdleReward000018",
+   "lv": 18,
+   "reqExp": 55,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    9
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000019": {
+   "key": "IdleReward000019",
+   "lv": 19,
+   "reqExp": 55,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    9
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    15,
+    11,
+    0,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000020": {
+   "key": "IdleReward000020",
+   "lv": 20,
+   "reqExp": 60,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000021": {
+   "key": "IdleReward000021",
+   "lv": 21,
+   "reqExp": 60,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000022": {
+   "key": "IdleReward000022",
+   "lv": 22,
+   "reqExp": 60,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    6,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000023": {
+   "key": "IdleReward000023",
+   "lv": 23,
+   "reqExp": 60,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000024": {
+   "key": "IdleReward000024",
+   "lv": 24,
+   "reqExp": 60,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000025": {
+   "key": "IdleReward000025",
+   "lv": 25,
+   "reqExp": 60,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    10
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000026": {
+   "key": "IdleReward000026",
+   "lv": 26,
+   "reqExp": 60,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    11
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000027": {
+   "key": "IdleReward000027",
+   "lv": 27,
+   "reqExp": 60,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    11
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000028": {
+   "key": "IdleReward000028",
+   "lv": 28,
+   "reqExp": 60,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    7,
+    11
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000029": {
+   "key": "IdleReward000029",
+   "lv": 29,
+   "reqExp": 60,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    3,
+    8,
+    11
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    20,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000030": {
+   "key": "IdleReward000030",
+   "lv": 30,
+   "reqExp": 65,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    11
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000031": {
+   "key": "IdleReward000031",
+   "lv": 31,
+   "reqExp": 65,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    12
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000032": {
+   "key": "IdleReward000032",
+   "lv": 32,
+   "reqExp": 65,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    12
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000033": {
+   "key": "IdleReward000033",
+   "lv": 33,
+   "reqExp": 65,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000034": {
+   "key": "IdleReward000034",
+   "lv": 34,
+   "reqExp": 65,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000035": {
+   "key": "IdleReward000035",
+   "lv": 35,
+   "reqExp": 65,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000036": {
+   "key": "IdleReward000036",
+   "lv": 36,
+   "reqExp": 65,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000037": {
+   "key": "IdleReward000037",
+   "lv": 37,
+   "reqExp": 65,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000038": {
+   "key": "IdleReward000038",
+   "lv": 38,
+   "reqExp": 65,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    13
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000039": {
+   "key": "IdleReward000039",
+   "lv": 39,
+   "reqExp": 65,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    8,
+    14
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000040": {
+   "key": "IdleReward000040",
+   "lv": 40,
+   "reqExp": 70,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    9,
+    14
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000041": {
+   "key": "IdleReward000041",
+   "lv": 41,
+   "reqExp": 70,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    4,
+    9,
+    14
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000042": {
+   "key": "IdleReward000042",
+   "lv": 42,
+   "reqExp": 70,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    9,
+    14
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000043": {
+   "key": "IdleReward000043",
+   "lv": 43,
+   "reqExp": 70,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    9,
+    14
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000044": {
+   "key": "IdleReward000044",
+   "lv": 44,
+   "reqExp": 70,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    9,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000045": {
+   "key": "IdleReward000045",
+   "lv": 45,
+   "reqExp": 70,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    9,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000046": {
+   "key": "IdleReward000046",
+   "lv": 46,
+   "reqExp": 70,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000047": {
+   "key": "IdleReward000047",
+   "lv": 47,
+   "reqExp": 70,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000048": {
+   "key": "IdleReward000048",
+   "lv": 48,
+   "reqExp": 70,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000049": {
+   "key": "IdleReward000049",
+   "lv": 49,
+   "reqExp": 70,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    15
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    30,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000050": {
+   "key": "IdleReward000050",
+   "lv": 50,
+   "reqExp": 75,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    16
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000051": {
+   "key": "IdleReward000051",
+   "lv": 51,
+   "reqExp": 75,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    16
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000052": {
+   "key": "IdleReward000052",
+   "lv": 52,
+   "reqExp": 75,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    10,
+    16
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000053": {
+   "key": "IdleReward000053",
+   "lv": 53,
+   "reqExp": 75,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    16
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000054": {
+   "key": "IdleReward000054",
+   "lv": 54,
+   "reqExp": 75,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    16
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000055": {
+   "key": "IdleReward000055",
+   "lv": 55,
+   "reqExp": 75,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    17
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000056": {
+   "key": "IdleReward000056",
+   "lv": 56,
+   "reqExp": 75,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    17
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000057": {
+   "key": "IdleReward000057",
+   "lv": 57,
+   "reqExp": 75,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000058": {
+   "key": "IdleReward000058",
+   "lv": 58,
+   "reqExp": 75,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    11,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000059": {
+   "key": "IdleReward000059",
+   "lv": 59,
+   "reqExp": 75,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    5,
+    12,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    40,
+    14,
+    5,
+    0
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000060": {
+   "key": "IdleReward000060",
+   "lv": 60,
+   "reqExp": 80,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    12,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000061": {
+   "key": "IdleReward000061",
+   "lv": 61,
+   "reqExp": 80,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    12,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000062": {
+   "key": "IdleReward000062",
+   "lv": 62,
+   "reqExp": 80,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    12,
+    18
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000063": {
+   "key": "IdleReward000063",
+   "lv": 63,
+   "reqExp": 80,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    12,
+    19
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000064": {
+   "key": "IdleReward000064",
+   "lv": 64,
+   "reqExp": 80,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    12,
+    19
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000065": {
+   "key": "IdleReward000065",
+   "lv": 65,
+   "reqExp": 80,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    19
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000066": {
+   "key": "IdleReward000066",
+   "lv": 66,
+   "reqExp": 80,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    19
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000067": {
+   "key": "IdleReward000067",
+   "lv": 67,
+   "reqExp": 80,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    19
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000068": {
+   "key": "IdleReward000068",
+   "lv": 68,
+   "reqExp": 80,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000069": {
+   "key": "IdleReward000069",
+   "lv": 69,
+   "reqExp": 80,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000070": {
+   "key": "IdleReward000070",
+   "lv": 70,
+   "reqExp": 85,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000071": {
+   "key": "IdleReward000071",
+   "lv": 71,
+   "reqExp": 85,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    6,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000072": {
+   "key": "IdleReward000072",
+   "lv": 72,
+   "reqExp": 85,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000073": {
+   "key": "IdleReward000073",
+   "lv": 73,
+   "reqExp": 85,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    13,
+    20
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000074": {
+   "key": "IdleReward000074",
+   "lv": 74,
+   "reqExp": 85,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    13,
+    21
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000075": {
+   "key": "IdleReward000075",
+   "lv": 75,
+   "reqExp": 85,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    13,
+    21
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000076": {
+   "key": "IdleReward000076",
+   "lv": 76,
+   "reqExp": 85,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    21
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000077": {
+   "key": "IdleReward000077",
+   "lv": 77,
+   "reqExp": 85,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    21
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000078": {
+   "key": "IdleReward000078",
+   "lv": 78,
+   "reqExp": 85,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    21
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000079": {
+   "key": "IdleReward000079",
+   "lv": 79,
+   "reqExp": 85,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    22
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000080": {
+   "key": "IdleReward000080",
+   "lv": 80,
+   "reqExp": 90,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    22
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    16,
+    5,
+    2
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000081": {
+   "key": "IdleReward000081",
+   "lv": 81,
+   "reqExp": 90,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    14,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000082": {
+   "key": "IdleReward000082",
+   "lv": 82,
+   "reqExp": 90,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    15,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000083": {
+   "key": "IdleReward000083",
+   "lv": 83,
+   "reqExp": 90,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    7,
+    15,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000084": {
+   "key": "IdleReward000084",
+   "lv": 84,
+   "reqExp": 90,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    15,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000085": {
+   "key": "IdleReward000085",
+   "lv": 85,
+   "reqExp": 90,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    15,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000086": {
+   "key": "IdleReward000086",
+   "lv": 86,
+   "reqExp": 90,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    15,
+    23
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000087": {
+   "key": "IdleReward000087",
+   "lv": 87,
+   "reqExp": 90,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    15,
+    24
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000088": {
+   "key": "IdleReward000088",
+   "lv": 88,
+   "reqExp": 90,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    15,
+    24
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000089": {
+   "key": "IdleReward000089",
+   "lv": 89,
+   "reqExp": 90,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    24
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000090": {
+   "key": "IdleReward000090",
+   "lv": 90,
+   "reqExp": 95,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    24
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000091": {
+   "key": "IdleReward000091",
+   "lv": 91,
+   "reqExp": 95,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    24
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000092": {
+   "key": "IdleReward000092",
+   "lv": 92,
+   "reqExp": 95,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000093": {
+   "key": "IdleReward000093",
+   "lv": 93,
+   "reqExp": 95,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000094": {
+   "key": "IdleReward000094",
+   "lv": 94,
+   "reqExp": 95,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    16,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000095": {
+   "key": "IdleReward000095",
+   "lv": 95,
+   "reqExp": 95,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000096": {
+   "key": "IdleReward000096",
+   "lv": 96,
+   "reqExp": 95,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000097": {
+   "key": "IdleReward000097",
+   "lv": 97,
+   "reqExp": 95,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    25
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000098": {
+   "key": "IdleReward000098",
+   "lv": 98,
+   "reqExp": 95,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    26
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000099": {
+   "key": "IdleReward000099",
+   "lv": 99,
+   "reqExp": 95,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    26
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000100": {
+   "key": "IdleReward000100",
+   "lv": 100,
+   "reqExp": 100,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    17,
+    26
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000101": {
+   "key": "IdleReward000101",
+   "lv": 101,
+   "reqExp": 100,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    8,
+    18,
+    26
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000102": {
+   "key": "IdleReward000102",
+   "lv": 102,
+   "reqExp": 100,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    26
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000103": {
+   "key": "IdleReward000103",
+   "lv": 103,
+   "reqExp": 100,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000104": {
+   "key": "IdleReward000104",
+   "lv": 104,
+   "reqExp": 100,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000105": {
+   "key": "IdleReward000105",
+   "lv": 105,
+   "reqExp": 100,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000106": {
+   "key": "IdleReward000106",
+   "lv": 106,
+   "reqExp": 100,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000107": {
+   "key": "IdleReward000107",
+   "lv": 107,
+   "reqExp": 100,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000108": {
+   "key": "IdleReward000108",
+   "lv": 108,
+   "reqExp": 100,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    27
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000109": {
+   "key": "IdleReward000109",
+   "lv": 109,
+   "reqExp": 100,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000110": {
+   "key": "IdleReward000110",
+   "lv": 110,
+   "reqExp": 105,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000111": {
+   "key": "IdleReward000111",
+   "lv": 111,
+   "reqExp": 105,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000112": {
+   "key": "IdleReward000112",
+   "lv": 112,
+   "reqExp": 105,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000113": {
+   "key": "IdleReward000113",
+   "lv": 113,
+   "reqExp": 105,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000114": {
+   "key": "IdleReward000114",
+   "lv": 114,
+   "reqExp": 105,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000115": {
+   "key": "IdleReward000115",
+   "lv": 115,
+   "reqExp": 105,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000116": {
+   "key": "IdleReward000116",
+   "lv": 116,
+   "reqExp": 105,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000117": {
+   "key": "IdleReward000117",
+   "lv": 117,
+   "reqExp": 105,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000118": {
+   "key": "IdleReward000118",
+   "lv": 118,
+   "reqExp": 105,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000119": {
+   "key": "IdleReward000119",
+   "lv": 119,
+   "reqExp": 105,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000120": {
+   "key": "IdleReward000120",
+   "lv": 120,
+   "reqExp": 110,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000121": {
+   "key": "IdleReward000121",
+   "lv": 121,
+   "reqExp": 110,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000122": {
+   "key": "IdleReward000122",
+   "lv": 122,
+   "reqExp": 110,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000123": {
+   "key": "IdleReward000123",
+   "lv": 123,
+   "reqExp": 110,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000124": {
+   "key": "IdleReward000124",
+   "lv": 124,
+   "reqExp": 110,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000125": {
+   "key": "IdleReward000125",
+   "lv": 125,
+   "reqExp": 110,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000126": {
+   "key": "IdleReward000126",
+   "lv": 126,
+   "reqExp": 110,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    28
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000127": {
+   "key": "IdleReward000127",
+   "lv": 127,
+   "reqExp": 110,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000128": {
+   "key": "IdleReward000128",
+   "lv": 128,
+   "reqExp": 110,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000129": {
+   "key": "IdleReward000129",
+   "lv": 129,
+   "reqExp": 110,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    18,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000130": {
+   "key": "IdleReward000130",
+   "lv": 130,
+   "reqExp": 115,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000131": {
+   "key": "IdleReward000131",
+   "lv": 131,
+   "reqExp": 115,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000132": {
+   "key": "IdleReward000132",
+   "lv": 132,
+   "reqExp": 115,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000133": {
+   "key": "IdleReward000133",
+   "lv": 133,
+   "reqExp": 115,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000134": {
+   "key": "IdleReward000134",
+   "lv": 134,
+   "reqExp": 115,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000135": {
+   "key": "IdleReward000135",
+   "lv": 135,
+   "reqExp": 115,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    9,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000136": {
+   "key": "IdleReward000136",
+   "lv": 136,
+   "reqExp": 115,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000137": {
+   "key": "IdleReward000137",
+   "lv": 137,
+   "reqExp": 115,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000138": {
+   "key": "IdleReward000138",
+   "lv": 138,
+   "reqExp": 115,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000139": {
+   "key": "IdleReward000139",
+   "lv": 139,
+   "reqExp": 115,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000140": {
+   "key": "IdleReward000140",
+   "lv": 140,
+   "reqExp": 120,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000141": {
+   "key": "IdleReward000141",
+   "lv": 141,
+   "reqExp": 120,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    29
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000142": {
+   "key": "IdleReward000142",
+   "lv": 142,
+   "reqExp": 120,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000143": {
+   "key": "IdleReward000143",
+   "lv": 143,
+   "reqExp": 120,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000144": {
+   "key": "IdleReward000144",
+   "lv": 144,
+   "reqExp": 120,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000145": {
+   "key": "IdleReward000145",
+   "lv": 145,
+   "reqExp": 120,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000146": {
+   "key": "IdleReward000146",
+   "lv": 146,
+   "reqExp": 120,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000147": {
+   "key": "IdleReward000147",
+   "lv": 147,
+   "reqExp": 120,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    19,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000148": {
+   "key": "IdleReward000148",
+   "lv": 148,
+   "reqExp": 120,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000149": {
+   "key": "IdleReward000149",
+   "lv": 149,
+   "reqExp": 120,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000150": {
+   "key": "IdleReward000150",
+   "lv": 150,
+   "reqExp": 125,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000151": {
+   "key": "IdleReward000151",
+   "lv": 151,
+   "reqExp": 125,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000152": {
+   "key": "IdleReward000152",
+   "lv": 152,
+   "reqExp": 125,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000153": {
+   "key": "IdleReward000153",
+   "lv": 153,
+   "reqExp": 125,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000154": {
+   "key": "IdleReward000154",
+   "lv": 154,
+   "reqExp": 125,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    30
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000155": {
+   "key": "IdleReward000155",
+   "lv": 155,
+   "reqExp": 125,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000156": {
+   "key": "IdleReward000156",
+   "lv": 156,
+   "reqExp": 125,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000157": {
+   "key": "IdleReward000157",
+   "lv": 157,
+   "reqExp": 125,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000158": {
+   "key": "IdleReward000158",
+   "lv": 158,
+   "reqExp": 125,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000159": {
+   "key": "IdleReward000159",
+   "lv": 159,
+   "reqExp": 125,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000160": {
+   "key": "IdleReward000160",
+   "lv": 160,
+   "reqExp": 130,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000161": {
+   "key": "IdleReward000161",
+   "lv": 161,
+   "reqExp": 130,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000162": {
+   "key": "IdleReward000162",
+   "lv": 162,
+   "reqExp": 130,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000163": {
+   "key": "IdleReward000163",
+   "lv": 163,
+   "reqExp": 130,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000164": {
+   "key": "IdleReward000164",
+   "lv": 164,
+   "reqExp": 130,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000165": {
+   "key": "IdleReward000165",
+   "lv": 165,
+   "reqExp": 130,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000166": {
+   "key": "IdleReward000166",
+   "lv": 166,
+   "reqExp": 130,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000167": {
+   "key": "IdleReward000167",
+   "lv": 167,
+   "reqExp": 130,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000168": {
+   "key": "IdleReward000168",
+   "lv": 168,
+   "reqExp": 130,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000169": {
+   "key": "IdleReward000169",
+   "lv": 169,
+   "reqExp": 130,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    31
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000170": {
+   "key": "IdleReward000170",
+   "lv": 170,
+   "reqExp": 135,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000171": {
+   "key": "IdleReward000171",
+   "lv": 171,
+   "reqExp": 135,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000172": {
+   "key": "IdleReward000172",
+   "lv": 172,
+   "reqExp": 135,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000173": {
+   "key": "IdleReward000173",
+   "lv": 173,
+   "reqExp": 135,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000174": {
+   "key": "IdleReward000174",
+   "lv": 174,
+   "reqExp": 135,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000175": {
+   "key": "IdleReward000175",
+   "lv": 175,
+   "reqExp": 135,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    32
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000176": {
+   "key": "IdleReward000176",
+   "lv": 176,
+   "reqExp": 135,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000177": {
+   "key": "IdleReward000177",
+   "lv": 177,
+   "reqExp": 135,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000178": {
+   "key": "IdleReward000178",
+   "lv": 178,
+   "reqExp": 135,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    20,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000179": {
+   "key": "IdleReward000179",
+   "lv": 179,
+   "reqExp": 135,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    20,
+    7,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000180": {
+   "key": "IdleReward000180",
+   "lv": 180,
+   "reqExp": 140,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000181": {
+   "key": "IdleReward000181",
+   "lv": 181,
+   "reqExp": 140,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000182": {
+   "key": "IdleReward000182",
+   "lv": 182,
+   "reqExp": 140,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000183": {
+   "key": "IdleReward000183",
+   "lv": 183,
+   "reqExp": 140,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000184": {
+   "key": "IdleReward000184",
+   "lv": 184,
+   "reqExp": 140,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000185": {
+   "key": "IdleReward000185",
+   "lv": 185,
+   "reqExp": 140,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000186": {
+   "key": "IdleReward000186",
+   "lv": 186,
+   "reqExp": 140,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000187": {
+   "key": "IdleReward000187",
+   "lv": 187,
+   "reqExp": 140,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000188": {
+   "key": "IdleReward000188",
+   "lv": 188,
+   "reqExp": 140,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000189": {
+   "key": "IdleReward000189",
+   "lv": 189,
+   "reqExp": 140,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000190": {
+   "key": "IdleReward000190",
+   "lv": 190,
+   "reqExp": 145,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000191": {
+   "key": "IdleReward000191",
+   "lv": 191,
+   "reqExp": 145,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000192": {
+   "key": "IdleReward000192",
+   "lv": 192,
+   "reqExp": 145,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000193": {
+   "key": "IdleReward000193",
+   "lv": 193,
+   "reqExp": 145,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    33
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000194": {
+   "key": "IdleReward000194",
+   "lv": 194,
+   "reqExp": 145,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000195": {
+   "key": "IdleReward000195",
+   "lv": 195,
+   "reqExp": 145,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000196": {
+   "key": "IdleReward000196",
+   "lv": 196,
+   "reqExp": 145,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    21,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000197": {
+   "key": "IdleReward000197",
+   "lv": 197,
+   "reqExp": 145,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000198": {
+   "key": "IdleReward000198",
+   "lv": 198,
+   "reqExp": 145,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000199": {
+   "key": "IdleReward000199",
+   "lv": 199,
+   "reqExp": 145,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000200": {
+   "key": "IdleReward000200",
+   "lv": 200,
+   "reqExp": 150,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000201": {
+   "key": "IdleReward000201",
+   "lv": 201,
+   "reqExp": 150,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000202": {
+   "key": "IdleReward000202",
+   "lv": 202,
+   "reqExp": 150,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000203": {
+   "key": "IdleReward000203",
+   "lv": 203,
+   "reqExp": 150,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000204": {
+   "key": "IdleReward000204",
+   "lv": 204,
+   "reqExp": 150,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000205": {
+   "key": "IdleReward000205",
+   "lv": 205,
+   "reqExp": 150,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000206": {
+   "key": "IdleReward000206",
+   "lv": 206,
+   "reqExp": 150,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000207": {
+   "key": "IdleReward000207",
+   "lv": 207,
+   "reqExp": 150,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000208": {
+   "key": "IdleReward000208",
+   "lv": 208,
+   "reqExp": 150,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000209": {
+   "key": "IdleReward000209",
+   "lv": 209,
+   "reqExp": 150,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    34
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000210": {
+   "key": "IdleReward000210",
+   "lv": 210,
+   "reqExp": 155,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000211": {
+   "key": "IdleReward000211",
+   "lv": 211,
+   "reqExp": 155,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000212": {
+   "key": "IdleReward000212",
+   "lv": 212,
+   "reqExp": 155,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000213": {
+   "key": "IdleReward000213",
+   "lv": 213,
+   "reqExp": 155,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000214": {
+   "key": "IdleReward000214",
+   "lv": 214,
+   "reqExp": 155,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000215": {
+   "key": "IdleReward000215",
+   "lv": 215,
+   "reqExp": 155,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000216": {
+   "key": "IdleReward000216",
+   "lv": 216,
+   "reqExp": 155,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000217": {
+   "key": "IdleReward000217",
+   "lv": 217,
+   "reqExp": 155,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000218": {
+   "key": "IdleReward000218",
+   "lv": 218,
+   "reqExp": 155,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000219": {
+   "key": "IdleReward000219",
+   "lv": 219,
+   "reqExp": 155,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000220": {
+   "key": "IdleReward000220",
+   "lv": 220,
+   "reqExp": 160,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000221": {
+   "key": "IdleReward000221",
+   "lv": 221,
+   "reqExp": 160,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000222": {
+   "key": "IdleReward000222",
+   "lv": 222,
+   "reqExp": 160,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000223": {
+   "key": "IdleReward000223",
+   "lv": 223,
+   "reqExp": 160,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000224": {
+   "key": "IdleReward000224",
+   "lv": 224,
+   "reqExp": 160,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    22,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000225": {
+   "key": "IdleReward000225",
+   "lv": 225,
+   "reqExp": 160,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000226": {
+   "key": "IdleReward000226",
+   "lv": 226,
+   "reqExp": 160,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000227": {
+   "key": "IdleReward000227",
+   "lv": 227,
+   "reqExp": 160,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000228": {
+   "key": "IdleReward000228",
+   "lv": 228,
+   "reqExp": 160,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000229": {
+   "key": "IdleReward000229",
+   "lv": 229,
+   "reqExp": 160,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    10,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000230": {
+   "key": "IdleReward000230",
+   "lv": 230,
+   "reqExp": 165,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000231": {
+   "key": "IdleReward000231",
+   "lv": 231,
+   "reqExp": 165,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000232": {
+   "key": "IdleReward000232",
+   "lv": 232,
+   "reqExp": 165,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000233": {
+   "key": "IdleReward000233",
+   "lv": 233,
+   "reqExp": 165,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000234": {
+   "key": "IdleReward000234",
+   "lv": 234,
+   "reqExp": 165,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000235": {
+   "key": "IdleReward000235",
+   "lv": 235,
+   "reqExp": 165,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000236": {
+   "key": "IdleReward000236",
+   "lv": 236,
+   "reqExp": 165,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000237": {
+   "key": "IdleReward000237",
+   "lv": 237,
+   "reqExp": 165,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000238": {
+   "key": "IdleReward000238",
+   "lv": 238,
+   "reqExp": 165,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000239": {
+   "key": "IdleReward000239",
+   "lv": 239,
+   "reqExp": 165,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    35
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000240": {
+   "key": "IdleReward000240",
+   "lv": 240,
+   "reqExp": 170,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000241": {
+   "key": "IdleReward000241",
+   "lv": 241,
+   "reqExp": 170,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000242": {
+   "key": "IdleReward000242",
+   "lv": 242,
+   "reqExp": 170,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000243": {
+   "key": "IdleReward000243",
+   "lv": 243,
+   "reqExp": 170,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000244": {
+   "key": "IdleReward000244",
+   "lv": 244,
+   "reqExp": 170,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000245": {
+   "key": "IdleReward000245",
+   "lv": 245,
+   "reqExp": 170,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000246": {
+   "key": "IdleReward000246",
+   "lv": 246,
+   "reqExp": 170,
+   "dailyReward": "Item002003",
+   "lvUpAmount": 20,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000247": {
+   "key": "IdleReward000247",
+   "lv": 247,
+   "reqExp": 170,
+   "dailyReward": "Item002040",
+   "lvUpAmount": 15,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000248": {
+   "key": "IdleReward000248",
+   "lv": 248,
+   "reqExp": 170,
+   "dailyReward": "Item002041",
+   "lvUpAmount": 10,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000249": {
+   "key": "IdleReward000249",
+   "lv": 249,
+   "reqExp": 170,
+   "dailyReward": "Item002042",
+   "lvUpAmount": 5,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  },
+  "IdleReward000250": {
+   "key": "IdleReward000250",
+   "lv": 250,
+   "reqExp": 175,
+   "dailyReward": "Item004000",
+   "lvUpAmount": 1,
+   "rewardItem": [
+    "Item002001",
+    "Item002000",
+    "Item002002"
+   ],
+   "rewardAmount": [
+    11,
+    23,
+    36
+   ],
+   "rareRewardItem": [
+    "Item004001",
+    "Item002003",
+    "Item007005",
+    "Item007006",
+    "Item007007"
+   ],
+   "rareRewardAmount": [
+    1,
+    50,
+    23,
+    8,
+    3
+   ],
+   "rareRewardTime": [
+    39600,
+    28800,
+    21600,
+    21600,
+    21600
+   ]
+  }
+ }
+}

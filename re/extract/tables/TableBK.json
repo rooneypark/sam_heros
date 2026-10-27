@@ -1,0 +1,397 @@
+{
+ "sheetName": "TableBKData",
+ "tableIndex": 0,
+ "rows": {
+  "BK000": {
+   "key": "BK000",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 0,
+   "target": "Unit000600",
+   "image": "ui_242",
+   "rewardKeyList": [
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002005"
+   ],
+   "amountList": [
+    50,
+    25,
+    50,
+    25,
+    50,
+    10
+   ]
+  },
+  "BK001": {
+   "key": "BK001",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 1,
+   "target": "Unit000601",
+   "image": "ui_233",
+   "rewardKeyList": [
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002005"
+   ],
+   "amountList": [
+    50,
+    25,
+    50,
+    25,
+    50,
+    10
+   ]
+  },
+  "BK002": {
+   "key": "BK002",
+   "desc": "LocalizeUIBossKill000002",
+   "index": 2,
+   "target": "Unit000602",
+   "image": "Weapon_09",
+   "rewardKeyList": [
+    "Item10400032",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK003": {
+   "key": "BK003",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 3,
+   "target": "Unit000603",
+   "image": "ui_239",
+   "rewardKeyList": [
+    "Item002000",
+    "Item002001",
+    "Item002000",
+    "Item002001",
+    "Item002000",
+    "Item002005"
+   ],
+   "amountList": [
+    50,
+    20,
+    50,
+    20,
+    50,
+    10
+   ]
+  },
+  "BK004": {
+   "key": "BK004",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 4,
+   "target": "Unit000604",
+   "image": "ui_236",
+   "rewardKeyList": [
+    "Item002001",
+    "Item002000",
+    "Item002001",
+    "Item002000",
+    "Item002001",
+    "Item002005"
+   ],
+   "amountList": [
+    50,
+    20,
+    50,
+    20,
+    50,
+    10
+   ]
+  },
+  "BK005": {
+   "key": "BK005",
+   "desc": "LocalizeUIBossKill000002",
+   "index": 5,
+   "target": "Unit000605",
+   "image": "Armor_09",
+   "rewardKeyList": [
+    "Item10100032",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK006": {
+   "key": "BK006",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 6,
+   "target": "Unit000606",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008013",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK007": {
+   "key": "BK007",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 7,
+   "target": "Unit000607",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008013",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK008": {
+   "key": "BK008",
+   "desc": "LocalizeUIBossKill000002",
+   "index": 8,
+   "target": "Unit000608",
+   "image": "Shield_09",
+   "rewardKeyList": [
+    "Item10500032",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK009": {
+   "key": "BK009",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 9,
+   "target": "Unit000230",
+   "image": "ui_261",
+   "rewardKeyList": [
+    "Item002005",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    40,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK010": {
+   "key": "BK010",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 10,
+   "target": "Unit000609",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008014",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK011": {
+   "key": "BK011",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 11,
+   "target": "Unit000611",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008014",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK012": {
+   "key": "BK012",
+   "desc": "LocalizeUIBossKill000002",
+   "index": 12,
+   "target": "Unit000610",
+   "image": "Helmet_09",
+   "rewardKeyList": [
+    "Item10000032",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK013": {
+   "key": "BK013",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 13,
+   "target": "Unit000612",
+   "image": "ui_143",
+   "rewardKeyList": [
+    "Item002006",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK014": {
+   "key": "BK014",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 14,
+   "target": "Unit000614",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008015",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK015": {
+   "key": "BK015",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 15,
+   "target": "Unit000613",
+   "image": "ui_728",
+   "rewardKeyList": [
+    "Item008015",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  },
+  "BK016": {
+   "key": "BK016",
+   "desc": "LocalizeUIBossKill000001",
+   "index": 16,
+   "target": "Unit000616",
+   "image": "UI_Charm_32",
+   "rewardKeyList": [
+    "Item20000029",
+    "Item002002",
+    "Item002003",
+    "Item002002",
+    "Item002003",
+    "Item002002"
+   ],
+   "amountList": [
+    1,
+    25,
+    25,
+    25,
+    25,
+    25
+   ]
+  }
+ }
+}

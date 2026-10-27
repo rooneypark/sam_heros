@@ -1,0 +1,706 @@
+{
+ "sheetName": "TableCouponData",
+ "tableIndex": 0,
+ "rows": {
+  "Coupon0000": {
+   "key": "Coupon0000",
+   "category": 0,
+   "cID": "update_001",
+   "openTime": 1678114800,
+   "expireTime": 1679324400
+  },
+  "Coupon0002": {
+   "key": "Coupon0002",
+   "category": 2,
+   "cID": "update_002",
+   "openTime": 1678460400,
+   "expireTime": 1679842800
+  },
+  "Coupon0003": {
+   "key": "Coupon0003",
+   "category": 3,
+   "cID": "update_003",
+   "openTime": 1679583600,
+   "expireTime": 1680188400
+  },
+  "Coupon0007": {
+   "key": "Coupon0007",
+   "category": 7,
+   "cID": "update_004",
+   "openTime": 1679842800,
+   "expireTime": 1680447600
+  },
+  "Coupon0008": {
+   "key": "Coupon0008",
+   "category": 8,
+   "cID": "update_005",
+   "openTime": 1680706800,
+   "expireTime": 1681484400
+  },
+  "Coupon0009": {
+   "key": "Coupon0009",
+   "category": 9,
+   "cID": "update_006",
+   "openTime": 1681657200,
+   "expireTime": 1682434800
+  },
+  "Coupon0010": {
+   "key": "Coupon0010",
+   "category": 10,
+   "cID": "event_001",
+   "openTime": 1681657200,
+   "expireTime": 1682175600
+  },
+  "Coupon0011": {
+   "key": "Coupon0011",
+   "category": 11,
+   "cID": "update_007",
+   "openTime": 1682607600,
+   "expireTime": 1683471600
+  },
+  "Coupon0015": {
+   "key": "Coupon0015",
+   "category": 15,
+   "cID": "update_008",
+   "openTime": 1684249200,
+   "expireTime": 1684940400
+  },
+  "Coupon0016": {
+   "key": "Coupon0016",
+   "category": 16,
+   "cID": "update_009",
+   "openTime": 1684249200,
+   "expireTime": 1684594800
+  },
+  "Coupon0017": {
+   "key": "Coupon0017",
+   "category": 17,
+   "cID": "update_010",
+   "openTime": 1684940400,
+   "expireTime": 1686150000
+  },
+  "Coupon0018": {
+   "key": "Coupon0018",
+   "category": 18,
+   "cID": "update_011",
+   "openTime": 1686841200,
+   "expireTime": 1687532400
+  },
+  "Coupon0019": {
+   "key": "Coupon0019",
+   "category": 19,
+   "cID": "update_012",
+   "openTime": 1687446000,
+   "expireTime": 1688137200
+  },
+  "Coupon0020": {
+   "key": "Coupon0020",
+   "category": 20,
+   "cID": "update_013",
+   "openTime": 1687964400,
+   "expireTime": 1688742000
+  },
+  "Coupon0021": {
+   "key": "Coupon0021",
+   "category": 21,
+   "cID": "update_014",
+   "openTime": 1689778800,
+   "expireTime": 1690383600
+  },
+  "Coupon0022": {
+   "key": "Coupon0022",
+   "category": 22,
+   "cID": "update_015",
+   "openTime": 1690470000,
+   "expireTime": 1691074800
+  },
+  "Coupon0023": {
+   "key": "Coupon0023",
+   "category": 23,
+   "cID": "update_016",
+   "openTime": 1693321200,
+   "expireTime": 1694098800
+  },
+  "Coupon0024": {
+   "key": "Coupon0024",
+   "category": 24,
+   "cID": "update_017",
+   "openTime": 1695654000,
+   "expireTime": 1696258800
+  },
+  "Coupon0025": {
+   "key": "Coupon0025",
+   "category": 25,
+   "cID": "update_018",
+   "openTime": 1698418800,
+   "expireTime": 1699282800
+  },
+  "Coupon0026": {
+   "key": "Coupon0026",
+   "category": 26,
+   "cID": "event_002",
+   "openTime": 1700712000,
+   "expireTime": 1704034799
+  },
+  "Coupon0027": {
+   "key": "Coupon0027",
+   "category": 27,
+   "cID": "update_019",
+   "openTime": 1701183600,
+   "expireTime": 1701788400
+  },
+  "Coupon0028": {
+   "key": "Coupon0028",
+   "category": 28,
+   "cID": "update_020",
+   "openTime": 1701183600,
+   "expireTime": 1701961200
+  },
+  "Coupon0029": {
+   "key": "Coupon0029",
+   "category": 29,
+   "cID": "update_021",
+   "openTime": 1702998000,
+   "expireTime": 1703602800
+  },
+  "Coupon0030": {
+   "key": "Coupon0030",
+   "category": 30,
+   "cID": "update_022",
+   "openTime": 1703430000,
+   "expireTime": 1704034800
+  },
+  "Coupon0031": {
+   "key": "Coupon0031",
+   "category": 31,
+   "cID": "update_023",
+   "openTime": 1705503600,
+   "expireTime": 1706194800
+  },
+  "Coupon0032": {
+   "key": "Coupon0032",
+   "category": 32,
+   "cID": "update_024",
+   "openTime": 1706540400,
+   "expireTime": 1707231600
+  },
+  "Coupon0033": {
+   "key": "Coupon0033",
+   "category": 33,
+   "cID": "update_025",
+   "openTime": 1709046000,
+   "expireTime": 1709650800
+  },
+  "Coupon0034": {
+   "key": "Coupon0034",
+   "category": 34,
+   "cID": "update_026",
+   "openTime": 1710342000,
+   "expireTime": 1711033200
+  },
+  "Coupon0035": {
+   "key": "Coupon0035",
+   "category": 35,
+   "cID": "update_027",
+   "openTime": 1711551600,
+   "expireTime": 1712329200
+  },
+  "Coupon0036": {
+   "key": "Coupon0036",
+   "category": 36,
+   "cID": "update_028",
+   "openTime": 1712588400,
+   "expireTime": 1713193200
+  },
+  "Coupon0037": {
+   "key": "Coupon0037",
+   "category": 37,
+   "cID": "update_029",
+   "openTime": 1713970800,
+   "expireTime": 1714748400
+  },
+  "Coupon0038": {
+   "key": "Coupon0038",
+   "category": 38,
+   "cID": "update_031",
+   "openTime": 1719154800,
+   "expireTime": 1719932400
+  },
+  "Coupon0039": {
+   "key": "Coupon0039",
+   "category": 39,
+   "cID": "update_032",
+   "openTime": 1721919600,
+   "expireTime": 1722610800
+  },
+  "Coupon0040": {
+   "key": "Coupon0040",
+   "category": 40,
+   "cID": "update_033",
+   "openTime": 1722351600,
+   "expireTime": 1722697200
+  },
+  "Coupon0041": {
+   "key": "Coupon0041",
+   "category": 41,
+   "cID": "update_034",
+   "openTime": 1723302000,
+   "expireTime": 1723820400
+  },
+  "Coupon0042": {
+   "key": "Coupon0042",
+   "category": 42,
+   "cID": "update_035",
+   "openTime": 1724770800,
+   "expireTime": 1725462000
+  },
+  "Coupon0043": {
+   "key": "Coupon0043",
+   "category": 43,
+   "cID": "update_036",
+   "openTime": 1725289200,
+   "expireTime": 1725980400
+  },
+  "Coupon0044": {
+   "key": "Coupon0044",
+   "category": 44,
+   "cID": "update_037",
+   "openTime": 1725462000,
+   "expireTime": 1726066800
+  },
+  "Coupon0045": {
+   "key": "Coupon0045",
+   "category": 45,
+   "cID": "update_038",
+   "openTime": 1726066800,
+   "expireTime": 1726758000
+  },
+  "Coupon0046": {
+   "key": "Coupon0046",
+   "category": 46,
+   "cID": "update_039",
+   "openTime": 1727276400,
+   "expireTime": 1727967600
+  },
+  "Coupon0047": {
+   "key": "Coupon0047",
+   "category": 47,
+   "cID": "update_040",
+   "openTime": 1727708400,
+   "expireTime": 1727881200
+  },
+  "Coupon0049": {
+   "key": "Coupon0049",
+   "category": 49,
+   "cID": "update_042",
+   "openTime": 1727708400,
+   "expireTime": 1727881200
+  },
+  "Coupon0050": {
+   "key": "Coupon0050",
+   "category": 50,
+   "cID": "update_043",
+   "openTime": 1727881200,
+   "expireTime": 1728486000
+  },
+  "Coupon0051": {
+   "key": "Coupon0051",
+   "category": 51,
+   "cID": "update_044",
+   "openTime": 1728486000,
+   "expireTime": 1729090800
+  },
+  "Coupon0052": {
+   "key": "Coupon0052",
+   "category": 52,
+   "cID": "update_045",
+   "openTime": 1729177200,
+   "expireTime": 1729695600
+  },
+  "Coupon0053": {
+   "key": "Coupon0053",
+   "category": 53,
+   "cID": "update_046",
+   "openTime": 1635865200,
+   "expireTime": 1648738800
+  },
+  "Coupon0054": {
+   "key": "Coupon0054",
+   "category": 54,
+   "cID": "update_047",
+   "openTime": 1730160000,
+   "expireTime": 1730678400
+  },
+  "Coupon0055": {
+   "key": "Coupon0055",
+   "category": 55,
+   "cID": "update_048",
+   "openTime": 1730851200,
+   "expireTime": 1731542400
+  },
+  "Coupon0056": {
+   "key": "Coupon0056",
+   "category": 56,
+   "cID": "update_049",
+   "openTime": 1732752000,
+   "expireTime": 1733443200
+  },
+  "Coupon0057": {
+   "key": "Coupon0057",
+   "category": 57,
+   "cID": "update_050",
+   "openTime": 1734274800,
+   "expireTime": 1735570800
+  },
+  "Coupon0058": {
+   "key": "Coupon0058",
+   "category": 58,
+   "cID": "update_051",
+   "openTime": 1735830000,
+   "expireTime": 1736434800
+  },
+  "Coupon0059": {
+   "key": "Coupon0059",
+   "category": 59,
+   "cID": "update_052",
+   "openTime": 1737385200,
+   "expireTime": 1738249200
+  },
+  "Coupon0060": {
+   "key": "Coupon0060",
+   "category": 60,
+   "cID": "update_053",
+   "openTime": 1740322800,
+   "expireTime": 1741100400
+  },
+  "Coupon0061": {
+   "key": "Coupon0061",
+   "category": 61,
+   "cID": "update_054",
+   "openTime": 1740322800,
+   "expireTime": 1741100400
+  },
+  "Coupon0062": {
+   "key": "Coupon0062",
+   "category": 62,
+   "cID": "update_055",
+   "openTime": 1740322800,
+   "expireTime": 1741100400
+  },
+  "Coupon0063": {
+   "key": "Coupon0063",
+   "category": 63,
+   "cID": "update_056",
+   "openTime": 1740322800,
+   "expireTime": 1741100400
+  },
+  "Coupon0064": {
+   "key": "Coupon0064",
+   "category": 64,
+   "cID": "update_057",
+   "openTime": 1742828400,
+   "expireTime": 1743778800
+  },
+  "Coupon0065": {
+   "key": "Coupon0065",
+   "category": 65,
+   "cID": "update_058",
+   "openTime": 1745679600,
+   "expireTime": 1746370800
+  },
+  "Coupon0066": {
+   "key": "Coupon0066",
+   "category": 66,
+   "cID": "update_059",
+   "openTime": 1745679600,
+   "expireTime": 1741100400
+  },
+  "Coupon0067": {
+   "key": "Coupon0067",
+   "category": 67,
+   "cID": "update_060",
+   "openTime": 1745679600,
+   "expireTime": 1741100400
+  },
+  "Coupon0068": {
+   "key": "Coupon0068",
+   "category": 68,
+   "cID": "update_061",
+   "openTime": 1745679600,
+   "expireTime": 1746370800
+  },
+  "Coupon0069": {
+   "key": "Coupon0069",
+   "category": 69,
+   "cID": "update_062",
+   "openTime": 1748271600,
+   "expireTime": 1747666800
+  },
+  "Coupon0070": {
+   "key": "Coupon0070",
+   "category": 70,
+   "cID": "update_063",
+   "openTime": 1747580400,
+   "expireTime": 1747062000
+  },
+  "Coupon0071": {
+   "key": "Coupon0071",
+   "category": 71,
+   "cID": "update_064",
+   "openTime": 1747839600,
+   "expireTime": 1747580400
+  },
+  "Coupon0072": {
+   "key": "Coupon0072",
+   "category": 72,
+   "cID": "update_065",
+   "openTime": 1748185200,
+   "expireTime": 1741100400
+  },
+  "Coupon0073": {
+   "key": "Coupon0073",
+   "category": 73,
+   "cID": "update_066",
+   "openTime": 1748185200,
+   "expireTime": 1747839600
+  },
+  "Coupon0074": {
+   "key": "Coupon0074",
+   "category": 74,
+   "cID": "update_067",
+   "openTime": 1748185200,
+   "expireTime": 1749481200
+  },
+  "Coupon0075": {
+   "key": "Coupon0075",
+   "category": 75,
+   "cID": "update_068",
+   "openTime": 1748185200,
+   "expireTime": 1747062000
+  },
+  "Coupon0076": {
+   "key": "Coupon0076",
+   "category": 76,
+   "cID": "update_069",
+   "openTime": 1748271600,
+   "expireTime": 1749567600
+  },
+  "Coupon0077": {
+   "key": "Coupon0077",
+   "category": 77,
+   "cID": "update_070",
+   "openTime": 1750777200,
+   "expireTime": 1750258800
+  },
+  "Coupon0078": {
+   "key": "Coupon0078",
+   "category": 78,
+   "cID": "update_071",
+   "openTime": 1750777200,
+   "expireTime": 1751468400
+  },
+  "Coupon0079": {
+   "key": "Coupon0079",
+   "category": 79,
+   "cID": "update_072",
+   "openTime": 1750777200,
+   "expireTime": 1748876400
+  },
+  "Coupon0080": {
+   "key": "Coupon0080",
+   "category": 80,
+   "cID": "update_073",
+   "openTime": 1750777200,
+   "expireTime": 1749567600
+  },
+  "Coupon0081": {
+   "key": "Coupon0081",
+   "category": 81,
+   "cID": "update_074",
+   "openTime": 1750863600,
+   "expireTime": 1751468400
+  },
+  "Coupon0082": {
+   "key": "Coupon0082",
+   "category": 82,
+   "cID": "update_075",
+   "openTime": 1753542000,
+   "expireTime": 1751641200
+  },
+  "Coupon0083": {
+   "key": "Coupon0083",
+   "category": 83,
+   "cID": "update_076",
+   "openTime": 1753542000,
+   "expireTime": 1754319600
+  },
+  "Coupon0084": {
+   "key": "Coupon0084",
+   "category": 84,
+   "cID": "update_077",
+   "openTime": 1754233200,
+   "expireTime": 1754924400
+  },
+  "Coupon0085": {
+   "key": "Coupon0085",
+   "category": 85,
+   "cID": "update_078",
+   "openTime": 1754146800,
+   "expireTime": 1754492400
+  },
+  "Coupon0086": {
+   "key": "Coupon0086",
+   "category": 86,
+   "cID": "update_079",
+   "openTime": 1754060400,
+   "expireTime": 1754319600
+  },
+  "Coupon0087": {
+   "key": "Coupon0087",
+   "category": 87,
+   "cID": "update_080",
+   "openTime": 1755961200,
+   "expireTime": 1757257200
+  },
+  "Coupon0088": {
+   "key": "Coupon0088",
+   "category": 88,
+   "cID": "update_081",
+   "openTime": 1758553200,
+   "expireTime": 1759590000
+  },
+  "Coupon0089": {
+   "key": "Coupon0089",
+   "category": 89,
+   "cID": "update_082",
+   "openTime": 1756738800,
+   "expireTime": 1759244400
+  },
+  "Coupon0090": {
+   "key": "Coupon0090",
+   "category": 90,
+   "cID": "update_083",
+   "openTime": 1761318000,
+   "expireTime": 1762268400
+  },
+  "Coupon0091": {
+   "key": "Coupon0091",
+   "category": 91,
+   "cID": "update_084",
+   "openTime": 1763996400,
+   "expireTime": 1764860400
+  },
+  "Coupon0092": {
+   "key": "Coupon0092",
+   "category": 92,
+   "cID": "update_085",
+   "openTime": 1765724400,
+   "expireTime": 1767452400
+  },
+  "Coupon0093": {
+   "key": "Coupon0093",
+   "category": 93,
+   "cID": "update_086",
+   "openTime": 1767366000,
+   "expireTime": 1768316400
+  },
+  "Coupon0094": {
+   "key": "Coupon0094",
+   "category": 94,
+   "cID": "update_087",
+   "openTime": 1769266800,
+   "expireTime": 1770217200
+  },
+  "Coupon0095": {
+   "key": "Coupon0095",
+   "category": 95,
+   "cID": "update_088",
+   "openTime": 1771858800,
+   "expireTime": 1772809200
+  },
+  "Coupon0096": {
+   "key": "Coupon0096",
+   "category": 96,
+   "cID": "update_089",
+   "openTime": 1774364400,
+   "expireTime": 1775314800
+  },
+  "Coupon0097": {
+   "key": "Coupon0097",
+   "category": 97,
+   "cID": "update_090",
+   "openTime": 1777215600,
+   "expireTime": 1778079600
+  },
+  "Coupon0098": {
+   "key": "Coupon0098",
+   "category": 98,
+   "cID": "update_091",
+   "openTime": 1777215600,
+   "expireTime": 1777215600
+  },
+  "Coupon0099": {
+   "key": "Coupon0099",
+   "category": 99,
+   "cID": "update_092",
+   "openTime": 1777215600,
+   "expireTime": 1777215600
+  },
+  "Coupon0100": {
+   "key": "Coupon0100",
+   "category": 100,
+   "cID": "update_093",
+   "openTime": 1777215600,
+   "expireTime": 1778079600
+  },
+  "Coupon0101": {
+   "key": "Coupon0101",
+   "category": 101,
+   "cID": "update_094",
+   "openTime": 1778511600,
+   "expireTime": 1781276400
+  },
+  "Coupon0102": {
+   "key": "Coupon0102",
+   "category": 102,
+   "cID": "update_095",
+   "openTime": 1780758000,
+   "expireTime": 1780758000
+  },
+  "Coupon0103": {
+   "key": "Coupon0103",
+   "category": 103,
+   "cID": "update_096",
+   "openTime": 1781449200,
+   "expireTime": 1783350000
+  },
+  "Coupon0104": {
+   "key": "Coupon0104",
+   "category": 104,
+   "cID": "update_097",
+   "openTime": 1783177200,
+   "expireTime": 1783436400
+  },
+  "Coupon0105": {
+   "key": "Coupon0105",
+   "category": 105,
+   "cID": "update_098",
+   "openTime": 1785078000,
+   "expireTime": 1786114800
+  },
+  "Coupon0106": {
+   "key": "Coupon0106",
+   "category": 106,
+   "cID": "update_099",
+   "openTime": 1787583600,
+   "expireTime": 1788966000
+  },
+  "Coupon0107": {
+   "key": "Coupon0107",
+   "category": 107,
+   "cID": "update_100",
+   "openTime": 1790434800,
+   "expireTime": 1791126000
+  }
+ }
+}

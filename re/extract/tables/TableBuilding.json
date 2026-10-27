@@ -1,0 +1,294 @@
+{
+ "sheetName": "TableBuildingData",
+ "tableIndex": 0,
+ "rows": {
+  "Building000000": {
+   "key": "Building000000",
+   "category": 0,
+   "name": "LocalizeBuildingName000027",
+   "prefab": "Bonfire",
+   "icon": "Treefairy_1",
+   "prefabAbyss": ""
+  },
+  "Building000001": {
+   "key": "Building000001",
+   "category": 1,
+   "name": "LocalizeBuildingName000001",
+   "prefab": "Building_Tree",
+   "icon": "Ui_Building_Thumbnail_8",
+   "prefabAbyss": ""
+  },
+  "Building000002": {
+   "key": "Building000002",
+   "category": 2,
+   "name": "LocalizeBuildingName000002",
+   "prefab": "Building_Mine",
+   "icon": "Ui_Building_Thumbnail_7",
+   "prefabAbyss": ""
+  },
+  "Building000003": {
+   "key": "Building000003",
+   "category": 3,
+   "name": "LocalizeBuildingName000012",
+   "prefab": "HeroBuilding",
+   "icon": "Ui_Building_Thumbnail_12",
+   "prefabAbyss": ""
+  },
+  "Building000004": {
+   "key": "Building000004",
+   "category": 4,
+   "name": "LocalizeBuildingName000005",
+   "prefab": "Building_Smithy",
+   "icon": "Ui_Building_Thumbnail_9",
+   "prefabAbyss": ""
+  },
+  "Building000005": {
+   "key": "Building000005",
+   "category": 5,
+   "name": "LocalizeBuildingName000004",
+   "prefab": "DungeonPortal_1",
+   "icon": "Ui_Building_Thumbnail_4",
+   "prefabAbyss": ""
+  },
+  "Building000006": {
+   "key": "Building000006",
+   "category": 6,
+   "name": "LocalizeBuildingName000011",
+   "prefab": "Building_Storage",
+   "icon": "Ui_Building_Thumbnail_10",
+   "prefabAbyss": ""
+  },
+  "Building000007": {
+   "key": "Building000007",
+   "category": 7,
+   "name": "LocalizeBuildingName000007",
+   "prefab": "Building_Tower",
+   "icon": "Ui_Building_Thumbnail_1",
+   "prefabAbyss": ""
+  },
+  "Building000008": {
+   "key": "Building000008",
+   "category": 8,
+   "name": "LocalizeBuildingName000003",
+   "prefab": "Building_Gold",
+   "icon": "Ui_Building_Thumbnail_11",
+   "prefabAbyss": ""
+  },
+  "Building000009": {
+   "key": "Building000009",
+   "category": 9,
+   "name": "LocalizeBuildingName000008",
+   "prefab": "Building_Teleport",
+   "icon": "Ui_Building_Thumbnail_2",
+   "prefabAbyss": ""
+  },
+  "Building000010": {
+   "key": "Building000010",
+   "category": 10,
+   "name": "LocalizeBuildingName000006",
+   "prefab": "Building_Training",
+   "icon": "Ui_Building_Thumbnail_5",
+   "prefabAbyss": "Building_Training_Abyss"
+  },
+  "Building000011": {
+   "key": "Building000011",
+   "category": 11,
+   "name": "LocalizeBuildingName000009",
+   "prefab": "Building_Witch",
+   "icon": "Ui_Building_Thumbnail_6",
+   "prefabAbyss": ""
+  },
+  "Building000012": {
+   "key": "Building000012",
+   "category": 12,
+   "name": "LocalizeBuildingName000010",
+   "prefab": "Building_Shop",
+   "icon": "Ui_Building_Thumbnail_3",
+   "prefabAbyss": ""
+  },
+  "Building000013": {
+   "key": "Building000013",
+   "category": 13,
+   "name": "LocalizeBuildingName000004",
+   "prefab": "DungeonPortal_2",
+   "icon": "Ui_Building_Thumbnail_4",
+   "prefabAbyss": "DungeonPortal_2_Abyss"
+  },
+  "Building000014": {
+   "key": "Building000014",
+   "category": 14,
+   "name": "LocalizeBuildingName000013",
+   "prefab": "Building_Pub",
+   "icon": "Ui_Building_Thumbnail_14",
+   "prefabAbyss": "Building_Pub_Abyss"
+  },
+  "Building000015": {
+   "key": "Building000015",
+   "category": 15,
+   "name": "LocalizeBuildingName000014",
+   "prefab": "Building_NPC",
+   "icon": "Npc_2",
+   "prefabAbyss": ""
+  },
+  "Building000016": {
+   "key": "Building000016",
+   "category": 16,
+   "name": "LocalizeBuildingName000016",
+   "prefab": "Building_InstantPortal",
+   "icon": "Ui_Building_Thumbnail_4",
+   "prefabAbyss": ""
+  },
+  "Building000017": {
+   "key": "Building000017",
+   "category": 17,
+   "name": "LocalizeBuildingName000017",
+   "prefab": "Building_Statue",
+   "icon": "Ui_Building_Thumbnail_17",
+   "prefabAbyss": "Building_Statue_Abyss"
+  },
+  "Building000018": {
+   "key": "Building000018",
+   "category": 18,
+   "name": "LocalizeBuildingName000018",
+   "prefab": "Building_Board",
+   "icon": "Ui_Building_Thumbnail_18",
+   "prefabAbyss": ""
+  },
+  "Building000019": {
+   "key": "Building000019",
+   "category": 19,
+   "name": "LocalizeBuildingName000019",
+   "prefab": "Building_Dungeon",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000020": {
+   "key": "Building000020",
+   "category": 20,
+   "name": "LocalizeBuildingName000020",
+   "prefab": "Building_Dungeongold",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000021": {
+   "key": "Building000021",
+   "category": 21,
+   "name": "LocalizeFishingUI000004",
+   "prefab": "Building_StoryFisher",
+   "icon": "Npc_1",
+   "prefabAbyss": ""
+  },
+  "Building000022": {
+   "key": "Building000022",
+   "category": 22,
+   "name": "LocalizeBuildingName000022",
+   "prefab": "Building_Artifact",
+   "icon": "Ui_Building_Thumbnail_6",
+   "prefabAbyss": ""
+  },
+  "Building000023": {
+   "key": "Building000023",
+   "category": 23,
+   "name": "LocalizeBuildingName000023",
+   "prefab": "Building_Statue_Chess",
+   "icon": "Ui_Building_Thumbnail_17",
+   "prefabAbyss": ""
+  },
+  "Building000024": {
+   "key": "Building000024",
+   "category": 24,
+   "name": "LocalizeBuildingName000024",
+   "prefab": "Building_Portal3",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000025": {
+   "key": "Building000025",
+   "category": 25,
+   "name": "LocalizeBuildingName000025",
+   "prefab": "Building_Fame",
+   "icon": "Ui_Building_Thumbnail_1",
+   "prefabAbyss": "Building_Fame_Abyss"
+  },
+  "Building000026": {
+   "key": "Building000026",
+   "category": 26,
+   "name": "LocalizeBuildingName000096",
+   "prefab": "Building_TreasureAbyss",
+   "icon": "Ui_Building_Thumbnail_1",
+   "prefabAbyss": "Building_TreasureAbyss"
+  },
+  "Building000030": {
+   "key": "Building000030",
+   "category": 30,
+   "name": "",
+   "prefab": "Building_Object",
+   "icon": "cloud_shadow",
+   "prefabAbyss": ""
+  },
+  "Building000040": {
+   "key": "Building000040",
+   "category": 40,
+   "name": "LocalizeUIHeroName000017",
+   "prefab": "HeroBuilding",
+   "icon": "Ui_Building_Thumbnail_12",
+   "prefabAbyss": ""
+  },
+  "Building000093": {
+   "key": "Building000093",
+   "category": 93,
+   "name": "LocalizeBuildingName000021",
+   "prefab": "Building_Boat",
+   "icon": "Ui_Building_Thumbnail_19",
+   "prefabAbyss": ""
+  },
+  "Building000094": {
+   "key": "Building000094",
+   "category": 94,
+   "name": "LocalizeBuildingName000094",
+   "prefab": "Building_Statue",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000095": {
+   "key": "Building000095",
+   "category": 95,
+   "name": "LocalizeBuildingName000095",
+   "prefab": "Building_Barricade",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000096": {
+   "key": "Building000096",
+   "category": 96,
+   "name": "LocalizeBuildingName000096",
+   "prefab": "TreasureBuilding",
+   "icon": "",
+   "prefabAbyss": ""
+  },
+  "Building000097": {
+   "key": "Building000097",
+   "category": 97,
+   "name": "LocalizeBuildingName000097",
+   "prefab": "Building_NPC",
+   "icon": "Npc_1",
+   "prefabAbyss": ""
+  },
+  "Building000098": {
+   "key": "Building000098",
+   "category": 98,
+   "name": "",
+   "prefab": "Building_Camp",
+   "icon": "Ui_Building_Thumbnail_1",
+   "prefabAbyss": ""
+  },
+  "Building000099": {
+   "key": "Building000099",
+   "category": 99,
+   "name": "LocalizeBuildingName000099",
+   "prefab": "HeroBuilding",
+   "icon": "Ui_Building_Thumbnail_16",
+   "prefabAbyss": ""
+  }
+ }
+}

@@ -1,0 +1,514 @@
+{
+ "sheetName": "TableSupportHeroData",
+ "tableIndex": 0,
+ "rows": {
+  "SupportHero000000": {
+   "key": "SupportHero000000",
+   "category": 0,
+   "index": 0,
+   "rate": 0.20000000298023224,
+   "level": 59,
+   "heroList": [
+    "LEGEND",
+    "Unit000038",
+    "Unit000039",
+    "Unit000040",
+    "Unit000041"
+   ]
+  },
+  "SupportHero000001": {
+   "key": "SupportHero000001",
+   "category": 0,
+   "index": 1,
+   "rate": 0.10000000149011612,
+   "level": 59,
+   "heroList": [
+    "LEGEND",
+    "Unit000038",
+    "Unit000039",
+    "Unit000040",
+    "Unit000041"
+   ]
+  },
+  "SupportHero001000": {
+   "key": "SupportHero001000",
+   "category": 1,
+   "index": 0,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "LEGEND",
+    "Unit000038",
+    "Unit000039",
+    "Unit000040",
+    "Unit000041"
+   ]
+  },
+  "SupportHero001001": {
+   "key": "SupportHero001001",
+   "category": 1,
+   "index": 1,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000030",
+    "Unit000031",
+    "Unit000034",
+    "Unit000019",
+    "Unit000036",
+    "Unit000037",
+    "Unit000038",
+    "Unit000040",
+    "Unit000041"
+   ]
+  },
+  "SupportHero001002": {
+   "key": "SupportHero001002",
+   "category": 1,
+   "index": 2,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000024",
+    "Unit000025",
+    "Unit000018",
+    "Unit000007",
+    "Unit000036",
+    "Unit000037",
+    "Unit000038",
+    "Unit000040",
+    "Unit000041"
+   ]
+  },
+  "SupportHero001003": {
+   "key": "SupportHero001003",
+   "category": 1,
+   "index": 3,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000018"
+   ]
+  },
+  "SupportHero003000": {
+   "key": "SupportHero003000",
+   "category": 3,
+   "index": 0,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000036"
+   ]
+  },
+  "SupportHero003001": {
+   "key": "SupportHero003001",
+   "category": 3,
+   "index": 1,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000065"
+   ]
+  },
+  "SupportHero003002": {
+   "key": "SupportHero003002",
+   "category": 3,
+   "index": 2,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000066"
+   ]
+  },
+  "SupportHero003003": {
+   "key": "SupportHero003003",
+   "category": 3,
+   "index": 3,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000040"
+   ]
+  },
+  "SupportHero003004": {
+   "key": "SupportHero003004",
+   "category": 3,
+   "index": 4,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000042"
+   ]
+  },
+  "SupportHero003005": {
+   "key": "SupportHero003005",
+   "category": 3,
+   "index": 5,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000044"
+   ]
+  },
+  "SupportHero003006": {
+   "key": "SupportHero003006",
+   "category": 3,
+   "index": 6,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000047"
+   ]
+  },
+  "SupportHero003007": {
+   "key": "SupportHero003007",
+   "category": 3,
+   "index": 7,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000048"
+   ]
+  },
+  "SupportHero003008": {
+   "key": "SupportHero003008",
+   "category": 3,
+   "index": 8,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000049"
+   ]
+  },
+  "SupportHero003009": {
+   "key": "SupportHero003009",
+   "category": 3,
+   "index": 9,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000050"
+   ]
+  },
+  "SupportHero003010": {
+   "key": "SupportHero003010",
+   "category": 3,
+   "index": 10,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000052"
+   ]
+  },
+  "SupportHero003011": {
+   "key": "SupportHero003011",
+   "category": 3,
+   "index": 11,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000054"
+   ]
+  },
+  "SupportHero003012": {
+   "key": "SupportHero003012",
+   "category": 3,
+   "index": 12,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000056"
+   ]
+  },
+  "SupportHero003013": {
+   "key": "SupportHero003013",
+   "category": 3,
+   "index": 13,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000055"
+   ]
+  },
+  "SupportHero003014": {
+   "key": "SupportHero003014",
+   "category": 3,
+   "index": 14,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000060"
+   ]
+  },
+  "SupportHero003015": {
+   "key": "SupportHero003015",
+   "category": 3,
+   "index": 15,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000059"
+   ]
+  },
+  "SupportHero003016": {
+   "key": "SupportHero003016",
+   "category": 3,
+   "index": 16,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000061"
+   ]
+  },
+  "SupportHero003017": {
+   "key": "SupportHero003017",
+   "category": 3,
+   "index": 17,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000062"
+   ]
+  },
+  "SupportHero003018": {
+   "key": "SupportHero003018",
+   "category": 3,
+   "index": 18,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000063"
+   ]
+  },
+  "SupportHero003019": {
+   "key": "SupportHero003019",
+   "category": 3,
+   "index": 19,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000068"
+   ]
+  },
+  "SupportHero003020": {
+   "key": "SupportHero003020",
+   "category": 3,
+   "index": 20,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000072"
+   ]
+  },
+  "SupportHero003021": {
+   "key": "SupportHero003021",
+   "category": 3,
+   "index": 21,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000073"
+   ]
+  },
+  "SupportHero003022": {
+   "key": "SupportHero003022",
+   "category": 3,
+   "index": 22,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000076"
+   ]
+  },
+  "SupportHero003023": {
+   "key": "SupportHero003023",
+   "category": 3,
+   "index": 23,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000077"
+   ]
+  },
+  "SupportHero003024": {
+   "key": "SupportHero003024",
+   "category": 3,
+   "index": 24,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000072"
+   ]
+  },
+  "SupportHero003025": {
+   "key": "SupportHero003025",
+   "category": 3,
+   "index": 25,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000073"
+   ]
+  },
+  "SupportHero003026": {
+   "key": "SupportHero003026",
+   "category": 3,
+   "index": 26,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000074"
+   ]
+  },
+  "SupportHero003027": {
+   "key": "SupportHero003027",
+   "category": 3,
+   "index": 27,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000075"
+   ]
+  },
+  "SupportHero003028": {
+   "key": "SupportHero003028",
+   "category": 3,
+   "index": 28,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000076"
+   ]
+  },
+  "SupportHero003029": {
+   "key": "SupportHero003029",
+   "category": 3,
+   "index": 29,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000077"
+   ]
+  },
+  "SupportHero003030": {
+   "key": "SupportHero003030",
+   "category": 3,
+   "index": 30,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000080"
+   ]
+  },
+  "SupportHero003031": {
+   "key": "SupportHero003031",
+   "category": 3,
+   "index": 31,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000085"
+   ]
+  },
+  "SupportHero003032": {
+   "key": "SupportHero003032",
+   "category": 3,
+   "index": 32,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000082"
+   ]
+  },
+  "SupportHero003033": {
+   "key": "SupportHero003033",
+   "category": 3,
+   "index": 33,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000083"
+   ]
+  },
+  "SupportHero003034": {
+   "key": "SupportHero003034",
+   "category": 3,
+   "index": 34,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000084"
+   ]
+  },
+  "SupportHero003035": {
+   "key": "SupportHero003035",
+   "category": 3,
+   "index": 35,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000058"
+   ]
+  },
+  "SupportHero004001": {
+   "key": "SupportHero004001",
+   "category": 4,
+   "index": 1,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000034"
+   ]
+  },
+  "SupportHero004002": {
+   "key": "SupportHero004002",
+   "category": 4,
+   "index": 2,
+   "rate": 1.0,
+   "level": 59,
+   "heroList": [
+    "Unit000027"
+   ]
+  },
+  "SupportHero004003": {
+   "key": "SupportHero004003",
+   "category": 4,
+   "index": 3,
+   "rate": 1.0,
+   "level": 35,
+   "heroList": [
+    "Unit000041"
+   ]
+  },
+  "SupportHero004004": {
+   "key": "SupportHero004004",
+   "category": 4,
+   "index": 4,
+   "rate": 1.0,
+   "level": 35,
+   "heroList": [
+    "Unit000048"
+   ]
+  },
+  "SupportHero004005": {
+   "key": "SupportHero004005",
+   "category": 4,
+   "index": 5,
+   "rate": 1.0,
+   "level": 35,
+   "heroList": [
+    "Unit000017"
+   ]
+  },
+  "SupportHero009000": {
+   "key": "SupportHero009000",
+   "category": 9,
+   "index": 0,
+   "rate": 1.0,
+   "level": 10,
+   "heroList": [
+    "Unit000001"
+   ]
+  }
+ }
+}

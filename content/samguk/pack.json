@@ -1,0 +1,9 @@
+{
+  "id": "samguk",
+  "name": "삼국히어로즈",
+  "version": 1,
+  "basePack": "original",
+  "units": "units.json",
+  "maps": "maps/",
+  "scenarios": "scenarios/"
+}

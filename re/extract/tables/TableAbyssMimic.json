@@ -1,0 +1,3462 @@
+{
+ "sheetName": "TableAbyssMimicData",
+ "tableIndex": 0,
+ "rows": {
+  "AbsMimic0001": {
+   "key": "AbsMimic0001",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic0002": {
+   "key": "AbsMimic0002",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic0003": {
+   "key": "AbsMimic0003",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic0004": {
+   "key": "AbsMimic0004",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic0005": {
+   "key": "AbsMimic0005",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic0006": {
+   "key": "AbsMimic0006",
+   "abyssCategory": 0,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic0101": {
+   "key": "AbsMimic0101",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic0102": {
+   "key": "AbsMimic0102",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic0103": {
+   "key": "AbsMimic0103",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic0104": {
+   "key": "AbsMimic0104",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic0105": {
+   "key": "AbsMimic0105",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic0106": {
+   "key": "AbsMimic0106",
+   "abyssCategory": 1,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic20001": {
+   "key": "AbsMimic20001",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic20002": {
+   "key": "AbsMimic20002",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic20003": {
+   "key": "AbsMimic20003",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic20004": {
+   "key": "AbsMimic20004",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic20005": {
+   "key": "AbsMimic20005",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic20006": {
+   "key": "AbsMimic20006",
+   "abyssCategory": 2,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic30001": {
+   "key": "AbsMimic30001",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic30002": {
+   "key": "AbsMimic30002",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic30003": {
+   "key": "AbsMimic30003",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic30004": {
+   "key": "AbsMimic30004",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic30005": {
+   "key": "AbsMimic30005",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic30006": {
+   "key": "AbsMimic30006",
+   "abyssCategory": 3,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic40001": {
+   "key": "AbsMimic40001",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic40002": {
+   "key": "AbsMimic40002",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic40003": {
+   "key": "AbsMimic40003",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic40004": {
+   "key": "AbsMimic40004",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic40005": {
+   "key": "AbsMimic40005",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic40006": {
+   "key": "AbsMimic40006",
+   "abyssCategory": 4,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic50001": {
+   "key": "AbsMimic50001",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic50002": {
+   "key": "AbsMimic50002",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic50003": {
+   "key": "AbsMimic50003",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic50004": {
+   "key": "AbsMimic50004",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic50005": {
+   "key": "AbsMimic50005",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic50006": {
+   "key": "AbsMimic50006",
+   "abyssCategory": 5,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic60001": {
+   "key": "AbsMimic60001",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic60002": {
+   "key": "AbsMimic60002",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic60003": {
+   "key": "AbsMimic60003",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic60004": {
+   "key": "AbsMimic60004",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic60005": {
+   "key": "AbsMimic60005",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic60006": {
+   "key": "AbsMimic60006",
+   "abyssCategory": 6,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic70001": {
+   "key": "AbsMimic70001",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic70002": {
+   "key": "AbsMimic70002",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic70003": {
+   "key": "AbsMimic70003",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic70004": {
+   "key": "AbsMimic70004",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic70005": {
+   "key": "AbsMimic70005",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic70006": {
+   "key": "AbsMimic70006",
+   "abyssCategory": 7,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic80001": {
+   "key": "AbsMimic80001",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic80002": {
+   "key": "AbsMimic80002",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic80003": {
+   "key": "AbsMimic80003",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic80004": {
+   "key": "AbsMimic80004",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic80005": {
+   "key": "AbsMimic80005",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic80006": {
+   "key": "AbsMimic80006",
+   "abyssCategory": 8,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic90001": {
+   "key": "AbsMimic90001",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic90002": {
+   "key": "AbsMimic90002",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic90003": {
+   "key": "AbsMimic90003",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic90004": {
+   "key": "AbsMimic90004",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic90005": {
+   "key": "AbsMimic90005",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic90006": {
+   "key": "AbsMimic90006",
+   "abyssCategory": 9,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic100001": {
+   "key": "AbsMimic100001",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic100002": {
+   "key": "AbsMimic100002",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic100003": {
+   "key": "AbsMimic100003",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic100004": {
+   "key": "AbsMimic100004",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic100005": {
+   "key": "AbsMimic100005",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic100006": {
+   "key": "AbsMimic100006",
+   "abyssCategory": 10,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic110001": {
+   "key": "AbsMimic110001",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic110002": {
+   "key": "AbsMimic110002",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic110003": {
+   "key": "AbsMimic110003",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic110004": {
+   "key": "AbsMimic110004",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic110005": {
+   "key": "AbsMimic110005",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic110006": {
+   "key": "AbsMimic110006",
+   "abyssCategory": 11,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic120001": {
+   "key": "AbsMimic120001",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic120002": {
+   "key": "AbsMimic120002",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic120003": {
+   "key": "AbsMimic120003",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic120004": {
+   "key": "AbsMimic120004",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic120005": {
+   "key": "AbsMimic120005",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic120006": {
+   "key": "AbsMimic120006",
+   "abyssCategory": 12,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic130001": {
+   "key": "AbsMimic130001",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic130002": {
+   "key": "AbsMimic130002",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic130003": {
+   "key": "AbsMimic130003",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic130004": {
+   "key": "AbsMimic130004",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic130005": {
+   "key": "AbsMimic130005",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic130006": {
+   "key": "AbsMimic130006",
+   "abyssCategory": 13,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic140001": {
+   "key": "AbsMimic140001",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic140002": {
+   "key": "AbsMimic140002",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic140003": {
+   "key": "AbsMimic140003",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic140004": {
+   "key": "AbsMimic140004",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic140005": {
+   "key": "AbsMimic140005",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic140006": {
+   "key": "AbsMimic140006",
+   "abyssCategory": 14,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic150001": {
+   "key": "AbsMimic150001",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic150002": {
+   "key": "AbsMimic150002",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic150003": {
+   "key": "AbsMimic150003",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic150004": {
+   "key": "AbsMimic150004",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic150005": {
+   "key": "AbsMimic150005",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic150006": {
+   "key": "AbsMimic150006",
+   "abyssCategory": 15,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic160001": {
+   "key": "AbsMimic160001",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic160002": {
+   "key": "AbsMimic160002",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic160003": {
+   "key": "AbsMimic160003",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic160004": {
+   "key": "AbsMimic160004",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic160005": {
+   "key": "AbsMimic160005",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic160006": {
+   "key": "AbsMimic160006",
+   "abyssCategory": 16,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic170001": {
+   "key": "AbsMimic170001",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic170002": {
+   "key": "AbsMimic170002",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic170003": {
+   "key": "AbsMimic170003",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic170004": {
+   "key": "AbsMimic170004",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic170005": {
+   "key": "AbsMimic170005",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic170006": {
+   "key": "AbsMimic170006",
+   "abyssCategory": 17,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic180001": {
+   "key": "AbsMimic180001",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic180002": {
+   "key": "AbsMimic180002",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic180003": {
+   "key": "AbsMimic180003",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic180004": {
+   "key": "AbsMimic180004",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic180005": {
+   "key": "AbsMimic180005",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic180006": {
+   "key": "AbsMimic180006",
+   "abyssCategory": 18,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic190001": {
+   "key": "AbsMimic190001",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic190002": {
+   "key": "AbsMimic190002",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic190003": {
+   "key": "AbsMimic190003",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic190004": {
+   "key": "AbsMimic190004",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic190005": {
+   "key": "AbsMimic190005",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic190006": {
+   "key": "AbsMimic190006",
+   "abyssCategory": 19,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic200001": {
+   "key": "AbsMimic200001",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic200002": {
+   "key": "AbsMimic200002",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic200003": {
+   "key": "AbsMimic200003",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic200004": {
+   "key": "AbsMimic200004",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic200005": {
+   "key": "AbsMimic200005",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic200006": {
+   "key": "AbsMimic200006",
+   "abyssCategory": 20,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic210001": {
+   "key": "AbsMimic210001",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic210002": {
+   "key": "AbsMimic210002",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic210003": {
+   "key": "AbsMimic210003",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic210004": {
+   "key": "AbsMimic210004",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic210005": {
+   "key": "AbsMimic210005",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic210006": {
+   "key": "AbsMimic210006",
+   "abyssCategory": 21,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic220001": {
+   "key": "AbsMimic220001",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic220002": {
+   "key": "AbsMimic220002",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic220003": {
+   "key": "AbsMimic220003",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic220004": {
+   "key": "AbsMimic220004",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic220005": {
+   "key": "AbsMimic220005",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic220006": {
+   "key": "AbsMimic220006",
+   "abyssCategory": 22,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic230001": {
+   "key": "AbsMimic230001",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic230002": {
+   "key": "AbsMimic230002",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic230003": {
+   "key": "AbsMimic230003",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic230004": {
+   "key": "AbsMimic230004",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic230005": {
+   "key": "AbsMimic230005",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic230006": {
+   "key": "AbsMimic230006",
+   "abyssCategory": 23,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic240001": {
+   "key": "AbsMimic240001",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic240002": {
+   "key": "AbsMimic240002",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic240003": {
+   "key": "AbsMimic240003",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic240004": {
+   "key": "AbsMimic240004",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic240005": {
+   "key": "AbsMimic240005",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic240006": {
+   "key": "AbsMimic240006",
+   "abyssCategory": 24,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic250001": {
+   "key": "AbsMimic250001",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic250002": {
+   "key": "AbsMimic250002",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic250003": {
+   "key": "AbsMimic250003",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic250004": {
+   "key": "AbsMimic250004",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic250005": {
+   "key": "AbsMimic250005",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic250006": {
+   "key": "AbsMimic250006",
+   "abyssCategory": 25,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic260001": {
+   "key": "AbsMimic260001",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic260002": {
+   "key": "AbsMimic260002",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic260003": {
+   "key": "AbsMimic260003",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic260004": {
+   "key": "AbsMimic260004",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic260005": {
+   "key": "AbsMimic260005",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic260006": {
+   "key": "AbsMimic260006",
+   "abyssCategory": 26,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic270001": {
+   "key": "AbsMimic270001",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic270002": {
+   "key": "AbsMimic270002",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic270003": {
+   "key": "AbsMimic270003",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic270004": {
+   "key": "AbsMimic270004",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic270005": {
+   "key": "AbsMimic270005",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic270006": {
+   "key": "AbsMimic270006",
+   "abyssCategory": 27,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic280001": {
+   "key": "AbsMimic280001",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic280002": {
+   "key": "AbsMimic280002",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic280003": {
+   "key": "AbsMimic280003",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic280004": {
+   "key": "AbsMimic280004",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic280005": {
+   "key": "AbsMimic280005",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic280006": {
+   "key": "AbsMimic280006",
+   "abyssCategory": 28,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic290001": {
+   "key": "AbsMimic290001",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic290002": {
+   "key": "AbsMimic290002",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic290003": {
+   "key": "AbsMimic290003",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic290004": {
+   "key": "AbsMimic290004",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic290005": {
+   "key": "AbsMimic290005",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic290006": {
+   "key": "AbsMimic290006",
+   "abyssCategory": 29,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic300001": {
+   "key": "AbsMimic300001",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic300002": {
+   "key": "AbsMimic300002",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic300003": {
+   "key": "AbsMimic300003",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic300004": {
+   "key": "AbsMimic300004",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic300005": {
+   "key": "AbsMimic300005",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic300006": {
+   "key": "AbsMimic300006",
+   "abyssCategory": 30,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic310001": {
+   "key": "AbsMimic310001",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353001",
+   "imgIcon": "Weapon_16"
+  },
+  "AbsMimic310002": {
+   "key": "AbsMimic310002",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353002",
+   "imgIcon": "Helmet_16"
+  },
+  "AbsMimic310003": {
+   "key": "AbsMimic310003",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353003",
+   "imgIcon": "Shield_10"
+  },
+  "AbsMimic310004": {
+   "key": "AbsMimic310004",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353004",
+   "imgIcon": "Armor_10"
+  },
+  "AbsMimic310005": {
+   "key": "AbsMimic310005",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353005",
+   "imgIcon": "Cloak_09"
+  },
+  "AbsMimic310006": {
+   "key": "AbsMimic310006",
+   "abyssCategory": 31,
+   "type": 0,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353006",
+   "imgIcon": "Shoe_09"
+  },
+  "AbsMimic0011": {
+   "key": "AbsMimic0011",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic0012": {
+   "key": "AbsMimic0012",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic0013": {
+   "key": "AbsMimic0013",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0014": {
+   "key": "AbsMimic0014",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0015": {
+   "key": "AbsMimic0015",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0016": {
+   "key": "AbsMimic0016",
+   "abyssCategory": 0,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0111": {
+   "key": "AbsMimic0111",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem321020",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic0112": {
+   "key": "AbsMimic0112",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem321021",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic0113": {
+   "key": "AbsMimic0113",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0114": {
+   "key": "AbsMimic0114",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0115": {
+   "key": "AbsMimic0115",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0116": {
+   "key": "AbsMimic0116",
+   "abyssCategory": 1,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic20011": {
+   "key": "AbsMimic20011",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem331020",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic20012": {
+   "key": "AbsMimic20012",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem331021",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic20013": {
+   "key": "AbsMimic20013",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic20014": {
+   "key": "AbsMimic20014",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic20015": {
+   "key": "AbsMimic20015",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic20016": {
+   "key": "AbsMimic20016",
+   "abyssCategory": 2,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic30011": {
+   "key": "AbsMimic30011",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem341020",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic30012": {
+   "key": "AbsMimic30012",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem341021",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic30013": {
+   "key": "AbsMimic30013",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic30014": {
+   "key": "AbsMimic30014",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic30015": {
+   "key": "AbsMimic30015",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic30016": {
+   "key": "AbsMimic30016",
+   "abyssCategory": 3,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0411": {
+   "key": "AbsMimic0411",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic0412": {
+   "key": "AbsMimic0412",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic0413": {
+   "key": "AbsMimic0413",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0414": {
+   "key": "AbsMimic0414",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0415": {
+   "key": "AbsMimic0415",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0416": {
+   "key": "AbsMimic0416",
+   "abyssCategory": 4,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0511": {
+   "key": "AbsMimic0511",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic0512": {
+   "key": "AbsMimic0512",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic0513": {
+   "key": "AbsMimic0513",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0514": {
+   "key": "AbsMimic0514",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0515": {
+   "key": "AbsMimic0515",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0516": {
+   "key": "AbsMimic0516",
+   "abyssCategory": 5,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0611": {
+   "key": "AbsMimic0611",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic0612": {
+   "key": "AbsMimic0612",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic0613": {
+   "key": "AbsMimic0613",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0614": {
+   "key": "AbsMimic0614",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0615": {
+   "key": "AbsMimic0615",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0616": {
+   "key": "AbsMimic0616",
+   "abyssCategory": 6,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0711": {
+   "key": "AbsMimic0711",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic0712": {
+   "key": "AbsMimic0712",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic0713": {
+   "key": "AbsMimic0713",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0714": {
+   "key": "AbsMimic0714",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0715": {
+   "key": "AbsMimic0715",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0716": {
+   "key": "AbsMimic0716",
+   "abyssCategory": 7,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0811": {
+   "key": "AbsMimic0811",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic0812": {
+   "key": "AbsMimic0812",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic0813": {
+   "key": "AbsMimic0813",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0814": {
+   "key": "AbsMimic0814",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0815": {
+   "key": "AbsMimic0815",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0816": {
+   "key": "AbsMimic0816",
+   "abyssCategory": 8,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic0911": {
+   "key": "AbsMimic0911",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic0912": {
+   "key": "AbsMimic0912",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic0913": {
+   "key": "AbsMimic0913",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic0914": {
+   "key": "AbsMimic0914",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic0915": {
+   "key": "AbsMimic0915",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic0916": {
+   "key": "AbsMimic0916",
+   "abyssCategory": 9,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01011": {
+   "key": "AbsMimic01011",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic01012": {
+   "key": "AbsMimic01012",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic01013": {
+   "key": "AbsMimic01013",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01014": {
+   "key": "AbsMimic01014",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01015": {
+   "key": "AbsMimic01015",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01016": {
+   "key": "AbsMimic01016",
+   "abyssCategory": 10,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01111": {
+   "key": "AbsMimic01111",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic01112": {
+   "key": "AbsMimic01112",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic01113": {
+   "key": "AbsMimic01113",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01114": {
+   "key": "AbsMimic01114",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01115": {
+   "key": "AbsMimic01115",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01116": {
+   "key": "AbsMimic01116",
+   "abyssCategory": 11,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01211": {
+   "key": "AbsMimic01211",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic01212": {
+   "key": "AbsMimic01212",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic01213": {
+   "key": "AbsMimic01213",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01214": {
+   "key": "AbsMimic01214",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01215": {
+   "key": "AbsMimic01215",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01216": {
+   "key": "AbsMimic01216",
+   "abyssCategory": 12,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01311": {
+   "key": "AbsMimic01311",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic01312": {
+   "key": "AbsMimic01312",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic01313": {
+   "key": "AbsMimic01313",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01314": {
+   "key": "AbsMimic01314",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01315": {
+   "key": "AbsMimic01315",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01316": {
+   "key": "AbsMimic01316",
+   "abyssCategory": 13,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01411": {
+   "key": "AbsMimic01411",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic01412": {
+   "key": "AbsMimic01412",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic01413": {
+   "key": "AbsMimic01413",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01414": {
+   "key": "AbsMimic01414",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01415": {
+   "key": "AbsMimic01415",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01416": {
+   "key": "AbsMimic01416",
+   "abyssCategory": 14,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01511": {
+   "key": "AbsMimic01511",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic01512": {
+   "key": "AbsMimic01512",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic01513": {
+   "key": "AbsMimic01513",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01514": {
+   "key": "AbsMimic01514",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01515": {
+   "key": "AbsMimic01515",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01516": {
+   "key": "AbsMimic01516",
+   "abyssCategory": 15,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01611": {
+   "key": "AbsMimic01611",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic01612": {
+   "key": "AbsMimic01612",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic01613": {
+   "key": "AbsMimic01613",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01614": {
+   "key": "AbsMimic01614",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01615": {
+   "key": "AbsMimic01615",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01616": {
+   "key": "AbsMimic01616",
+   "abyssCategory": 16,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01711": {
+   "key": "AbsMimic01711",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic01712": {
+   "key": "AbsMimic01712",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic01713": {
+   "key": "AbsMimic01713",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01714": {
+   "key": "AbsMimic01714",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01715": {
+   "key": "AbsMimic01715",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01716": {
+   "key": "AbsMimic01716",
+   "abyssCategory": 17,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01811": {
+   "key": "AbsMimic01811",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic01812": {
+   "key": "AbsMimic01812",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic01813": {
+   "key": "AbsMimic01813",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01814": {
+   "key": "AbsMimic01814",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01815": {
+   "key": "AbsMimic01815",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01816": {
+   "key": "AbsMimic01816",
+   "abyssCategory": 18,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic01911": {
+   "key": "AbsMimic01911",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic01912": {
+   "key": "AbsMimic01912",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic01913": {
+   "key": "AbsMimic01913",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic01914": {
+   "key": "AbsMimic01914",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic01915": {
+   "key": "AbsMimic01915",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic01916": {
+   "key": "AbsMimic01916",
+   "abyssCategory": 19,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02011": {
+   "key": "AbsMimic02011",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic02012": {
+   "key": "AbsMimic02012",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic02013": {
+   "key": "AbsMimic02013",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02014": {
+   "key": "AbsMimic02014",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02015": {
+   "key": "AbsMimic02015",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02016": {
+   "key": "AbsMimic02016",
+   "abyssCategory": 20,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02111": {
+   "key": "AbsMimic02111",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic02112": {
+   "key": "AbsMimic02112",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic02113": {
+   "key": "AbsMimic02113",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02114": {
+   "key": "AbsMimic02114",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02115": {
+   "key": "AbsMimic02115",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02116": {
+   "key": "AbsMimic02116",
+   "abyssCategory": 21,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02211": {
+   "key": "AbsMimic02211",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic02212": {
+   "key": "AbsMimic02212",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic02213": {
+   "key": "AbsMimic02213",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02214": {
+   "key": "AbsMimic02214",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02215": {
+   "key": "AbsMimic02215",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02216": {
+   "key": "AbsMimic02216",
+   "abyssCategory": 22,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02311": {
+   "key": "AbsMimic02311",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic02312": {
+   "key": "AbsMimic02312",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic02313": {
+   "key": "AbsMimic02313",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02314": {
+   "key": "AbsMimic02314",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02315": {
+   "key": "AbsMimic02315",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02316": {
+   "key": "AbsMimic02316",
+   "abyssCategory": 23,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02411": {
+   "key": "AbsMimic02411",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic02412": {
+   "key": "AbsMimic02412",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic02413": {
+   "key": "AbsMimic02413",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02414": {
+   "key": "AbsMimic02414",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02415": {
+   "key": "AbsMimic02415",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02416": {
+   "key": "AbsMimic02416",
+   "abyssCategory": 24,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02511": {
+   "key": "AbsMimic02511",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic02512": {
+   "key": "AbsMimic02512",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic02513": {
+   "key": "AbsMimic02513",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02514": {
+   "key": "AbsMimic02514",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02515": {
+   "key": "AbsMimic02515",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02516": {
+   "key": "AbsMimic02516",
+   "abyssCategory": 25,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02611": {
+   "key": "AbsMimic02611",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic02612": {
+   "key": "AbsMimic02612",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic02613": {
+   "key": "AbsMimic02613",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02614": {
+   "key": "AbsMimic02614",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02615": {
+   "key": "AbsMimic02615",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02616": {
+   "key": "AbsMimic02616",
+   "abyssCategory": 26,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02711": {
+   "key": "AbsMimic02711",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic02712": {
+   "key": "AbsMimic02712",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic02713": {
+   "key": "AbsMimic02713",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02714": {
+   "key": "AbsMimic02714",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02715": {
+   "key": "AbsMimic02715",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02716": {
+   "key": "AbsMimic02716",
+   "abyssCategory": 27,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02811": {
+   "key": "AbsMimic02811",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem350011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic02812": {
+   "key": "AbsMimic02812",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem350012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic02813": {
+   "key": "AbsMimic02813",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem350013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02814": {
+   "key": "AbsMimic02814",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem350014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02815": {
+   "key": "AbsMimic02815",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem350015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02816": {
+   "key": "AbsMimic02816",
+   "abyssCategory": 28,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem350016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic02911": {
+   "key": "AbsMimic02911",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem351011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic02912": {
+   "key": "AbsMimic02912",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem351012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic02913": {
+   "key": "AbsMimic02913",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem351013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic02914": {
+   "key": "AbsMimic02914",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem351014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic02915": {
+   "key": "AbsMimic02915",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem351015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic02916": {
+   "key": "AbsMimic02916",
+   "abyssCategory": 29,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem351016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic03011": {
+   "key": "AbsMimic03011",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem352011",
+   "imgIcon": "Weapon_17_abyss"
+  },
+  "AbsMimic03012": {
+   "key": "AbsMimic03012",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem352012",
+   "imgIcon": "Helmet_17_abyss"
+  },
+  "AbsMimic03013": {
+   "key": "AbsMimic03013",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem352013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic03014": {
+   "key": "AbsMimic03014",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem352014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic03015": {
+   "key": "AbsMimic03015",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem352015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic03016": {
+   "key": "AbsMimic03016",
+   "abyssCategory": 30,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem352016",
+   "imgIcon": "Shoe_10_abyss"
+  },
+  "AbsMimic03111": {
+   "key": "AbsMimic03111",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 1,
+   "Weight": 2,
+   "dropItemKey": "DropItem353011",
+   "imgIcon": "Weapon_20_abyss"
+  },
+  "AbsMimic03112": {
+   "key": "AbsMimic03112",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 2,
+   "Weight": 2,
+   "dropItemKey": "DropItem353012",
+   "imgIcon": "Helmet_20_abyss"
+  },
+  "AbsMimic03113": {
+   "key": "AbsMimic03113",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 3,
+   "Weight": 2,
+   "dropItemKey": "DropItem353013",
+   "imgIcon": "Shield_11_abyss"
+  },
+  "AbsMimic03114": {
+   "key": "AbsMimic03114",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 4,
+   "Weight": 2,
+   "dropItemKey": "DropItem353014",
+   "imgIcon": "Armor_11_abyss"
+  },
+  "AbsMimic03115": {
+   "key": "AbsMimic03115",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 5,
+   "Weight": 1,
+   "dropItemKey": "DropItem353015",
+   "imgIcon": "Cloak_10_abyss"
+  },
+  "AbsMimic03116": {
+   "key": "AbsMimic03116",
+   "abyssCategory": 31,
+   "type": 1,
+   "category": 6,
+   "Weight": 1,
+   "dropItemKey": "DropItem353016",
+   "imgIcon": "Shoe_10_abyss"
+  }
+ }
+}

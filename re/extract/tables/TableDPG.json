@@ -1,0 +1,23 @@
+{
+ "sheetName": "TableDPGData",
+ "tableIndex": 0,
+ "rows": {
+  "DPG0000": {
+   "key": "DPG0000",
+   "category": 0,
+   "index": 0,
+   "title": "LocalizePackageDesc000025",
+   "image": "Hero_27_Img",
+   "iapKey": "Consumable_hc_package_delay_01",
+   "displayEvent": "SHOP_LEVEL",
+   "displayParam": "4",
+   "displayValue": 35.0,
+   "purchaseTimeMinite": 120,
+   "productKeys": [
+    "DPP00000",
+    "DPP00001",
+    "DPP00002"
+   ]
+  }
+ }
+}

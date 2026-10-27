@@ -1,0 +1,107 @@
+{
+ "sheetName": "TableDefenceGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "DefenceGroup000": {
+   "key": "DefenceGroup000",
+   "category": 0,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 130.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [
+    "DropItem930000",
+    "DropItem930000",
+    "DropItem930001"
+   ],
+   "displayItems": [
+    "Item10601003",
+    "Item10602003"
+   ]
+  },
+  "DefenceGroup001": {
+   "key": "DefenceGroup001",
+   "category": 1,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 130.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [
+    "DropItem930000",
+    "DropItem900900",
+    "DropItem900900"
+   ],
+   "displayItems": [
+    "Item10601003",
+    "Item10602003"
+   ]
+  },
+  "DefenceGroup002": {
+   "key": "DefenceGroup002",
+   "category": 2,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 130.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [
+    "DropItem930000",
+    "DropItem900900",
+    "DropItem900900"
+   ],
+   "displayItems": [
+    "Item10601003",
+    "Item10602003"
+   ]
+  },
+  "DefenceGroup003": {
+   "key": "DefenceGroup003",
+   "category": 3,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 130.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [
+    "DropItem930000",
+    "DropItem900900",
+    "DropItem900900"
+   ],
+   "displayItems": [
+    "Item10601003",
+    "Item10602003"
+   ]
+  },
+  "DefenceGroup004": {
+   "key": "DefenceGroup004",
+   "category": 4,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 130.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [
+    "DropItem930000",
+    "DropItem900900",
+    "DropItem900900"
+   ],
+   "displayItems": [
+    "Item10601003",
+    "Item10602003"
+   ]
+  },
+  "DefenceGroup099": {
+   "key": "DefenceGroup099",
+   "category": 99,
+   "bgTile": "fr_0",
+   "mapData": "Defence_01",
+   "limitTime": 3300.0,
+   "limitMon": 200,
+   "dropItem": "DropItem000003",
+   "rewardKeys": [],
+   "displayItems": []
+  }
+ }
+}

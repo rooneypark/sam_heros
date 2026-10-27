@@ -1,0 +1,944 @@
+{
+ "sheetName": "TableItemNavigationData",
+ "tableIndex": 0,
+ "rows": {
+  "ItemNavigation000": {
+   "key": "ItemNavigation000",
+   "category": "RESOURCE",
+   "itemKey": "Item002000",
+   "priceAmount": 20,
+   "priceType": "DIA",
+   "price": 1,
+   "itemUse": [
+    "Item007002",
+    "Item007013"
+   ],
+   "shopKey": "Shop0300000",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents100",
+    "ItemNaviContents103",
+    "ItemNaviContents109",
+    "ItemNaviContents035"
+   ]
+  },
+  "ItemNavigation001": {
+   "key": "ItemNavigation001",
+   "category": "RESOURCE",
+   "itemKey": "Item002001",
+   "priceAmount": 10,
+   "priceType": "DIA",
+   "price": 1,
+   "itemUse": [
+    "Item007002",
+    "Item007013"
+   ],
+   "shopKey": "Shop0300001",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents101",
+    "ItemNaviContents109",
+    "ItemNaviContents035"
+   ]
+  },
+  "ItemNavigation002": {
+   "key": "ItemNavigation002",
+   "category": "RESOURCE",
+   "itemKey": "Item002002",
+   "priceAmount": 30,
+   "priceType": "DIA",
+   "price": 1,
+   "itemUse": [
+    "Item007002",
+    "Item007013"
+   ],
+   "shopKey": "Shop0300002",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents102",
+    "ItemNaviContents109",
+    "ItemNaviContents035"
+   ]
+  },
+  "ItemNavigation003": {
+   "key": "ItemNavigation003",
+   "category": "RESOURCE",
+   "itemKey": "Item002003",
+   "priceAmount": 20,
+   "priceType": "DIA",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300003",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents015",
+    "ItemNaviContents017",
+    "ItemNaviContents000",
+    "ItemNaviContents110"
+   ]
+  },
+  "ItemNavigation004": {
+   "key": "ItemNavigation004",
+   "category": "RESOURCE",
+   "itemKey": "Item002005",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300004",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents015",
+    "ItemNaviContents017",
+    "ItemNaviContents018",
+    "ItemNaviContents104"
+   ]
+  },
+  "ItemNavigation005": {
+   "key": "ItemNavigation005",
+   "category": "RESOURCE",
+   "itemKey": "Item002006",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300005",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents001",
+    "ItemNaviContents013",
+    "ItemNaviContents012",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation007": {
+   "key": "ItemNavigation007",
+   "category": "RESOURCE",
+   "itemKey": "Item002008",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300006",
+   "contents": [
+    "ItemNaviContents007"
+   ]
+  },
+  "ItemNavigation008": {
+   "key": "ItemNavigation008",
+   "category": "RESOURCE",
+   "itemKey": "Item002014",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300007",
+   "contents": [
+    "ItemNaviContents030"
+   ]
+  },
+  "ItemNavigation009": {
+   "key": "ItemNavigation009",
+   "category": "RESOURCE",
+   "itemKey": "Item002015",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300007",
+   "contents": [
+    "ItemNaviContents031"
+   ]
+  },
+  "ItemNavigation010": {
+   "key": "ItemNavigation010",
+   "category": "RESOURCE",
+   "itemKey": "Item002016",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300007",
+   "contents": [
+    "ItemNaviContents032"
+   ]
+  },
+  "ItemNavigation011": {
+   "key": "ItemNavigation011",
+   "category": "RESOURCE",
+   "itemKey": "Item002017",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300007",
+   "contents": [
+    "ItemNaviContents033"
+   ]
+  },
+  "ItemNavigation012": {
+   "key": "ItemNavigation012",
+   "category": "RESOURCE",
+   "itemKey": "Item002018",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300007",
+   "contents": [
+    "ItemNaviContents034"
+   ]
+  },
+  "ItemNavigation013": {
+   "key": "ItemNavigation013",
+   "category": "RESOURCE",
+   "itemKey": "Item002019",
+   "priceAmount": 1,
+   "priceType": "GOLD",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300008",
+   "contents": [
+    "ItemNaviContents025",
+    "ItemNaviContents019",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation014": {
+   "key": "ItemNavigation014",
+   "category": "RESOURCE",
+   "itemKey": "Item002020",
+   "priceAmount": 1,
+   "priceType": "GOLD",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300008",
+   "contents": [
+    "ItemNaviContents026",
+    "ItemNaviContents019",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation015": {
+   "key": "ItemNavigation015",
+   "category": "RESOURCE",
+   "itemKey": "Item002021",
+   "priceAmount": 1,
+   "priceType": "GOLD",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300008",
+   "contents": [
+    "ItemNaviContents027",
+    "ItemNaviContents019",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation016": {
+   "key": "ItemNavigation016",
+   "category": "RESOURCE",
+   "itemKey": "Item002022",
+   "priceAmount": 1,
+   "priceType": "GOLD",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300008",
+   "contents": [
+    "ItemNaviContents028",
+    "ItemNaviContents019",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation017": {
+   "key": "ItemNavigation017",
+   "category": "RESOURCE",
+   "itemKey": "Item002023",
+   "priceAmount": 1,
+   "priceType": "GOLD",
+   "price": 10,
+   "itemUse": [],
+   "shopKey": "Shop0300008",
+   "contents": [
+    "ItemNaviContents029",
+    "ItemNaviContents019",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation018": {
+   "key": "ItemNavigation018",
+   "category": "RESOURCE",
+   "itemKey": "Item002026",
+   "priceAmount": 2,
+   "priceType": "DIA",
+   "price": 1,
+   "itemUse": [],
+   "shopKey": "Shop0300009",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents107"
+   ]
+  },
+  "ItemNavigation019": {
+   "key": "ItemNavigation019",
+   "category": "RESOURCE",
+   "itemKey": "Item002027",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300010",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents005"
+   ]
+  },
+  "ItemNavigation020": {
+   "key": "ItemNavigation020",
+   "category": "RESOURCE",
+   "itemKey": "Item002029",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300011",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents002",
+    "ItemNaviContents010",
+    "ItemNaviContents013",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation021": {
+   "key": "ItemNavigation021",
+   "category": "RESOURCE",
+   "itemKey": "Item002030",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300012",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents002",
+    "ItemNaviContents010",
+    "ItemNaviContents013",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation022": {
+   "key": "ItemNavigation022",
+   "category": "RESOURCE",
+   "itemKey": "Item002031",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007000"
+   ],
+   "shopKey": "Shop0300013",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents002",
+    "ItemNaviContents010",
+    "ItemNaviContents013",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation023": {
+   "key": "ItemNavigation023",
+   "category": "RESOURCE",
+   "itemKey": "Item002032",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007000"
+   ],
+   "shopKey": "Shop0300013",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents002",
+    "ItemNaviContents010",
+    "ItemNaviContents013",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation024": {
+   "key": "ItemNavigation024",
+   "category": "RESOURCE",
+   "itemKey": "Item002033",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007000"
+   ],
+   "shopKey": "Shop0300013",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents002",
+    "ItemNaviContents010",
+    "ItemNaviContents013",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation025": {
+   "key": "ItemNavigation025",
+   "category": "RESOURCE",
+   "itemKey": "Item002039",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item002039"
+   ],
+   "shopKey": "Shop0300014",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents000",
+    "ItemNaviContents009"
+   ]
+  },
+  "ItemNavigation026": {
+   "key": "ItemNavigation026",
+   "category": "RESOURCE",
+   "itemKey": "Item002040",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item002040"
+   ],
+   "shopKey": "Shop0300015",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents000",
+    "ItemNaviContents009"
+   ]
+  },
+  "ItemNavigation027": {
+   "key": "ItemNavigation027",
+   "category": "RESOURCE",
+   "itemKey": "Item002041",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item002041"
+   ],
+   "shopKey": "Shop0300016",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents000",
+    "ItemNaviContents009"
+   ]
+  },
+  "ItemNavigation028": {
+   "key": "ItemNavigation028",
+   "category": "RESOURCE",
+   "itemKey": "Item002042",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item002042"
+   ],
+   "shopKey": "Shop0300017",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents000",
+    "ItemNaviContents009"
+   ]
+  },
+  "ItemNavigation029": {
+   "key": "ItemNavigation029",
+   "category": "RESOURCE",
+   "itemKey": "Item002044",
+   "priceAmount": 1,
+   "priceType": "DIA",
+   "price": 80,
+   "itemUse": [],
+   "shopKey": "Shop0300018",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents016",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation030": {
+   "key": "ItemNavigation030",
+   "category": "ETC",
+   "itemKey": "Item009063",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300019",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents022",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation031": {
+   "key": "ItemNavigation031",
+   "category": "ETC",
+   "itemKey": "Item009065",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents020"
+   ]
+  },
+  "ItemNavigation032": {
+   "key": "ItemNavigation032",
+   "category": "ETC",
+   "itemKey": "Item009066",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents024"
+   ]
+  },
+  "ItemNavigation033": {
+   "key": "ItemNavigation033",
+   "category": "ETC",
+   "itemKey": "Item009042",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300020",
+   "contents": [
+    "ItemNaviContents021"
+   ]
+  },
+  "ItemNavigation034": {
+   "key": "ItemNavigation034",
+   "category": "ETC",
+   "itemKey": "Item009043",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300020",
+   "contents": [
+    "ItemNaviContents021"
+   ]
+  },
+  "ItemNavigation035": {
+   "key": "ItemNavigation035",
+   "category": "ETC",
+   "itemKey": "Item009037",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300021",
+   "contents": [
+    "ItemNaviContents104",
+    "ItemNaviContents011"
+   ]
+  },
+  "ItemNavigation036": {
+   "key": "ItemNavigation036",
+   "category": "ETC",
+   "itemKey": "Item009015",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300022",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents107"
+   ]
+  },
+  "ItemNavigation037": {
+   "key": "ItemNavigation037",
+   "category": "ETC",
+   "itemKey": "Item009029",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300023",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents107"
+   ]
+  },
+  "ItemNavigation038": {
+   "key": "ItemNavigation038",
+   "category": "RESOURCE",
+   "itemKey": "Item002004",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300024",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents015"
+   ]
+  },
+  "ItemNavigation039": {
+   "key": "ItemNavigation039",
+   "category": "RESOURCE",
+   "itemKey": "Item002043",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "Shop0300025",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents107"
+   ]
+  },
+  "ItemNavigation056": {
+   "key": "ItemNavigation056",
+   "category": "ETC",
+   "itemKey": "Item009004",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents023"
+   ]
+  },
+  "ItemNavigation057": {
+   "key": "ItemNavigation057",
+   "category": "ETC",
+   "itemKey": "Item009005",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents023"
+   ]
+  },
+  "ItemNavigation058": {
+   "key": "ItemNavigation058",
+   "category": "ETC",
+   "itemKey": "Item009069",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents020",
+    "ItemNaviContents024"
+   ]
+  },
+  "ItemNavigation059": {
+   "key": "ItemNavigation059",
+   "category": "ETC",
+   "itemKey": "Item009404",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [],
+   "shopKey": "",
+   "contents": [
+    "ItemNaviContents012",
+    "ItemNaviContents014"
+   ]
+  },
+  "ItemNavigation060": {
+   "key": "ItemNavigation060",
+   "category": "RESOURCE",
+   "itemKey": "Item002037",
+   "priceAmount": 1,
+   "priceType": "DIA",
+   "price": 1,
+   "itemUse": [],
+   "shopKey": "Shop0300029",
+   "contents": [
+    "ItemNaviContents113",
+    "ItemNaviContents036"
+   ]
+  },
+  "ItemNavigation061": {
+   "key": "ItemNavigation061",
+   "category": "ETC",
+   "itemKey": "Item009014",
+   "priceAmount": 1,
+   "priceType": "DIA",
+   "price": 20,
+   "itemUse": [],
+   "shopKey": "Shop0300030",
+   "contents": [
+    "ItemNaviContents007",
+    "ItemNaviContents036"
+   ]
+  },
+  "ItemNavigation041": {
+   "key": "ItemNavigation041",
+   "category": "ETC",
+   "itemKey": "Item009048",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007005"
+   ],
+   "shopKey": "Shop0300026",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation042": {
+   "key": "ItemNavigation042",
+   "category": "ETC",
+   "itemKey": "Item009049",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007006"
+   ],
+   "shopKey": "Shop0300027",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation043": {
+   "key": "ItemNavigation043",
+   "category": "ETC",
+   "itemKey": "Item009050",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007007"
+   ],
+   "shopKey": "Shop0300028",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation044": {
+   "key": "ItemNavigation044",
+   "category": "ETC",
+   "itemKey": "Item009051",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007005"
+   ],
+   "shopKey": "Shop0300026",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation045": {
+   "key": "ItemNavigation045",
+   "category": "ETC",
+   "itemKey": "Item009052",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007006"
+   ],
+   "shopKey": "Shop0300027",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation046": {
+   "key": "ItemNavigation046",
+   "category": "ETC",
+   "itemKey": "Item009053",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007007"
+   ],
+   "shopKey": "Shop0300028",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation047": {
+   "key": "ItemNavigation047",
+   "category": "ETC",
+   "itemKey": "Item009054",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007005"
+   ],
+   "shopKey": "Shop0300026",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation048": {
+   "key": "ItemNavigation048",
+   "category": "ETC",
+   "itemKey": "Item009055",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007006"
+   ],
+   "shopKey": "Shop0300027",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation049": {
+   "key": "ItemNavigation049",
+   "category": "ETC",
+   "itemKey": "Item009056",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007007"
+   ],
+   "shopKey": "Shop0300028",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation050": {
+   "key": "ItemNavigation050",
+   "category": "ETC",
+   "itemKey": "Item009057",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007005"
+   ],
+   "shopKey": "Shop0300026",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation051": {
+   "key": "ItemNavigation051",
+   "category": "ETC",
+   "itemKey": "Item009058",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007006"
+   ],
+   "shopKey": "Shop0300027",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation052": {
+   "key": "ItemNavigation052",
+   "category": "ETC",
+   "itemKey": "Item009059",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007007"
+   ],
+   "shopKey": "Shop0300028",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation053": {
+   "key": "ItemNavigation053",
+   "category": "ETC",
+   "itemKey": "Item009060",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007005"
+   ],
+   "shopKey": "Shop0300026",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation054": {
+   "key": "ItemNavigation054",
+   "category": "ETC",
+   "itemKey": "Item009061",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007006"
+   ],
+   "shopKey": "Shop0300027",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  },
+  "ItemNavigation055": {
+   "key": "ItemNavigation055",
+   "category": "ETC",
+   "itemKey": "Item009062",
+   "priceAmount": 0,
+   "priceType": "NONE",
+   "price": 0,
+   "itemUse": [
+    "Item007007"
+   ],
+   "shopKey": "Shop0300028",
+   "contents": [
+    "ItemNaviContents036",
+    "ItemNaviContents004",
+    "ItemNaviContents013"
+   ]
+  }
+ }
+}

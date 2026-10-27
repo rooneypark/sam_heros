@@ -1,0 +1,164 @@
+{
+ "sheetName": "TablePubData",
+ "tableIndex": 0,
+ "rows": {
+  "Pub000": {
+   "key": "Pub000",
+   "count": 0,
+   "confirmUnit": [
+    "Unit000032"
+   ],
+   "displayUnit1": [
+    "NORMAL"
+   ],
+   "displayUnit2": [
+    "RARE"
+   ]
+  },
+  "Pub003": {
+   "key": "Pub003",
+   "count": 3,
+   "confirmUnit": [
+    "Unit000032"
+   ],
+   "displayUnit1": [
+    "NORMAL"
+   ],
+   "displayUnit2": [
+    "RARE"
+   ]
+  },
+  "Pub007": {
+   "key": "Pub007",
+   "count": 7,
+   "confirmUnit": [
+    "Unit000030",
+    "Unit000031",
+    "Unit000019"
+   ],
+   "displayUnit1": [
+    "RARE"
+   ],
+   "displayUnit2": [
+    "NORMAL"
+   ]
+  },
+  "Pub013": {
+   "key": "Pub013",
+   "count": 13,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND"
+   ]
+  },
+  "Pub016": {
+   "key": "Pub016",
+   "count": 16,
+   "confirmUnit": [
+    "LEGEND_HAS"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND"
+   ]
+  },
+  "Pub024": {
+   "key": "Pub024",
+   "count": 24,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "UNIQUE"
+   ],
+   "displayUnit2": [
+    "UNIQUE"
+   ]
+  },
+  "Pub046": {
+   "key": "Pub046",
+   "count": 46,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND_HAS"
+   ]
+  },
+  "Pub069": {
+   "key": "Pub069",
+   "count": 69,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "UNIQUE"
+   ],
+   "displayUnit2": [
+    "UNIQUE"
+   ]
+  },
+  "Pub075": {
+   "key": "Pub075",
+   "count": 75,
+   "confirmUnit": [
+    "LEGEND_HAS"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND"
+   ]
+  },
+  "Pub097": {
+   "key": "Pub097",
+   "count": 97,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND"
+   ]
+  },
+  "Pub130": {
+   "key": "Pub130",
+   "count": 130,
+   "confirmUnit": [
+    "LEGEND_HAS"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "RARE"
+   ]
+  },
+  "Pub166": {
+   "key": "Pub166",
+   "count": 166,
+   "confirmUnit": [
+    "UNIQUE"
+   ],
+   "displayUnit1": [
+    "LEGEND"
+   ],
+   "displayUnit2": [
+    "LEGEND"
+   ]
+  }
+ }
+}

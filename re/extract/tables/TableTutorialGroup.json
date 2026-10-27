@@ -1,0 +1,245 @@
+{
+ "sheetName": "TableTutorialGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "TutorialGroup0000": {
+   "key": "TutorialGroup0000",
+   "category": 0,
+   "tutorialCondition": "TRAINING_POPUP",
+   "tutorials": [
+    "Tutorial000008",
+    "Tutorial000009",
+    "Tutorial000010",
+    "Tutorial000011"
+   ]
+  },
+  "TutorialGroup0001": {
+   "key": "TutorialGroup0001",
+   "category": 1,
+   "tutorialCondition": "GET_UNIT000014",
+   "tutorials": [
+    "Tutorial001000",
+    "Tutorial001001",
+    "Tutorial001002",
+    "Tutorial001003",
+    "Tutorial001004",
+    "Tutorial001005",
+    "Tutorial001006",
+    "Tutorial001007",
+    "Tutorial001008",
+    "Tutorial001009"
+   ]
+  },
+  "TutorialGroup0002": {
+   "key": "TutorialGroup0002",
+   "category": 2,
+   "tutorialCondition": "PUB_POPUP",
+   "tutorials": [
+    "Tutorial002000",
+    "Tutorial002001",
+    "Tutorial002002",
+    "Tutorial002003",
+    "Tutorial002004",
+    "Tutorial002005",
+    "Tutorial002006",
+    "Tutorial002007",
+    "Tutorial002008",
+    "Tutorial002009",
+    "Tutorial002010",
+    "Tutorial002011",
+    "Tutorial002012",
+    "Tutorial002013",
+    "Tutorial002014"
+   ]
+  },
+  "TutorialGroup0003": {
+   "key": "TutorialGroup0003",
+   "category": 3,
+   "tutorialCondition": "SDUNGEON_POPUP",
+   "tutorials": [
+    "Tutorial003000",
+    "Tutorial003001",
+    "Tutorial003002",
+    "Tutorial003003",
+    "Tutorial003004",
+    "Tutorial003005",
+    "Tutorial003006",
+    "Tutorial003007"
+   ]
+  },
+  "TutorialGroup0004": {
+   "key": "TutorialGroup0004",
+   "category": 4,
+   "tutorialCondition": "EQUIP_POPUP",
+   "tutorials": []
+  },
+  "TutorialGroup0005": {
+   "key": "TutorialGroup0005",
+   "category": 5,
+   "tutorialCondition": "GAME_START",
+   "tutorials": [
+    "Tutorial005000",
+    "Tutorial005001",
+    "Tutorial005002",
+    "Tutorial005003",
+    "Tutorial005004",
+    "Tutorial005005"
+   ]
+  },
+  "TutorialGroup0006": {
+   "key": "TutorialGroup0006",
+   "category": 6,
+   "tutorialCondition": "PROLOGUE_END",
+   "tutorials": [
+    "Tutorial006000"
+   ]
+  },
+  "TutorialGroup0007": {
+   "key": "TutorialGroup0007",
+   "category": 7,
+   "tutorialCondition": "NEW_WORLD",
+   "tutorials": [
+    "Tutorial007000",
+    "Tutorial007001",
+    "Tutorial007002",
+    "Tutorial007003",
+    "Tutorial007004",
+    "Tutorial007005",
+    "Tutorial007006",
+    "Tutorial007007",
+    "Tutorial007008"
+   ]
+  },
+  "TutorialGroup0008": {
+   "key": "TutorialGroup0008",
+   "category": 8,
+   "tutorialCondition": "GAME_START",
+   "tutorials": [
+    "Tutorial008000",
+    "Tutorial008001",
+    "Tutorial008002",
+    "Tutorial008003",
+    "Tutorial008004",
+    "Tutorial008005",
+    "Tutorial008006",
+    "Tutorial008007",
+    "Tutorial008008",
+    "Tutorial008009",
+    "Tutorial008010",
+    "Tutorial008011"
+   ]
+  },
+  "TutorialGroup0009": {
+   "key": "TutorialGroup0009",
+   "category": 9,
+   "tutorialCondition": "FIRST_OPEN_HERO_TRAINING",
+   "tutorials": [
+    "Tutorial009000",
+    "Tutorial009001",
+    "Tutorial009002",
+    "Tutorial009003",
+    "Tutorial009004",
+    "Tutorial009005"
+   ]
+  },
+  "TutorialGroup0010": {
+   "key": "TutorialGroup0010",
+   "category": 10,
+   "tutorialCondition": "STORY_START",
+   "tutorials": [
+    "Tutorial010000",
+    "Tutorial010001",
+    "Tutorial010002",
+    "Tutorial010003"
+   ]
+  },
+  "TutorialGroup0011": {
+   "key": "TutorialGroup0011",
+   "category": 11,
+   "tutorialCondition": "PUB_CHARM",
+   "tutorials": [
+    "Tutorial012000",
+    "Tutorial012001",
+    "Tutorial012002",
+    "Tutorial012003",
+    "Tutorial012004",
+    "Tutorial012005",
+    "Tutorial012006",
+    "Tutorial012007",
+    "Tutorial012008",
+    "Tutorial012009",
+    "Tutorial012010"
+   ]
+  },
+  "TutorialGroup0012": {
+   "key": "TutorialGroup0012",
+   "category": 12,
+   "tutorialCondition": "POTENTIAL",
+   "tutorials": [
+    "Tutorial013000",
+    "Tutorial013001",
+    "Tutorial013002",
+    "Tutorial013003",
+    "Tutorial013004",
+    "Tutorial013005",
+    "Tutorial013006",
+    "Tutorial013007"
+   ]
+  },
+  "TutorialGroup0013": {
+   "key": "TutorialGroup0013",
+   "category": 13,
+   "tutorialCondition": "ABYSS",
+   "tutorials": [
+    "Tutorial014000",
+    "Tutorial014001",
+    "Tutorial014002",
+    "Tutorial014003"
+   ]
+  },
+  "TutorialGroup0015": {
+   "key": "TutorialGroup0015",
+   "category": 15,
+   "tutorialCondition": "TRAIN_BTN_FOCUS",
+   "tutorials": [
+    "Tutorial015000",
+    "Tutorial015001"
+   ]
+  },
+  "TutorialGroup0016": {
+   "key": "TutorialGroup0016",
+   "category": 16,
+   "tutorialCondition": "PUB_BTN_FOCUS",
+   "tutorials": [
+    "Tutorial016000"
+   ]
+  },
+  "TutorialGroup0017": {
+   "key": "TutorialGroup0017",
+   "category": 17,
+   "tutorialCondition": "EQUIP_BTN_FOCUS",
+   "tutorials": [
+    "Tutorial017000",
+    "Tutorial017001",
+    "Tutorial017002",
+    "Tutorial017003",
+    "Tutorial017004",
+    "Tutorial017005",
+    "Tutorial017006",
+    "Tutorial017007",
+    "Tutorial017008",
+    "Tutorial017009"
+   ]
+  },
+  "TutorialGroup0018": {
+   "key": "TutorialGroup0018",
+   "category": 18,
+   "tutorialCondition": "MANAGE",
+   "tutorials": [
+    "Tutorial018000",
+    "Tutorial018001",
+    "Tutorial018002"
+   ]
+  }
+ }
+}

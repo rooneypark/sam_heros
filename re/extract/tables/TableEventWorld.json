@@ -1,0 +1,481 @@
+{
+ "sheetName": "TableEventWorldData",
+ "tableIndex": 0,
+ "rows": {
+  "EventWorld800000": {
+   "key": "EventWorld800000",
+   "category": 800,
+   "index": 0,
+   "level": 10,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803301",
+    "DropItem803211",
+    "DropItem803205"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800001": {
+   "key": "EventWorld800001",
+   "category": 800,
+   "index": 1,
+   "level": 35,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803301",
+    "DropItem803211",
+    "DropItem803205"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800002": {
+   "key": "EventWorld800002",
+   "category": 800,
+   "index": 2,
+   "level": 60,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803302",
+    "DropItem803212",
+    "DropItem803205"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800003": {
+   "key": "EventWorld800003",
+   "category": 800,
+   "index": 3,
+   "level": 85,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803302",
+    "DropItem803212",
+    "DropItem803205"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800004": {
+   "key": "EventWorld800004",
+   "category": 800,
+   "index": 4,
+   "level": 110,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803303",
+    "DropItem803401",
+    "DropItem803206"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800005": {
+   "key": "EventWorld800005",
+   "category": 800,
+   "index": 5,
+   "level": 135,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803303",
+    "DropItem803401",
+    "DropItem803206"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800006": {
+   "key": "EventWorld800006",
+   "category": 800,
+   "index": 6,
+   "level": 160,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803304",
+    "DropItem803401",
+    "DropItem803206"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800007": {
+   "key": "EventWorld800007",
+   "category": 800,
+   "index": 7,
+   "level": 185,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803304",
+    "DropItem803401",
+    "DropItem803206"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800008": {
+   "key": "EventWorld800008",
+   "category": 800,
+   "index": 8,
+   "level": 210,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803305",
+    "DropItem803401",
+    "DropItem803207"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800009": {
+   "key": "EventWorld800009",
+   "category": 800,
+   "index": 9,
+   "level": 250,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803305",
+    "DropItem803401",
+    "DropItem803207"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800010": {
+   "key": "EventWorld800010",
+   "category": 800,
+   "index": 10,
+   "level": 280,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803306",
+    "DropItem803401",
+    "DropItem803207"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800011": {
+   "key": "EventWorld800011",
+   "category": 800,
+   "index": 11,
+   "level": 310,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803306",
+    "DropItem803401",
+    "DropItem803207"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800012": {
+   "key": "EventWorld800012",
+   "category": 800,
+   "index": 12,
+   "level": 340,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803307",
+    "DropItem803401",
+    "DropItem803208"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800013": {
+   "key": "EventWorld800013",
+   "category": 800,
+   "index": 13,
+   "level": 370,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803307",
+    "DropItem803401",
+    "DropItem803208"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800014": {
+   "key": "EventWorld800014",
+   "category": 800,
+   "index": 14,
+   "level": 400,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803308",
+    "DropItem803401",
+    "DropItem803208"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800015": {
+   "key": "EventWorld800015",
+   "category": 800,
+   "index": 15,
+   "level": 430,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803308",
+    "DropItem803401",
+    "DropItem803208"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800016": {
+   "key": "EventWorld800016",
+   "category": 800,
+   "index": 16,
+   "level": 460,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803309",
+    "DropItem803401",
+    "DropItem803209"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800017": {
+   "key": "EventWorld800017",
+   "category": 800,
+   "index": 17,
+   "level": 490,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803309",
+    "DropItem803401",
+    "DropItem803209"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800018": {
+   "key": "EventWorld800018",
+   "category": 800,
+   "index": 18,
+   "level": 520,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803310",
+    "DropItem803401",
+    "DropItem803209"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld800019": {
+   "key": "EventWorld800019",
+   "category": 800,
+   "index": 19,
+   "level": 550,
+   "time": 600,
+   "qst": [
+    "Quest800000"
+   ],
+   "eQst": "Quest800011",
+   "dropItems": [
+    "DropItem803400",
+    "DropItem803401",
+    "DropItem803310",
+    "DropItem803401",
+    "DropItem803209"
+   ],
+   "displayItems": [
+    "Item009502",
+    "Item003043",
+    "Item80010903"
+   ]
+  },
+  "EventWorld801000": {
+   "key": "EventWorld801000",
+   "category": 801,
+   "index": 0,
+   "level": 0,
+   "time": 0,
+   "qst": [],
+   "eQst": "",
+   "dropItems": [],
+   "displayItems": [
+    "Item009503",
+    "Item005002",
+    "Item80020917"
+   ]
+  }
+ }
+}

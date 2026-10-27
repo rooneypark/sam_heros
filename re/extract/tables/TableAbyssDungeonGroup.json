@@ -1,0 +1,204 @@
+{
+ "sheetName": "TableAbyssDungeonGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "AbyssDungeonGroup0000": {
+   "key": "AbyssDungeonGroup0000",
+   "category": 0,
+   "type": 0,
+   "group_list": [
+    "AbyssDungeonInfo000000",
+    "AbyssDungeonInfo000001",
+    "AbyssDungeonInfo000002",
+    "AbyssDungeonInfo000003",
+    "AbyssDungeonInfo000004",
+    "AbyssDungeonInfo000005",
+    "AbyssDungeonInfo000009",
+    "AbyssDungeonInfo000011",
+    "AbyssDungeonInfo000012",
+    "AbyssDungeonInfo000013"
+   ],
+   "difficult_low": "AbyssDungeonInfo000006",
+   "difficult_mid": "AbyssDungeonInfo000007",
+   "difficult_high": "AbyssDungeonInfo000008",
+   "bossKey": "AbyssDungeonInfo000010",
+   "tBossKey": "AbyssDungeonInfo000100"
+  },
+  "AbyssDungeonGroup0100": {
+   "key": "AbyssDungeonGroup0100",
+   "category": 1,
+   "type": 0,
+   "group_list": [
+    "AbyssDungeonInfo010000",
+    "AbyssDungeonInfo010001",
+    "AbyssDungeonInfo010002",
+    "AbyssDungeonInfo010003",
+    "AbyssDungeonInfo010004",
+    "AbyssDungeonInfo010005",
+    "AbyssDungeonInfo010009",
+    "AbyssDungeonInfo010011",
+    "AbyssDungeonInfo010012",
+    "AbyssDungeonInfo010013"
+   ],
+   "difficult_low": "AbyssDungeonInfo010006",
+   "difficult_mid": "AbyssDungeonInfo010007",
+   "difficult_high": "AbyssDungeonInfo010008",
+   "bossKey": "AbyssDungeonInfo010010",
+   "tBossKey": "AbyssDungeonInfo010100"
+  },
+  "AbyssDungeonGroup0101": {
+   "key": "AbyssDungeonGroup0101",
+   "category": 1,
+   "type": 1,
+   "group_list": [
+    "AbyssDungeonInfo011000",
+    "AbyssDungeonInfo011001",
+    "AbyssDungeonInfo011002",
+    "AbyssDungeonInfo011003",
+    "AbyssDungeonInfo011004",
+    "AbyssDungeonInfo011005",
+    "AbyssDungeonInfo011009",
+    "AbyssDungeonInfo011011",
+    "AbyssDungeonInfo011012",
+    "AbyssDungeonInfo011013"
+   ],
+   "difficult_low": "AbyssDungeonInfo011008",
+   "difficult_mid": "AbyssDungeonInfo011007",
+   "difficult_high": "AbyssDungeonInfo011008",
+   "bossKey": "AbyssDungeonInfo011010",
+   "tBossKey": "AbyssDungeonInfo011100"
+  },
+  "AbyssDungeonGroup0200": {
+   "key": "AbyssDungeonGroup0200",
+   "category": 2,
+   "type": 0,
+   "group_list": [
+    "AbyssDungeonInfo020000",
+    "AbyssDungeonInfo020001",
+    "AbyssDungeonInfo020002",
+    "AbyssDungeonInfo020003",
+    "AbyssDungeonInfo020004",
+    "AbyssDungeonInfo020005",
+    "AbyssDungeonInfo020009",
+    "AbyssDungeonInfo020011",
+    "AbyssDungeonInfo020012",
+    "AbyssDungeonInfo020013"
+   ],
+   "difficult_low": "AbyssDungeonInfo020006",
+   "difficult_mid": "AbyssDungeonInfo020007",
+   "difficult_high": "AbyssDungeonInfo020008",
+   "bossKey": "AbyssDungeonInfo020010",
+   "tBossKey": "AbyssDungeonInfo020100"
+  },
+  "AbyssDungeonGroup0201": {
+   "key": "AbyssDungeonGroup0201",
+   "category": 2,
+   "type": 1,
+   "group_list": [
+    "AbyssDungeonInfo021000",
+    "AbyssDungeonInfo021001",
+    "AbyssDungeonInfo021002",
+    "AbyssDungeonInfo021003",
+    "AbyssDungeonInfo021004",
+    "AbyssDungeonInfo021005",
+    "AbyssDungeonInfo021009",
+    "AbyssDungeonInfo021011",
+    "AbyssDungeonInfo021012",
+    "AbyssDungeonInfo021013"
+   ],
+   "difficult_low": "AbyssDungeonInfo021008",
+   "difficult_mid": "AbyssDungeonInfo021007",
+   "difficult_high": "AbyssDungeonInfo021008",
+   "bossKey": "AbyssDungeonInfo021010",
+   "tBossKey": "AbyssDungeonInfo021100"
+  },
+  "AbyssDungeonGroup0300": {
+   "key": "AbyssDungeonGroup0300",
+   "category": 3,
+   "type": 0,
+   "group_list": [
+    "AbyssDungeonInfo030000",
+    "AbyssDungeonInfo030001",
+    "AbyssDungeonInfo030002",
+    "AbyssDungeonInfo030003",
+    "AbyssDungeonInfo030004",
+    "AbyssDungeonInfo030005",
+    "AbyssDungeonInfo030009",
+    "AbyssDungeonInfo030011",
+    "AbyssDungeonInfo030012",
+    "AbyssDungeonInfo030013"
+   ],
+   "difficult_low": "AbyssDungeonInfo030006",
+   "difficult_mid": "AbyssDungeonInfo030007",
+   "difficult_high": "AbyssDungeonInfo030008",
+   "bossKey": "AbyssDungeonInfo030010",
+   "tBossKey": "AbyssDungeonInfo030100"
+  },
+  "AbyssDungeonGroup0301": {
+   "key": "AbyssDungeonGroup0301",
+   "category": 3,
+   "type": 1,
+   "group_list": [
+    "AbyssDungeonInfo031000",
+    "AbyssDungeonInfo031001",
+    "AbyssDungeonInfo031002",
+    "AbyssDungeonInfo031003",
+    "AbyssDungeonInfo031004",
+    "AbyssDungeonInfo031005",
+    "AbyssDungeonInfo031009",
+    "AbyssDungeonInfo031011",
+    "AbyssDungeonInfo031012",
+    "AbyssDungeonInfo031013"
+   ],
+   "difficult_low": "AbyssDungeonInfo031008",
+   "difficult_mid": "AbyssDungeonInfo031007",
+   "difficult_high": "AbyssDungeonInfo031008",
+   "bossKey": "AbyssDungeonInfo031010",
+   "tBossKey": "AbyssDungeonInfo031100"
+  },
+  "AbyssDungeonGroup0400": {
+   "key": "AbyssDungeonGroup0400",
+   "category": 4,
+   "type": 0,
+   "group_list": [
+    "AbyssDungeonInfo040000",
+    "AbyssDungeonInfo040001",
+    "AbyssDungeonInfo040002",
+    "AbyssDungeonInfo040003",
+    "AbyssDungeonInfo040004",
+    "AbyssDungeonInfo040005",
+    "AbyssDungeonInfo040009",
+    "AbyssDungeonInfo040011",
+    "AbyssDungeonInfo040012",
+    "AbyssDungeonInfo040013"
+   ],
+   "difficult_low": "AbyssDungeonInfo040006",
+   "difficult_mid": "AbyssDungeonInfo040007",
+   "difficult_high": "AbyssDungeonInfo040008",
+   "bossKey": "AbyssDungeonInfo040010",
+   "tBossKey": "AbyssDungeonInfo040100"
+  },
+  "AbyssDungeonGroup0401": {
+   "key": "AbyssDungeonGroup0401",
+   "category": 4,
+   "type": 1,
+   "group_list": [
+    "AbyssDungeonInfo041000",
+    "AbyssDungeonInfo041001",
+    "AbyssDungeonInfo041002",
+    "AbyssDungeonInfo041003",
+    "AbyssDungeonInfo041004",
+    "AbyssDungeonInfo041005",
+    "AbyssDungeonInfo041009",
+    "AbyssDungeonInfo041011",
+    "AbyssDungeonInfo041012",
+    "AbyssDungeonInfo041013"
+   ],
+   "difficult_low": "AbyssDungeonInfo041008",
+   "difficult_mid": "AbyssDungeonInfo041007",
+   "difficult_high": "AbyssDungeonInfo041008",
+   "bossKey": "AbyssDungeonInfo041010",
+   "tBossKey": "AbyssDungeonInfo041100"
+  }
+ }
+}

@@ -1,0 +1,324 @@
+{
+ "sheetName": "TableSDPData",
+ "tableIndex": 0,
+ "rows": {
+  "SDP0001": {
+   "key": "SDP0001",
+   "category": 0,
+   "index": 1,
+   "freeReward": [
+    "Item002003",
+    "Item002037"
+   ],
+   "freeAmount": [
+    50,
+    5
+   ],
+   "premiumReward": [
+    "Item002003",
+    "Item002003",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    50,
+    50,
+    20
+   ]
+  },
+  "SDP0002": {
+   "key": "SDP0002",
+   "category": 0,
+   "index": 2,
+   "freeReward": [
+    "Item003017",
+    "Item002037"
+   ],
+   "freeAmount": [
+    1,
+    5
+   ],
+   "premiumReward": [
+    "Item003025",
+    "Item007013",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    1,
+    3,
+    10
+   ]
+  },
+  "SDP0003": {
+   "key": "SDP0003",
+   "category": 0,
+   "index": 3,
+   "freeReward": [
+    "Item002006",
+    "Item002037"
+   ],
+   "freeAmount": [
+    1,
+    5
+   ],
+   "premiumReward": [
+    "Item002006",
+    "Item002006",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    1,
+    1,
+    10
+   ]
+  },
+  "SDP0004": {
+   "key": "SDP0004",
+   "category": 0,
+   "index": 4,
+   "freeReward": [
+    "Item004001",
+    "Item002037"
+   ],
+   "freeAmount": [
+    1,
+    5
+   ],
+   "premiumReward": [
+    "Item004002",
+    "Item009013",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    1,
+    5,
+    10
+   ]
+  },
+  "SDP0005": {
+   "key": "SDP0005",
+   "category": 0,
+   "index": 5,
+   "freeReward": [
+    "Item002041",
+    "Item002037"
+   ],
+   "freeAmount": [
+    25,
+    5
+   ],
+   "premiumReward": [
+    "Item002041",
+    "Item002042",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    25,
+    25,
+    10
+   ]
+  },
+  "SDP0006": {
+   "key": "SDP0006",
+   "category": 0,
+   "index": 6,
+   "freeReward": [
+    "Item002005",
+    "Item002037"
+   ],
+   "freeAmount": [
+    25,
+    5
+   ],
+   "premiumReward": [
+    "Item002005",
+    "Item002005",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    25,
+    25,
+    10
+   ]
+  },
+  "SDP0007": {
+   "key": "SDP0007",
+   "category": 0,
+   "index": 7,
+   "freeReward": [
+    "Item003017",
+    "Item002037"
+   ],
+   "freeAmount": [
+    50,
+    5
+   ],
+   "premiumReward": [
+    "Item003025",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    50,
+    20
+   ]
+  },
+  "SDP0101": {
+   "key": "SDP0101",
+   "category": 1,
+   "index": 1,
+   "freeReward": [
+    "Item002003",
+    "Item002037"
+   ],
+   "freeAmount": [
+    25,
+    5
+   ],
+   "premiumReward": [
+    "Item002003",
+    "Item002003",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    50,
+    50,
+    20
+   ]
+  },
+  "SDP0102": {
+   "key": "SDP0102",
+   "category": 1,
+   "index": 2,
+   "freeReward": [
+    "Item002041",
+    "Item002037"
+   ],
+   "freeAmount": [
+    10,
+    5
+   ],
+   "premiumReward": [
+    "Item002041",
+    "Item002042",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    10,
+    5,
+    10
+   ]
+  },
+  "SDP0103": {
+   "key": "SDP0103",
+   "category": 1,
+   "index": 3,
+   "freeReward": [
+    "Item004001",
+    "Item002037"
+   ],
+   "freeAmount": [
+    1,
+    5
+   ],
+   "premiumReward": [
+    "Item002006",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    1,
+    10
+   ]
+  },
+  "SDP0104": {
+   "key": "SDP0104",
+   "category": 1,
+   "index": 4,
+   "freeReward": [
+    "Item007013",
+    "Item002037"
+   ],
+   "freeAmount": [
+    1,
+    5
+   ],
+   "premiumReward": [
+    "Item007013",
+    "Item007013",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    1,
+    1,
+    10
+   ]
+  },
+  "SDP0105": {
+   "key": "SDP0105",
+   "category": 1,
+   "index": 5,
+   "freeReward": [
+    "Item007005",
+    "Item002037"
+   ],
+   "freeAmount": [
+    30,
+    5
+   ],
+   "premiumReward": [
+    "Item007005",
+    "Item007005",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    30,
+    30,
+    10
+   ]
+  },
+  "SDP0106": {
+   "key": "SDP0106",
+   "category": 1,
+   "index": 6,
+   "freeReward": [
+    "Item002005",
+    "Item002037"
+   ],
+   "freeAmount": [
+    15,
+    5
+   ],
+   "premiumReward": [
+    "Item002005",
+    "Item002005",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    15,
+    15,
+    20
+   ]
+  },
+  "SDP0107": {
+   "key": "SDP0107",
+   "category": 1,
+   "index": 7,
+   "freeReward": [
+    "Item002041",
+    "Item002037"
+   ],
+   "freeAmount": [
+    10,
+    5
+   ],
+   "premiumReward": [
+    "Item002041",
+    "Item002042",
+    "Item002037"
+   ],
+   "premiumAmount": [
+    10,
+    5,
+    20
+   ]
+  }
+ }
+}

@@ -1,0 +1,851 @@
+{
+ "sheetName": "TableBossHuntDungeonData",
+ "tableIndex": 0,
+ "rows": {
+  "BossHuntDungeon0": {
+   "key": "BossHuntDungeon0",
+   "category": 0,
+   "name": "LocalizeUIBossHunt000001",
+   "dungeonKey": "Dungeon908000",
+   "dungeonAttriDesc": "",
+   "dungeonAttriImage": "",
+   "limitTime": 90,
+   "weekDays": 97,
+   "bossKey": "Unit000830",
+   "mapData": "Dungeon_Inf_boss_00",
+   "levelBaseStat": [
+    5,
+    15,
+    30,
+    80,
+    140,
+    200,
+    270,
+    310,
+    350,
+    390,
+    430,
+    470,
+    510,
+    550,
+    590
+   ],
+   "IncDamageByTime": [
+    0.0,
+    30.0
+   ],
+   "IncDamgeRateTime": [
+    0.4000000059604645,
+    1.0
+   ],
+   "IncScaleByTime": [
+    0.8999999761581421,
+    1.2999999523162842
+   ],
+   "roadColor": "455A61",
+   "waterColor": "1DA68D",
+   "bgm": "BGM_0007",
+   "displayItems": [
+    "Item009060",
+    "Item009061",
+    "Item009062"
+   ],
+   "dropItem1Rate": [
+    27,
+    33,
+    9,
+    11,
+    2,
+    3
+   ],
+   "dropItem2Rate": [
+    30,
+    36,
+    10,
+    12,
+    2,
+    4
+   ],
+   "dropItem3Rate": [
+    33,
+    39,
+    11,
+    13,
+    3,
+    4
+   ],
+   "dropItem4Rate": [
+    36,
+    42,
+    12,
+    14,
+    3,
+    5
+   ],
+   "dropItem5Rate": [
+    39,
+    45,
+    13,
+    15,
+    4,
+    5
+   ],
+   "dropItem6Rate": [
+    45,
+    51,
+    15,
+    17,
+    4,
+    6
+   ],
+   "dropItem7Rate": [
+    51,
+    57,
+    17,
+    19,
+    5,
+    6
+   ],
+   "dropItem8Rate": [
+    57,
+    63,
+    19,
+    21,
+    5,
+    7
+   ],
+   "dropItem9Rate": [
+    63,
+    69,
+    21,
+    23,
+    6,
+    7
+   ],
+   "dropItem10Rate": [
+    69,
+    75,
+    23,
+    25,
+    7,
+    9
+   ],
+   "dropItem11Rate": [
+    75,
+    81,
+    25,
+    27,
+    9,
+    10
+   ],
+   "dropItem12Rate": [
+    81,
+    87,
+    27,
+    29,
+    10,
+    11
+   ],
+   "dropItem13Rate": [
+    87,
+    93,
+    29,
+    31,
+    11,
+    12
+   ],
+   "dropItem14Rate": [
+    99,
+    105,
+    31,
+    33,
+    12,
+    13
+   ],
+   "dropItem15Rate": [
+    105,
+    111,
+    33,
+    35,
+    13,
+    15
+   ]
+  },
+  "BossHuntDungeon1": {
+   "key": "BossHuntDungeon1",
+   "category": 1,
+   "name": "LocalizeUIBossHunt000002",
+   "dungeonKey": "Dungeon908001",
+   "dungeonAttriDesc": "LocalizeUIBossHunt000008",
+   "dungeonAttriImage": "ui_525",
+   "limitTime": 90,
+   "weekDays": 98,
+   "bossKey": "Unit000831",
+   "mapData": "Dungeon_Inf_boss_01",
+   "levelBaseStat": [
+    5,
+    15,
+    30,
+    80,
+    140,
+    200,
+    270,
+    310,
+    350,
+    390,
+    430,
+    470,
+    510,
+    550,
+    590
+   ],
+   "IncDamageByTime": [
+    0.0,
+    30.0
+   ],
+   "IncDamgeRateTime": [
+    0.4000000059604645,
+    1.0
+   ],
+   "IncScaleByTime": [
+    0.8999999761581421,
+    1.2999999523162842
+   ],
+   "roadColor": "7863B0",
+   "waterColor": "40FF8C",
+   "bgm": "BGM_0008",
+   "displayItems": [
+    "Item009051",
+    "Item009052",
+    "Item009053"
+   ],
+   "dropItem1Rate": [
+    27,
+    33,
+    9,
+    11,
+    2,
+    3
+   ],
+   "dropItem2Rate": [
+    30,
+    36,
+    10,
+    12,
+    2,
+    4
+   ],
+   "dropItem3Rate": [
+    33,
+    39,
+    11,
+    13,
+    3,
+    4
+   ],
+   "dropItem4Rate": [
+    36,
+    42,
+    12,
+    14,
+    3,
+    5
+   ],
+   "dropItem5Rate": [
+    39,
+    45,
+    13,
+    15,
+    4,
+    5
+   ],
+   "dropItem6Rate": [
+    45,
+    51,
+    15,
+    17,
+    4,
+    6
+   ],
+   "dropItem7Rate": [
+    51,
+    57,
+    17,
+    19,
+    5,
+    6
+   ],
+   "dropItem8Rate": [
+    57,
+    63,
+    19,
+    21,
+    5,
+    7
+   ],
+   "dropItem9Rate": [
+    63,
+    69,
+    21,
+    23,
+    6,
+    7
+   ],
+   "dropItem10Rate": [
+    69,
+    75,
+    23,
+    25,
+    7,
+    9
+   ],
+   "dropItem11Rate": [
+    75,
+    81,
+    25,
+    27,
+    9,
+    10
+   ],
+   "dropItem12Rate": [
+    81,
+    87,
+    27,
+    29,
+    10,
+    11
+   ],
+   "dropItem13Rate": [
+    87,
+    93,
+    29,
+    31,
+    11,
+    12
+   ],
+   "dropItem14Rate": [
+    99,
+    105,
+    31,
+    33,
+    12,
+    13
+   ],
+   "dropItem15Rate": [
+    105,
+    111,
+    33,
+    35,
+    13,
+    15
+   ]
+  },
+  "BossHuntDungeon2": {
+   "key": "BossHuntDungeon2",
+   "category": 2,
+   "name": "LocalizeUIBossHunt000003",
+   "dungeonKey": "Dungeon908002",
+   "dungeonAttriDesc": "LocalizeUIBossHunt000009",
+   "dungeonAttriImage": "ui_568",
+   "limitTime": 90,
+   "weekDays": 100,
+   "bossKey": "Unit000832",
+   "mapData": "Dungeon_Inf_boss_02",
+   "levelBaseStat": [
+    5,
+    15,
+    30,
+    80,
+    140,
+    200,
+    270,
+    310,
+    350,
+    390,
+    430,
+    470,
+    510,
+    550,
+    590
+   ],
+   "IncDamageByTime": [
+    0.0,
+    30.0
+   ],
+   "IncDamgeRateTime": [
+    0.4000000059604645,
+    1.0
+   ],
+   "IncScaleByTime": [
+    0.8999999761581421,
+    1.2999999523162842
+   ],
+   "roadColor": "826F6F",
+   "waterColor": "FF4240",
+   "bgm": "BGM_0009",
+   "displayItems": [
+    "Item009048",
+    "Item009049",
+    "Item009050"
+   ],
+   "dropItem1Rate": [
+    27,
+    33,
+    9,
+    11,
+    2,
+    3
+   ],
+   "dropItem2Rate": [
+    30,
+    36,
+    10,
+    12,
+    2,
+    4
+   ],
+   "dropItem3Rate": [
+    33,
+    39,
+    11,
+    13,
+    3,
+    4
+   ],
+   "dropItem4Rate": [
+    36,
+    42,
+    12,
+    14,
+    3,
+    5
+   ],
+   "dropItem5Rate": [
+    39,
+    45,
+    13,
+    15,
+    4,
+    5
+   ],
+   "dropItem6Rate": [
+    45,
+    51,
+    15,
+    17,
+    4,
+    6
+   ],
+   "dropItem7Rate": [
+    51,
+    57,
+    17,
+    19,
+    5,
+    6
+   ],
+   "dropItem8Rate": [
+    57,
+    63,
+    19,
+    21,
+    5,
+    7
+   ],
+   "dropItem9Rate": [
+    63,
+    69,
+    21,
+    23,
+    6,
+    7
+   ],
+   "dropItem10Rate": [
+    69,
+    75,
+    23,
+    25,
+    7,
+    9
+   ],
+   "dropItem11Rate": [
+    75,
+    81,
+    25,
+    27,
+    9,
+    10
+   ],
+   "dropItem12Rate": [
+    81,
+    87,
+    27,
+    29,
+    10,
+    11
+   ],
+   "dropItem13Rate": [
+    87,
+    93,
+    29,
+    31,
+    11,
+    12
+   ],
+   "dropItem14Rate": [
+    99,
+    105,
+    31,
+    33,
+    12,
+    13
+   ],
+   "dropItem15Rate": [
+    105,
+    111,
+    33,
+    35,
+    13,
+    15
+   ]
+  },
+  "BossHuntDungeon3": {
+   "key": "BossHuntDungeon3",
+   "category": 3,
+   "name": "LocalizeUIBossHunt000004",
+   "dungeonKey": "Dungeon908003",
+   "dungeonAttriDesc": "LocalizeUIBossHunt000010",
+   "dungeonAttriImage": "ui_635",
+   "limitTime": 90,
+   "weekDays": 104,
+   "bossKey": "Unit000833",
+   "mapData": "Dungeon_Inf_boss_03",
+   "levelBaseStat": [
+    5,
+    15,
+    30,
+    80,
+    140,
+    200,
+    270,
+    310,
+    350,
+    390,
+    430,
+    470,
+    510,
+    550,
+    590
+   ],
+   "IncDamageByTime": [
+    0.0,
+    30.0
+   ],
+   "IncDamgeRateTime": [
+    0.4000000059604645,
+    1.0
+   ],
+   "IncScaleByTime": [
+    0.8999999761581421,
+    1.2999999523162842
+   ],
+   "roadColor": "DFF5F5",
+   "waterColor": "43E2FF",
+   "bgm": "BGM_0010",
+   "displayItems": [
+    "Item009057",
+    "Item009058",
+    "Item009059"
+   ],
+   "dropItem1Rate": [
+    27,
+    33,
+    9,
+    11,
+    2,
+    3
+   ],
+   "dropItem2Rate": [
+    30,
+    36,
+    10,
+    12,
+    2,
+    4
+   ],
+   "dropItem3Rate": [
+    33,
+    39,
+    11,
+    13,
+    3,
+    4
+   ],
+   "dropItem4Rate": [
+    36,
+    42,
+    12,
+    14,
+    3,
+    5
+   ],
+   "dropItem5Rate": [
+    39,
+    45,
+    13,
+    15,
+    4,
+    5
+   ],
+   "dropItem6Rate": [
+    45,
+    51,
+    15,
+    17,
+    4,
+    6
+   ],
+   "dropItem7Rate": [
+    51,
+    57,
+    17,
+    19,
+    5,
+    6
+   ],
+   "dropItem8Rate": [
+    57,
+    63,
+    19,
+    21,
+    5,
+    7
+   ],
+   "dropItem9Rate": [
+    63,
+    69,
+    21,
+    23,
+    6,
+    7
+   ],
+   "dropItem10Rate": [
+    69,
+    75,
+    23,
+    25,
+    7,
+    9
+   ],
+   "dropItem11Rate": [
+    75,
+    81,
+    25,
+    27,
+    9,
+    10
+   ],
+   "dropItem12Rate": [
+    81,
+    87,
+    27,
+    29,
+    10,
+    11
+   ],
+   "dropItem13Rate": [
+    87,
+    93,
+    29,
+    31,
+    11,
+    12
+   ],
+   "dropItem14Rate": [
+    99,
+    105,
+    31,
+    33,
+    12,
+    13
+   ],
+   "dropItem15Rate": [
+    105,
+    111,
+    33,
+    35,
+    13,
+    15
+   ]
+  },
+  "BossHuntDungeon4": {
+   "key": "BossHuntDungeon4",
+   "category": 4,
+   "name": "LocalizeUIBossHunt000005",
+   "dungeonKey": "Dungeon908004",
+   "dungeonAttriDesc": "LocalizeUIBossHunt000011",
+   "dungeonAttriImage": "ui_691",
+   "limitTime": 90,
+   "weekDays": 112,
+   "bossKey": "Unit000834",
+   "mapData": "Dungeon_Inf_boss_04",
+   "levelBaseStat": [
+    5,
+    15,
+    30,
+    80,
+    140,
+    200,
+    270,
+    310,
+    350,
+    390,
+    430,
+    470,
+    510,
+    550,
+    590
+   ],
+   "IncDamageByTime": [
+    0.0,
+    30.0
+   ],
+   "IncDamgeRateTime": [
+    0.4000000059604645,
+    1.0
+   ],
+   "IncScaleByTime": [
+    0.8999999761581421,
+    1.2999999523162842
+   ],
+   "roadColor": "A17868",
+   "waterColor": "C30130",
+   "bgm": "BGM_0011",
+   "displayItems": [
+    "Item009054",
+    "Item009055",
+    "Item009056"
+   ],
+   "dropItem1Rate": [
+    27,
+    33,
+    9,
+    11,
+    2,
+    3
+   ],
+   "dropItem2Rate": [
+    30,
+    36,
+    10,
+    12,
+    2,
+    4
+   ],
+   "dropItem3Rate": [
+    33,
+    39,
+    11,
+    13,
+    3,
+    4
+   ],
+   "dropItem4Rate": [
+    36,
+    42,
+    12,
+    14,
+    3,
+    5
+   ],
+   "dropItem5Rate": [
+    39,
+    45,
+    13,
+    15,
+    4,
+    5
+   ],
+   "dropItem6Rate": [
+    45,
+    51,
+    15,
+    17,
+    4,
+    6
+   ],
+   "dropItem7Rate": [
+    51,
+    57,
+    17,
+    19,
+    5,
+    6
+   ],
+   "dropItem8Rate": [
+    57,
+    63,
+    19,
+    21,
+    5,
+    7
+   ],
+   "dropItem9Rate": [
+    63,
+    69,
+    21,
+    23,
+    6,
+    7
+   ],
+   "dropItem10Rate": [
+    69,
+    75,
+    23,
+    25,
+    7,
+    9
+   ],
+   "dropItem11Rate": [
+    75,
+    81,
+    25,
+    27,
+    9,
+    10
+   ],
+   "dropItem12Rate": [
+    81,
+    87,
+    27,
+    29,
+    10,
+    11
+   ],
+   "dropItem13Rate": [
+    87,
+    93,
+    29,
+    31,
+    11,
+    12
+   ],
+   "dropItem14Rate": [
+    99,
+    105,
+    31,
+    33,
+    12,
+    13
+   ],
+   "dropItem15Rate": [
+    105,
+    111,
+    33,
+    35,
+    13,
+    15
+   ]
+  }
+ }
+}

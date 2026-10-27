@@ -1,0 +1,822 @@
+{
+ "sheetName": "TableGrowthData",
+ "tableIndex": 0,
+ "rows": {
+  "Growth000000": {
+   "key": "Growth000000",
+   "category": 0,
+   "level": 0,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 0
+  },
+  "Growth000001": {
+   "key": "Growth000001",
+   "category": 0,
+   "level": 1,
+   "requiredResource": "MEAT",
+   "resourceAmount": 5,
+   "partCount": 5
+  },
+  "Growth000002": {
+   "key": "Growth000002",
+   "category": 0,
+   "level": 2,
+   "requiredResource": "MEAT",
+   "resourceAmount": 10,
+   "partCount": 5
+  },
+  "Growth000003": {
+   "key": "Growth000003",
+   "category": 0,
+   "level": 3,
+   "requiredResource": "MEAT",
+   "resourceAmount": 15,
+   "partCount": 5
+  },
+  "Growth000004": {
+   "key": "Growth000004",
+   "category": 0,
+   "level": 4,
+   "requiredResource": "MEAT",
+   "resourceAmount": 20,
+   "partCount": 5
+  },
+  "Growth000005": {
+   "key": "Growth000005",
+   "category": 0,
+   "level": 5,
+   "requiredResource": "MEAT",
+   "resourceAmount": 25,
+   "partCount": 5
+  },
+  "Growth000006": {
+   "key": "Growth000006",
+   "category": 0,
+   "level": 6,
+   "requiredResource": "MEAT",
+   "resourceAmount": 30,
+   "partCount": 5
+  },
+  "Growth000007": {
+   "key": "Growth000007",
+   "category": 0,
+   "level": 7,
+   "requiredResource": "MEAT",
+   "resourceAmount": 35,
+   "partCount": 5
+  },
+  "Growth000008": {
+   "key": "Growth000008",
+   "category": 0,
+   "level": 8,
+   "requiredResource": "MEAT",
+   "resourceAmount": 40,
+   "partCount": 5
+  },
+  "Growth000009": {
+   "key": "Growth000009",
+   "category": 0,
+   "level": 9,
+   "requiredResource": "MEAT",
+   "resourceAmount": 45,
+   "partCount": 5
+  },
+  "Growth000010": {
+   "key": "Growth000010",
+   "category": 0,
+   "level": 10,
+   "requiredResource": "MEAT",
+   "resourceAmount": 50,
+   "partCount": 5
+  },
+  "Growth000011": {
+   "key": "Growth000011",
+   "category": 0,
+   "level": 11,
+   "requiredResource": "MEAT",
+   "resourceAmount": 55,
+   "partCount": 10
+  },
+  "Growth000012": {
+   "key": "Growth000012",
+   "category": 0,
+   "level": 12,
+   "requiredResource": "MEAT",
+   "resourceAmount": 60,
+   "partCount": 10
+  },
+  "Growth000013": {
+   "key": "Growth000013",
+   "category": 0,
+   "level": 13,
+   "requiredResource": "MEAT",
+   "resourceAmount": 65,
+   "partCount": 10
+  },
+  "Growth000014": {
+   "key": "Growth000014",
+   "category": 0,
+   "level": 14,
+   "requiredResource": "MEAT",
+   "resourceAmount": 70,
+   "partCount": 10
+  },
+  "Growth000015": {
+   "key": "Growth000015",
+   "category": 0,
+   "level": 15,
+   "requiredResource": "MEAT",
+   "resourceAmount": 75,
+   "partCount": 10
+  },
+  "Growth000016": {
+   "key": "Growth000016",
+   "category": 0,
+   "level": 16,
+   "requiredResource": "MEAT",
+   "resourceAmount": 80,
+   "partCount": 10
+  },
+  "Growth000017": {
+   "key": "Growth000017",
+   "category": 0,
+   "level": 17,
+   "requiredResource": "MEAT",
+   "resourceAmount": 85,
+   "partCount": 10
+  },
+  "Growth000018": {
+   "key": "Growth000018",
+   "category": 0,
+   "level": 18,
+   "requiredResource": "MEAT",
+   "resourceAmount": 90,
+   "partCount": 10
+  },
+  "Growth000019": {
+   "key": "Growth000019",
+   "category": 0,
+   "level": 19,
+   "requiredResource": "MEAT",
+   "resourceAmount": 95,
+   "partCount": 10
+  },
+  "Growth000020": {
+   "key": "Growth000020",
+   "category": 0,
+   "level": 20,
+   "requiredResource": "MEAT",
+   "resourceAmount": 100,
+   "partCount": 10
+  },
+  "Growth000021": {
+   "key": "Growth000021",
+   "category": 0,
+   "level": 21,
+   "requiredResource": "MEAT",
+   "resourceAmount": 105,
+   "partCount": 15
+  },
+  "Growth000022": {
+   "key": "Growth000022",
+   "category": 0,
+   "level": 22,
+   "requiredResource": "MEAT",
+   "resourceAmount": 110,
+   "partCount": 15
+  },
+  "Growth000023": {
+   "key": "Growth000023",
+   "category": 0,
+   "level": 23,
+   "requiredResource": "MEAT",
+   "resourceAmount": 115,
+   "partCount": 15
+  },
+  "Growth000024": {
+   "key": "Growth000024",
+   "category": 0,
+   "level": 24,
+   "requiredResource": "MEAT",
+   "resourceAmount": 120,
+   "partCount": 15
+  },
+  "Growth000025": {
+   "key": "Growth000025",
+   "category": 0,
+   "level": 25,
+   "requiredResource": "MEAT",
+   "resourceAmount": 125,
+   "partCount": 15
+  },
+  "Growth000026": {
+   "key": "Growth000026",
+   "category": 0,
+   "level": 26,
+   "requiredResource": "MEAT",
+   "resourceAmount": 130,
+   "partCount": 15
+  },
+  "Growth000027": {
+   "key": "Growth000027",
+   "category": 0,
+   "level": 27,
+   "requiredResource": "MEAT",
+   "resourceAmount": 135,
+   "partCount": 15
+  },
+  "Growth000028": {
+   "key": "Growth000028",
+   "category": 0,
+   "level": 28,
+   "requiredResource": "MEAT",
+   "resourceAmount": 140,
+   "partCount": 15
+  },
+  "Growth000029": {
+   "key": "Growth000029",
+   "category": 0,
+   "level": 29,
+   "requiredResource": "MEAT",
+   "resourceAmount": 145,
+   "partCount": 15
+  },
+  "Growth000030": {
+   "key": "Growth000030",
+   "category": 0,
+   "level": 30,
+   "requiredResource": "MEAT",
+   "resourceAmount": 150,
+   "partCount": 15
+  },
+  "Growth000031": {
+   "key": "Growth000031",
+   "category": 0,
+   "level": 31,
+   "requiredResource": "MEAT",
+   "resourceAmount": 160,
+   "partCount": 25
+  },
+  "Growth000032": {
+   "key": "Growth000032",
+   "category": 0,
+   "level": 32,
+   "requiredResource": "MEAT",
+   "resourceAmount": 170,
+   "partCount": 25
+  },
+  "Growth000033": {
+   "key": "Growth000033",
+   "category": 0,
+   "level": 33,
+   "requiredResource": "MEAT",
+   "resourceAmount": 180,
+   "partCount": 25
+  },
+  "Growth000034": {
+   "key": "Growth000034",
+   "category": 0,
+   "level": 34,
+   "requiredResource": "MEAT",
+   "resourceAmount": 190,
+   "partCount": 25
+  },
+  "Growth000035": {
+   "key": "Growth000035",
+   "category": 0,
+   "level": 35,
+   "requiredResource": "MEAT",
+   "resourceAmount": 200,
+   "partCount": 25
+  },
+  "Growth000036": {
+   "key": "Growth000036",
+   "category": 0,
+   "level": 36,
+   "requiredResource": "MEAT",
+   "resourceAmount": 215,
+   "partCount": 30
+  },
+  "Growth000037": {
+   "key": "Growth000037",
+   "category": 0,
+   "level": 37,
+   "requiredResource": "MEAT",
+   "resourceAmount": 230,
+   "partCount": 30
+  },
+  "Growth000038": {
+   "key": "Growth000038",
+   "category": 0,
+   "level": 38,
+   "requiredResource": "MEAT",
+   "resourceAmount": 245,
+   "partCount": 30
+  },
+  "Growth000039": {
+   "key": "Growth000039",
+   "category": 0,
+   "level": 39,
+   "requiredResource": "MEAT",
+   "resourceAmount": 270,
+   "partCount": 30
+  },
+  "Growth000040": {
+   "key": "Growth000040",
+   "category": 0,
+   "level": 40,
+   "requiredResource": "MEAT",
+   "resourceAmount": 285,
+   "partCount": 30
+  },
+  "Growth000041": {
+   "key": "Growth000041",
+   "category": 0,
+   "level": 41,
+   "requiredResource": "MEAT",
+   "resourceAmount": 305,
+   "partCount": 35
+  },
+  "Growth000042": {
+   "key": "Growth000042",
+   "category": 0,
+   "level": 42,
+   "requiredResource": "MEAT",
+   "resourceAmount": 325,
+   "partCount": 35
+  },
+  "Growth000043": {
+   "key": "Growth000043",
+   "category": 0,
+   "level": 43,
+   "requiredResource": "MEAT",
+   "resourceAmount": 345,
+   "partCount": 35
+  },
+  "Growth000044": {
+   "key": "Growth000044",
+   "category": 0,
+   "level": 44,
+   "requiredResource": "MEAT",
+   "resourceAmount": 365,
+   "partCount": 35
+  },
+  "Growth000045": {
+   "key": "Growth000045",
+   "category": 0,
+   "level": 45,
+   "requiredResource": "MEAT",
+   "resourceAmount": 385,
+   "partCount": 35
+  },
+  "Growth000046": {
+   "key": "Growth000046",
+   "category": 0,
+   "level": 46,
+   "requiredResource": "MEAT",
+   "resourceAmount": 410,
+   "partCount": 40
+  },
+  "Growth000047": {
+   "key": "Growth000047",
+   "category": 0,
+   "level": 47,
+   "requiredResource": "MEAT",
+   "resourceAmount": 435,
+   "partCount": 40
+  },
+  "Growth000048": {
+   "key": "Growth000048",
+   "category": 0,
+   "level": 48,
+   "requiredResource": "MEAT",
+   "resourceAmount": 460,
+   "partCount": 40
+  },
+  "Growth000049": {
+   "key": "Growth000049",
+   "category": 0,
+   "level": 49,
+   "requiredResource": "MEAT",
+   "resourceAmount": 485,
+   "partCount": 40
+  },
+  "Growth000050": {
+   "key": "Growth000050",
+   "category": 0,
+   "level": 50,
+   "requiredResource": "MEAT",
+   "resourceAmount": 510,
+   "partCount": 40
+  },
+  "Growth000051": {
+   "key": "Growth000051",
+   "category": 0,
+   "level": 51,
+   "requiredResource": "MEAT",
+   "resourceAmount": 540,
+   "partCount": 45
+  },
+  "Growth000052": {
+   "key": "Growth000052",
+   "category": 0,
+   "level": 52,
+   "requiredResource": "MEAT",
+   "resourceAmount": 570,
+   "partCount": 45
+  },
+  "Growth000053": {
+   "key": "Growth000053",
+   "category": 0,
+   "level": 53,
+   "requiredResource": "MEAT",
+   "resourceAmount": 600,
+   "partCount": 45
+  },
+  "Growth000054": {
+   "key": "Growth000054",
+   "category": 0,
+   "level": 54,
+   "requiredResource": "MEAT",
+   "resourceAmount": 630,
+   "partCount": 45
+  },
+  "Growth000055": {
+   "key": "Growth000055",
+   "category": 0,
+   "level": 55,
+   "requiredResource": "MEAT",
+   "resourceAmount": 660,
+   "partCount": 45
+  },
+  "Growth000056": {
+   "key": "Growth000056",
+   "category": 0,
+   "level": 56,
+   "requiredResource": "MEAT",
+   "resourceAmount": 695,
+   "partCount": 50
+  },
+  "Growth000057": {
+   "key": "Growth000057",
+   "category": 0,
+   "level": 57,
+   "requiredResource": "MEAT",
+   "resourceAmount": 740,
+   "partCount": 50
+  },
+  "Growth000058": {
+   "key": "Growth000058",
+   "category": 0,
+   "level": 58,
+   "requiredResource": "MEAT",
+   "resourceAmount": 775,
+   "partCount": 50
+  },
+  "Growth000059": {
+   "key": "Growth000059",
+   "category": 0,
+   "level": 59,
+   "requiredResource": "MEAT",
+   "resourceAmount": 810,
+   "partCount": 50
+  },
+  "Growth000060": {
+   "key": "Growth000060",
+   "category": 0,
+   "level": 60,
+   "requiredResource": "MEAT",
+   "resourceAmount": 850,
+   "partCount": 50
+  },
+  "Growth000061": {
+   "key": "Growth000061",
+   "category": 0,
+   "level": 61,
+   "requiredResource": "MEAT",
+   "resourceAmount": 890,
+   "partCount": 100
+  },
+  "Growth000062": {
+   "key": "Growth000062",
+   "category": 0,
+   "level": 62,
+   "requiredResource": "MEAT",
+   "resourceAmount": 930,
+   "partCount": 100
+  },
+  "Growth000063": {
+   "key": "Growth000063",
+   "category": 0,
+   "level": 63,
+   "requiredResource": "MEAT",
+   "resourceAmount": 970,
+   "partCount": 100
+  },
+  "Growth000064": {
+   "key": "Growth000064",
+   "category": 0,
+   "level": 64,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1010,
+   "partCount": 100
+  },
+  "Growth000065": {
+   "key": "Growth000065",
+   "category": 0,
+   "level": 65,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1055,
+   "partCount": 100
+  },
+  "Growth000066": {
+   "key": "Growth000066",
+   "category": 0,
+   "level": 66,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1100,
+   "partCount": 200
+  },
+  "Growth000067": {
+   "key": "Growth000067",
+   "category": 0,
+   "level": 67,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1145,
+   "partCount": 200
+  },
+  "Growth000068": {
+   "key": "Growth000068",
+   "category": 0,
+   "level": 68,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1190,
+   "partCount": 200
+  },
+  "Growth000069": {
+   "key": "Growth000069",
+   "category": 0,
+   "level": 69,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 200
+  },
+  "Growth000070": {
+   "key": "Growth000070",
+   "category": 0,
+   "level": 70,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 200
+  },
+  "Growth000071": {
+   "key": "Growth000071",
+   "category": 0,
+   "level": 71,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 300
+  },
+  "Growth000072": {
+   "key": "Growth000072",
+   "category": 0,
+   "level": 72,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 300
+  },
+  "Growth000073": {
+   "key": "Growth000073",
+   "category": 0,
+   "level": 73,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 300
+  },
+  "Growth000074": {
+   "key": "Growth000074",
+   "category": 0,
+   "level": 74,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 300
+  },
+  "Growth000075": {
+   "key": "Growth000075",
+   "category": 0,
+   "level": 75,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 350
+  },
+  "Growth000076": {
+   "key": "Growth000076",
+   "category": 0,
+   "level": 76,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 400
+  },
+  "Growth000077": {
+   "key": "Growth000077",
+   "category": 0,
+   "level": 77,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 450
+  },
+  "Growth000078": {
+   "key": "Growth000078",
+   "category": 0,
+   "level": 78,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 500
+  },
+  "Growth000079": {
+   "key": "Growth000079",
+   "category": 0,
+   "level": 79,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 550
+  },
+  "Growth000080": {
+   "key": "Growth000080",
+   "category": 0,
+   "level": 80,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000081": {
+   "key": "Growth000081",
+   "category": 0,
+   "level": 81,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000082": {
+   "key": "Growth000082",
+   "category": 0,
+   "level": 82,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000083": {
+   "key": "Growth000083",
+   "category": 0,
+   "level": 83,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000084": {
+   "key": "Growth000084",
+   "category": 0,
+   "level": 84,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000085": {
+   "key": "Growth000085",
+   "category": 0,
+   "level": 85,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000086": {
+   "key": "Growth000086",
+   "category": 0,
+   "level": 86,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000087": {
+   "key": "Growth000087",
+   "category": 0,
+   "level": 87,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000088": {
+   "key": "Growth000088",
+   "category": 0,
+   "level": 88,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000089": {
+   "key": "Growth000089",
+   "category": 0,
+   "level": 89,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000090": {
+   "key": "Growth000090",
+   "category": 0,
+   "level": 90,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000091": {
+   "key": "Growth000091",
+   "category": 0,
+   "level": 91,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000092": {
+   "key": "Growth000092",
+   "category": 0,
+   "level": 92,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000093": {
+   "key": "Growth000093",
+   "category": 0,
+   "level": 93,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth000094": {
+   "key": "Growth000094",
+   "category": 0,
+   "level": 94,
+   "requiredResource": "MEAT",
+   "resourceAmount": 1235,
+   "partCount": 600
+  },
+  "Growth001000": {
+   "key": "Growth001000",
+   "category": 1,
+   "level": 0,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 0
+  },
+  "Growth001001": {
+   "key": "Growth001001",
+   "category": 1,
+   "level": 1,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 1
+  },
+  "Growth001002": {
+   "key": "Growth001002",
+   "category": 1,
+   "level": 2,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 2
+  },
+  "Growth001003": {
+   "key": "Growth001003",
+   "category": 1,
+   "level": 3,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 3
+  },
+  "Growth001004": {
+   "key": "Growth001004",
+   "category": 1,
+   "level": 4,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 4
+  },
+  "Growth001005": {
+   "key": "Growth001005",
+   "category": 1,
+   "level": 5,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 4
+  },
+  "Growth001006": {
+   "key": "Growth001006",
+   "category": 1,
+   "level": 6,
+   "requiredResource": "MEAT",
+   "resourceAmount": 0,
+   "partCount": 4
+  }
+ }
+}

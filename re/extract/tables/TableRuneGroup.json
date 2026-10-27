@@ -1,0 +1,758 @@
+{
+ "sheetName": "TableRuneGroupData",
+ "tableIndex": 0,
+ "rows": {
+  "RuneGroup000": {
+   "key": "RuneGroup000",
+   "index": 0,
+   "unitKey": "Unit000007",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune012",
+    "Rune013",
+    "Rune014"
+   ],
+   "available": true
+  },
+  "RuneGroup001": {
+   "key": "RuneGroup001",
+   "index": 1,
+   "unitKey": "Unit000018",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune015",
+    "Rune016",
+    "Rune017"
+   ],
+   "available": true
+  },
+  "RuneGroup002": {
+   "key": "RuneGroup002",
+   "index": 2,
+   "unitKey": "Unit000019",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune018",
+    "Rune019",
+    "Rune020"
+   ],
+   "available": true
+  },
+  "RuneGroup003": {
+   "key": "RuneGroup003",
+   "index": 3,
+   "unitKey": "Unit000024",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune021",
+    "Rune022",
+    "Rune023"
+   ],
+   "available": true
+  },
+  "RuneGroup004": {
+   "key": "RuneGroup004",
+   "index": 4,
+   "unitKey": "Unit000025",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune024",
+    "Rune025",
+    "Rune026"
+   ],
+   "available": true
+  },
+  "RuneGroup005": {
+   "key": "RuneGroup005",
+   "index": 5,
+   "unitKey": "Unit000026",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune027",
+    "Rune028",
+    "Rune029"
+   ],
+   "available": true
+  },
+  "RuneGroup006": {
+   "key": "RuneGroup006",
+   "index": 6,
+   "unitKey": "Unit000027",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune030",
+    "Rune031",
+    "Rune032"
+   ],
+   "available": true
+  },
+  "RuneGroup007": {
+   "key": "RuneGroup007",
+   "index": 7,
+   "unitKey": "Unit000030",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune033",
+    "Rune034",
+    "Rune035"
+   ],
+   "available": true
+  },
+  "RuneGroup008": {
+   "key": "RuneGroup008",
+   "index": 8,
+   "unitKey": "Unit000031",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune036",
+    "Rune037",
+    "Rune038"
+   ],
+   "available": true
+  },
+  "RuneGroup009": {
+   "key": "RuneGroup009",
+   "index": 9,
+   "unitKey": "Unit000034",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune039",
+    "Rune040",
+    "Rune041"
+   ],
+   "available": true
+  },
+  "RuneGroup010": {
+   "key": "RuneGroup010",
+   "index": 10,
+   "unitKey": "Unit000036",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune042",
+    "Rune043",
+    "Rune044"
+   ],
+   "available": true
+  },
+  "RuneGroup011": {
+   "key": "RuneGroup011",
+   "index": 11,
+   "unitKey": "Unit000037",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune045",
+    "Rune046",
+    "Rune047"
+   ],
+   "available": true
+  },
+  "RuneGroup012": {
+   "key": "RuneGroup012",
+   "index": 12,
+   "unitKey": "Unit000038",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune048",
+    "Rune049",
+    "Rune050"
+   ],
+   "available": true
+  },
+  "RuneGroup013": {
+   "key": "RuneGroup013",
+   "index": 13,
+   "unitKey": "Unit000039",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune051",
+    "Rune052",
+    "Rune053"
+   ],
+   "available": true
+  },
+  "RuneGroup014": {
+   "key": "RuneGroup014",
+   "index": 14,
+   "unitKey": "Unit000040",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune054",
+    "Rune055",
+    "Rune056"
+   ],
+   "available": true
+  },
+  "RuneGroup015": {
+   "key": "RuneGroup015",
+   "index": 15,
+   "unitKey": "Unit000041",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune057",
+    "Rune058",
+    "Rune059"
+   ],
+   "available": true
+  },
+  "RuneGroup016": {
+   "key": "RuneGroup016",
+   "index": 16,
+   "unitKey": "Unit000042",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune060",
+    "Rune061",
+    "Rune062"
+   ],
+   "available": true
+  },
+  "RuneGroup017": {
+   "key": "RuneGroup017",
+   "index": 17,
+   "unitKey": "Unit000044",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune063",
+    "Rune064",
+    "Rune065"
+   ],
+   "available": true
+  },
+  "RuneGroup018": {
+   "key": "RuneGroup018",
+   "index": 18,
+   "unitKey": "Unit000045",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [],
+   "available": false
+  },
+  "RuneGroup019": {
+   "key": "RuneGroup019",
+   "index": 19,
+   "unitKey": "Unit000047",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune066",
+    "Rune067",
+    "Rune068"
+   ],
+   "available": true
+  },
+  "RuneGroup020": {
+   "key": "RuneGroup020",
+   "index": 20,
+   "unitKey": "Unit000048",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune069",
+    "Rune070",
+    "Rune071"
+   ],
+   "available": true
+  },
+  "RuneGroup021": {
+   "key": "RuneGroup021",
+   "index": 21,
+   "unitKey": "Unit000050",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune072",
+    "Rune073",
+    "Rune074"
+   ],
+   "available": true
+  },
+  "RuneGroup022": {
+   "key": "RuneGroup022",
+   "index": 22,
+   "unitKey": "Unit000049",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune075",
+    "Rune076",
+    "Rune077"
+   ],
+   "available": true
+  },
+  "RuneGroup023": {
+   "key": "RuneGroup023",
+   "index": 23,
+   "unitKey": "Unit000052",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune078",
+    "Rune079",
+    "Rune080"
+   ],
+   "available": true
+  },
+  "RuneGroup024": {
+   "key": "RuneGroup024",
+   "index": 24,
+   "unitKey": "Unit000053",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune081",
+    "Rune082",
+    "Rune083"
+   ],
+   "available": true
+  },
+  "RuneGroup025": {
+   "key": "RuneGroup025",
+   "index": 25,
+   "unitKey": "Unit000055",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune084",
+    "Rune085",
+    "Rune086"
+   ],
+   "available": true
+  },
+  "RuneGroup026": {
+   "key": "RuneGroup026",
+   "index": 26,
+   "unitKey": "Unit000046",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune087",
+    "Rune088",
+    "Rune089"
+   ],
+   "available": true
+  },
+  "RuneGroup027": {
+   "key": "RuneGroup027",
+   "index": 27,
+   "unitKey": "Unit000059",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune090",
+    "Rune091",
+    "Rune092"
+   ],
+   "available": true
+  },
+  "RuneGroup028": {
+   "key": "RuneGroup028",
+   "index": 28,
+   "unitKey": "Unit000056",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune093",
+    "Rune094",
+    "Rune095"
+   ],
+   "available": true
+  },
+  "RuneGroup029": {
+   "key": "RuneGroup029",
+   "index": 29,
+   "unitKey": "Unit000063",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune008",
+    "Rune009"
+   ],
+   "skillKeys": [
+    "Rune096",
+    "Rune097",
+    "Rune098"
+   ],
+   "available": true
+  },
+  "RuneGroup030": {
+   "key": "RuneGroup030",
+   "index": 30,
+   "unitKey": "Unit000058",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune099",
+    "Rune100",
+    "Rune101"
+   ],
+   "available": true
+  },
+  "RuneGroup031": {
+   "key": "RuneGroup031",
+   "index": 31,
+   "unitKey": "Unit000066",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune102",
+    "Rune103",
+    "Rune104"
+   ],
+   "available": true
+  },
+  "RuneGroup032": {
+   "key": "RuneGroup032",
+   "index": 32,
+   "unitKey": "Unit000060",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune105",
+    "Rune106",
+    "Rune107"
+   ],
+   "available": true
+  },
+  "RuneGroup033": {
+   "key": "RuneGroup033",
+   "index": 33,
+   "unitKey": "Unit000061",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune108",
+    "Rune109",
+    "Rune110"
+   ],
+   "available": true
+  },
+  "RuneGroup034": {
+   "key": "RuneGroup034",
+   "index": 34,
+   "unitKey": "Unit000062",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune111",
+    "Rune112",
+    "Rune113"
+   ],
+   "available": true
+  },
+  "RuneGroup035": {
+   "key": "RuneGroup035",
+   "index": 35,
+   "unitKey": "Unit000065",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune006",
+    "Rune007"
+   ],
+   "skillKeys": [
+    "Rune114",
+    "Rune115",
+    "Rune116"
+   ],
+   "available": true
+  },
+  "RuneGroup036": {
+   "key": "RuneGroup036",
+   "index": 36,
+   "unitKey": "Unit000054",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune117",
+    "Rune118",
+    "Rune119"
+   ],
+   "available": true
+  },
+  "RuneGroup037": {
+   "key": "RuneGroup037",
+   "index": 37,
+   "unitKey": "Unit000068",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune120",
+    "Rune121",
+    "Rune122"
+   ],
+   "available": true
+  },
+  "RuneGroup038": {
+   "key": "RuneGroup038",
+   "index": 38,
+   "unitKey": "Unit000057",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune123",
+    "Rune124",
+    "Rune125"
+   ],
+   "available": true
+  },
+  "RuneGroup039": {
+   "key": "RuneGroup039",
+   "index": 39,
+   "unitKey": "Unit000051",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune002",
+    "Rune004",
+    "Rune005"
+   ],
+   "skillKeys": [
+    "Rune126",
+    "Rune127",
+    "Rune128"
+   ],
+   "available": true
+  },
+  "RuneGroup040": {
+   "key": "RuneGroup040",
+   "index": 40,
+   "unitKey": "Unit000072",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune129",
+    "Rune130",
+    "Rune131"
+   ],
+   "available": true
+  },
+  "RuneGroup041": {
+   "key": "RuneGroup041",
+   "index": 41,
+   "unitKey": "Unit000073",
+   "statKeys": [
+    "Rune000",
+    "Rune001",
+    "Rune003",
+    "Rune010",
+    "Rune011"
+   ],
+   "skillKeys": [
+    "Rune132",
+    "Rune133",
+    "Rune134"
+   ],
+   "available": true
+  }
+ }
+}
