@@ -1,0 +1,141 @@
+{
+  "status": "review-not-approved",
+  "motion": "skill-1",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    100,
+    100,
+    90,
+    150,
+    120,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/guan-yu-skill-1-v4.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.6,
+  "alignment": [
+    {
+      "frame": 1,
+      "source": "exact original"
+    },
+    {
+      "frame": 2,
+      "scale": 0.6,
+      "left": 41,
+      "top": 1,
+      "source_shoe": [
+        239.5,
+        402
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 3,
+      "scale": 0.6,
+      "left": 43,
+      "top": 1,
+      "source_shoe": [
+        236,
+        402
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 4,
+      "scale": 0.6,
+      "left": 42,
+      "top": 1,
+      "source_shoe": [
+        237.5,
+        402
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 5,
+      "scale": 0.6,
+      "left": 50,
+      "top": 2,
+      "source_shoe": [
+        223.5,
+        400
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 6,
+      "scale": 0.6,
+      "left": 51,
+      "top": 12,
+      "source_shoe": [
+        222.5,
+        384
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 7,
+      "scale": 0.6,
+      "left": 37,
+      "top": 10,
+      "source_shoe": [
+        246.5,
+        387
+      ],
+      "target_shoe": [
+        184.5,
+        242
+      ]
+    },
+    {
+      "frame": 8,
+      "source": "exact original"
+    }
+  ],
+  "qa": "Original template used; redrawn arms/weapon/action. Common scale and approved palette matching, pending user review.",
+  "revision": "v4-original-appearance-and-requested-motion",
+  "overhead_frame_03": "Separate original-referenced horizontal overhead redraw; avoids blade clipping",
+  "followthrough": "5→6 hold the same big-cut pose while trail fades; 7 recover along left; 8 exact original"
+}

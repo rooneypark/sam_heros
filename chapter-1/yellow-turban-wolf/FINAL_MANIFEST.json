@@ -1,0 +1,33 @@
+{
+  "status": "approved",
+  "date": "2026-10-28",
+  "sha256": {
+    "all-frames.png": "a9131da4cff5812624943c2e7fbcceefb5ea5a10ecdac453fba6ea0791a3c195",
+    "size-comparison.png": "eab38ddb6a2f495109248772de1c570219cd6024fa9a6d3a098999bf2bae2df8",
+    "basic-attack/frame-01.png": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+    "basic-attack/frame-02.png": "29e0505762367ddf0077584a15ecf31300ee99d5a54909a4fb43d8c5d7d4a3d8",
+    "basic-attack/frame-03.png": "dd5fde469dbc90234fe61e92807aa93d2825434b59a68d3f620cec9bbac1334c",
+    "basic-attack/frame-04.png": "5a07c1e8a9b5f94cf50812f95075f361bde8ef6c0842eff6309ff98e5aaa64f4",
+    "basic-attack/frame-05.png": "57190f53619348d4caca69d7f0904d91883c8c6b60bb1ec87d96bab1bc763650",
+    "basic-attack/frame-06.png": "13fe867f4cad0d1383fa0173e0b1448def120e960449db18b22703227ad72687",
+    "basic-attack/frame-07.png": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+    "basic-attack/frame-08.png": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+    "basic-attack/frames-overview.png": "1c41a8437d7a3abcf21aea759c3afe61386addee5e1d7d954826970c8682da64",
+    "basic-attack/spritesheet.png": "5900ec47cdf6a2b43880b7bcda7fbab9aeb63793fcf6881f2e4d2624496bac00",
+    "idle/frame-01.png": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+    "idle/frame-02.png": "7936713c3353f0fd8b11ba6d81e34d637bfc7cf2dbd23ac949123d44ea58f1d9",
+    "idle/frame-03.png": "2bfdfc6118e8c0726bbec9ec8b58e5ad840ed6457333ad38ea37b4e4539337a8",
+    "idle/frame-04.png": "7936713c3353f0fd8b11ba6d81e34d637bfc7cf2dbd23ac949123d44ea58f1d9",
+    "idle/frames-overview.png": "21c63850d8546bc0b83e6d101dfb9b35e333cdd1553811e6df843ac9984c4a45",
+    "idle/spritesheet.png": "756f1bb3e56a90581b69e7bd4a167c0563c5dd06369e10cbbe402453a9ae00a1",
+    "original/original.png": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+    "run/frame-01.png": "2a1fb3561d9f25b1effbb1150f0bdb46fde4f75c7677301f526e8384abfe540b",
+    "run/frame-02.png": "58a9aaa07d3f05a791be96bd93905b3cf4fe898d0693f790487d830eeac60537",
+    "run/frame-03.png": "f2a1c0dba84bc1d0e3febce3d3511f8c45d1d3a413fdf8e57354f102d192002e",
+    "run/frame-04.png": "6f02c0466d0d4a1b6b715b20daaa8646809c47f6731685a1325e1829e3ced99f",
+    "run/frame-05.png": "ac21457b3f5b39a75dfb81077b508fe5203bf8b2e13a7223e74346b1a47be3a1",
+    "run/frame-06.png": "92db9028968f6321a065a510e162d2aa21e4aff35f74c89febea3c12d4cd949c",
+    "run/frames-overview.png": "d63eacd6d065f80c8808c71d9fe6e67b744639f027f5511f8fd3c6f1382df68c",
+    "run/spritesheet.png": "f9ef5c7f78e4fc6a3d37606a0944881a86f459cec15466734cce753c1f65f1aa"
+  }
+}

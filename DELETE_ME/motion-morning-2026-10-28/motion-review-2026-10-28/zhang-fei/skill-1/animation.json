@@ -1,0 +1,84 @@
+{
+  "status": "approved",
+  "motion": "skill-1",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    110,
+    90,
+    80,
+    100,
+    100,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/zhang-fei-skill1-redraw-v3.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.65,
+  "alignment": [
+    {
+      "frame": 2,
+      "scale": 0.65,
+      "left": 21,
+      "top": 20
+    },
+    {
+      "frame": 3,
+      "scale": 0.65,
+      "left": 63,
+      "top": 21
+    },
+    {
+      "frame": 4,
+      "scale": 0.65,
+      "left": 14,
+      "top": 21
+    },
+    {
+      "frame": 5,
+      "scale": 0.65,
+      "left": 28,
+      "top": 20
+    },
+    {
+      "frame": 6,
+      "scale": 0.65,
+      "left": 20,
+      "top": 20
+    },
+    {
+      "frame": 7,
+      "scale": 0.65,
+      "left": 21,
+      "top": 21
+    }
+  ],
+  "qa": "Original template used; redrawn arms/weapon/action. Common scale and approved palette matching, pending user review.",
+  "revision": "v3-original-template-redraw",
+  "approved_date": "2026-10-28"
+}

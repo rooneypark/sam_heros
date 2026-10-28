@@ -716,7 +716,8 @@ async function main() {
         for (const a of S.actors.values()) for (const an of a.go.getInChildren(Animator)) an.update(dt);
       }
       renderer.clear(0.03, 0.06, 0.09);
-      drawWorld(renderer, G.CameraManager, size.w / size.h);
+      drawWorld(renderer, G.CameraManager, size.w / size.h, null,
+        { showFog: S.mode !== 'edit' || $('showEditFog').checked });
       drawOverlay();
     }
     if (S.mode === 'edit') $('zPct').textContent = `${Math.round(GAME_CAMERA / G.CameraManager.size * 100)}%`;

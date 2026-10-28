@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "note": "2026-10-27 사용자 PC 납품 11종. 원본 프레임/재생시간 유지. 미납품 모션은 표시하지 않음.",
+  "note": "2026-10-28 유관장 최신9모션 + 장각 스킬2 알파 교정. 공통 맵메이커/모션체커 등록. 전투 수치/스킬 로직 보존.",
   "units": [
     {
       "id": "SG_U0001",
@@ -93,14 +93,14 @@
           "Skill_01": {
             "pivot": [
               0.5,
-              0.30000000000000004
+              0.3
             ],
             "ppu": 100
           },
           "Skill_02": {
             "pivot": [
               0.5,
-              0.30000000000000004
+              0.3
             ],
             "ppu": 100
           },
@@ -337,7 +337,7 @@
           "hits": []
         }
       },
-      "motionTimingBasis": "authored"
+      "motionTimingBasis": "delivered-animation-json"
     },
     {
       "id": "SG_U0002",
@@ -378,7 +378,8 @@
             "guan-yu/basic-attack/frame-04.png",
             "guan-yu/basic-attack/frame-05.png",
             "guan-yu/basic-attack/frame-06.png",
-            "guan-yu/basic-attack/frame-07.png"
+            "guan-yu/basic-attack/frame-07.png",
+            "guan-yu/basic-attack/frame-08.png"
           ],
           "Skill_01": [
             "guan-yu/skill-1/frame-01.png",
@@ -415,28 +416,28 @@
           "Move": {
             "pivot": [
               0.5,
-              0.30000000000000004
+              0.3
             ],
             "ppu": 100
           },
           "Attack": {
             "pivot": [
               0.5,
-              0.2571428571428571
+              0.3
             ],
             "ppu": 100
           },
           "Skill_01": {
             "pivot": [
               0.5,
-              0.2571428571428571
+              0.3
             ],
             "ppu": 100
           },
           "Skill_02": {
             "pivot": [
               0.5,
-              0.2571428571428571
+              0.3
             ],
             "ppu": 100
           },
@@ -608,20 +609,22 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "ms": [
             180,
-            100,
-            70,
-            60,
-            130,
+            120,
+            120,
             90,
-            100
+            150,
+            120,
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            350
+            420
           ]
         },
         "Skill_01": {
@@ -637,18 +640,18 @@
           ],
           "ms": [
             180,
-            110,
+            120,
+            120,
             90,
-            70,
-            140,
-            100,
-            110,
-            180
+            150,
+            120,
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            380,
-            590
+            420,
+            660
           ]
         },
         "Skill_02": {
@@ -664,17 +667,17 @@
           ],
           "ms": [
             180,
-            100,
-            100,
+            120,
+            120,
             90,
             150,
             120,
-            120,
-            180
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            380
+            420
           ]
         },
         "Die": {
@@ -688,7 +691,7 @@
           "hits": []
         }
       },
-      "motionTimingBasis": "authored"
+      "motionTimingBasis": "delivered-animation-json"
     },
     {
       "id": "SG_U0003",
@@ -942,17 +945,17 @@
           ],
           "ms": [
             180,
-            110,
-            90,
-            80,
-            100,
-            100,
             120,
-            180
+            120,
+            90,
+            150,
+            120,
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            380
+            420
           ]
         },
         "Skill_01": {
@@ -968,18 +971,18 @@
           ],
           "ms": [
             180,
-            110,
-            90,
-            80,
-            100,
-            100,
             120,
-            180
+            120,
+            90,
+            150,
+            120,
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            380,
-            560
+            420,
+            660
           ]
         },
         "Skill_02": {
@@ -995,17 +998,17 @@
           ],
           "ms": [
             180,
-            110,
-            90,
-            80,
-            100,
-            100,
             120,
-            180
+            120,
+            90,
+            150,
+            120,
+            150,
+            240
           ],
           "loop": false,
           "hits": [
-            380
+            420
           ]
         },
         "Die": {
@@ -1019,7 +1022,7 @@
           "hits": []
         }
       },
-      "motionTimingBasis": "authored"
+      "motionTimingBasis": "delivered-animation-json"
     },
     {
       "id": "SG_U0004",
@@ -1780,7 +1783,7 @@
       "base": "Unit000100",
       "grade": "",
       "gradeType": "NORMAL",
-      "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
+      "memo": "2026-10-28 사용자 승인 늑대 축소 외형 및 6프레임 달리기. Move 80ms x6. 파츠 분리 없는 재작화.",
       "art": {
         "icon": "chapter-1/yellow-turban-wolf/original/original.png",
         "portrait": "chapter-1/yellow-turban-wolf/original/original.png",
@@ -1868,12 +1871,12 @@
             6
           ],
           "ms": [
-            100,
-            100,
-            100,
-            100,
-            100,
-            100
+            80,
+            80,
+            80,
+            80,
+            80,
+            80
           ],
           "loop": true,
           "hits": []
@@ -1890,14 +1893,14 @@
             8
           ],
           "ms": [
-            200,
-            120,
+            180,
+            110,
             100,
             70,
-            90,
+            100,
             120,
-            140,
-            240
+            160,
+            360
           ],
           "loop": false,
           "hits": [
@@ -2217,14 +2220,14 @@
             "chapter-1/zhang-jiao/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "chapter-1/zhang-jiao/skill-2/frame-01.png",
-            "chapter-1/zhang-jiao/skill-2/frame-02.png",
-            "chapter-1/zhang-jiao/skill-2/frame-03.png",
-            "chapter-1/zhang-jiao/skill-2/frame-04.png",
-            "chapter-1/zhang-jiao/skill-2/frame-05.png",
-            "chapter-1/zhang-jiao/skill-2/frame-06.png",
-            "chapter-1/zhang-jiao/skill-2/frame-07.png",
-            "chapter-1/zhang-jiao/skill-2/frame-08.png"
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-01.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-02.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-03.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-04.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-05.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-06.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-07.png",
+            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -2449,7 +2452,7 @@
           "gatheringSkill": ""
         }
       ],
-      "motionTimingBasis": "authored"
+      "motionTimingBasis": "delivered-animation-json"
     }
   ]
 }

@@ -1,0 +1,147 @@
+{
+  "status": "review-not-approved",
+  "motion": "basic-attack",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    110,
+    90,
+    80,
+    100,
+    100,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/zhang-fei-basic-attack-v4.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.55,
+  "alignment": [
+    {
+      "frame": 1,
+      "source": "exact original"
+    },
+    {
+      "frame": 2,
+      "scale": 0.55,
+      "left": 27,
+      "top": 21,
+      "source_shoe": [
+        264.5,
+        402
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 3,
+      "scale": 0.55,
+      "left": 28,
+      "top": 22,
+      "source_shoe": [
+        262.5,
+        400
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 4,
+      "scale": 0.55,
+      "left": 36,
+      "top": 23,
+      "source_shoe": [
+        248,
+        398
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 5,
+      "scale": 0.55,
+      "left": -12,
+      "top": 43,
+      "source_shoe": [
+        335.5,
+        362
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 6,
+      "scale": 0.55,
+      "left": 27,
+      "top": 42,
+      "source_shoe": [
+        265,
+        364
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 7,
+      "scale": 0.55,
+      "left": 46,
+      "top": 42,
+      "source_shoe": [
+        230,
+        364
+      ],
+      "target_shoe": [
+        172.5,
+        242
+      ]
+    },
+    {
+      "frame": 8,
+      "source": "exact original"
+    }
+  ],
+  "qa": "Generated pose draft: appearance, local weapon lengths/grips and transition continuity require further correction; not production-ready.",
+  "revision": "v4-original-appearance-and-requested-motion",
+  "thrust": "2–3 upright preparation hold; 4–5 new upright peak hold, fixed source body placement; 6 retract; 7–8 idle return",
+  "upright_peak": {
+    "source": "sources/zhang-fei-upright-thrust-v4.png",
+    "scale": 0.28984375,
+    "left": -14,
+    "top": -18,
+    "weapon_local_blade_translation_source_px": 73
+  }
+}

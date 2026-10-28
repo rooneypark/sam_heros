@@ -1,60 +1,127 @@
 {
   "status": "approved",
-  "frame_count": 8,
   "cell": [
     350,
     350
   ],
+  "frame_count": 8,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "durations_ms": [
+    180,
+    120,
+    120,
+    90,
+    150,
+    120,
+    150,
+    240
+  ],
+  "facing": "left",
   "foot_anchor": [
     175,
     245
   ],
-  "facing": "left",
-  "durations_ms": [
-    180,
-    110,
-    90,
-    80,
-    100,
-    100,
-    120,
-    180
+  "pivot": [
+    0.5,
+    0.3
   ],
-  "translation": [
-    [
-      60,
-      49
-    ],
-    [
-      48,
-      50
-    ],
-    [
-      8,
-      51
-    ],
-    [
-      60,
-      50
-    ],
-    [
-      4,
-      69
-    ],
-    [
-      82,
-      69
-    ],
-    [
-      55,
-      70
-    ],
-    [
-      54,
-      70
-    ]
+  "ppu": 100,
+  "source_sheet": "../../sources/zhang-skill1.png",
+  "uniform_source_scale": 0.575107296137339,
+  "registration": [
+    {
+      "source_feet": [
+        218.5,
+        385
+      ],
+      "offset": [
+        49,
+        24
+      ]
+    },
+    {
+      "source_feet": [
+        237.5,
+        384
+      ],
+      "offset": [
+        38,
+        24
+      ]
+    },
+    {
+      "source_feet": [
+        218.5,
+        384
+      ],
+      "offset": [
+        49,
+        24
+      ]
+    },
+    {
+      "source_feet": [
+        243.5,
+        384
+      ],
+      "offset": [
+        35,
+        24
+      ]
+    },
+    {
+      "source_feet": [
+        217.0,
+        375
+      ],
+      "offset": [
+        50,
+        29
+      ]
+    },
+    {
+      "source_feet": [
+        211.0,
+        376
+      ],
+      "offset": [
+        54,
+        29
+      ]
+    },
+    {
+      "source_feet": [
+        217.5,
+        376
+      ],
+      "offset": [
+        50,
+        29
+      ]
+    },
+    {
+      "source_feet": [
+        236.0,
+        378
+      ],
+      "offset": [
+        39,
+        28
+      ]
+    }
   ],
-  "timing_basis": "project proposal, not original extracted combat timing",
-  "approval_date": "2026-10-27",
-  "palette": "original-matched; GIF uses shared hero palette"
+  "first_last_original": true,
+  "limitation": "Generated local geometry requires visual review; uniform scale is not proof of invariant anatomy.",
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK",
+  "color_correction": "2026-10-28 original/idle palette; RGB only; alpha/geometry/timing preserved"
 }

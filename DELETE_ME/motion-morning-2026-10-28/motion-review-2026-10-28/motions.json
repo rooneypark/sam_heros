@@ -1,0 +1,65 @@
+[
+  {
+    "hero": "zhang-fei",
+    "motion": "basic-attack",
+    "path": "zhang-fei/basic-attack",
+    "label": "zhang-fei basic-attack",
+    "qa": "v4 · 원본 색·선 기준 재작화, 몸을 숙이지 않는 찌르기"
+  },
+  {
+    "hero": "zhang-fei",
+    "motion": "skill-1",
+    "path": "zhang-fei/skill-1",
+    "label": "zhang-fei skill-1",
+    "qa": "사용자 통과 · 승인 PNG 8장 변경 없음"
+  },
+  {
+    "hero": "zhang-fei",
+    "motion": "skill-2",
+    "path": "zhang-fei/skill-2",
+    "label": "zhang-fei skill-2",
+    "qa": "입 효과·바닥 원형 제거 · 붉은 방어 기운"
+  },
+  {
+    "hero": "guan-yu",
+    "motion": "basic-attack",
+    "path": "guan-yu/basic-attack",
+    "label": "guan-yu basic-attack",
+    "qa": "v4 · 끝 복귀 재작화, 원본 접지 정렬, 이웃 칸 잔상 제거"
+  },
+  {
+    "hero": "guan-yu",
+    "motion": "skill-1",
+    "path": "guan-yu/skill-1",
+    "label": "guan-yu skill-1",
+    "qa": "v4 · 준비 → 높이 들기 → 큰 내려 베기 → 왼쪽 복귀"
+  },
+  {
+    "hero": "guan-yu",
+    "motion": "skill-2",
+    "path": "guan-yu/skill-2",
+    "label": "guan-yu skill-2",
+    "qa": "바닥 원형 제거 · 몸과 언월도를 타는 초록 공격 기운"
+  },
+  {
+    "hero": "liu-bei",
+    "motion": "skill-1",
+    "path": "liu-bei/skill-1",
+    "label": "liu-bei skill-1",
+    "qa": "v4 · 끝 복귀 교정, 첫·끝 기본 원본 동일"
+  },
+  {
+    "hero": "liu-bei",
+    "motion": "skill-2",
+    "path": "liu-bei/skill-2",
+    "label": "liu-bei skill-2",
+    "qa": "v4 · 팔 내리기 → 가슴 앞 교차 → 기본 복귀, 바닥 원형 없음"
+  },
+  {
+    "hero": "guan-yu",
+    "motion": "run",
+    "path": "guan-yu/run",
+    "label": "관우 이동 — 칼날만 반전",
+    "qa": "원본 칼날 영역과 반전 후 영역 밖 RGBA 동일; 몸·다리·자루·파지·시간 보존. 연결부 시각 검토 필요."
+  }
+]

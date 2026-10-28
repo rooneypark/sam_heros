@@ -1,0 +1,61 @@
+{
+  "status": "review",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 6,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png"
+  ],
+  "durations_ms": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "facing": "left",
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "uniform_source_scale": 0.21,
+  "source_anchors": [
+    [
+      280,
+      480
+    ],
+    [
+      792,
+      480
+    ],
+    [
+      1304,
+      480
+    ],
+    [
+      280,
+      960
+    ],
+    [
+      792,
+      960
+    ],
+    [
+      1304,
+      960
+    ]
+  ]
+}

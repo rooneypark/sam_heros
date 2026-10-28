@@ -1,0 +1,43 @@
+{
+  "status": "approved",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "durations_ms": [
+    180,
+    100,
+    100,
+    90,
+    150,
+    120,
+    120,
+    180
+  ],
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "body_source": "../../../liu-bei/skill-2",
+  "body_pixels_preserved": true,
+  "effect": "group heal",
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK"
+}

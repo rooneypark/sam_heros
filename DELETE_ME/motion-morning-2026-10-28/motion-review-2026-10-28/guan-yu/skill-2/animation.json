@@ -1,0 +1,122 @@
+{
+  "status": "review-not-approved",
+  "motion": "skill-2",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    100,
+    100,
+    90,
+    150,
+    120,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/guan-yu-skill-2.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.55,
+  "alignment": [
+    {
+      "frame": 1,
+      "source": "approved-original"
+    },
+    {
+      "frame": 2,
+      "detected_shoe_anchor": [
+        234,
+        423
+      ],
+      "scale": 0.55,
+      "left": 46,
+      "top": 12
+    },
+    {
+      "frame": 3,
+      "detected_shoe_anchor": [
+        228,
+        423
+      ],
+      "scale": 0.55,
+      "left": 50,
+      "top": 12
+    },
+    {
+      "frame": 4,
+      "detected_shoe_anchor": [
+        231,
+        423
+      ],
+      "scale": 0.55,
+      "left": 48,
+      "top": 12
+    },
+    {
+      "frame": 5,
+      "detected_shoe_anchor": [
+        228,
+        424
+      ],
+      "scale": 0.55,
+      "left": 50,
+      "top": 12
+    },
+    {
+      "frame": 6,
+      "detected_shoe_anchor": [
+        230,
+        425
+      ],
+      "scale": 0.55,
+      "left": 48,
+      "top": 11
+    },
+    {
+      "frame": 7,
+      "detected_shoe_anchor": [
+        227,
+        424
+      ],
+      "scale": 0.55,
+      "left": 50,
+      "top": 12
+    },
+    {
+      "frame": 8,
+      "source": "approved-original"
+    }
+  ],
+  "qa": "Generated pose draft: appearance, local weapon lengths/grips and transition continuity require further correction; not production-ready.",
+  "fx_revision": {
+    "date": "2026-10-28",
+    "revision": "body-wrap-v3-no-ground-ring",
+    "palette": "emerald-green",
+    "description": "바닥 원형 없이 몸·무기를 타고 상승하는 초록 공격 버프",
+    "source": "sources/guan-yu-skill2-wrap-v3.png",
+    "body": "Existing separate body frames retained; effects composite behind and across torso only."
+  }
+}

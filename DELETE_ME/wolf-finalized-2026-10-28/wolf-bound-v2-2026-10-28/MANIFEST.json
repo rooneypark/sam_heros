@@ -1,0 +1,23 @@
+{
+  "status": "review-not-approved",
+  "files": {
+    "basic-attack/frame-01.png": "d870aec0c513c4b974c831346041413f2e7355e25270f29528305496e9178a4e",
+    "basic-attack/frame-02.png": "02f6bbe32d7495a40205895724965842e96cebe3bc3ef3895eef9194c74b6474",
+    "basic-attack/frame-03.png": "c7d3d52e5a9f0d0d1b260f43e05e9b973740fd7f8c118b2db753cdf89a7021e2",
+    "basic-attack/frame-04.png": "ec070de680b87ae147f50313aa21f71132afc47386c5328f78541f3dc44a7713",
+    "basic-attack/frame-05.png": "880971726d8b34dbd92b6b0ae04baae489ebb149208dddd8edb276521555a654",
+    "basic-attack/frame-06.png": "0256f7d668fdd9465e70bf05a6eb3954f050076bdf5fa321852383d38808ebf0",
+    "basic-attack/frame-07.png": "d870aec0c513c4b974c831346041413f2e7355e25270f29528305496e9178a4e",
+    "basic-attack/frame-08.png": "d870aec0c513c4b974c831346041413f2e7355e25270f29528305496e9178a4e",
+    "idle/frame-01.png": "d870aec0c513c4b974c831346041413f2e7355e25270f29528305496e9178a4e",
+    "idle/frame-02.png": "35eb2515af886cf4a78a4f64d4cdc84948d9f1ccb5cd8a059229b05bd8258778",
+    "idle/frame-03.png": "759fc7aef9ccbfe0581ec22a6a2e74414a57f7e2697b3e990ac55803230e7f64",
+    "idle/frame-04.png": "35eb2515af886cf4a78a4f64d4cdc84948d9f1ccb5cd8a059229b05bd8258778",
+    "run/frame-01.png": "413c592adda047f7c265e1efb7fc797228ccb67e17b57fc68d21412a56b129f7",
+    "run/frame-02.png": "19973b97dae03860e715f2167f0c6e44fcad5706e89980d48e655068d58613f5",
+    "run/frame-03.png": "3b1462fcd3820f2f4693608d6123c091addeb6d53005956b43176ddd6a729b14",
+    "run/frame-04.png": "46de8bb38c68aecd3db7ff2de417b4fa5fb7b5729264fc39ff0bcef2fbf7e016",
+    "run/frame-05.png": "c3030be9ea687787ef1759d212318b12612087363b6aa7a0e9618665a0003d5a",
+    "run/frame-06.png": "3bf3374e70c76ebc0b1333daf0f7d923c52ac4b99be324c0c6b250188d6e4f23"
+  }
+}

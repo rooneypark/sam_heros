@@ -5,13 +5,21 @@
     350
   ],
   "frame_count": 6,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png"
+  ],
   "durations_ms": [
-    100,
-    100,
-    100,
-    100,
-    100,
-    100
+    80,
+    80,
+    80,
+    80,
+    80,
+    80
   ],
   "facing": "left",
   "pivot": [
@@ -19,32 +27,36 @@
     0.3
   ],
   "ppu": 100,
-  "source_scale": 0.25,
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "uniform_source_scale": 0.21,
   "source_anchors": [
     [
-      300,
-      469
+      280,
+      480
     ],
     [
-      795,
-      469
+      792,
+      480
     ],
     [
-      1285,
-      448
+      1304,
+      480
     ],
     [
-      300,
-      953
+      280,
+      960
     ],
     [
-      795,
-      953
+      792,
+      960
     ],
     [
-      1285,
-      930
+      1304,
+      960
     ]
   ],
-  "method": "Quadruped pose sheet, common scale and integer translation; not human gait rig."
+  "approved_date": "2026-10-28"
 }

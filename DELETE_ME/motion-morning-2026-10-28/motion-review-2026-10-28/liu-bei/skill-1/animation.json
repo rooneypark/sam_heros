@@ -1,0 +1,57 @@
+{
+  "status": "review-not-approved",
+  "motion": "skill-1",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    110,
+    90,
+    70,
+    140,
+    100,
+    110,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/liu-bei-skill-1.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": null,
+  "alignment": [],
+  "qa": "Original body copies byte-identical; effect overlay only.",
+  "revision": "v4-approved-pose-continuous-return",
+  "recovery": [
+    {
+      "frame": 7,
+      "approved_pose": "idle/frame-02.png",
+      "integer_translation": [
+        0,
+        0
+      ],
+      "no_body_rescale": true
+    }
+  ]
+}

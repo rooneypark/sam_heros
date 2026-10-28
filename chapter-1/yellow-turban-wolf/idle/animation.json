@@ -5,6 +5,12 @@
     350
   ],
   "frame_count": 4,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png"
+  ],
   "durations_ms": [
     300,
     300,
@@ -17,12 +23,30 @@
     0.3
   ],
   "ppu": 100,
-  "fixed_below_y": 230,
-  "lower_pixels_identical": true,
-  "upper_y": [
-    0,
-    -1,
-    -2,
-    -1
-  ]
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "uniform_source_scale": 1,
+  "source_anchors": [
+    [
+      175,
+      245
+    ],
+    [
+      175,
+      245
+    ],
+    [
+      175,
+      245
+    ],
+    [
+      175,
+      245
+    ]
+  ],
+  "approved_date": "2026-10-28",
+  "size_match_scale": 0.93,
+  "size_match_basis": "approved run, root (175,245), uniform scaling of every frame"
 }

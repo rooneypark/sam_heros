@@ -1,0 +1,163 @@
+{
+  "status": "review-not-approved",
+  "motion": "basic-attack",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    110,
+    90,
+    70,
+    140,
+    100,
+    110,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/guan-yu-basic-attack.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.5,
+  "alignment": [
+    {
+      "frame": 1,
+      "source": "approved-original"
+    },
+    {
+      "frame": 2,
+      "detected_shoe_anchor": [
+        255,
+        399
+      ],
+      "scale": 0.5,
+      "left": 47,
+      "top": 45
+    },
+    {
+      "frame": 3,
+      "detected_shoe_anchor": [
+        197,
+        400
+      ],
+      "scale": 0.5,
+      "left": 76,
+      "top": 45
+    },
+    {
+      "frame": 4,
+      "detected_shoe_anchor": [
+        212,
+        398
+      ],
+      "scale": 0.5,
+      "left": 69,
+      "top": 46
+    },
+    {
+      "frame": 5,
+      "detected_shoe_anchor": [
+        321,
+        392
+      ],
+      "scale": 0.5,
+      "left": 14,
+      "top": 49
+    },
+    {
+      "frame": 6,
+      "detected_shoe_anchor": [
+        222,
+        390
+      ],
+      "scale": 0.5,
+      "left": 64,
+      "top": 50
+    },
+    {
+      "frame": 7,
+      "detected_shoe_anchor": [
+        219,
+        389
+      ],
+      "scale": 0.5,
+      "left": 65,
+      "top": 50
+    },
+    {
+      "frame": 8,
+      "source": "approved-original"
+    }
+  ],
+  "qa": "Generated pose draft: appearance, local weapon lengths/grips and transition continuity require further correction; not production-ready.",
+  "revision": "v4-recovery-left-side-no-teleport",
+  "recovery_alignment": [
+    {
+      "frame": 2,
+      "integer_translation": [
+        10,
+        -2
+      ],
+      "foreign_pixels_removed": 0
+    },
+    {
+      "frame": 3,
+      "integer_translation": [
+        11,
+        -2
+      ],
+      "foreign_pixels_removed": 533
+    },
+    {
+      "frame": 4,
+      "integer_translation": [
+        8,
+        -2
+      ],
+      "foreign_pixels_removed": 2
+    },
+    {
+      "frame": 5,
+      "integer_translation": [
+        11,
+        -3
+      ],
+      "foreign_pixels_removed": 0
+    },
+    {
+      "frame": 6,
+      "redrawn_recovery": true,
+      "scale": 0.6,
+      "left": 26,
+      "top": 23
+    },
+    {
+      "frame": 7,
+      "redrawn_recovery": true,
+      "scale": 0.6,
+      "left": 53,
+      "top": 23
+    }
+  ]
+}

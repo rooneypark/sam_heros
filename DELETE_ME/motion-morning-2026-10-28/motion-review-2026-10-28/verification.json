@@ -1,0 +1,86 @@
+{
+  "status": "draft",
+  "original_body_copies": [
+    {
+      "file": "liu-bei/skill-1/frame-01.png",
+      "sha256": "2273c8bbb9bcd64412e556ed7643b1d45c79c66f57041de7fd3d99df2bef8f15",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-02.png",
+      "sha256": "543e2e3f6ef667bb30cf6079d3183cc26d6431c92adbc797d4052c7d27663d47",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-03.png",
+      "sha256": "0585d9789d60ec8541e14d90ca6c326dcdd22911c9adff6358fa19ef3b28c02e",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-04.png",
+      "sha256": "a827aa1600a4889b1d7bc4bc8e75e572f32d5dd5c1b7802425df11e2c3432bc4",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-05.png",
+      "sha256": "5586afb34f4a4bca68b721f49ecea19d5b454411579324a2bea3bc029faadc8b",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-06.png",
+      "sha256": "9d93e9f9b02d451d47a5b400e17401e7cc0a110cfe94e2e5b58a82719e76fe74",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-07.png",
+      "sha256": "4ca6c5c3d9ad0f0bb5d651c29d47f668e189d1ac8bdb55e7404518429871f990",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-1/frame-08.png",
+      "sha256": "2cafa1a7bf5017dfdafa3bace3125002145de2abf547b47ebc7450a63d8e56f7",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-01.png",
+      "sha256": "0441c20c2d58e0a874b0cffbc00bb3d7354668b07644395ff99916a3c07c9e8d",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-02.png",
+      "sha256": "fffa0d1c13ea84d3d6f9d7a5c57405a87efbea22935fcc5cd1bf4568bcd5870e",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-03.png",
+      "sha256": "43511e1a8bb777abf7906f113de6f514a62fd188f5b54608a4258dd7a408feed",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-04.png",
+      "sha256": "e41d2eaa0f50c615a320b70085a6591bb713d6d764e9786f0b3a389199297e50",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-05.png",
+      "sha256": "be0a48b11bd31472372f853dce518c8dda03958a9705ce090e232e911d62176d",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-06.png",
+      "sha256": "01144d796376c150f608b382654a5ae38c13c607d29ad343d082004424078093",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-07.png",
+      "sha256": "a6491c7e9f0956816b7869eaa4174dc53cb5c61c611402dfbbd386a58da4e512",
+      "body_copy_identical": true
+    },
+    {
+      "file": "liu-bei/skill-2/frame-08.png",
+      "sha256": "36d4325f63f7fef218fd6f2c95d5bafb0f32f292c48759c6d15bd27974e0cefa",
+      "body_copy_identical": true
+    }
+  ],
+  "generated_run_not_used": "Generated whole sheet altered body; blade-only correction must preserve source body pixels."
+}

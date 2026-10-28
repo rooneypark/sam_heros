@@ -1,0 +1,23 @@
+[
+  {
+    "hero": "zhang-fei",
+    "image": "C:/Users/user/.codex/generated_images/01a17fb9-9c81-7692-b985-606cf0c7d4c3/exec-b7f65d01-dd81-4f92-a625-098d27edda69.png",
+    "palette": "scarlet-red",
+    "prompt": "Precise edit of EFFECTS ONLY animation sheet. Preserve 4columns2rows eight equal cells and transparent alpha. REMOVE ALL GROUND ELLIPSES, rings, circles, platforms, horizontal foot auras in every frame. No ground effect at all. Replace with more elegant CRIMSON RED body-wrapping defense aura: three layered diagonal scarlet ribbons spiraling UP from left hip to right shoulder, open curved protective crescents behind both sides, short red angular shards floating upward. Body-wrap feeling rather than two detached wings. Each ribbon is an OPEN tapering S curve, NOT a closed loop/ellipse. Rich dark-red edges and pink-white inner cores, no blue/yellow/gold. The center face hole stays clear, no mouth emission or soundwaves. No character or weapon. Eight frame sequence: 1EMPTY,2tiny red motes,3gather thin diagonal ribbon,4strong rising spiral body wrap,5peak layered red ribbons with protective side crescent and small shards,6two tapering ribbons disappear upward,7few faint motes,8EMPTY. Keep effects local85..265,y75..240 in a350x350 cell, so full body is framed but not hidden; nothing at y245 or below. No text,grid,icons,shadows, ground rings or platforms. Clean sophisticated flat2D mobilegame VFX, not a noisy fireball.",
+    "description": "입 효과·바닥 원형 없이 붉은 잔상이 몸을 감싸는 방어 버프"
+  },
+  {
+    "hero": "guan-yu",
+    "image": "C:/Users/user/.codex/generated_images/01a17fb9-9c81-7692-b985-606cf0c7d4c3/exec-110d83ed-6b87-4fb6-9b41-452fb01a8854.png",
+    "palette": "emerald-green",
+    "prompt": "Edit EFFECTS ONLY eight-frame4x2 sprite sheet. Transparent alpha. REMOVE EVERY GROUND RING / ellipse / circular platform / foot glow in allframes. No floor effects. Redesign attack buff as spectacular EMERALD GREEN energy spiraling UP around body and raised glaive: two open jade dragon-like S ribbons curving from hip around torso then climbing sharply along weapon on left, pale lime-white cores, dark jade outlines, a few upward blade-shaped green sparks. No literal dragon animal head. Face center remains open. No detached big wings. No blue/red/gold/yellow effects. All motion rises around body and weapon, no horizontal closed loops. 350x350 cells, exact4columns2rows. F1EMPTY,F2two faint green motes,F3thin green body-to-weapon spiral,F4surge climbing spiral with bright green burst above glaive,F5peak layered spiral wrapping at hip/chest and streaming up left, F6broken upward ribbon wisps,F7three tiny fading green sparks,F8EMPTY. Effects stay local75..270,y25..235, never touch bottom ground line245. No characters, weapons, body silhouettes,text,grid,shadows, ground circle,ellipse or platform. Clean2D game energy trails with strong designed tapering curves rather than cloudy glow.",
+    "description": "바닥 원형 없이 몸·무기를 타고 상승하는 초록 공격 버프"
+  },
+  {
+    "hero": "liu-bei",
+    "image": "C:/Users/user/.codex/generated_images/01a17fb9-9c81-7692-b985-606cf0c7d4c3/exec-67fef342-5049-49ea-8950-d056bc01b22a.png",
+    "palette": "mint-green-white",
+    "prompt": "Create EFFECTS ONLY overlay sprite animation for Liu Bei group HEAL buff. Reference image is positional guide only; render NO character, weapon, body or clothes. Eight350x350 cells4columns2rows1400x700 transparent alpha. NO GROUND RING, NO FLOOR CIRCLE, NO ELLIPSE, NO PLATFORM, NO foot aura or shadow in ANYframe. Effects wrap around body and flow UPWARD. Healing expressed by graceful mint-green/pale ivory soft ribbons gently wrapping from lower torso x145,y215 diagonally around body sides to crossed swords above head x175,y100, small glowing fourpoint healing stars and delicate leaf-like motes rising at shoulders. Softer and more serene than aggressive weapon buff, more luminous/magical than simple particles. Center face x155..195,y140..185 open. Rich mint/white inner glow and emerald edges. F1EMPTY,F2two small mint motes,F3two thin rising curves hugging body sides,F4ribbons cross infront lower chest then stream up to star near swords,F5peak three beautiful OPEN tapering mint ribbons wrapping torso and two upper curves unfolding upward with5 small sparkles,F6ribbons float up and dissolve,F7three fading motes,F8EMPTY. Stay local95..255,y75..230, all belowfoot y245EMPTY. No closed horizontal loops or ground circles. No UI medical cross, no text, grid, opaque background, actual character or weapon. Polished clean flat2D fantasy game healing effect, controlled sparkle detail.",
+    "description": "바닥 원형 없이 몸을 감싸며 상승하는 치유 리본·빛"
+  }
+]

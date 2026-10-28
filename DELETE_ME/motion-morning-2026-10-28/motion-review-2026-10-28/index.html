@@ -1,0 +1,29 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>10월 28일 모션 검토</title>
+<style>*{box-sizing:border-box}body{margin:24px;background:#222a31;color:#e7f0f1;font:15px/1.6 system-ui}h1{font-size:24px}p{max-width:1000px}a{color:#80e4c2}nav,article{background:#303b44;border:1px solid #52616a;border-radius:10px;padding:16px;margin-bottom:20px}nav{position:sticky;top:0;z-index:2;display:flex;gap:18px;flex-wrap:wrap}button,select{padding:7px}main{display:grid;grid-template-columns:repeat(auto-fit,minmax(370px,1fr));gap:20px}article{margin:0}canvas{width:350px;height:350px;max-width:100%;background-color:#414e49;background-image:linear-gradient(45deg,#485750 25%,transparent 25%),linear-gradient(-45deg,#485750 25%,transparent 25%),linear-gradient(45deg,transparent 75%,#485750 75%),linear-gradient(-45deg,transparent 75%,#485750 75%);background-size:32px 32px;background-position:0 0,0 16px,16px -16px,-16px 0}h2{font-size:19px;margin:0}small{display:block;color:#c4d0d4;min-height:48px}details img{width:100%}.warn{color:#ffcb83}.tag{color:#8ce3c0}input[type=range]{width:170px}</style>
+<h1>캐릭터 모션 검토 · 2026-10-28</h1>
+<p>최신 지시: 유비·조운의 기존 외형 통일 유지. 장비·관우는 기본·숨쉬기 베이스로 공격 재작업. <span class="warn">이 화면은 미승인 검토본입니다. 장비·관우 생성 시안에는 외형·무기 길이·파지·전환 연결 차이가 남아 있으며 배포용 최종본이 아닙니다.</span> 기존 등록과 승인 PNG는 보존했습니다.</p>
+<p><a href="../docs/motion-guide/REVISION_2026-10-28.md">최신 사용자 지시</a> · <a href="../web/motion.html">기존 모션 체커</a> · <a href="verification.json">보존 검증</a></p>
+<nav><button id="play">일시정지</button><button id="step">다음 프레임</button><label>재생 <select id="speed"><option value="1">정상</option><option value="2.5">느리게</option></select></label><label><input type="checkbox" id="transition" checked>숨쉬기→동작→숨쉬기</label><label><input type="checkbox" id="ghost">기본 원화 겹쳐보기</label><label>배경 <select id="bg"><option value="#414e49">초록</option><option value="#eeeeeb">밝음</option><option value="#1c2328">어둠</option></select></label></nav>
+<main id="list"></main>
+<script type="module">
+const names={'liu-bei':'유비','guan-yu':'관우','zhang-fei':'장비'},labels={'basic-attack':'기본공격','skill-1':'스킬1','skill-2':'스킬2',run:'이동'};
+const state={playing:true,speed:1,transition:true,ghost:false},cards=[];
+const load=src=>new Promise((ok,no)=>{const img=new Image;img.onload=()=>ok(img);img.onerror=()=>no(Error(src));img.src=src});
+for(const m of await(await fetch('motions.json')).json()){
+ const meta=await(await fetch(m.path+'/animation.json')).json(),article=document.createElement('article');
+ article.innerHTML=`<h2>${names[m.hero]} · ${labels[m.motion]}</h2><small>${m.qa}</small><canvas width="350" height="350"></canvas><p class="tag"></p><input type="range" min="0" max="${meta.frames.length-1}" value="0"><details><summary>전체 프레임 / 파일</summary><a href="${m.path}/animation.json">명세</a> · <a href="${m.path}/preview.gif">반복 GIF</a><img src="${m.path}/frames-overview.png"></details>`;
+ document.querySelector('#list').append(article);
+ const compare=document.createElement('details');compare.innerHTML=`<summary>기본 원본과 같은 배율로 비교</summary><img style="width:350px;max-width:100%" src="../${m.hero}/original/original.png">`;article.append(compare);
+ const frames=await Promise.all(meta.frames.map(f=>load(m.path+'/'+f))),idle=await Promise.all([1,2,3,4].map(i=>load(`../${m.hero}/idle/frame-0${i}.png`))),original=await load(`../${m.hero}/original/original.png`);
+ const c={m,meta,article,frames,idle,original,ctx:article.querySelector('canvas').getContext('2d'),i:0,t:performance.now(),idlePhase:state.transition,idleIndex:0};cards.push(c);
+ article.querySelector('input').oninput=e=>{state.playing=false;document.querySelector('#play').textContent='재생';c.idlePhase=false;c.i=+e.target.value;draw(c)};draw(c);
+}
+function draw(c){const x=c.ctx;x.clearRect(0,0,350,350);if(state.ghost){x.globalAlpha=.28;x.drawImage(c.original,0,0);x.globalAlpha=1}x.drawImage(c.idlePhase?c.idle[c.idleIndex]:c.frames[c.i],0,0);x.strokeStyle='#f4da80';x.lineWidth=1;x.beginPath();x.moveTo(150,245.5);x.lineTo(200,245.5);x.moveTo(175.5,235);x.lineTo(175.5,255);x.stroke();c.article.querySelector('.tag').textContent=c.idlePhase?'숨쉬기 '+(c.idleIndex+1):`${c.i+1} / ${c.frames.length} · ${c.meta.durations_ms[c.i]}ms`;c.article.querySelector('input').value=c.i}
+function tick(t){for(const c of cards){const ms=(c.idlePhase?300:c.meta.durations_ms[c.i])*state.speed;if(state.playing&&t-c.t>=ms){c.t=t;if(c.idlePhase){if(++c.idleIndex>=4){c.idleIndex=0;c.idlePhase=false;c.i=0}}else if(++c.i>=c.frames.length){c.i=0;c.idlePhase=state.transition}draw(c)}}requestAnimationFrame(tick)}requestAnimationFrame(tick);
+document.querySelector('#play').onclick=e=>{state.playing=!state.playing;e.target.textContent=state.playing?'일시정지':'재생';cards.forEach(c=>c.t=performance.now())};
+document.querySelector('#step').onclick=()=>{state.playing=false;document.querySelector('#play').textContent='재생';for(const c of cards){c.idlePhase=false;c.i=(c.i+1)%c.frames.length;draw(c)}};
+document.querySelector('#speed').onchange=e=>state.speed=+e.target.value;
+document.querySelector('#transition').onchange=e=>{state.transition=e.target.checked;for(const c of cards){c.idlePhase=state.transition;c.idleIndex=0;c.i=0;c.t=performance.now();draw(c)}};
+document.querySelector('#ghost').onchange=e=>{state.ghost=e.target.checked;cards.forEach(draw)};
+document.querySelector('#bg').onchange=e=>document.querySelectorAll('canvas').forEach(c=>{c.style.backgroundImage='none';c.style.backgroundColor=e.target.value});
+</script></html>

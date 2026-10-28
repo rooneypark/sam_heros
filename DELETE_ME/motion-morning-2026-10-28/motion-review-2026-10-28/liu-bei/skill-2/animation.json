@@ -1,0 +1,74 @@
+{
+  "status": "review-not-approved",
+  "motion": "skill-2",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    100,
+    100,
+    90,
+    150,
+    120,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/liu-bei-skill-2.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": null,
+  "alignment": [],
+  "qa": "Original body copies byte-identical; effect overlay only.",
+  "fx_revision": {
+    "date": "2026-10-28",
+    "revision": "body-wrap-v3-no-ground-ring",
+    "palette": "mint-green-white",
+    "description": "바닥 원형 없이 몸을 감싸며 상승하는 치유 리본·빛",
+    "source": "sources/liu-bei-skill2-wrap-v3.png",
+    "body": "Existing separate body frames retained; effects composite behind and across torso only."
+  },
+  "revision": "v4-approved-pose-continuous-return",
+  "recovery": [
+    {
+      "frame": 6,
+      "approved_pose": "skill-2/frame-03.png",
+      "integer_translation": [
+        -2,
+        1
+      ],
+      "no_body_rescale": true
+    },
+    {
+      "frame": 7,
+      "approved_pose": "skill-1/frame-04.png",
+      "integer_translation": [
+        -2,
+        2
+      ],
+      "no_body_rescale": true
+    }
+  ]
+}

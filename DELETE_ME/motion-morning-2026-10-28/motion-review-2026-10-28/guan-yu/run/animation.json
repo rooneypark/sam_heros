@@ -1,0 +1,37 @@
+{
+  "status": "review-not-approved",
+  "motion": "run",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 6,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png"
+  ],
+  "durations_ms": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+  ],
+  "direction": "down-left",
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.30000000000000004
+  ],
+  "source": "Original run PNG; rigid silver blade reflection about shaft only"
+}

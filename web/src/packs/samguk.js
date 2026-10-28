@@ -156,6 +156,18 @@ export async function loadSamgukTiles(assets) {
   try { j = await fetchJSON('content/samguk/tiles.json'); } catch { return { brushes: [], blocking: [] }; }
   const brushes = [], blocking = [];
   for (const t of j.tiles || []) {
+    // Reuse an existing terrain's complete autotile rule and atlas metadata.
+    // A pack alias gets its own stable ID without duplicating the original art.
+    if (t.sourceTile) {
+      const source = assets.tiles[t.sourceTile];
+      if (!source) { console.warn(`samguk tile ${t.id}: missing source ${t.sourceTile}`); continue; }
+      assets.tiles[t.id] = { ...source, name: t.id };
+      if (t.blocks) blocking.push({ id: t.id, footprint: t.footprint || null });
+      if (t.pair) MIRROR.set(t.id, t.pair).set(t.pair, t.id);
+      brushes.push({ id: `tile:${t.id}`, name: t.name || t.id, layer: t.layer, tile: t.id,
+        cat: '삼국', icon: null, rule: t.type === 'pond' || t.type === 'road' ? t.type : null, source: 'samguk' });
+      continue;
+    }
     const [pivot0, ppu0] = TILE_DEFAULTS[t.layer] || TILE_DEFAULTS.decoData;
     const files = t.sprites || (t.sprite ? [t.sprite] : []);
     const names = files.map((f, i) => `${t.id}#${i}`);

@@ -1,7 +1,5 @@
 {
   "status": "approved",
-  "approved_date": "2026-10-27",
-  "motion": "run",
   "cell": [
     350,
     350
@@ -23,16 +21,97 @@
     100,
     100
   ],
-  "direction": "down-left",
   "facing": "left",
   "foot_anchor": [
     175,
     245
   ],
-  "ppu": 100,
   "pivot": [
     0.5,
-    0.30000000000000004
+    0.3
   ],
-  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
+  "ppu": 100,
+  "blade_only_reflection": true,
+  "verification": [
+    {
+      "frame": 1,
+      "axis_origin": [
+        135.0,
+        130
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1205,
+      "outside_blade_changes": 0
+    },
+    {
+      "frame": 2,
+      "axis_origin": [
+        135.0,
+        129
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1201,
+      "outside_blade_changes": 0
+    },
+    {
+      "frame": 3,
+      "axis_origin": [
+        135.0,
+        127
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1210,
+      "outside_blade_changes": 0
+    },
+    {
+      "frame": 4,
+      "axis_origin": [
+        135.0,
+        130
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1205,
+      "outside_blade_changes": 0
+    },
+    {
+      "frame": 5,
+      "axis_origin": [
+        135.0,
+        129
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1201,
+      "outside_blade_changes": 0
+    },
+    {
+      "frame": 6,
+      "axis_origin": [
+        135.0,
+        127
+      ],
+      "axis_unit": [
+        0.5500000020323539,
+        0.835164653086091
+      ],
+      "changed_pixels": 1210,
+      "outside_blade_changes": 0
+    }
+  ],
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK"
 }

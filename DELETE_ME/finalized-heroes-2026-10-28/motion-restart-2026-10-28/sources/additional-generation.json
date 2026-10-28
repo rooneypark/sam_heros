@@ -1,0 +1,12 @@
+{
+  "zhang-basic-v2": {
+    "path": "C:\\Users\\user\\.codex\\generated_images\\01a1663a-63e5-7b42-adf1-562f75af5411\\exec-d2f610b3-cc23-491c-a1f8-5ea75d048c0d.png",
+    "prompt": "Correct ONLY spear and gripping hands in this 8frame ZhangFei sprite sheet. Preserve character pose,body/head/legs/palette/layout. In frames2,3,4,5,6: EXACT SAME horizontally leftpointing spear geometry copied as rigid object, never rescaled. Blade tip to butt total320 SOURCEpixels, blade90px, goldshaft230px, shaftthickness10px. EXACT same front-rear fist separation85sourcepixels throughout. F2 horizontal ready: blade tip local50,frontfist185,rearfist270,butt370 at y282. F3 pullback entire spear AND both hands20px right. F4 thrust entire spear AND bothhands45px LEFT fromready; blade tip5,frontfist140,rearfist225,butt325. F5 same F4 impact. F6 returnready identicalF2. Arms stretch tofollow fists while body stays still, no morph head/torso. Do not let hands slide along shaft: frontfist is ALWAYS135px from bladetip,rearfist220px. Behind right hand spear shaft continues100px and is visible, one straightline even behind body. Keep one cyanwhite straight thrust trail duringF4-5 only. All8cells same size. Frames1,7,8unchanged. Transparentbackground.",
+    "status": "review-only"
+  },
+  "zhang-thrust": {
+    "path": "C:\\Users\\user\\.codex\\generated_images\\01a1663a-63e5-7b42-adf1-562f75af5411\\exec-0df0fa14-36bc-4280-b89c-673640445ac5.png",
+    "prompt": "Precise edit of this SINGLE spear ready pose to fully extended THRUST pose. Keep head, hair, face, beard, body, belt, gourd, legs,feet exactly fixed at same position and same size, samecolors. Translate the ENTIRE HORIZONTAL SPEAR AND BOTH FISTS together exactly30pixels LEFT in reference444x444 coordinates. Original front fist center194,282 ->164,282; original rear fist301,282 ->271,282. Fist separation remains107px. Originalbladetip50->20,originalbutt375->345. Spear does NOT shorten, no scaling of weapon, shaftsame10pxthick. Only redraw upperarm/sleeve connection to accommodate new fists: rearforearm extendsleft from shoulder, frontarm also extendsleft. BOTH fists must stay107pxapart, notcloser. Whole weapon rigidmovesleft, NOhand sliding alongshaft. Feetandbody stayexact. Add narrow cyanwhite thrust streak around blade atleft without coveringfists. Do not lean/crouch. Transparent background, same squarecanvas with same margins, no text.",
+    "status": "not-adopted"
+  }
+}

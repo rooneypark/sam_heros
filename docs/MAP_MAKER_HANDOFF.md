@@ -1,3 +1,11 @@
+> 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
+
+> 2026-10-28 늑대 최신 승인: chapter-1/yellow-turban-wolf에 축소 외형·숨쉬기·물기와 dog-reference-v7 이동6프레임(각80ms)을 반영. SG_M0002 모션체커/맵메이커 공통 자산. 이전 늑대는 DELETE_ME/wolf-before-approved-v7-2026-10-28 보존.
+
+> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `liu-bei/`, `guan-yu/`, `zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
+
+> 2026-10-28 최신 실행 반영: 유관장9모션과 장각 스킬2는 art/samguk/motions/2026-10-28/가 현재 맵메이커·모션체커 자산이며 content/samguk/units.json에 등록됨. MANIFEST.json 참조. 새 관우 공격은 접지Y245/pivot(0.5,0.3), 과거Y260 예외와 구분. 이전 원본은 보존.
+
 # 다른 PC에서 맵 제작 시작하기
 
 ## 실행

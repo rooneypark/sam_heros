@@ -151,12 +151,12 @@ export function stepWorld(dt) {
 }
 
 /** world pass: map, fog, buildings, resources, units, effects, bullets, drops, world UI (+ extra(renderer, view)) */
-export function drawWorld(renderer, cam, aspect, extra = null) {
+export function drawWorld(renderer, cam, aspect, extra = null, options = {}) {
   const halfH = cam.size, halfW = cam.size * aspect;
   const view = { x0: cam.position[0] - halfW, x1: cam.position[0] + halfW, y0: cam.position[1] - halfH, y1: cam.position[1] + halfH };
   renderer.begin();
   G.MapManager.view.draw(renderer, view);
-  G.Fog?.draw(renderer, view);
+  if (options.showFog !== false) G.Fog?.draw(renderer, view);
   G.Buildings.draw(renderer, view);
   G.Resources.draw(renderer, view);
   for (const u of G.UnitManager.all) drawTree(renderer, G.assets, u.go, view);

@@ -1,7 +1,5 @@
 {
   "status": "approved",
-  "approved_date": "2026-10-27",
-  "motion": "skill-1",
   "cell": [
     350,
     350
@@ -19,24 +17,110 @@
   ],
   "durations_ms": [
     180,
-    110,
+    120,
+    120,
     90,
-    70,
-    140,
-    100,
-    110,
-    180
+    150,
+    120,
+    150,
+    240
   ],
-  "direction": "down-left",
   "facing": "left",
   "foot_anchor": [
     175,
-    260
+    245
   ],
-  "ppu": 100,
   "pivot": [
     0.5,
-    0.2571428571428571
+    0.3
   ],
-  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
+  "ppu": 100,
+  "source_sheet": "../../sources/guan-skill1.png",
+  "uniform_source_scale": 0.5764192139737991,
+  "registration": [
+    {
+      "source_feet": [
+        223.0,
+        424
+      ],
+      "offset": [
+        51,
+        1
+      ]
+    },
+    {
+      "source_feet": [
+        222.0,
+        424
+      ],
+      "offset": [
+        52,
+        1
+      ]
+    },
+    {
+      "source_feet": [
+        221.0,
+        424
+      ],
+      "offset": [
+        52,
+        1
+      ]
+    },
+    {
+      "source_feet": [
+        224.0,
+        425
+      ],
+      "offset": [
+        50,
+        0
+      ]
+    },
+    {
+      "source_feet": [
+        219.5,
+        396
+      ],
+      "offset": [
+        53,
+        17
+      ]
+    },
+    {
+      "source_feet": [
+        229.5,
+        396
+      ],
+      "offset": [
+        47,
+        17
+      ]
+    },
+    {
+      "source_feet": [
+        248.5,
+        395
+      ],
+      "offset": [
+        36,
+        17
+      ]
+    },
+    {
+      "source_feet": [
+        223.5,
+        416
+      ],
+      "offset": [
+        51,
+        5
+      ]
+    }
+  ],
+  "first_last_original": true,
+  "limitation": "Generated local geometry requires visual review; uniform scale is not proof of invariant anatomy.",
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK"
 }

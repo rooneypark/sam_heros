@@ -1,0 +1,39 @@
+{
+  "status": "approved",
+  "date": "2026-10-28",
+  "user_decision": "장비 스킬1 통과",
+  "files": [
+    {
+      "file": "frame-01.png",
+      "sha256": "f85d94036847afdd83f4dbc40e740b33172efc53b8d2d9caaa71f546ae8d9db3"
+    },
+    {
+      "file": "frame-02.png",
+      "sha256": "97ee14e65439b75e2a369ddeab1c0e8e4871278fed791d974196a5f6371c27bf"
+    },
+    {
+      "file": "frame-03.png",
+      "sha256": "25f590f6b54f1bd8bc7ecda272d111a2d857991bec8ef4be53af46df048fee86"
+    },
+    {
+      "file": "frame-04.png",
+      "sha256": "2dc8aad44997760c0ed8a7c88f38640d9b63dd56eaa7ed6aa86748f8561230cf"
+    },
+    {
+      "file": "frame-05.png",
+      "sha256": "979d083c43c258804ec52e8ef3e9fb931e7e861ecb7f69fad5423e8dc4458a82"
+    },
+    {
+      "file": "frame-06.png",
+      "sha256": "a24d2dd55ef17a0cbc327bfb9c9ff53edef9f9734110511f54ef748ef9b68725"
+    },
+    {
+      "file": "frame-07.png",
+      "sha256": "dd57dfac4f74a4b30affe9cff82473487037a05cd7073ce424707868379022b7"
+    },
+    {
+      "file": "frame-08.png",
+      "sha256": "f85d94036847afdd83f4dbc40e740b33172efc53b8d2d9caaa71f546ae8d9db3"
+    }
+  ]
+}

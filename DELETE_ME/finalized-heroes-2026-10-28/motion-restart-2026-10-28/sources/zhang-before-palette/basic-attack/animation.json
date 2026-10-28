@@ -1,0 +1,127 @@
+{
+  "status": "user-requested-integration",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "durations_ms": [
+    180,
+    120,
+    120,
+    90,
+    150,
+    120,
+    150,
+    240
+  ],
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "source_sheet": "../../sources/zhang-basic.png",
+  "uniform_source_scale": 0.5153846153846153,
+  "registration": [
+    {
+      "source_feet": [
+        250.0,
+        392
+      ],
+      "offset": [
+        46,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        270.5,
+        392
+      ],
+      "offset": [
+        36,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        269.0,
+        392
+      ],
+      "offset": [
+        36,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        319.5,
+        391
+      ],
+      "offset": [
+        10,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        319.5,
+        392
+      ],
+      "offset": [
+        10,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        270.5,
+        392
+      ],
+      "offset": [
+        36,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        269.0,
+        392
+      ],
+      "offset": [
+        36,
+        43
+      ]
+    },
+    {
+      "source_feet": [
+        249.5,
+        392
+      ],
+      "offset": [
+        46,
+        43
+      ]
+    }
+  ],
+  "first_last_original": true,
+  "limitation": "Generated local geometry requires visual review; uniform scale is not proof of invariant anatomy.",
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK",
+  "source_review": "motion-restart-2026-10-28/zhang-fei/basic-attack"
+}

@@ -1,0 +1,15 @@
+const fs=require('fs'),path=require('path'),sharp=require('C:/Users/user/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const root=path.resolve(__dirname,'../../motion-review-2026-10-28');
+(async()=>{const cfg=JSON.parse(fs.readFileSync(path.join(root,'sources/skill2-wrap-v3.json'),'utf8'));
+for(const c of cfg){const dir=path.join(root,c.hero,'skill-2'),meta=JSON.parse(fs.readFileSync(path.join(dir,'animation.json'),'utf8')),source=path.join(root,'sources',c.hero+'-skill2-wrap-v3.png');fs.copyFileSync(c.image,source);const grid=await sharp(source).resize(1400,700).png().toBuffer();let ls=[],checks=[];
+for(let f=1;f<=8;f++){const name=`frame-${String(f).padStart(2,'0')}.png`,bodyPath=path.join(dir,`body-${String(f).padStart(2,'0')}.png`),{data:body,info}=await sharp(bodyPath).ensureAlpha().raw().toBuffer({resolveWithObject:true});
+let fx=Buffer.alloc(350*350*4);if(f!==1&&f!==8){const tile=await sharp(grid).extract({left:((f-1)%4)*350,top:Math.floor((f-1)/4)*350,width:350,height:350}).resize(263,263).ensureAlpha().raw().toBuffer();for(let y=0;y<263;y++)for(let x=0;x<263;x++){const yy=y+8,xx=x+44;if(yy>=245)continue;const si=(y*263+x)*4,di=(yy*350+xx)*4;tile.copy(fx,di,si,si+4);if(yy>230)fx[di+3]=Math.round(fx[di+3]*(245-yy)/15);}}
+const out=Buffer.from(fx);let frontCount=0;
+for(let p=0;p<350*350;p++){const i=p*4,ba=body[i+3]/255;if(!ba)continue;const fa=fx[i+3]/255,oa=ba+fa*(1-ba);for(let ch=0;ch<3;ch++)out[i+ch]=oa?Math.round((body[i+ch]*ba+fx[i+ch]*fa*(1-ba))/oa):0;out[i+3]=Math.round(oa*255);
+ const x=p%350,y=Math.floor(p/350),skin=(body[i]>150&&body[i+1]<155&&body[i+2]<170),gold=body[i]>150&&body[i+1]>120&&body[i+2]<100;
+ // A slim front ribbon crosses the torso; face, fists and weapon remain readable.
+ if(x>=145&&x<=211&&y>=190&&y<=211&&!skin&&!gold&&fa>.05){const aa=fa*.66;for(let ch=0;ch<3;ch++)out[i+ch]=Math.round(fx[i+ch]*aa+out[i+ch]*(1-aa));frontCount++;}
+}
+await sharp(out,{raw:info}).png().toFile(path.join(dir,name));await sharp(fx,{raw:info}).png().toFile(path.join(dir,`fx-${String(f).padStart(2,'0')}.png`));ls.push({input:path.join(dir,name),left:((f-1)%4)*350,top:Math.floor((f-1)/4)*350});checks.push({frame:f,foot_effect_pixels:0,front_ribbon_pixels:frontCount,body_source:bodyPath.replaceAll('\\','/').split('/motion-review-2026-10-28/')[1]});}
+await sharp({create:{width:1400,height:700,channels:4,background:'#00000000'}}).composite(ls).png().toFile(path.join(dir,'frames-overview.png'));meta.fx_revision={date:'2026-10-28',revision:'body-wrap-v3-no-ground-ring',palette:c.palette,description:c.description,source:path.relative(root,source).replaceAll('\\','/'),body:'Existing separate body frames retained; effects composite behind and across torso only.'};fs.writeFileSync(path.join(dir,'animation.json'),JSON.stringify(meta,null,2));fs.writeFileSync(path.join(dir,'wrap-v3-verification.json'),JSON.stringify(checks,null,2));console.log(c.hero,'wrap effect packaged');}
+})().catch(e=>{console.error(e);process.exit(1)});

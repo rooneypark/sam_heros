@@ -1,0 +1,122 @@
+{
+  "status": "review-not-approved",
+  "motion": "skill-2",
+  "cell": [
+    350,
+    350
+  ],
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "frame_count": 8,
+  "durations_ms": [
+    180,
+    110,
+    90,
+    80,
+    100,
+    100,
+    120,
+    180
+  ],
+  "facing": "left",
+  "direction": "down-left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "source": "sources/zhang-fei-skill-2.png",
+  "tool": "built-in image_gen",
+  "scale_per_motion": 0.5,
+  "alignment": [
+    {
+      "frame": 1,
+      "source": "approved-original"
+    },
+    {
+      "frame": 2,
+      "detected_shoe_anchor": [
+        233,
+        388
+      ],
+      "scale": 0.5,
+      "left": 58,
+      "top": 51
+    },
+    {
+      "frame": 3,
+      "detected_shoe_anchor": [
+        232,
+        388
+      ],
+      "scale": 0.5,
+      "left": 59,
+      "top": 51
+    },
+    {
+      "frame": 4,
+      "detected_shoe_anchor": [
+        240,
+        388
+      ],
+      "scale": 0.5,
+      "left": 55,
+      "top": 51
+    },
+    {
+      "frame": 5,
+      "detected_shoe_anchor": [
+        237,
+        389
+      ],
+      "scale": 0.5,
+      "left": 56,
+      "top": 50
+    },
+    {
+      "frame": 6,
+      "detected_shoe_anchor": [
+        234,
+        389
+      ],
+      "scale": 0.5,
+      "left": 58,
+      "top": 50
+    },
+    {
+      "frame": 7,
+      "detected_shoe_anchor": [
+        233,
+        389
+      ],
+      "scale": 0.5,
+      "left": 58,
+      "top": 50
+    },
+    {
+      "frame": 8,
+      "source": "approved-original"
+    }
+  ],
+  "qa": "Generated pose draft: appearance, local weapon lengths/grips and transition continuity require further correction; not production-ready.",
+  "fx_revision": {
+    "date": "2026-10-28",
+    "revision": "body-wrap-v3-no-ground-ring",
+    "palette": "scarlet-red",
+    "description": "입 효과·바닥 원형 없이 붉은 잔상이 몸을 감싸는 방어 버프",
+    "source": "sources/zhang-fei-skill2-wrap-v3.png",
+    "body": "Existing separate body frames retained; effects composite behind and across torso only."
+  }
+}

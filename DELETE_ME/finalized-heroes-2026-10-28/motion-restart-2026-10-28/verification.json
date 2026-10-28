@@ -1,0 +1,63 @@
+{
+  "motions": [
+    {
+      "motion": "guan-yu/basic-attack",
+      "frames": 8,
+      "gif_encoded_frames": 7,
+      "gif_total_ms": 1170
+    },
+    {
+      "motion": "guan-yu/run",
+      "frames": 6,
+      "gif_encoded_frames": 6,
+      "gif_total_ms": 600
+    },
+    {
+      "motion": "guan-yu/skill-1",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 1170
+    },
+    {
+      "motion": "guan-yu/skill-2",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 1170
+    },
+    {
+      "motion": "liu-bei/skill-1",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 980
+    },
+    {
+      "motion": "liu-bei/skill-2",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 1040
+    },
+    {
+      "motion": "zhang-fei/basic-attack",
+      "frames": 8,
+      "gif_encoded_frames": 6,
+      "gif_total_ms": 1170
+    },
+    {
+      "motion": "zhang-fei/skill-1",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 1170
+    },
+    {
+      "motion": "zhang-fei/skill-2",
+      "frames": 8,
+      "gif_encoded_frames": 8,
+      "gif_total_ms": 1170
+    }
+  ],
+  "protected_pngs": 207,
+  "protected_changes": 0,
+  "liu_body_frames_equal": 16,
+  "browser_replay": "blocked by file URL policy",
+  "local_geometry": "not proven; Zhang Fei thrust grip mismatch remains"
+}

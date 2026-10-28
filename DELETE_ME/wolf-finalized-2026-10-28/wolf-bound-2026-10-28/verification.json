@@ -1,0 +1,31 @@
+{
+  "additional_scale": 0.85,
+  "root": [
+    175,
+    245
+  ],
+  "frames": {
+    "idle": {
+      "count": 4,
+      "duration_ms": 1200
+    },
+    "run": {
+      "count": 6,
+      "duration_ms": 600
+    },
+    "basic-attack": {
+      "count": 8,
+      "duration_ms": 1200
+    }
+  },
+  "run_opaque_bottom_y": [
+    244,
+    244,
+    244,
+    224,
+    224,
+    237
+  ],
+  "attack_returns_to_original": true,
+  "browser_review": "Normal and 0.33x playback rendered; frames6-to1 transition inspected. Ground frames bottomY244; airborne4/5 bottomY224; descending6 bottomY237."
+}

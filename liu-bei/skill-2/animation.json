@@ -1,7 +1,5 @@
 {
   "status": "approved",
-  "approved_date": "2026-10-27",
-  "motion": "skill-2",
   "cell": [
     350,
     350
@@ -27,16 +25,19 @@
     120,
     180
   ],
-  "direction": "down-left",
   "facing": "left",
   "foot_anchor": [
     175,
     245
   ],
-  "ppu": 100,
   "pivot": [
     0.5,
-    0.30000000000000004
+    0.3
   ],
-  "source": "Final approved PNGs in this folder; do not regenerate from retired right-facing scripts."
+  "ppu": 100,
+  "body_source": "../../../liu-bei/skill-2",
+  "body_pixels_preserved": true,
+  "effect": "group heal",
+  "approval_date": "2026-10-28",
+  "approval_note": "사용자: 장비 스킬2 빼고 다 OK"
 }

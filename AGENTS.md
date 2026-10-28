@@ -1,3 +1,15 @@
+> 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
+
+> 2026-10-28 늑대 최신 승인: chapter-1/yellow-turban-wolf에 축소 외형·숨쉬기·물기와 dog-reference-v7 이동6프레임(각80ms)을 반영. SG_M0002 모션체커/맵메이커 공통 자산. 이전 늑대는 DELETE_ME/wolf-before-approved-v7-2026-10-28 보존.
+
+> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `liu-bei/`, `guan-yu/`, `zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
+
+> 2026-10-28 최신 실행 반영: 유관장9모션과 장각 스킬2는 art/samguk/motions/2026-10-28/가 현재 맵메이커·모션체커 자산이며 content/samguk/units.json에 등록됨. MANIFEST.json 참조. 새 관우 공격은 접지Y245/pivot(0.5,0.3), 과거Y260 예외와 구분. 이전 원본은 보존.
+
+> 2026-10-28 오전 폐기 후 새 요청으로 재개: docs/motion-guide/RESTART_2026-10-28.md를 최우선으로 따른다. 유비·조운 외형 보존, 장비·관우 기본/숨쉬기 기반 공격 재작화. 오전 폐기 자료는 사용하지 않는다.
+
+> 2026-10-28 최신 사용자 결정: 오늘 오전 모션 재작업 전체 폐기. motion-review-2026-10-28 및 관련 생성기/재작업 명세는 DELETE_ME/motion-morning-2026-10-28로 격리했으며 승인·제작 기준으로 사용하지 않는다. 오전 작업의 장비 스킬1 v3 승인도 이번 전체 폐기에 포함한다. 오전 이전 승인 원본과 가이드를 기준으로 보존하고, 새로운 요청 전까지 재작업하지 않는다. 맵메이커·모션체커 실행 환경은 유지한다.
+
 > 2026-10-27 맵 작업 이관: 이 저장소는 이제 web/ 맵메이커·모션 체커 실행 환경을 포함한다. 사용자 요청으로 tools/launch_tools.py와 re/extract 실행 의존 데이터, content/samguk/maps의 맵을 이관했다. 맵 제작 시 docs/MAP_MAKER_HANDOFF.md를 먼저 읽는다. 캐릭터는 저장소 원본을 사용하며 외부 sam_heros2 경로에 의존하지 않는다.
 
 > 사망 최신 승인: 세 장수 die/frame-01.png — 대각선 엎드림, 얼굴 완전히 숨김, 뒷머리만 노출. 정지1장 350×350. 채집은 사용자 요청으로 보류.
@@ -89,3 +101,5 @@ chapter-1/README.md와 FINAL_MANIFEST.json이 주민3종·늑대·졸병·관해
 
 ## 신규 캐릭터·모션 검수 보강
 다음 장수/몬스터 제작 전에 docs/motion-guide/CHARACTER_MOTION_QA.md를 읽는다. 의복 단순화와 디테일 삭제를 구분하고, 머리·몸통·하체·무기 치수를 기록한다. 이동은 다리 굵기·관절 길이·골반 간격을 각각 조정한다. 위치만 수정 요청이면 재생성 없이 접지점 기준 정수 이동을 우선한다. 승인 상태와 최종 체크섬을 보존한다.
+
+2026-10-28 size match: original/idle/attack uniformly scaled 0.93 about (175,245) to approved Move size. Move PNGs unchanged. No per-frame fitting or redraw.
