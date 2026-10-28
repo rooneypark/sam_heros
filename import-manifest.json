@@ -894,8 +894,13 @@
     "content/samguk/maps/1장_황건소탕.map.json": "3aa789c3a5d80894cc007fa0656b9326d445d61cc1180fe309f1630ed92427e8",
     "content/samguk/maps/character_review.map.json": "92d319654f41eeaab75c3542e7df53ac3014fa3754cc24ccd23705569c885a90",
     "docs/motion-guide/CURRENT_CHARACTER_RULES.md": "4d02a2afcab76c55629ac5f3c8a53087ac3e61eaddd369d71ed7adb5291fd101",
-    "AGENTS.md": "a351839593b219233326a867ee76e957936b8bce4afd02173bbb9ecda97c8ae4",
-    "content/samguk/tiles.json": "632ea53bad3ee1d200b7bff618cdd40984eec0e69930c5e3e7b342dadb681d2c"
+    "AGENTS.md": "1fb4c66c1f3a8318a26f90ac1c8ee03f5849bd0ce2f049993068306c56d7c53e",
+    "content/samguk/tiles.json": "632ea53bad3ee1d200b7bff618cdd40984eec0e69930c5e3e7b342dadb681d2c",
+    "README.md": "c418b7c824f3ec1d82d6a5d3aa7b5696010071c01ec954bc8d39f2079cab372f"
   },
-  "local_override_reason": "2026-10-28 user request: Guan Skill2 frame7 upper weapon only; remove SG_N0001 registration and replace placed references with hostess SG_N0005."
+  "local_override_reason": "2026-10-28 user request: Guan Skill2 frame7 upper weapon only; remove SG_N0001 registration and replace placed references with hostess SG_N0005.",
+  "packaging_notes": {
+    "AGENTS.md": "GitHub integration priority and current active gather path documented; original source hash retained in sha256.",
+    "README.md": "GitHub integration guide links updated; original source hash retained in sha256."
+  }
 }

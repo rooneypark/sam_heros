@@ -1,0 +1,8 @@
+#c1 .obj { position:absolute; left:2.5%; top:5.5%; max-width:68%; background:rgba(20,16,10,.72); border:1px solid #b08a4a; border-radius:8px; padding:.5em .7em; font-size:var(--fs); line-height:1.35; }
+#c1 .obj .q { color:#ffd27a; font-weight:700; font-size:.85em; }
+#c1 .obj .t.done::before { content:'✓ '; color:#7dff8a; }
+#c1 .res { position:absolute; right:2.5%; top:5.5%; background:rgba(20,16,10,.72); border:1px solid #b08a4a; border-radius:8px; padding:.35em .6em; font-size:var(--fs); }
+#c1 .res span { margin-left:.5em; }
+#c1 .boss { position:absolute; left:15%; right:15%; top:13.5%; display:none; text-align:center; font-size:var(--fs); }
+#c1 .boss .bar { height:.8em; background:#300; border:1px solid #f9c; border-radius:4px; overflow:hidden; margin-top:.2em; }
+#c1 .boss .fill { height:100%; background:linear-gradient(#f44,#a00); width:100%; }

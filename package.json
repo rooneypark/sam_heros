@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "test": "node tools/test_continuous_gather.mjs && node tools/test_custom_motion.mjs && node tools/test_pack_frames.mjs && node tools/test_designer_finish.mjs && node tools/.verify_chapter1_import.mjs",
-    "capture-ui": "node tools/render_ui_review.mjs"
+    "capture-ui": "node tools/render_ui_review.mjs",
+    "test-ui": "node tools/test_ui_design.mjs"
   },
   "devDependencies": { "playwright": "1.62.1" }
 }

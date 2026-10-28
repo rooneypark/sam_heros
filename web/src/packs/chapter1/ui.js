@@ -1,57 +1,11 @@
 // 1장 화면 UI (DOM 오버레이): 챕터 제목, 대화창(화자·초상·넘기기·건너뛰기), 현재 목표, 자원, 보스 HP, 월드 마커,
 // 시설 창(훈련·다리·휴식), 선택창, 완료 화면, 안내 토스트 + 바닥 예고용 2D 캔버스. 원작 HUD 대신 사용한다.
-const CSS = `
-#c1 { position:absolute; inset:0; pointer-events:none; font-family:'Malgun Gothic','Apple SD Gothic Neo',sans-serif; color:#fff; overflow:hidden; }
-#c1 canvas.fx { position:absolute; inset:0; width:100%; height:100%; }
-#c1 .obj { position:absolute; left:2.5%; top:5.5%; max-width:68%; background:rgba(20,16,10,.72); border:1px solid #b08a4a; border-radius:8px; padding:.5em .7em; font-size:var(--fs); line-height:1.35; }
-#c1 .obj .q { color:#ffd27a; font-weight:700; font-size:.85em; }
-#c1 .obj .t.done::before { content:'✓ '; color:#7dff8a; }
-#c1 .res { position:absolute; right:2.5%; top:5.5%; background:rgba(20,16,10,.72); border:1px solid #b08a4a; border-radius:8px; padding:.35em .6em; font-size:var(--fs); }
-#c1 .res span { margin-left:.5em; }
-#c1 .boss { position:absolute; left:15%; right:15%; top:13.5%; display:none; text-align:center; font-size:var(--fs); }
-#c1 .boss .bar { height:.8em; background:#300; border:1px solid #f9c; border-radius:4px; overflow:hidden; margin-top:.2em; }
-#c1 .boss .fill { height:100%; background:linear-gradient(#f44,#a00); width:100%; }
-#c1 .toast { position:absolute; left:10%; right:10%; top:22%; text-align:center; font-size:var(--fs); }
-#c1 .toast div { display:inline-block; background:rgba(0,0,0,.75); border-radius:16px; padding:.35em .9em; margin:.15em 0; animation:c1fade 2.6s forwards; }
-@keyframes c1fade { 0%{opacity:0;transform:translateY(6px)} 10%{opacity:1;transform:none} 80%{opacity:1} 100%{opacity:0} }
-#c1 .hint { position:absolute; left:8%; right:8%; bottom:24%; text-align:center; font-size:var(--fs); display:none; }
-#c1 .hint div { display:inline-block; background:rgba(40,70,40,.85); border:1px solid #9f9; border-radius:10px; padding:.4em .8em; }
-#c1 .mk { position:absolute; transform:translate(-50%,-100%); pointer-events:auto; cursor:pointer; text-align:center; font-size:calc(var(--fs)*.85); white-space:nowrap; }
-#c1 .mk .b { display:inline-block; background:rgba(25,20,12,.85); border:1px solid #d8b56a; border-radius:12px; padding:.15em .55em; }
-#c1 .mk.hl .b { border-color:#ffe48a; box-shadow:0 0 8px #ffd34a; animation:c1bob 1s infinite alternate; }
-#c1 .mk.lock .b { border-color:#888; color:#ccc; }
-#c1 .mk.check .b { border-color:#7dff8a; color:#bfffc8; }
-@keyframes c1bob { from{transform:translateY(0)} to{transform:translateY(-4px)} }
-#c1 .dlg { position:absolute; left:3%; right:3%; bottom:4%; min-height:17%; background:rgba(16,12,8,.92); border:2px solid #c9a35c; border-radius:12px; display:none; pointer-events:auto; font-size:var(--fs); }
-#c1 .dlg .pt { position:absolute; left:3%; bottom:100%; height:150%; max-height:24vh; pointer-events:none; }
-#c1 .dlg .nm { position:absolute; left:3%; top:-.9em; background:#c9a35c; color:#221; font-weight:700; padding:.1em .7em; border-radius:6px; }
-#c1 .dlg .tx { padding:1.1em 1em .9em; line-height:1.5; font-size:1.05em; }
-#c1 .dlg .nx { position:absolute; right:.8em; bottom:.4em; color:#ffd27a; animation:c1bob .6s infinite alternate; }
-#c1 .dlg .sk { position:absolute; right:.6em; top:-2.1em; background:rgba(0,0,0,.6); border:1px solid #aaa; border-radius:8px; padding:.15em .6em; font-size:.85em; cursor:pointer; }
-#c1 .dlg.narr { background:rgba(0,0,0,.82); border-color:#666; text-align:center; }
-#c1 .dim { position:absolute; inset:0; background:#000; opacity:0; transition:opacity .5s; pointer-events:none; }
-#c1 .title { position:absolute; inset:0; display:none; flex-direction:column; align-items:center; justify-content:center; background:#000; pointer-events:auto; }
-#c1 .title .a { font-size:calc(var(--fs)*1.4); color:#c9a35c; letter-spacing:.3em; }
-#c1 .title .b { font-size:calc(var(--fs)*2.4); font-weight:800; margin-top:.2em; }
-#c1 .win { position:absolute; inset:0; display:none; align-items:center; justify-content:center; background:rgba(0,0,0,.45); pointer-events:auto; font-size:var(--fs); }
-#c1 .win .box { width:82%; background:#1d1710; border:2px solid #c9a35c; border-radius:12px; padding:1em; }
-#c1 .win h3 { margin:0 0 .6em; color:#ffd27a; font-size:1.2em; }
-#c1 .win .row { display:flex; justify-content:space-between; margin:.25em 0; }
-#c1 .win .btns { display:flex; gap:.6em; margin-top:.9em; }
-#c1 .win button, #c1 .done button { flex:1; font:inherit; padding:.55em; border-radius:8px; border:1px solid #c9a35c; background:#5a3d16; color:#fff; cursor:pointer; }
-#c1 .win button:disabled { background:#333; color:#888; border-color:#555; cursor:default; }
-#c1 .win button.sub { background:#2a2a2a; }
-#c1 .win .note { color:#ffb3a0; font-size:.9em; margin-top:.4em; min-height:1.2em; }
-#c1 .done { position:absolute; inset:0; display:none; flex-direction:column; align-items:center; justify-content:center; background:rgba(0,0,0,.8); pointer-events:auto; font-size:var(--fs); text-align:center; }
-#c1 .done .a { font-size:1.8em; font-weight:800; color:#ffd27a; }
-#c1 .done .b { margin:.8em 1.5em 1.4em; }
-#c1 .tag { position:absolute; left:2.5%; bottom:1%; font-size:calc(var(--fs)*.7); color:#ffcf6b; opacity:.8; }
-`;
+
 
 export class ChapterUI {
   constructor(stage) {
     this.stage = stage;
-    if (!document.getElementById('c1css')) { const s = document.createElement('style'); s.id = 'c1css'; s.textContent = CSS; document.head.appendChild(s); }
+    if (!document.getElementById('c1css')) { const s = document.createElement('link'); s.id = 'c1css'; s.rel = 'stylesheet'; s.href = '/samguk/art/ui/chapter1/theme.css'; document.head.appendChild(s); }
     const root = this.root = document.createElement('div');
     root.id = 'c1';
     root.innerHTML = `<canvas class="fx"></canvas><div class="dim"></div><div class="marks"></div>
@@ -151,13 +105,14 @@ export class ChapterUI {
       }
     };
     render(spec);
+    this.winEl.dataset.screen = spec.screen || 'generic';
     this.winEl.style.display = 'flex';
     this.winEl.onpointerdown = e => e.stopPropagation();
     return { close: () => { this.winEl.style.display = 'none'; }, update: render };
   }
   choice(question, options) {
     return new Promise(res => {
-      const w = this.window({ title: question, buttons: options.map((o, i) => ({ label: o, sub: i > 0, onClick: () => { w.close(); res(i); } })) });
+      const w = this.window({ screen: 'choice', title: question, buttons: options.map((o, i) => ({ label: o, sub: i > 0, onClick: () => { w.close(); res(i); } })) });
     });
   }
   complete(a, b, btn) {

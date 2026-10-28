@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-28",
+  "description": "Existing UI review fixtures, not chapter-clear or art approval evidence",
+  "screens": [
+    {
+      "mode": "hud",
+      "file": "02-hud.png",
+      "url": "/web/ui-review.html?view=hud",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "dialog",
+      "file": "03-dialog.png",
+      "url": "/web/ui-review.html?view=dialog",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "locked",
+      "file": "05-locked.png",
+      "url": "/web/ui-review.html?view=locked",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "rest",
+      "file": "06-rest.png",
+      "url": "/web/ui-review.html?view=rest",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "bridge",
+      "file": "07-bridge.png",
+      "url": "/web/ui-review.html?view=bridge",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "boss",
+      "file": "08-boss.png",
+      "url": "/web/ui-review.html?view=boss",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "complete",
+      "file": "09-complete.png",
+      "url": "/web/ui-review.html?view=complete",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "map-maker",
+      "file": "map-maker.png",
+      "url": "/web/maker.html?samgukMap=1%EC%9E%A5_%ED%99%A9%EA%B1%B4%EC%86%8C%ED%83%95",
+      "fixture": false
+    },
+    {
+      "mode": "motion-checker",
+      "file": "motion-checker.png",
+      "url": "/web/motion.html?units=SG_U0002&test=gather",
+      "fixture": false
+    },
+    {
+      "mode": "intro",
+      "file": "01-intro.png",
+      "url": "/web/ui-review.html?view=intro",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "training",
+      "file": "04-training.png",
+      "url": "/web/ui-review.html?view=training",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "settings",
+      "file": "10-settings.png",
+      "url": "/web/ui-review.html?view=settings",
+      "fixture": true,
+      "errors": []
+    },
+    {
+      "mode": "controls",
+      "file": "11-controls.png",
+      "url": "/web/ui-review.html?view=controls",
+      "fixture": true,
+      "errors": []
+    }
+  ]
+}

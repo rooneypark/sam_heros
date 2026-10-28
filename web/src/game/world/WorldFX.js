@@ -1,3 +1,4 @@
+import { barColor, barSize } from '../../packs/uiDesign.js';
 ﻿// EffectActor (UtilCraft.StartEffect), BulletActor, WorldUI (WorldUINumText / WorldUISimpleTalk / WorldUIHPBar).
 import { G } from '../registry.js';
 import { Tables } from '../data/Tables.js';
@@ -251,20 +252,20 @@ export class WorldUI {
     for (const u of G.UnitManager.all) {
       if (!(u.hpBar.show > 0) || u.IsDead()) continue;
       const p = barAt(u);
-      const w = 0.75 * 0.5, h = 0.12 * 0.5, x0 = p[0] - w / 2, y0 = p[1] - h / 2;
+      const w = barSize('hpWidth', 0.375), h = barSize('hpHeight', 0.06), x0 = p[0] - w / 2, y0 = p[1] - h / 2;
       const rate = Math.max(0, Math.min(1, u.GetHPRate()));
-      renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0.1, g: 0.1, b: 0.1, a: 1, layer: 9, order: 0, sortY: -1e9 });
-      renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 1, g: 0, b: 0, a: 1, layer: 9, order: 1, sortY: -1e9 });
+      renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, ...barColor('background', [0.1,0.1,0.1]), a: 1, layer: 9, order: 0, sortY: -1e9 });
+      renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, ...barColor('hp', [1,0,0]), a: 1, layer: 9, order: 1, sortY: -1e9 });
       const sr = u.GetShieldRate();
-      if (sr > 0.001) renderer.draw({ x: x0 + w * rate, y: y0, w: w * Math.min(sr, 1 - rate), h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0, g: 0.909, b: 1, a: 1, layer: 9, order: 2, sortY: -1e9 });
+      if (sr > 0.001) renderer.draw({ x: x0 + w * rate, y: y0, w: w * Math.min(sr, 1 - rate), h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, ...barColor('shield', [0,0.909,1]), a: 1, layer: 9, order: 2, sortY: -1e9 });
     }
     // 삼국 챕터: hero EXP bar under the HP bar (always shown for heroes)
     if (G.Chapter) for (const u of G.UnitManager.HeroUnits) {
       if (u.IsDead()) continue;
       const p = barAt(u), rate = G.Chapter.expRate(u);
-      const w = 0.75 * 0.5, h = 0.05, x0 = p[0] - w / 2, y0 = p[1] - 0.06 / 2 - h - 0.012;
-      renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0.1, g: 0.1, b: 0.1, a: 1, layer: 9, order: 0, sortY: -1e9 });
-      renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 1, g: 0.82, b: 0.2, a: 1, layer: 9, order: 1, sortY: -1e9 });
+      const w = barSize('hpWidth', 0.375), h = barSize('expHeight', 0.05), x0 = p[0] - w / 2, y0 = p[1] - barSize('hpHeight', 0.06) / 2 - h - barSize('expGap', 0.012);
+      renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, ...barColor('background', [0.1,0.1,0.1]), a: 1, layer: 9, order: 0, sortY: -1e9 });
+      renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, ...barColor('exp', [1,0.82,0.2]), a: 1, layer: 9, order: 1, sortY: -1e9 });
     }
     // WorldUIResurrection (1.5 x scale 0.5): white circle BG + green Radial360 fill from the top, clockwise
     for (const u of G.UnitManager.HeroUnits.concat(G.HeroManager.DeadHeroes)) {

@@ -1,3 +1,4 @@
+import { loadUiDesign } from './uiDesign.js';
 // 삼국히어로즈 content pack (served from the collaboration repo at /samguk/, see tools/serve.py).
 // content/samguk/units.json defines units on top of an original "base" unit (prefab, stats and motions until the
 // pack has its own art); "levels" can replace the skills per level with any original skill keys. Each unit is
@@ -129,6 +130,7 @@ export async function loadSamgukOverrides() {
 /** load the pack; [] when the repo is not mounted */
 export async function loadSamgukUnits(assets) {
   try {
+    await loadUiDesign(assets);
     const j = await fetchJSON(packUnitsPath());
     return (j.units || []).map(d => register(withSamgukSkills(d), assets)).filter(Boolean);
   } catch (e) {

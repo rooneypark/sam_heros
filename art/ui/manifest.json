@@ -1,0 +1,1299 @@
+{
+  "version": 1,
+  "sprites": {
+    "AllAxis_Outline": {
+      "file": "controls/sprites/AllAxis_Outline.png",
+      "meta": {
+        "packed": 0,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 1339,
+        "atlas": null,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          512.0,
+          512.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 9640,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 512,
+      "height": 512
+    },
+    "Community_1": {
+      "file": "settings/sprites/Community_1.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 835,
+        "atlas": "UI_Community",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          517.0,
+          239.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 17000,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 517,
+      "height": 239
+    },
+    "Community_2": {
+      "file": "settings/sprites/Community_2.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 835,
+        "atlas": "UI_Community",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          278.0,
+          244.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 8140,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 278,
+      "height": 244
+    },
+    "Community_3": {
+      "file": "settings/sprites/Community_3.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 835,
+        "atlas": "UI_Community",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          351.0,
+          242.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 8493,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 351,
+      "height": 242
+    },
+    "Community_4": {
+      "file": "settings/sprites/Community_4.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 835,
+        "atlas": "UI_Community",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          134.0,
+          182.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 13653,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 134,
+      "height": 182
+    },
+    "Community_6": {
+      "file": "settings/sprites/Community_6.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 835,
+        "atlas": "UI_Community",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          429.0,
+          81.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 16399,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 429,
+      "height": 81
+    },
+    "Handle_Plain": {
+      "file": "controls/sprites/Handle_Plain.png",
+      "meta": {
+        "packed": 0,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 973,
+        "atlas": null,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          257.0,
+          256.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 4901,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 257,
+      "height": 256
+    },
+    "UI_224": {
+      "file": "settings/sprites/UI_224.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          172.0,
+          165.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 13484,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 172,
+      "height": 165
+    },
+    "UI_225": {
+      "file": "settings/sprites/UI_225.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          17.026750564575195,
+          11.076120376586914
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 11508,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 67,
+      "height": 74
+    },
+    "UI_226": {
+      "file": "settings/sprites/UI_226.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          12.076120376586914,
+          15.04290771484375
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 15972,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 76,
+      "height": 65
+    },
+    "UI_227": {
+      "file": "settings/sprites/UI_227.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          7.076120376586914,
+          12.026750564575195
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 7489,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 88,
+      "height": 72
+    },
+    "UI_228": {
+      "file": "settings/sprites/UI_228.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          10.026750564575195,
+          13.011116981506348
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 13773,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 82,
+      "height": 69
+    },
+    "UI_230": {
+      "file": "settings/sprites/UI_230.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 871,
+        "atlas": "UI_Option",
+        "offset": [
+          9.026750564575195,
+          19.026750564575195
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 7301,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 84,
+      "height": 58
+    },
+    "ui_001": {
+      "file": "settings/sprites/ui_001.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          200.0,
+          75.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 7734,
+        "border": [
+          34.0,
+          37.0,
+          34.0,
+          37.0
+        ]
+      },
+      "width": 200,
+      "height": 75
+    },
+    "ui_006": {
+      "file": "settings/sprites/ui_006.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 957,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          50.0,
+          74.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 16948,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 50,
+      "height": 74
+    },
+    "ui_009": {
+      "file": "settings/sprites/ui_009.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          188.0,
+          114.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 12711,
+        "border": [
+          84.0,
+          49.0,
+          84.0,
+          49.0
+        ]
+      },
+      "width": 188,
+      "height": 114
+    },
+    "ui_015": {
+      "file": "settings/sprites/ui_015.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          6.076120376586914,
+          4.076120376586914
+        ],
+        "size": [
+          165.0,
+          165.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 16949,
+        "border": [
+          15.0,
+          45.0,
+          15.0,
+          45.0
+        ]
+      },
+      "width": 155,
+      "height": 155
+    },
+    "ui_035": {
+      "file": "settings/sprites/ui_035.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          11.026750564575195,
+          18.026750564575195
+        ],
+        "size": [
+          113.0,
+          113.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 16923,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 92,
+      "height": 79
+    },
+    "ui_058": {
+      "file": "settings/sprites/ui_058.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          128.0,
+          128.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 7416,
+        "border": [
+          63.0,
+          63.0,
+          63.0,
+          63.0
+        ]
+      },
+      "width": 128,
+      "height": 128
+    },
+    "ui_059": {
+      "file": "settings/sprites/ui_059.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          128.0,
+          128.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 6903,
+        "border": [
+          63.0,
+          63.0,
+          63.0,
+          63.0
+        ]
+      },
+      "width": 128,
+      "height": 128
+    },
+    "ui_078": {
+      "file": "settings/sprites/ui_078.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 958,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          114.0,
+          60.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 12188,
+        "border": [
+          52.0,
+          25.0,
+          52.0,
+          26.0
+        ]
+      },
+      "width": 114,
+      "height": 60
+    },
+    "ui_088": {
+      "file": "settings/sprites/ui_088.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          64.0,
+          64.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 9189,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 64,
+      "height": 64
+    },
+    "ui_092": {
+      "file": "settings/sprites/ui_092.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          64.0,
+          64.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 10856,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 64,
+      "height": 64
+    },
+    "ui_093": {
+      "file": "settings/sprites/ui_093.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          0.07612049579620361,
+          0.0
+        ],
+        "size": [
+          128.0,
+          128.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 9549,
+        "border": [
+          58.0,
+          57.0,
+          57.0,
+          57.0
+        ]
+      },
+      "width": 128,
+      "height": 128
+    },
+    "ui_095": {
+      "file": "settings/sprites/ui_095.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          2.0267510414123535,
+          0.0
+        ],
+        "size": [
+          128.0,
+          128.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 13406,
+        "border": [
+          25.0,
+          25.0,
+          25.0,
+          25.0
+        ]
+      },
+      "width": 125,
+      "height": 128
+    },
+    "ui_097": {
+      "file": "settings/sprites/ui_097.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          8.076120376586914,
+          0.0
+        ],
+        "size": [
+          201.0,
+          123.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 13976,
+        "border": [
+          35.0,
+          0.0,
+          138.0,
+          0.0
+        ]
+      },
+      "width": 186,
+      "height": 123
+    },
+    "ui_112": {
+      "file": "settings/sprites/ui_112.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 956,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          31.0,
+          28.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 17408,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 31,
+      "height": 28
+    },
+    "ui_231": {
+      "file": "settings/sprites/ui_231.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 957,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          228.0,
+          228.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 5073,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 228,
+      "height": 228
+    },
+    "ui_424": {
+      "file": "settings/sprites/ui_424.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 911,
+        "atlas": "UI_Sleep",
+        "offset": [
+          16.076120376586914,
+          11.076120376586914
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 9626,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 69,
+      "height": 77
+    },
+    "ui_478": {
+      "file": "settings/sprites/ui_478.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 957,
+        "atlas": "UI",
+        "offset": [
+          8.026750564575195,
+          5.04290771484375
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 5450,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 84,
+      "height": 87
+    },
+    "ui_591": {
+      "file": "settings/sprites/ui_591.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 959,
+        "atlas": "UI",
+        "offset": [
+          18.036285400390625,
+          29.026750564575195
+        ],
+        "size": [
+          192.0,
+          192.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 12694,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 156,
+      "height": 134
+    },
+    "ui_592": {
+      "file": "settings/sprites/ui_592.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 957,
+        "atlas": "UI",
+        "offset": [
+          39.02675247192383,
+          31.05131721496582
+        ],
+        "size": [
+          192.0,
+          192.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 11694,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 115,
+      "height": 131
+    },
+    "ui_593": {
+      "file": "settings/sprites/ui_593.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 957,
+        "atlas": "UI",
+        "offset": [
+          16.076120376586914,
+          15.04290771484375
+        ],
+        "size": [
+          100.0,
+          100.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 8530,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 68,
+      "height": 69
+    },
+    "ui_594": {
+      "file": "settings/sprites/ui_594.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 960,
+        "atlas": "UI",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          64.0,
+          64.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 5927,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 64,
+      "height": 64
+    },
+    "ui_595": {
+      "file": "settings/sprites/ui_595.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 956,
+        "atlas": "UI",
+        "offset": [
+          0.02675098180770874,
+          7.0267510414123535
+        ],
+        "size": [
+          64.0,
+          64.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 7163,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 64,
+      "height": 49
+    },
+    "ui_apple_white": {
+      "file": "settings/sprites/ui_apple_white.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 702,
+        "atlas": "Platform",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          104.0,
+          128.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 3.1081888675689697,
+        "pathID": 6625,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 104,
+      "height": 128
+    },
+    "ui_google": {
+      "file": "settings/sprites/ui_google.png",
+      "meta": {
+        "packed": 1,
+        "tight": false,
+        "rot": 0,
+        "verts": null,
+        "tris": null,
+        "texPathID": 702,
+        "atlas": "Platform",
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "size": [
+          109.0,
+          111.0
+        ],
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100.0,
+        "pathID": 12770,
+        "border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "width": 109,
+      "height": 111
+    }
+  },
+  "prefabs": {
+    "prefab/ui/popup/uioptionpopup": "settings/layout.json"
+  },
+  "gameplay": {
+    "joystick": {
+      "radius": 128,
+      "handleRadius": 64,
+      "alpha": 0.40392157
+    },
+    "bars": {
+      "hpWidth": 0.375,
+      "hpHeight": 0.06,
+      "expHeight": 0.05,
+      "expGap": 0.012,
+      "background": [
+        0.1,
+        0.1,
+        0.1
+      ],
+      "hp": [
+        1,
+        0,
+        0
+      ],
+      "shield": [
+        0,
+        0.909,
+        1
+      ],
+      "exp": [
+        1,
+        0.82,
+        0.2
+      ]
+    }
+  }
+}

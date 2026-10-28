@@ -1,0 +1,9 @@
+#c1 .win { position:absolute; inset:0; display:none; align-items:center; justify-content:center; background:rgba(0,0,0,.45); pointer-events:auto; font-size:var(--fs); }
+#c1 .win .box { width:82%; background:#1d1710; border:2px solid #c9a35c; border-radius:12px; padding:1em; }
+#c1 .win h3 { margin:0 0 .6em; color:#ffd27a; font-size:1.2em; }
+#c1 .win .row { display:flex; justify-content:space-between; margin:.25em 0; }
+#c1 .win .btns { display:flex; gap:.6em; margin-top:.9em; }
+#c1 .win button, #c1 .done button { flex:1; font:inherit; padding:.55em; border-radius:8px; border:1px solid #c9a35c; background:#5a3d16; color:#fff; cursor:pointer; }
+#c1 .win button:disabled { background:#333; color:#888; border-color:#555; cursor:default; }
+#c1 .win button.sub { background:#2a2a2a; }
+#c1 .win .note { color:#ffb3a0; font-size:.9em; margin-top:.4em; min-height:1.2em; }

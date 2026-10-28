@@ -1,0 +1,18 @@
+{
+  "activeRoot": "art/ui",
+  "runtimeManifest": "manifest.json",
+  "styles": [
+    "chapter1/theme.css",
+    "intro/style.css"
+  ],
+  "settingsLayout": "settings/layout.json",
+  "activeSpriteCount": 37,
+  "allUiSpriteCount": 1116,
+  "referencePrefabCount": 413,
+  "preview": "web/ui-review.html",
+  "sourceOnly": "source/",
+  "referenceOnly": [
+    "reference/original-prefabs/",
+    "reference/sprites/"
+  ]
+}

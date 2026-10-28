@@ -50,7 +50,8 @@ export class UIManager {
   }
 
   async openPopup(path, setup) {
-    const json = await loadPrefab(path);
+    const designUrl = G.uiDesign?.prefabs?.[path];
+    const json = designUrl ? await fetch(designUrl).then(r => { if (!r.ok) throw new Error('UI layout ' + r.status); return r.json(); }) : await loadPrefab(path);
     const root = instantiate(json, G.assets);
     await preloadUISprites(root);
     localizeTree(root);
@@ -229,9 +230,11 @@ export class UIManager {
     const { w, h } = this.canvas;
     if (this.joy.active && G.HeroManager.control) {
       const [bx, by] = this.joy.bg, [hx, hy] = this.joy.handle;
-      const c = [1, 1, 1, 0.40392157];
-      drawImage(renderer, G.assets, 'AllAxis_Outline', bx - 128, by - 128, 256, 256, { color: c, layer: 30 });
-      drawImage(renderer, G.assets, 'Handle_Plain', hx - 64, hy - 64, 128, 128, { color: c, layer: 30, order: 1 });
+      const skin = G.uiDesign?.gameplay?.joystick;
+      const radius = skin?.radius ?? 128, handle = skin?.handleRadius ?? 64;
+      const c = [1, 1, 1, skin?.alpha ?? 0.40392157];
+      drawImage(renderer, G.assets, 'AllAxis_Outline', bx - radius, by - radius, radius * 2, radius * 2, { color: c, layer: 30 });
+      drawImage(renderer, G.assets, 'Handle_Plain', hx - handle, hy - handle, handle * 2, handle * 2, { color: c, layer: 30, order: 1 });
     }
     if (this.hud) {
       const rects = layoutTree(this.hud, 0, 0, w, h);

@@ -752,7 +752,7 @@ export class Chapter1 {
       w.close(); this.ui.toast('부대가 회복했어요.');
     };
     const rows = this.heroes().map(h => [`${this.heroName(h.Key)} Lv${h.Level + 1}`, h.IsDead() ? '전투 불능' : `HP ${Math.round(h.GetHPRate() * 100)}%`]);
-    const w = this.ui.window({ title: '모닥불 휴식', text: '회복하고 재정비하기', rows,
+    const w = this.ui.window({ screen: 'rest', title: '모닥불 휴식', text: '회복하고 재정비하기', rows,
       buttons: [{ label: '회복하기', onClick: heal }, { label: '닫기', sub: true, onClick: () => w.close() }] });
   }
   openBridge() {
@@ -760,7 +760,7 @@ export class Chapter1 {
     if (s.bridge) return;
     const render = () => {
       const have = G.Inventory.count('TREE'), need = TEST.bridgeTree, ok = have >= need;
-      return { title: '낡은 다리 복구', text: '나무로 초소로 가는 다리를 고쳐요.', rows: [['필요한 나무', `${need}`], ['보유한 나무', `${have}`]],
+      return { screen: 'bridge', title: '낡은 다리 복구', text: '나무로 초소로 가는 다리를 고쳐요.', rows: [['필요한 나무', `${need}`], ['보유한 나무', `${have}`]],
         note: ok ? '' : MSG.lack,
         buttons: [{ label: '복구하기', disabled: !ok, onClick: () => {
           if (s.bridge || !G.Inventory.use('TREE', need)) return;      // 연속 클릭 중복 차감 방지
@@ -793,7 +793,7 @@ export class Chapter1 {
           rows.push(['보유 광석', `${have}`]);
           const can = unlocked && have >= next.cost;
           const lack = unlocked && have < next.cost;
-          return { title: '부대 훈련', rows,
+          return { screen: 'training', title: '부대 훈련', rows,
             note: note || (!unlocked ? MSG.trainMax + ' (' + LINES.TRAIN_NPC_MAX[1] + ')' : lack ? LINES.TRAIN_NPC_LACK[1] : ''),
             buttons: [{ label: '훈련하기', disabled: !can, onClick: () => {
               const cur = TEST.training[s.training];

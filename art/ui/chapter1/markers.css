@@ -1,0 +1,5 @@
+#c1 .mk { position:absolute; transform:translate(-50%,-100%); pointer-events:auto; cursor:pointer; text-align:center; font-size:calc(var(--fs)*.85); white-space:nowrap; }
+#c1 .mk .b { display:inline-block; background:rgba(25,20,12,.85); border:1px solid #d8b56a; border-radius:12px; padding:.15em .55em; }
+#c1 .mk.hl .b { border-color:#ffe48a; box-shadow:0 0 8px #ffd34a; animation:c1bob 1s infinite alternate; }
+#c1 .mk.lock .b { border-color:#888; color:#ccc; }
+#c1 .mk.check .b { border-color:#7dff8a; color:#bfffc8; }

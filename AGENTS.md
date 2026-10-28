@@ -1,3 +1,7 @@
+> **2026-10-28 GitHub 통합 우선:** 최신 실행·UI 재검토 경로는 [통합 안내](docs/GITHUB_DELIVERY_2026-10-28.md). 관우 채집은 `gather-finish-2026-10-28/guan-yu-fresh/`가 활성입니다. 아래 과거 채집 경로·옛 생성기는 현재 등록을 덮어쓰는 근거로 사용하지 않습니다.
+
+> **2026-10-28 모든 장수 제작 공통 기준 확정:** 사용자는 이번 유관장조운 제작 방식을 다른 장수에도 동일하게 적용하도록 지시했다. 제작 전에 [최신 장수 공통 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)의 맨 위 항목을 따른다. imagegen + 실제 원화 참조, 크기·형태·색·선 일관성, 발/파지점 정렬, 직접 픽셀 보정 허용, 도구 연결 검수가 핵심이다.
+
 > **2026-10-28 맵·신규 캐릭터 인계:** [현재 리소스 위치와 다른 PC 실행 가이드](docs/CHAPTER1_MAP_CHARACTERS_HANDOFF.md)를 먼저 읽는다. 황건 창병·궁병·대장장이·주모 4종 추가, 총15종. 신규4종과 맵 재작화는 검토본이며 아직 승인 전이다.
 
 > 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
