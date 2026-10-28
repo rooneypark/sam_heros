@@ -3,7 +3,7 @@
 import { G } from '../game/registry.js';
 import { bootEngine } from '../boot.js';
 import { units as originalUnits } from '../packs/original.js';
-import { loadSamgukUnits, loadSamgukOverrides } from '../packs/samguk.js';
+import { loadSamgukUnits, loadSamgukOverrides, loadSamgukTiles } from '../packs/samguk.js';
 import { createMotionView } from './motion.js';
 import { installReviewControls } from '../packs/reviewMode.js';
 
@@ -14,6 +14,7 @@ async function main() {
   const { renderer } = await bootEngine(stage, { hud: false });
   await loadSamgukOverrides();
   const UNITS = [...await loadSamgukUnits(G.assets)];
+  await loadSamgukTiles(G.assets);
   const unitDef = key => UNITS.find(u => u.key === key);
   const view = createMotionView({ root: document.getElementById('motionView'), units: () => UNITS, unitDef, stage, renderer });
   view.show(true);

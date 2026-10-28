@@ -37,6 +37,13 @@ export class TileResolver {
     if (t && t.f) {
       const f = t.f;
       switch (t.script) {
+        case 'SamgukMaterialTile': {
+          const {x,y}=cell;
+          const mask=(this._has(cell,x-1,y)?1:0)|(this._has(cell,x+1,y)?2:0)|
+            (this._has(cell,x,y-1)?4:0)|(this._has(cell,x,y+1)?8:0);
+          res={sprite:spriteName(f.m_Sprites[f.shape==='ground'?15:mask]),color:WHITE};
+          break;
+        }
         case 'CustomRandomTile': res = this._random(cell, f); break;
         case 'CustomPondTile': res = this._pond(cell, f); break;
         case 'CustomRoadTile': res = this._road(cell, f); break;

@@ -127,7 +127,8 @@ export class Effects {
 export class Bullets {
   constructor() { this.list = []; }
   async shoot(owner, target, b, value, action) {
-    const path = await prefabPath(b.prefab);
+    const custom = Tables.unit(owner.Key)?.projectileSprite;
+    const path = custom ? null : await prefabPath(b.prefab);
     const sp = owner.Body.Shoot.position;
     let go = null;
     if (path) {
@@ -138,7 +139,7 @@ export class Bullets {
       go.transform.lp = [sp[0], sp[1], 0];
     }
     const tp = target.GetCenterPosition();
-    this.list.push({ go, owner, target, b, value, x: sp[0], y: sp[1], sx: sp[0], sy: sp[1], tx: tp[0], ty: tp[1], t: 0,
+    this.list.push({ go, custom, owner, target, b, value, x: sp[0], y: sp[1], sx: sp[0], sy: sp[1], tx: tp[0], ty: tp[1], t: 0,
       dist: Math.hypot(tp[0] - sp[0], tp[1] - sp[1]), hit: new Set() });
   }
   update(dt) {
@@ -158,6 +159,7 @@ export class Bullets {
         const u = Math.min(1, cur / total);
         yOff = Math.sin(u * Math.PI) * total * 0.25;
       }
+      k.yOff = yOff; k.angle = Math.atan2(dy,dx);
       if (k.go) {
         k.go.transform.lp = [k.x, k.y + yOff, 0];
         k.go.transform.rotZ = Math.atan2(dy + (k.b.shootType === 'ARC' ? (0.5 - Math.min(1, Math.hypot(k.x - k.sx, k.y - k.sy) / Math.max(k.dist, 0.01))) * k.dist : 0), dx);
@@ -167,7 +169,10 @@ export class Bullets {
     }
     this.list = this.list.filter(k => !k.done);
   }
-  draw(renderer, view) { for (const k of this.list) if (k.go) drawTree(renderer, G.assets, k.go, view); }
+  draw(renderer, view) { for (const k of this.list) {
+    if (k.custom) { const sp=G.assets.sprite(k.custom); if(sp) renderer.draw({sp,x:k.x,y:k.y+(k.yOff||0),rot:(k.angle||0)+Math.PI,r:1,g:1,b:1,a:1,layer:0,order:3,sortY:k.y}); }
+    else if (k.go) drawTree(renderer, G.assets, k.go, view);
+  } }
 }
 
 /** World-space UI: floating numbers, simple talk bubbles, HP bars. */

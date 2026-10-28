@@ -318,6 +318,11 @@ export class Resources {
     for (const s of G.MapManager.resourceSpawners || []) for (const a of s.ActorList) {
       const p = a.transform.position;
       if (p[0] < view.x0 - 2 || p[0] > view.x1 + 2 || p[1] < view.y0 - 2 || p[1] > view.y1 + 3) continue;
+      const art=G.MapManager.json?.environmentArt;
+      const custom=a.ResourceType===RESOURCE_TYPE.TREE ? art?.[a.IsDead()?'resourceStump':'resourceTree'] :
+        a.ResourceType===RESOURCE_TYPE.STONE ? art?.[a.IsDead()?'resourceRubble':'resourceStone'] : null;
+      const sp=custom && G.assets.sprite(custom);
+      if(sp){renderer.draw({sp,x:p[0],y:p[1],r:1,g:1,b:1,a:1,layer:0,order:0,sortY:p[1]});continue;}
       drawTree(renderer, G.assets, a.go, view);
     }
   }

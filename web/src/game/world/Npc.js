@@ -4,12 +4,26 @@ import { loadJSON } from '../../engine/assets.js';
 import { loadPrefab, instantiate, spriteNamesInTree } from '../../engine/prefab.js';
 import { Animator, drawTree } from '../../engine/components.js';
 import { NavMeshAgent } from '../../engine/navmesh.js';
+import { Tables } from '../data/Tables.js';
+
+export function drawPackResident(renderer, row, x, y, time = 0, moving = false, flip = false) {
+  const state = moving ? 'Move' : 'Idle', art = row?.npcArt;
+  const frames = art?.frames[state] || art?.frames.Idle;
+  if (!frames?.length) return;
+  const ms = art.motion[state]?.ms || frames.map(() => 150);
+  let t = time * 1000 % ms.reduce((a,b) => a+b,0), i = 0;
+  while (i < ms.length - 1 && t >= ms[i]) t -= ms[i++];
+  const sp = G.assets.sprite(frames[i % frames.length]);
+  if (sp) renderer.draw({sp,x,y,sx:flip?-1:1,sy:1,r:1,g:1,b:1,a:1,layer:0,order:0,sortY:y});
+}
 
 export class Npcs {
   constructor() { this.list = []; }
   async spawn(name, x, y) {
+    const row = Tables.unit(name), pack = row?.npcArt ? row : null;
+    if (pack) await pack.artReady;
     const idx = await loadJSON('prefab_index.json');
-    const path = idx[name.toLowerCase()];
+    const path = idx[pack ? 'npc_1' : name.toLowerCase()];
     if (!path) return null;
     const json = await loadPrefab(path);
     const go = instantiate(json, G.assets);
@@ -24,7 +38,7 @@ export class Npcs {
     agent.nav = G.MapManager.navmesh;
     agent.warp(x, y);
     agent.isStopped = true;
-    const npc = { go, agent, anims: go.getInChildren(Animator) };
+    const npc = { go, agent, anims: go.getInChildren(Animator), pack, elapsed:0, moving:false, flip:false };
     this.list.push(npc);
     return npc;
   }
@@ -35,6 +49,8 @@ export class Npcs {
       n.agent.update(dt, null);
       const after = n.go.transform.position;
       const moving = Math.hypot(after[0] - before[0], after[1] - before[1]) > 1e-4;
+      n.elapsed += dt; n.moving = moving;
+      if (moving) n.flip = after[0] > before[0];
       for (const a of n.anims) {
         if (a.hasState('Move')) a.setFloat('Move', moving ? 1 : 0);
         a.update(dt);
@@ -44,5 +60,8 @@ export class Npcs {
       }
     }
   }
-  draw(renderer, view) { for (const n of this.list) drawTree(renderer, G.assets, n.go, view); }
+  draw(renderer, view) { for (const n of this.list) {
+    if (n.pack) { const p=n.go.transform.position; drawPackResident(renderer,n.pack,p[0],p[1],n.elapsed,n.moving,n.flip); }
+    else drawTree(renderer, G.assets, n.go, view);
+  } }
 }

@@ -14,6 +14,7 @@ import { openPub } from '../Pub.js';
 import { openTraining } from '../Training.js';
 import { openWorldMap } from '../WorldMap.js';
 import { openFame } from '../Fame.js';
+import { drawPackResident } from './Npc.js';
 
 // completed buildings with an interaction: pub, training school, teleport (opens the world map)
 const ENTER = { 14: () => openPub(), 10: () => openTraining(), 9: () => openWorldMap(), 25: () => openFame() };
@@ -105,7 +106,8 @@ export class Buildings {
     await G.assets.preloadSprites(spriteNamesInTree(json));
     if (cat === 0x60 || cat === 0x63) for (const t of b.tiles) G.Fog.add(t.x, t.y);
     // BaseBuildingActor.NpcActor: NPC heroKey (Npc_n) stands at the site
-    if (data.heroKey && /^Npc_/i.test(data.heroKey)) G.Npc.spawn(data.heroKey, d.pos.x, d.pos.y - 0.6).then(npc => { b.npc = npc; });
+    if (data.heroKey && /^(Npc_|SG_N)/i.test(data.heroKey)) b.npc = await G.Npc.spawn(data.heroKey, d.pos.x, d.pos.y - 0.6);
+    if (/^SG_U/.test(data.heroKey || '')) await Tables.unit(data.heroKey)?.artReady;
     // WorldUIBuild interaction button above UIRoot
     const uiJson = await loadPrefab('prefab/worildui/worlduibuild');
     b.ui = instantiate(uiJson, G.assets);
@@ -243,8 +245,19 @@ export class Buildings {
   }
 
   draw(renderer, view) {
-    for (const c of this.completed) drawTree(renderer, G.assets, c.go, view);
-    for (const b of this.list) if (this.visible(b)) drawTree(renderer, G.assets, b.go, view);
+    const drawBuilding=b=>{
+      if (/^SG_N/.test(b.data.heroKey || '')) return; // resident is drawn by Npcs
+      if (/^SG_U/.test(b.data.heroKey || '')) {
+        if (!b.done) drawPackResident(renderer,Tables.unit(b.data.heroKey),b.pos[0],b.pos[1]);
+        return;
+      }
+      const name=G.MapManager.json?.environmentArt?.buildings?.[b.key];
+      const sp=name && G.assets.sprite(name);
+      if(sp){const p=b.go.transform.position;renderer.draw({sp,x:p[0],y:p[1],r:1,g:1,b:1,a:1,layer:0,order:0,sortY:p[1]});}
+      else drawTree(renderer,G.assets,b.go,view);
+    };
+    for (const c of this.completed) drawBuilding(c);
+    for (const b of this.list) if (this.visible(b)) drawBuilding(b);
     for (const c of this.completed) {
       if (!this.enterable(c) || !this.near(c) || !c.ui) continue;
       const r = this._uiRect(c);

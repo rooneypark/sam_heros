@@ -121,6 +121,7 @@ export async function loadWorld(name, party, json = null) {
   if (world?.bgm) G.Sound.bgm(world.bgm);
   G.Fog = new FogMap();
   await G.Buildings.spawnAll(G.MapManager.json.Buildings || []);
+  for (const n of G.MapManager.json.npcs || []) await G.Npc.spawn(n.key,n.x,n.y);
   const start = G.MapManager.GetStartPosition();
   G.HeroManager.transform.position = start;
   G.CameraManager.position = [...start];

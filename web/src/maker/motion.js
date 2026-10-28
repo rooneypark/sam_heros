@@ -138,12 +138,16 @@ function checkState(cell, state) {
 
 // ------------------------------------------------------------------ effect stage (engine): the real skill with its
 // cast / start / hit effects and bullets, forced (no condition / cooldown) at a dummy, in step with the viewer clock
-const DUMMY = 'Unit000146', GAP = 6, DUMMY_DX = -2.2;
+const DUMMY = 'SG_M0001', GAP = 6, DUMMY_DX = -2.2;
 function createStage(canvas, renderer) {
   const S = { units: [], ready: false, building: null, cam: { position: [0, 12], size: 4, tween: null } };
   async function build(cells, level) {
     S.ready = false;
     const doc = newDoc('motion_stage', 16);
+    if (G.assets.tiles.sg2_ground) {
+      doc.mapData.forEach(t=>t.n='sg2_ground');
+      doc.environmentArt={groundTile:'sg2_ground'};
+    }
     doc.maker.units = []; doc.BonfirePos = { x: 0, y: 12 };
     await loadWorld('motion_stage', [], doc);
     G.HeroManager.Control = false;                  // no AI: the stage only does what it is told

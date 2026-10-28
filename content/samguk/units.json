@@ -2453,6 +2453,471 @@
         }
       ],
       "motionTimingBasis": "delivered-animation-json"
+    },
+    {
+      "id": "SG_M0005",
+      "name": "황건 창병",
+      "faction": "군",
+      "base": "Unit000146",
+      "grade": "",
+      "gradeType": "NORMAL",
+      "art": {
+        "icon": "chapter-1/yellow-turban-spearman/original/original.png",
+        "portrait": "chapter-1/yellow-turban-spearman/original/original.png",
+        "static": "chapter-1/yellow-turban-spearman/original/original.png",
+        "ppu": 100,
+        "pivot": [
+          0.5,
+          0.3
+        ],
+        "facing": "left",
+        "frames": {
+          "Idle": [
+            "chapter-1/yellow-turban-spearman/idle/frame-01.png",
+            "chapter-1/yellow-turban-spearman/idle/frame-02.png",
+            "chapter-1/yellow-turban-spearman/idle/frame-03.png",
+            "chapter-1/yellow-turban-spearman/idle/frame-04.png"
+          ],
+          "Move": [
+            "chapter-1/yellow-turban-spearman/run/frame-01.png",
+            "chapter-1/yellow-turban-spearman/run/frame-02.png",
+            "chapter-1/yellow-turban-spearman/run/frame-03.png",
+            "chapter-1/yellow-turban-spearman/run/frame-04.png",
+            "chapter-1/yellow-turban-spearman/run/frame-05.png",
+            "chapter-1/yellow-turban-spearman/run/frame-06.png"
+          ],
+          "Attack": [
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-01.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-02.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-03.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-04.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-05.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-06.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-07.png",
+            "chapter-1/yellow-turban-spearman/basic-attack/frame-08.png"
+          ]
+        }
+      },
+      "motion": {
+        "Idle": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ms": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Move": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "ms": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Attack": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "ms": [
+            180,
+            110,
+            100,
+            90,
+            100,
+            120,
+            160,
+            300
+          ],
+          "loop": false,
+          "hits": [
+            480
+          ]
+        }
+      },
+      "motionTimingBasis": "authored",
+      "skills": {
+        "defaultSkill": {
+          "base": "Skill100000",
+          "state": "Attack",
+          "actions": [
+            {
+              "base": "SkillAction100000",
+              "patch": {
+                "hitEffect": "",
+                "startEffect": ""
+              }
+            }
+          ],
+          "patch": {
+            "skillDistance": 2.0,
+            "skillDelay": 0,
+            "skillCoolTime": 0,
+            "startEffect": "",
+            "castEffect": "",
+            "condition": ""
+          }
+        }
+      },
+      "levels": [
+        {
+          "level": 1,
+          "defaultSkill": "SG_M0005_defaultSkill",
+          "skillA": "",
+          "skillB": "",
+          "gatheringSkill": ""
+        }
+      ],
+      "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6/공격8"
+    },
+    {
+      "id": "SG_M0006",
+      "name": "황건 궁병",
+      "faction": "군",
+      "base": "Unit000146",
+      "grade": "",
+      "gradeType": "NORMAL",
+      "art": {
+        "icon": "chapter-1/yellow-turban-archer/original/original.png",
+        "portrait": "chapter-1/yellow-turban-archer/original/original.png",
+        "static": "chapter-1/yellow-turban-archer/original/original.png",
+        "ppu": 100,
+        "pivot": [
+          0.5,
+          0.3
+        ],
+        "facing": "left",
+        "frames": {
+          "Idle": [
+            "chapter-1/yellow-turban-archer/idle/frame-01.png",
+            "chapter-1/yellow-turban-archer/idle/frame-02.png",
+            "chapter-1/yellow-turban-archer/idle/frame-03.png",
+            "chapter-1/yellow-turban-archer/idle/frame-04.png"
+          ],
+          "Move": [
+            "chapter-1/yellow-turban-archer/run/frame-01.png",
+            "chapter-1/yellow-turban-archer/run/frame-02.png",
+            "chapter-1/yellow-turban-archer/run/frame-03.png",
+            "chapter-1/yellow-turban-archer/run/frame-04.png",
+            "chapter-1/yellow-turban-archer/run/frame-05.png",
+            "chapter-1/yellow-turban-archer/run/frame-06.png"
+          ],
+          "Attack": [
+            "chapter-1/yellow-turban-archer/basic-attack/frame-01.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-02.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-03.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-04.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-05.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-06.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-07.png",
+            "chapter-1/yellow-turban-archer/basic-attack/frame-08.png"
+          ]
+        }
+      },
+      "motion": {
+        "Idle": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ms": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Move": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "ms": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Attack": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "ms": [
+            180,
+            110,
+            100,
+            90,
+            100,
+            120,
+            160,
+            300
+          ],
+          "loop": false,
+          "hits": [
+            480
+          ]
+        }
+      },
+      "motionTimingBasis": "authored",
+      "skills": {
+        "defaultSkill": {
+          "base": "Skill100000",
+          "state": "Attack",
+          "actions": [
+            {
+              "base": "SkillAction102000",
+              "patch": {
+                "hitEffect": "",
+                "startEffect": ""
+              }
+            }
+          ],
+          "patch": {
+            "skillDistance": 5.5,
+            "skillDelay": 0,
+            "skillCoolTime": 0,
+            "startEffect": "",
+            "castEffect": "",
+            "condition": ""
+          }
+        }
+      },
+      "levels": [
+        {
+          "level": 1,
+          "defaultSkill": "SG_M0006_defaultSkill",
+          "skillA": "",
+          "skillB": "",
+          "gatheringSkill": ""
+        }
+      ],
+      "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6/공격8",
+      "projectileArt": {
+        "sprite": "chapter-1/yellow-turban-archer/projectile/arrow.png",
+        "pivot": [
+          0.5,
+          0.5
+        ],
+        "ppu": 100,
+        "facing": "left"
+      }
+    },
+    {
+      "id": "SG_N0004",
+      "name": "대장장이",
+      "faction": "주민",
+      "base": "Unit000001",
+      "grade": "",
+      "gradeType": "NORMAL",
+      "art": {
+        "icon": "chapter-1/village-blacksmith/original/original.png",
+        "portrait": "chapter-1/village-blacksmith/original/original.png",
+        "static": "chapter-1/village-blacksmith/original/original.png",
+        "ppu": 100,
+        "pivot": [
+          0.5,
+          0.3
+        ],
+        "facing": "left",
+        "frames": {
+          "Idle": [
+            "chapter-1/village-blacksmith/idle/frame-01.png",
+            "chapter-1/village-blacksmith/idle/frame-02.png",
+            "chapter-1/village-blacksmith/idle/frame-03.png",
+            "chapter-1/village-blacksmith/idle/frame-04.png"
+          ],
+          "Move": [
+            "chapter-1/village-blacksmith/run/frame-01.png",
+            "chapter-1/village-blacksmith/run/frame-02.png",
+            "chapter-1/village-blacksmith/run/frame-03.png",
+            "chapter-1/village-blacksmith/run/frame-04.png",
+            "chapter-1/village-blacksmith/run/frame-05.png",
+            "chapter-1/village-blacksmith/run/frame-06.png"
+          ]
+        }
+      },
+      "motion": {
+        "Idle": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ms": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Move": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "ms": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "loop": true,
+          "hits": []
+        }
+      },
+      "motionTimingBasis": "authored",
+      "skills": {},
+      "levels": [
+        {
+          "level": 1,
+          "defaultSkill": "",
+          "skillA": "",
+          "skillB": "",
+          "gatheringSkill": ""
+        }
+      ],
+      "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6"
+    },
+    {
+      "id": "SG_N0005",
+      "name": "주모",
+      "faction": "주민",
+      "base": "Unit000001",
+      "grade": "",
+      "gradeType": "NORMAL",
+      "art": {
+        "icon": "chapter-1/village-hostess/original/original.png",
+        "portrait": "chapter-1/village-hostess/original/original.png",
+        "static": "chapter-1/village-hostess/original/original.png",
+        "ppu": 100,
+        "pivot": [
+          0.5,
+          0.3
+        ],
+        "facing": "left",
+        "frames": {
+          "Idle": [
+            "chapter-1/village-hostess/idle/frame-01.png",
+            "chapter-1/village-hostess/idle/frame-02.png",
+            "chapter-1/village-hostess/idle/frame-03.png",
+            "chapter-1/village-hostess/idle/frame-04.png"
+          ],
+          "Move": [
+            "chapter-1/village-hostess/run/frame-01.png",
+            "chapter-1/village-hostess/run/frame-02.png",
+            "chapter-1/village-hostess/run/frame-03.png",
+            "chapter-1/village-hostess/run/frame-04.png",
+            "chapter-1/village-hostess/run/frame-05.png",
+            "chapter-1/village-hostess/run/frame-06.png"
+          ]
+        }
+      },
+      "motion": {
+        "Idle": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "ms": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "loop": true,
+          "hits": []
+        },
+        "Move": {
+          "sequence": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "ms": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "loop": true,
+          "hits": []
+        }
+      },
+      "motionTimingBasis": "authored",
+      "skills": {},
+      "levels": [
+        {
+          "level": 1,
+          "defaultSkill": "",
+          "skillA": "",
+          "skillB": "",
+          "gatheringSkill": ""
+        }
+      ],
+      "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6"
     }
   ]
 }

@@ -551,7 +551,7 @@ function renderInspector() {
   if (!key) {
     const b = brushOf(S.pick.id);
     box.innerHTML = `<h3>선택한 지형</h3>${b ? `<div class="portrait"><canvas class="pic"></canvas></div><div class="uname">${b.name}</div>
-      <div class="umeta">${b.resource ? '나무 자원(클릭마다 1그루)' : `원작 타일 ${b.tile} · ${b.layer}`}</div>
+      <div class="umeta">${b.resource ? '나무 자원(클릭마다 1그루)' : `삼국 지형 ${b.tile} · ${b.layer}`}</div>
       ${b.tile && MIRROR.has(b.tile) ? '<button id="rotPick" style="width:100%;margin-bottom:6px">⟲ 방향 전환 (R)</button>' : ''}` : ''}
       <div class="empty">그리기 도구로 칠하고, 지우기 도구로 지웁니다.<br>왼쪽 유닛을 고르면 클릭한 곳에 배치됩니다.</div>`;
     if (b) setPic(box.querySelector('.pic'), b.icon);
@@ -640,7 +640,11 @@ async function main() {
   for (const b of pack.blocking) { BLOCKING_DECO.add(b.id); if (b.footprint) BLOCKING_FOOTPRINT.set(b.id, b.footprint); }
   const resolver = new TileResolver(G.assets.tiles);
   BRUSHES = [...terrainCatalog(G.assets, resolver), ...pack.brushes.map(b => ({ ...b, icon: resolver.spritesOf(b.tile)[b.rule === 'pond' ? 12 : b.rule === 'road' ? 0 : 0] || resolver.spritesOf(b.tile)[0] }))];
-  if (pack.brushes.length) TERRAIN_CATS_ALL.splice(1, 0, '삼국');
+  if (pack.brushes.length) {
+    BRUSHES = BRUSHES.filter(b => b.source === 'samguk');
+    TERRAIN_CATS_ALL.splice(0,TERRAIN_CATS_ALL.length,'삼국');
+    S.tcat='삼국'; S.pick={type:'terrain',id:'tile:sg2_ground'};
+  }
   buildTerrainTabs(); buildTerrain(); buildKindTabs(); buildUnits();
   $('terrainSearch').oninput = e => { S.tsearch = e.target.value; S.tshown = 60; buildTerrain(); };
   $('moreTerrain').onclick = () => { S.tshown += 60; buildTerrain(); };
@@ -651,7 +655,12 @@ async function main() {
   $('zOut').onclick = () => zoomTo(G.CameraManager.size * 1.25);
   $('zFit').onclick = fitAll;
   $('mapName').onchange = e => { S.doc.name = e.target.value.trim() || '맵'; autosave(); };
-  $('btnNew').onclick = () => openDoc(D.newDoc($('mapName').value.trim() || '새 맵', Number($('mapSize').value)));
+  const blankDoc = (name,size) => {
+    const d=D.newDoc(name,size);
+    if(pack.brushes.length){d.maker.pack='samguk';d.mapData.forEach(t=>t.n='sg2_ground');d.environmentArt={groundTile:'sg2_ground'};}
+    return d;
+  };
+  $('btnNew').onclick = () => openDoc(blankDoc($('mapName').value.trim() || '새 맵', Number($('mapSize').value)));
   // 저장: collaboration repo (content/samguk/maps) when the dev server mounts it, else a downloaded file
   $('btnSave').onclick = async () => {
     saveLibrary();
@@ -704,7 +713,7 @@ async function main() {
   }
   else if (params.get('map')) doc = D.normalize(JSON.parse(await (await fetch(`/re/extract/text/${params.get('map')}.bytes`)).text()), params.get('map'));
   else { try { doc = JSON.parse(localStorage.getItem(AUTOSAVE) || 'null'); } catch { doc = null; } }
-  await openDoc(doc || D.newDoc('새 맵', 12));
+  await openDoc(doc || blankDoc('새 맵', 12));
 
   let last = performance.now();
   function frame(now) {
@@ -712,6 +721,7 @@ async function main() {
     if (!S.busy) {
       if (S.mode === 'run' && !S.paused) runStep(dt);
       else if (S.mode === 'edit') {
+        G.Npc.update(dt);
         // paused world: only the idle animations play
         for (const a of S.actors.values()) for (const an of a.go.getInChildren(Animator)) an.update(dt);
       }

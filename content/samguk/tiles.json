@@ -1,0 +1,653 @@
+{
+  "tiles": [
+    {
+      "id": "sg2_tree",
+      "name": "나무",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/tree.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_bush",
+      "name": "수풀",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/bush.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_boulder",
+      "name": "이끼 바위",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/boulder.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_mountain",
+      "name": "산등성이",
+      "layer": "blockData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/mountain.png",
+      "ppu": 120,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_grass",
+      "name": "풀잎",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/grass.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_flowers",
+      "name": "들꽃",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/flowers.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_stump",
+      "name": "그루터기",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/stump.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_stones",
+      "name": "작은 돌",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/stones.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_dead_tree",
+      "name": "마른 나무",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/dead_tree.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_thorn",
+      "name": "가시 덤불",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/thorn.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_reeds",
+      "name": "갈대",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/reeds.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_oak",
+      "name": "짙은 나무",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/oak.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_tavern",
+      "name": "주막",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/tavern.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_cottage",
+      "name": "민가",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/cottage.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_blacksmith",
+      "name": "대장간",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/blacksmith.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_armory",
+      "name": "무기고",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/armory.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_barracks",
+      "name": "병영",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/barracks.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_watchtower",
+      "name": "초소",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/watchtower.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_tent",
+      "name": "야영막",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/tent.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_cage",
+      "name": "감옥",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/cage.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_fence_a",
+      "name": "목책 ↗",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/fence_a.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ],
+      "pair": "sg2_fence_b"
+    },
+    {
+      "id": "sg2_fence_b",
+      "name": "목책 ↘",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/fence_b.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_well",
+      "name": "우물",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/well.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_farm",
+      "name": "채소밭",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/farm.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_banner",
+      "name": "황건 깃발",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/banner.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_torch",
+      "name": "화로",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/torch.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_fire",
+      "name": "모닥불",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/fire.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_jar",
+      "name": "술독",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/jar.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_barrel",
+      "name": "나무통",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/barrel.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_sacks",
+      "name": "곡식 포대",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/sacks.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_cart",
+      "name": "보급 수레",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/cart.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_sign",
+      "name": "이정표",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/sign.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_rack",
+      "name": "무기 거치대",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/rack.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_altar",
+      "name": "제단",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/altar.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": true,
+      "footprint": [
+        3,
+        3
+      ]
+    },
+    {
+      "id": "sg2_planks",
+      "name": "부서진 판자",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/planks.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_logs",
+      "name": "장작",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1/logs.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.18
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_ground",
+      "name": "초원",
+      "layer": "mapData",
+      "type": "material",
+      "shape": "ground",
+      "material": "art/environment/chapter-1/grass-material.png",
+      "shore": "#b69871"
+    },
+    {
+      "id": "sg2_road",
+      "name": "흙길",
+      "layer": "roadData",
+      "type": "material",
+      "shape": "road",
+      "material": "art/environment/chapter-1/earth-material.png",
+      "shore": "#b69871"
+    },
+    {
+      "id": "sg2_yard",
+      "name": "흙마당",
+      "layer": "roadData",
+      "type": "material",
+      "shape": "area",
+      "material": "art/environment/chapter-1/earth-material.png",
+      "shore": "#b69871"
+    },
+    {
+      "id": "sg2_river",
+      "name": "강·연못",
+      "layer": "waterData",
+      "type": "material",
+      "shape": "area",
+      "material": "art/environment/chapter-1/water-material.png",
+      "shore": "#75c2d5"
+    }
+  ]
+}

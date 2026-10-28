@@ -60,7 +60,7 @@ export function paint(doc, brush, wx, wy, size = 1) {
     return changed;
   }
   for (const [x, y] of cellsAround(wx, wy, MAP_CELL, undefined, size)) {
-    if (b.layer !== 'mapData') changed = setTile(doc.mapData, x, y, GROUND) || changed;   // road / water sit on ground
+    if (b.layer !== 'mapData') changed = setTile(doc.mapData, x, y, doc.environmentArt?.groundTile || GROUND) || changed;
     if (b.layer === 'roadData') changed = setTile(doc.waterData, x, y, null) || changed;
     if (b.layer === 'waterData') changed = setTile(doc.roadData, x, y, null) || changed;
     changed = setTile(doc[b.layer], x, y, b.tile) || changed;

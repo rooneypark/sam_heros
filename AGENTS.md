@@ -103,3 +103,9 @@ chapter-1/README.md와 FINAL_MANIFEST.json이 주민3종·늑대·졸병·관해
 다음 장수/몬스터 제작 전에 docs/motion-guide/CHARACTER_MOTION_QA.md를 읽는다. 의복 단순화와 디테일 삭제를 구분하고, 머리·몸통·하체·무기 치수를 기록한다. 이동은 다리 굵기·관절 길이·골반 간격을 각각 조정한다. 위치만 수정 요청이면 재생성 없이 접지점 기준 정수 이동을 우선한다. 승인 상태와 최종 체크섬을 보존한다.
 
 2026-10-28 size match: original/idle/attack uniformly scaled 0.93 about (175,245) to approved Move size. Move PNGs unchanged. No per-frame fitting or redraw.
+## 2026-10-28 최신 맵 제작 규칙
+- 원작 우르르 용병단 지형의 색감·색상·상대 크기·디테일 밀도를 시각적으로 대조한다. 화려한 일러스트나 과도한 목재/지붕 묘사로 대체하지 않는다.
+- 황건소탕은 기존 원작 지형지물 그림을 그대로 남기지 않고 삼국지 시나리오에 맞는 새 공용 자산으로 교체한다. 자연·잔디·흙길·물·산도 포함한다.
+- 현재 검토본은 art/environment/chapter-1/, content/samguk/tiles.json의 sg2_ 등록, docs/design/maps/chapter-1/REDRAW.md. 이전 art/objects/chapter-1/과 sg_ 별칭 방식은 현재 맵 제작 기준이 아니다.
+- 구출·전투 진행과 자원 개수는 유지하고 시각적 간섭과 통행을 검수한다. 새 맵 그림은 사용자 검토 전 최종 승인 처리하지 않는다.
+

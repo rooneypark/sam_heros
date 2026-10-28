@@ -7,6 +7,7 @@ import { iconOf, kindOf, MIRROR } from './original.js';
 import { packFrame } from './artFrames.js';
 import { registerCustomMotion } from './customMotion.js';
 import { packUnitsPath } from './reviewMode.js';
+import { registerMaterialTiles } from './materialTiles.js';
 
 export const SAMGUK_ROOT = '/samguk/';
 export const FACTIONS = ['위', '촉', '오', '군', '주민'];
@@ -44,10 +45,17 @@ function register(def, assets) {
   if (def.art?.frames || def.art?.static) {
     const art = registerArt(assets, def.id, def.art, base.prefab);
     row.spriteRemap = art.remap; row.artReady = art.ready;
+    row.npcArt = { frames: art.frames, motion: def.motion || {} };
     row.artFlip = def.art.facing === 'right';    // original sprites face left; right-facing pack art is mirrored
   }
   // pack effects: motion[state].fx[i] = { frames: [png...], at, ms, life, loop, offset, move, follow, layer, pivot }
   const fxReady = [];
+  if (def.projectileArt) {
+    const p = def.projectileArt, name = `${def.id}:projectile`;
+    row.projectileSprite = name;
+    fxReady.push(registerImage(assets, name, SAMGUK_ROOT + p.sprite, p.pivot || [0.5,0.5], p.ppu || 100)
+      .then(() => assets.preloadSprites([name])));
+  }
   row.motionFx = {};
   for (const [state, spec] of Object.entries(def.motion || {})) {
     if (!spec.fx?.length) continue;
@@ -107,7 +115,7 @@ function registerArt(assets, id, art, prefab) {
     .then(() => assets.preloadSprites(all.map(a => a.name)));
   const ok = n => n && assets.sprites[n];
   const remap = (base, state) => packFrame(base, state, prefab, frames, still, ok);
-  return { remap, ready };
+  return { remap, ready, frames };
 }
 
 const pick = (o, keys) => Object.fromEntries(keys.filter(k => o[k] !== undefined).map(k => [k, o[k]]));
@@ -156,6 +164,12 @@ export async function loadSamgukTiles(assets) {
   try { j = await fetchJSON('content/samguk/tiles.json'); } catch { return { brushes: [], blocking: [] }; }
   const brushes = [], blocking = [];
   for (const t of j.tiles || []) {
+    if(t.type === 'material') {
+      await registerMaterialTiles(assets,t,SAMGUK_ROOT);
+      brushes.push({id:`tile:${t.id}`,name:t.name,layer:t.layer,tile:t.id,cat:'삼국',icon:null,
+        rule:t.shape==='road'?'road':t.shape==='area'?'pond':null,source:'samguk'});
+      continue;
+    }
     // Reuse an existing terrain's complete autotile rule and atlas metadata.
     // A pack alias gets its own stable ID without duplicating the original art.
     if (t.sourceTile) {
