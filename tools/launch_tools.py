@@ -14,7 +14,7 @@ class Handler(NoCache):
             self.send_response(200);self.send_header('Content-Type','application/json');self.send_header('Content-Length',str(len(b)));self.end_headers();self.wfile.write(b)
         else:super().do_GET()
 mode=sys.argv[1] if len(sys.argv)>1 else 'maker'
-paths={'maker':'/web/maker.html?samgukMap='+quote('1장_황건소탕'),'motion':'/web/motion.html','maps':'/web/maps.html'}
+paths={'maker':'/web/maker.html?samgukMap='+quote('1장_황건소탕'),'motion':'/web/motion.html','maps':'/web/maps.html','game':'/web/index.html?pack=samguk','new-game':'/web/index.html?pack=samguk&profile=review&new=1','ui':'/web/ui-review.html'}
 page=paths.get(mode,paths['maker'])
 for port in range(8134,8155):
     address=f'http://127.0.0.1:{port}'

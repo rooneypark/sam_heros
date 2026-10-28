@@ -2,13 +2,17 @@
 // anims.json) without the simulation, several units side by side in sync. Pack units show their own art (remap).
 import { G } from '../game/registry.js';
 import { Tables } from '../game/data/Tables.js';
-import { TEAM } from '../game/defs.js';
+import { TEAM, UNIT_STATE } from '../game/defs.js';
 import { ActorSkill } from '../game/skill/Skill.js';
 import { loadWorld, stepWorld, drawWorld } from '../boot.js';
+import { ResourceSpawner } from '../game/world/Resources.js';
+import { createGatheringBT } from '../game/ai/BT.js';
+import { TERRAIN } from '../packs/original.js';
+import { worldToCell, MAP_CELL } from '../game/map/WorldMapView.js';
 import { newDoc } from './mapdoc.js';
 
 const STATES = ['Idle', 'Move', 'Attack', 'Skill_01', 'Skill_02', 'Skill_03', 'Gather', 'Die'];
-const STATE_KO = { Idle: '숨쉬기', Move: '이동', Attack: '공격', Skill_01: '스킬 1', Skill_02: '스킬 2', Skill_03: '스킬 3', Gather: '채집', Die: '사망' };
+const STATE_KO = { Idle: '숨쉬기', Move: '이동', Attack: '공격', Skill_01: '스킬 1', Skill_02: '스킬 2', Skill_03: '스킬 3', Gather: '채집', Work: '작업', Die: '사망' };
 const HIT = ['OnAttackEvent', 'OnSkillEvent', 'OnGatherEvent'];
 const CELL = 220, ZOOM = 0.62;          // canvas px per cell, sprite px -> canvas px
 
@@ -141,7 +145,9 @@ function checkState(cell, state) {
 const DUMMY = 'SG_M0001', GAP = 6, DUMMY_DX = -2.2;
 function createStage(canvas, renderer) {
   const S = { units: [], ready: false, building: null, cam: { position: [0, 12], size: 4, tween: null } };
-  async function build(cells, level) {
+  async function build(cells, level, gather = false) {
+    S.gather = gather; S.elapsed = 0; S.hits = 0; S.aiTime = 0; S.idleGaps = 0; S.wasGap = false;
+    if (gather) cells = cells.slice(0, 1);
     S.ready = false;
     const doc = newDoc('motion_stage', 16);
     if (G.assets.tiles.sg2_ground) {
@@ -155,12 +161,30 @@ function createStage(canvas, renderer) {
     for (let i = 0; i < cells.length; i++) {
       const x = (i - (cells.length - 1) / 2) * GAP + 1.2, y = 12;
       const a = await G.UnitManager.spawnActor(cells[i].key, Math.max(0, level - 1), TEAM.PLAYER, x, y);
+      if (gather) {
+        a.gatherPreview = true;
+        const tx = x - 2.2;
+        const b = TERRAIN.find(t => t.id === 'tree');
+        const sp = new ResourceSpawner({ SpawnerType: 1, IncludeTiles: [worldToCell(tx, y, MAP_CELL)], SpawnerDatas: [{ key: b.resource, level: b.level }], MaxCount: 1 });
+        await sp.SpawnActor();
+        const tree = sp.ActorList[0];
+        if (!tree) throw new Error('나무 리소스를 불러오지 못했습니다.');
+        tree.go.transform.lp = [tx, y, 0];
+        G.MapManager.resourceSpawners.push(sp);
+        sp.started = true; // A test ends at felling; restart explicitly instead of timed respawn.
+        sp.setActive(true);
+        const damage = tree.Damage.bind(tree);
+        tree.Damage = (...args) => { const result = damage(...args); if (result > 0) { S.hits++; S.lastHit = S.elapsed; } return result; };
+        S.units.push({ cell: cells[i], a, tree, bt: createGatheringBT(a) });
+        continue;
+      }
       const d = await G.UnitManager.spawnActor(DUMMY, Math.max(0, level - 1), TEAM.ENEMY, x + DUMMY_DX, y);
       d.UnitData.AddStat(0, 1e9); d.UnitData.RestoreHp();
       S.units.push({ cell: cells[i], a, d, cycle: -1 });
     }
     const n = Math.max(1, cells.length);
     S.cam.position = [0.6, 12.6]; S.cam.size = Math.max(3.2, (n * GAP) / 2 / (canvas.clientWidth / canvas.clientHeight) + 0.6);
+    if (gather) { S.cam.position = [0, 13.1]; S.cam.size = 2.5; }
     S.ready = true;
   }
   /** the skill of `actor` that plays the clip of `state` (pack clips first) */
@@ -210,11 +234,32 @@ function createStage(canvas, renderer) {
   function frame(dt, playing, state, clocks) {
     if (!S.ready) return;
     // restart each unit's action when its viewer clip loops, so the stage stays in step with the cells
-    for (const s of S.units) {
+    for (const s of S.gather ? [] : S.units) {
       const c = clocks(s.cell);
       if (c !== s.cycle) { s.cycle = c; cast(s, state); }
     }
-    if (playing) stepWorld(dt);
+    if (playing) {
+      // Small simulation steps preserve attack events and movement at slow/fast playback speeds.
+      let remaining = dt;
+      while (remaining > 0.000001) {
+        const step = Math.min(remaining, 1 / 60);
+        S.elapsed += step; S.aiTime -= step;
+        if (S.gather && S.aiTime <= 0) {
+          S.aiTime = 0.1;
+          for (const s of S.units) {
+            if (!s.tree.IsDead()) s.bt.run();
+            else if (s.a._currentState !== UNIT_STATE.ACTION) s.a.Body.SetIdle();
+          }
+        }
+        stepWorld(step); remaining -= step;
+        if (S.gather) {
+          const u = S.units[0];
+          const gap = !!u && S.hits > 0 && !u.tree.IsDead() && u.a.Body.animator?.state === 'Idle';
+          if (gap && !S.wasGap) S.idleGaps++;
+          S.wasGap = gap;
+        }
+      }
+    }
     renderer.clear(0.14, 0.22, 0.29);
     drawWorld(renderer, S.cam, canvas.clientWidth / canvas.clientHeight);
   }
@@ -222,7 +267,15 @@ function createStage(canvas, renderer) {
     const r = canvas.getBoundingClientRect();
     renderer.resize(Math.max(1, Math.round(r.width)), Math.max(1, Math.round(r.height)), window.devicePixelRatio || 1);
   }
-  return { build, play, frame, resize, get ready() { return S.ready; }, reset() { for (const s of S.units) s.cycle = -1; } };
+  return { build, play, frame, resize,
+    status() {
+      if (!S.ready) return '불러오는 중…';
+      const u = S.units[0];
+      if (!u) return '왼쪽에서 채집 모션이 있는 캐릭터를 추가하세요.';
+      if (!S.gather) return '';
+      const p = u.a.transform.position, t = u.tree.transform.position;
+      return `${u.cell.key} · 나무 HP ${Math.ceil(u.tree.CurrentHP)} / ${u.tree.MaxHP} · 실제 타격 ${S.hits}회 · 거리 ${Math.hypot(p[0]-t[0], p[1]-t[1]).toFixed(2)} · ${u.tree.IsDead() ? '벌목 완료 — 다시 시작으로 재시험' : '접근 → 채집 중'}${S.hits ? ` · 마지막 피격 ${S.lastHit.toFixed(2)}초 · 연속 중 숨쉬기 ${S.idleGaps}회` : ''}`;
+    }, get ready() { return S.ready; }, reset() { for (const s of S.units) s.cycle = -1; } };
 }
 
 export function createMotionView({ root, units, unitDef, stage: stageEl, renderer }) {
@@ -243,8 +296,11 @@ export function createMotionView({ root, units, unitDef, stage: stageEl, rendere
         <label class="mv-chk" title="삼국 유닛의 팩 전용 타이밍 대신 base 원작 박자로 재생"><input type="checkbox" id="mvBase"> 원작 박자로 보기</label>
         <label class="mv-chk" title="게임 엔진으로 스킬을 허수아비에게 강제 발동: 시전·투사체·피격 이펙트 포함"><input type="checkbox" id="mvFx"> 이펙트 시연</label>
         <label class="mv-chk" title="시연 레벨 (레벨에 따라 스킬 단계가 바뀜)">Lv <input type="number" id="mvLv" value="60" min="1" max="999" style="width:58px"></label>
+        <label class="mv-chk"><input type="checkbox" id="mvGatherTest"> 실제 나무 채집</label><button id="mvRestart">나무 테스트 다시 시작</button>
         <button id="mvClear">모두 지우기</button>
       </div>
+      <div style="padding:4px 8px;color:#9cb2c1">나무 테스트: 목록 첫 번째 채집 가능 캐릭터 · 실제 접근/타격/벌목 · 아래 프레임 카드는 별도의 반복 미리보기</div>
+      <div id="mvStageStatus" role="status" style="padding:8px" hidden></div>
       <div id="mvStageWrap" class="mv-stage"></div>
       <div id="mvGrid" class="mv-grid"><div class="empty">왼쪽에서 유닛을 눌러 추가하세요. 여러 유닛을 놓고 같은 동작을 동시에 비교할 수 있습니다.</div></div>
       <div class="mv-hint">파란 선 = 발 기준선 · 빨간 테두리 = 타격 프레임(데미지가 들어가는 순간) · 원작 프레임 시간 그대로 재생 · 삼국 유닛은 팩 전용 타이밍(units.json motion)이 있으면 그것, 없으면 base 타이밍에 팩 그림</div>
@@ -255,18 +311,33 @@ export function createMotionView({ root, units, unitDef, stage: stageEl, rendere
   if (stage) $('#mvStageWrap').appendChild(stageEl);
   let fxDirty = true;
   const rebuildStage = async () => {
-    if (!stage || !$('#mvFx').checked) return;
+    if (!stage || !stageEnabled()) return;
     fxDirty = false;
     stage.resize();
-    await stage.build(V.cells.slice(0, 8), Number($('#mvLv').value) || 60);
+    $('#mvStageStatus').textContent = '불러오는 중…';
+    const gather = $('#mvGatherTest').checked;
+    await stage.build(gather ? V.cells.filter(c => c.packClips.Gather).slice(0, 1) : V.cells.slice(0, 8), Number($('#mvLv').value) || 60, gather);
   };
-  if (!stage) { $('#mvFx').disabled = true; }
-  $('#mvFx').onchange = () => { root.classList.toggle('fx', $('#mvFx').checked); fxDirty = true; };
+  const stageEnabled = () => $('#mvFx').checked || $('#mvGatherTest').checked;
+  if (!stage) { $('#mvFx').disabled = true; $('#mvGatherTest').disabled = true; }
+  const changeMode = (gather) => {
+    if (gather) $('#mvFx').checked = false; else $('#mvGatherTest').checked = false;
+    root.classList.toggle('fx', stageEnabled());
+    $('#mvStageWrap').style.display = stageEnabled() ? 'block' : 'none';
+    $('#mvStageStatus').hidden = !stageEnabled();
+    stageEl.style.height = $('#mvGatherTest').checked ? '420px' : '300px';
+    if ($('#mvGatherTest').checked) { V.state = 'Gather'; V.t = 0; buildStates(); }
+    fxDirty = true;
+  };
+  $('#mvFx').onchange = () => changeMode(false);
+  $('#mvGatherTest').onchange = () => changeMode(true);
+  $('#mvRestart').onclick = () => { $('#mvGatherTest').checked = true; changeMode(true); };
+  $('#mvGatherTest').parentElement.title = '선택 목록의 첫 번째 채집 가능 캐릭터로 실제 게임 AI·거리·타격·나무 HP를 시험합니다. 다른 캐릭터를 보려면 앞의 캐릭터를 빼세요.';
   $('#mvLv').onchange = () => { fxDirty = true; };
   window.addEventListener('resize', () => stage?.resize());
 
   const buildList = () => {
-    const games = [['samguk', '삼국히어로즈']];
+    const games = [['original', '우르르 용병단'], ['samguk', '삼국히어로즈']];
     $('#mvGames').innerHTML = games.map(([id, n]) => `<button data-g="${id}" class="${V.game === id ? 'on' : ''}">${n}</button>`).join('');
     for (const b of root.querySelectorAll('#mvGames button')) b.onclick = () => { V.game = b.dataset.g; buildList(); };
     const q = V.filter.trim().toLowerCase();
@@ -382,10 +453,11 @@ export function createMotionView({ root, units, unitDef, stage: stageEl, rendere
         V.step = 0;
       }
       draw();
-      if (stage && $('#mvFx').checked) {
-        if (fxDirty && !V.building) { V.building = true; rebuildStage().finally(() => { V.building = false; }); }
+      if (stage && stageEnabled()) {
+        if (fxDirty && !V.building) { V.building = true; rebuildStage().catch(e => { $('#mvStageStatus').textContent = `테스트 오류: ${e.message}`; }).finally(() => { V.building = false; }); }
         // the stage advances by the same time as the viewer clock; each unit restarts its action when its clip loops
         const adv = V.t - t0;
+        if (stage.ready) $('#mvStageStatus').textContent = stage.status();
         stage.frame(adv, adv > 0, V.state, cell => { const c = cell.clips[V.state]; return c ? Math.floor(V.t / c.length) : 0; });
       }
     }
@@ -396,5 +468,6 @@ export function createMotionView({ root, units, unitDef, stage: stageEl, rendere
   return {
     show(v) { visible = v; if (v) buildList(); },
     add,
+    testGather() { $('#mvGatherTest').checked = true; changeMode(true); },
   };
 }

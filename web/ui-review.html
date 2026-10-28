@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>삼국히어로즈 UI 검토</title>
+<style>body{margin:0;background:#111820;color:#eef2f5;font:15px 'Malgun Gothic',sans-serif}header{padding:18px 24px;border-bottom:1px solid #344250}h1{font-size:21px;margin:0 0 8px}p{margin:7px 0;color:#b9c7d2}nav{display:flex;flex-wrap:wrap;gap:7px;padding:14px 24px}button{background:#223443;border:1px solid #60788b;border-radius:7px;padding:8px 12px;color:white;cursor:pointer}button.active{background:#80591e;border-color:#e9bd70}main{display:flex;justify-content:center;padding:8px 16px 32px}iframe{width:390px;height:845px;border:1px solid #60788b;background:black}#status{color:#f4ce89}a{color:#80d5ff}</style>
+<header><h1>삼국히어로즈 — 기존 실행 UI 검토</h1><p>현재 코드의 실제 UI를 별도 검토 프로필로 여는 자료입니다. 기능 시연용 상태·수치는 예시이며, 챕터 클리어나 최종 디자인 승인을 뜻하지 않습니다.</p><p>환경설정은 원작 엔진 UI 참고본입니다. 삼국 전용 설정 화면으로 재디자인·연결한 결과가 아닙니다.</p><p id="status">로딩 중</p></header><nav id="tabs"></nav><main><iframe id="game" title="게임 UI 검토 화면"></iframe></main>
+<script type="module">
+const modes={intro:'인트로 시안',hud:'게임 HUD',dialog:'대화·초상화',training:'부대 훈련',locked:'훈련 잠금',rest:'모닥불 회복',bridge:'다리 복구',boss:'보스 HUD',complete:'1장 완료',settings:'환경설정 참고',controls:'조작 조이스틱'};
+const frame=document.querySelector('#game'),status=document.querySelector('#status');
+const nap=ms=>new Promise(r=>setTimeout(r,ms));
+let generation=0;
+async function show(mode){const ticket=++generation;status.textContent='로딩 중: '+modes[mode];document.querySelectorAll('button').forEach(b=>b.classList.toggle('active',b.dataset.mode===mode));
+ frame.src='./index.html?pack=samguk&nosplash=1&profile=ui-review-'+mode+'&new=1';
+ let ch,w;for(let i=0;i<180;i++){await nap(100);if(ticket!==generation)return;try{w=frame.contentWindow;ch=w.__c1;if(ch?.ui?.dlgEl.style.display==='block'||ch?.s?.introDone)break;}catch{}}
+ if(!ch?.ui)throw Error('Chapter UI not ready');
+ if(ch.ui.dlgEl.style.display==='block')ch.ui.dlgEl.querySelector('.sk').dispatchEvent(new w.PointerEvent('pointerdown',{bubbles:true}));await nap(200);ch.paused=true;w.__G.HeroManager.Control=false;
+ const ui=ch.ui;ui.dimEl.style.opacity=0;ui.titleEl.style.display='none';ui.setTag('UI 검토용 예시 · 게임 진행/승인 결과 아님');
+ if(mode!=='intro'){w.__G.UnitManager.WarpHero(8.3,45.6);w.__G.CameraManager.position=[8.3,45.6];}
+ if(mode==='intro'){ui.root.style.display='none';const script=w.document.createElement('script');script.type='module';script.textContent="import {playIntro} from '/web/src/packs/chapter1/introSplash.js';const stage=document.getElementById('stage');playIntro(stage,{root:'/samguk/'});setTimeout(()=>stage.querySelector('.sgi')?.click(),150);";w.document.body.appendChild(script);}
+ if(mode!=='intro'){ui.objective('황건 소탕 · UI 검토','마을에서 다음 원정을 준비하세요.');ch.objectiveText=()=>({q:'황건 소탕 · UI 검토',text:'마을에서 다음 원정을 준비하세요.'});}
+ if(mode==='dialog'){ch.ui.auto=false;ch.talk('chief',true);}
+ if(mode==='training'){ch.ui.auto=true;ch.s.bridge=true;ch.s.training=0;w.__G.Inventory.add('STONE',8);ch.openTraining();}
+ if(mode==='locked'){ch.ui.auto=false;ch.s.bridge=false;ch.openTraining();}
+ if(mode==='rest')ch.openRest();
+ if(mode==='bridge'){ch.s.bridge=false;w.__G.Inventory.add('TREE',10);ch.openBridge();}
+ if(mode==='boss'){ui.objective('초소의 대검','관해 처치하기');ui.boss('관해',.64);}
+ if(mode==='complete')ui.complete('1장 황건 소탕 완료','마을 사람들을 구하고 황건적의 소굴을 소탕했어요.','마을로');
+ if(mode==='controls'){w.__G.HeroManager.Control=true;w.__G.UI.pointerDown(w.__G.UI.canvas.w*.25,w.__G.UI.canvas.h*.2);w.__G.UI.pointerMove(w.__G.UI.canvas.w*.3,w.__G.UI.canvas.h*.24);}
+ if(mode==='settings'){ui.root.style.display='none';const script=w.document.createElement('script');script.type='module';script.textContent="import {openOption} from '/web/src/game/Option.js'; openOption().then(()=>{window.__optionPreviewReady=true;});";w.document.body.appendChild(script);}
+ // The live chapter keeps updating its objective/HUD while paused; keep the boss example visible.
+ if(mode==='boss'){ch.objectiveText=()=>({q:'초소의 대검',text:'관해 처치하기'});ch.ui.boss=()=>{};}
+ await nap(300);if(ticket===generation){document.body.dataset.ready=mode;status.textContent=modes[mode]+' · 현재 실행 코드 재사용 · 예시 상태';}
+}
+for(const [mode,label] of Object.entries(modes)){const b=document.createElement('button');b.textContent=label;b.dataset.mode=mode;b.onclick=()=>{delete document.body.dataset.ready;history.replaceState(null,'','?view='+mode);show(mode).catch(e=>status.textContent=e.message)};document.querySelector('#tabs').appendChild(b);}
+const mode=new URLSearchParams(location.search).get('view')||'hud';show(modes[mode]?mode:'hud').catch(e=>status.textContent=e.message);
+</script></html>

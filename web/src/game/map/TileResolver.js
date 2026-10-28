@@ -41,7 +41,10 @@ export class TileResolver {
           const {x,y}=cell;
           const mask=(this._has(cell,x-1,y)?1:0)|(this._has(cell,x+1,y)?2:0)|
             (this._has(cell,x,y-1)?4:0)|(this._has(cell,x,y+1)?8:0);
-          res={sprite:spriteName(f.m_Sprites[f.shape==='ground'?15:mask]),color:WHITE};
+          // Broad, subtle meadow variation; adjacent cells vary smoothly instead of checkerboard tint.
+          const n=perlinNoise((x+1000)*.075,(y+1000)*.075)-.5;
+          const color=f.shape==='ground'?{r:1+n*.13,g:1+n*.07,b:1-n*.04,a:1}:WHITE;
+          res={sprite:spriteName(f.m_Sprites[f.shape==='ground'?15:mask]),color};
           break;
         }
         case 'CustomRandomTile': res = this._random(cell, f); break;

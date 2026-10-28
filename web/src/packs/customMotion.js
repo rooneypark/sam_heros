@@ -15,6 +15,7 @@ export function makePackClip(prefab, state, spec) {
 export function registerCustomMotion(def, base, row, assets, tables) {
   if (!def.motion && !def.skills) return;
   row.motionClips = {};
+  row.continuousGather = !!def.motion?.Gather?.continuous;
   for (const [state, spec] of Object.entries(def.motion || {})) {
     const key = `${base.prefab}_${def.id}_${state}`;
     assets.anims[key] = makePackClip(base.prefab, state, spec);

@@ -6,8 +6,9 @@ import { Animator, drawTree } from '../../engine/components.js';
 import { NavMeshAgent } from '../../engine/navmesh.js';
 import { Tables } from '../data/Tables.js';
 
-export function drawPackResident(renderer, row, x, y, time = 0, moving = false, flip = false) {
-  const state = moving ? 'Move' : 'Idle', art = row?.npcArt;
+export function drawPackResident(renderer, row, x, y, time = 0, moving = false, flip = false, restingState = 'Idle') {
+  const art = row?.npcArt;
+  const state = moving ? 'Move' : (art?.frames[restingState]?.length ? restingState : 'Idle');
   const frames = art?.frames[state] || art?.frames.Idle;
   if (!frames?.length) return;
   const ms = art.motion[state]?.ms || frames.map(() => 150);
@@ -19,7 +20,7 @@ export function drawPackResident(renderer, row, x, y, time = 0, moving = false, 
 
 export class Npcs {
   constructor() { this.list = []; }
-  async spawn(name, x, y) {
+  async spawn(name, x, y, restingState = 'Idle') {
     const row = Tables.unit(name), pack = row?.npcArt ? row : null;
     if (pack) await pack.artReady;
     const idx = await loadJSON('prefab_index.json');
@@ -38,7 +39,7 @@ export class Npcs {
     agent.nav = G.MapManager.navmesh;
     agent.warp(x, y);
     agent.isStopped = true;
-    const npc = { go, agent, anims: go.getInChildren(Animator), pack, elapsed:0, moving:false, flip:false };
+    const npc = { go, agent, anims: go.getInChildren(Animator), pack, elapsed:0, moving:false, flip:false, restingState };
     this.list.push(npc);
     return npc;
   }
@@ -61,7 +62,7 @@ export class Npcs {
     }
   }
   draw(renderer, view) { for (const n of this.list) {
-    if (n.pack) { const p=n.go.transform.position; drawPackResident(renderer,n.pack,p[0],p[1],n.elapsed,n.moving,n.flip); }
+    if (n.pack) { const p=n.go.transform.position; drawPackResident(renderer,n.pack,p[0],p[1],n.elapsed,n.moving,n.flip,n.restingState); }
     else drawTree(renderer, G.assets, n.go, view);
   } }
 }

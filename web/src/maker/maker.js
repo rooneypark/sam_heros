@@ -26,6 +26,7 @@ const gl = $('gl'), ov = $('ov'), center = $('center'), dbg = $('debug');
 const octx = ov.getContext('2d');
 const GAME_CAMERA = CameraManager.DEFAULT_CAMERA;
 const AUTOSAVE = 'maker.autosave', LIBRARY = 'maker.maps';
+const JOY_RADIUS = 60;                        // run-mode joystick base radius (px)
 
 const S = {
   doc: null, mode: 'edit', paused: false, tool: 'select',
@@ -34,7 +35,7 @@ const S = {
   selected: null,                             // id of a placed unit / tree
   actors: new Map(),                          // id -> actor in the current world
   editCam: { position: [0, 0], size: 26 },
-  snapshot: null, moveTarget: null, hover: null, undo: [], busy: false, kind: '영웅', search: '', shown: 60,
+  snapshot: null, joy: null, hover: null, undo: [], busy: false, kind: '영웅', search: '', shown: 60,
   tcat: '기본', tsearch: '', tshown: 60,
 };
 let renderer, size = { w: 1, h: 1 }, UNITS = [], BRUSHES = TERRAIN;
@@ -151,7 +152,8 @@ async function startRun() {
   S.busy = true;
   S.snapshot = D.clone(S.doc);
   S.editCam = { position: [...G.CameraManager.position], size: G.CameraManager.size };
-  S.mode = 'run'; S.paused = false; S.moveTarget = null; S.ended = false;
+  S.mode = 'run'; S.paused = false; S.joy = null; S.ended = false;
+  G.Inventory.items.clear();                      // gathered wood / ore counted per run
   document.body.classList.add('run'); document.body.classList.remove('paused');
   $('btnPause').textContent = '일시정지';
   layout();
@@ -210,23 +212,14 @@ function renderSkillLog() {
   box.innerHTML = skillLog.map(l => `<div class="${l.team === TEAM.PLAYER ? 'ally' : 'enemy'}">${l.text}</div>`).join('');
 }
 function runStep(dt) {
-  const J = G.HeroManager.Joystick, c = G.HeroManager.heroCenterPos;
+  const J = G.HeroManager.Joystick;
   const keys = S.keys;
   const kx = (keys.has('d') || keys.has('arrowright') ? 1 : 0) - (keys.has('a') || keys.has('arrowleft') ? 1 : 0);
   const ky = (keys.has('w') || keys.has('arrowup') ? 1 : 0) - (keys.has('s') || keys.has('arrowdown') ? 1 : 0);
-  // while the button is held the target follows the cursor (the camera moves, so re-project every frame)
-  if (S.steer) S.moveTarget = screenToWorld(S.steer[0], S.steer[1]);
-  if (kx || ky) { S.moveTarget = null; J.isPointDown = true; J.Direction = [kx, ky]; }
-  else if (S.moveTarget && G.UnitManager.HeroUnits.length) {
-    const [x, y] = S.moveTarget;
-    if (Math.hypot(x - c[0], y - c[1]) < 1.2) { S.moveTarget = null; J.isPointDown = false; }
-    else {
-      const p = G.MapManager.navmesh.path(c[0], c[1], x, y) || [{ x, y }];
-      const n = p.find(q => Math.hypot(q.x - c[0], q.y - c[1]) > 0.6) || p[p.length - 1];
-      const dx = n.x - c[0], dy = n.y - c[1], L = Math.hypot(dx, dy) || 1;
-      J.isPointDown = true; J.Direction = [dx / L, dy / L];
-    }
-  } else J.isPointDown = false;
+  // floating joystick like the game (VariableJoystick): press anywhere, drag to steer, release to stop
+  if (kx || ky) { J.isPointDown = true; J.Direction = [kx, ky]; }
+  else if (S.joy) { J.isPointDown = true; J.Direction = S.joy.dir; }
+  else J.isPointDown = false;
   stepWorld(dt);
   G.CameraManager.update(dt);
   if (!S.ended) {
@@ -256,9 +249,8 @@ function onDown(e) {
     if (S.mode === 'edit') drag = { kind: 'pan', px, py, cam: [...G.CameraManager.position] };
     e.preventDefault(); return;
   }
-  // run: holding the button steers the party towards the cursor (like the game's joystick); a short click
-  // sends it to that point
-  if (S.mode === 'run') { S.moveTarget = [wx, wy]; drag = { kind: 'steer', px, py, moved: 0 }; S.steer = [px, py]; return; }
+  // run: the game's floating joystick — its base appears under the pointer, dragging steers the party
+  if (S.mode === 'run') { S.joy = { bg: [px, py], handle: [px, py], dir: [0, 0] }; drag = { kind: 'joy' }; return; }
   const brush = Number($('brushSize').value);
   if (S.tool === 'select') {
     const id = hitActor(wx, wy);
@@ -281,7 +273,14 @@ function onMove(e) {
   const [wx, wy] = screenToWorld(px, py);
   S.hover = [wx, wy];
   if (!drag) return;
-  if (drag.kind === 'steer') { drag.moved = Math.max(drag.moved, Math.hypot(px - drag.px, py - drag.py)); S.steer = [px, py]; return; }
+  if (drag.kind === 'joy' && S.joy) {
+    const R = JOY_RADIUS, j = S.joy;
+    let dx = (px - j.bg[0]) / R, dy = (py - j.bg[1]) / R;
+    const L = Math.hypot(dx, dy); if (L > 1) { dx /= L; dy /= L; }
+    j.handle = [j.bg[0] + dx * R, j.bg[1] + dy * R];
+    j.dir = [dx, -dy];                       // screen y is down, world y is up
+    return;
+  }
   const brush = Number($('brushSize').value);
   if (drag.kind === 'pan') {
     const k = G.CameraManager.size * 2 / size.h;
@@ -302,11 +301,7 @@ function onMove(e) {
   }
 }
 function onUp() {
-  if (drag?.kind === 'steer') {
-    S.steer = null;
-    if (drag.moved > 8) S.moveTarget = null;      // released after steering: the party stops
-    drag = null; return;
-  }
+  if (drag?.kind === 'joy') { S.joy = null; drag = null; return; }   // release: the party stops
   if (drag && drag.kind !== 'pan') autosave();
   drag = null;
 }
@@ -397,10 +392,12 @@ function drawOverlay() {
       const [sx, sy] = worldToScreen(lead.transform.position[0], lead.transform.position[1]);
       octx.lineWidth = 3; octx.strokeStyle = '#2ee6b0'; octx.beginPath(); octx.ellipse(sx, sy, 0.55 * k, 0.28 * k, 0, 0, Math.PI * 2); octx.stroke();
     }
-    if (S.moveTarget) {
-      const [sx, sy] = worldToScreen(S.moveTarget[0], S.moveTarget[1]);
-      octx.lineWidth = 2; octx.strokeStyle = '#ffffffcc'; octx.setLineDash([5, 4]);
-      octx.beginPath(); octx.ellipse(sx, sy, 0.5 * k, 0.26 * k, 0, 0, Math.PI * 2); octx.stroke(); octx.setLineDash([]);
+    if (S.joy) {
+      const j = S.joy;
+      octx.fillStyle = '#ffffff22'; octx.strokeStyle = '#ffffff88'; octx.lineWidth = 3;
+      octx.beginPath(); octx.arc(j.bg[0], j.bg[1], JOY_RADIUS, 0, Math.PI * 2); octx.fill(); octx.stroke();
+      octx.fillStyle = '#ffffff99';
+      octx.beginPath(); octx.arc(j.handle[0], j.handle[1], JOY_RADIUS * 0.42, 0, Math.PI * 2); octx.fill();
     }
   }
 }
@@ -469,6 +466,7 @@ function rotatePlaced(wx, wy) {
 }
 // unit palette: game tabs (우르르 용병단 = original units, 삼국히어로즈 = the pack), then kind / faction tabs
 const GAMES = [
+  { id: 'original', name: '우르르 용병단', kinds: ['영웅', '용병', '몬스터', '기타'] },
   { id: 'samguk', name: '삼국히어로즈', kinds: FACTIONS },
 ];
 const gameOf = id => GAMES.find(g => g.id === id);
@@ -631,7 +629,7 @@ async function main() {
   window.__G = G; window.__maker = S;
   const overridden = await loadSamgukOverrides();  // planners' table changes apply before units are listed
   if (overridden) { console.info(`samguk overrides: ${overridden} rows`); G.UnitManager.Initialize(); }
-  UNITS = [...await loadSamgukUnits(G.assets)];
+  UNITS = [...originalUnits(G.assets), ...await loadSamgukUnits(G.assets)];
   S.game = UNITS.some(u => u.source === 'samguk') ? 'samguk' : 'original';
   S.kind = gameOf(S.game).kinds.find(k => UNITS.some(u => u.source === S.game && u.kind === k)) || gameOf(S.game).kinds[0];
 
@@ -732,7 +730,8 @@ async function main() {
     }
     if (S.mode === 'edit') $('zPct').textContent = `${Math.round(GAME_CAMERA / G.CameraManager.size * 100)}%`;
     dbg.textContent = `${S.doc?.name || ''} · 유닛 ${S.doc?.maker.units.length || 0} · 나무 ${S.doc?.maker.trees.length || 0}` +
-      (S.mode === 'run' ? ` · 아군 ${G.UnitManager.HeroUnits.filter(h => !h.IsDead()).length} · 적군 ${G.UnitManager.monsters.filter(m => !m.IsDead()).length}` : '');
+      (S.mode === 'run' ? ` · 아군 ${G.UnitManager.HeroUnits.filter(h => !h.IsDead()).length} · 적군 ${G.UnitManager.monsters.filter(m => !m.IsDead()).length}` +
+        ` · 채집 나무 ${G.Inventory.count('TREE')} 광석 ${G.Inventory.count('STONE')}` : '');
     requestAnimationFrame(frame);
   }
   requestAnimationFrame(frame);

@@ -183,6 +183,8 @@ export class UnitBody {
   /** SpriteBody.OnAttackEnd @0x3555178 -> UnitBody.OnAttackEnd @0x3b75950 */
   OnAttackEnd() {
     if (this.Actor.IsDead()) return;
+    // Authored gathering can recover directly into the next swing without flashing the weapon idle.
+    if (this.Actor.TryContinueGather?.()) return;
     if (this.animator) { this.animator.speed = this.Actor.GetSlow(); this.animator.setBool('Attack', false); }
     this.OnEvent = null;
     this.go.transform.lp = [...this.LocalOrigin];

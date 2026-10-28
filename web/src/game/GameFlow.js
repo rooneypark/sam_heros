@@ -101,6 +101,7 @@ export class GameFlow {
       this.defeat = false;
       return;
     }
+    if (G.Chapter) { await G.Chapter.onWipe(); HM.Control = true; this.defeat = false; return; }   // 삼국 챕터 안전 지점 복귀
     // world defeat: OpenDefeatPopup ("터치하여 마을에서 부활하기") -> OpenFadeSoftPopup -> back to the bonfire, everyone revived
     await wait(1.5);
     await new Promise(res => G.UI.openPopup('prefab/ui/popup/uidefeatpopup', (p, f) => {

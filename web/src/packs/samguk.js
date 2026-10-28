@@ -8,6 +8,7 @@ import { packFrame } from './artFrames.js';
 import { registerCustomMotion } from './customMotion.js';
 import { packUnitsPath } from './reviewMode.js';
 import { registerMaterialTiles } from './materialTiles.js';
+import { withSamgukSkills } from './samgukSkills.js';
 
 export const SAMGUK_ROOT = '/samguk/';
 export const FACTIONS = ['위', '촉', '오', '군', '주민'];
@@ -129,7 +130,7 @@ export async function loadSamgukOverrides() {
 export async function loadSamgukUnits(assets) {
   try {
     const j = await fetchJSON(packUnitsPath());
-    return (j.units || []).map(d => register(d, assets)).filter(Boolean);
+    return (j.units || []).map(d => register(withSamgukSkills(d), assets)).filter(Boolean);
   } catch (e) {
     console.info('samguk pack not loaded:', e.message);
     return [];

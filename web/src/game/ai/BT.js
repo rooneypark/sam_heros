@@ -122,7 +122,7 @@ export class FindEnemyCondition extends Node {
     if (u.Team === TEAM.PLAYER) {
       const r = u.GetData(UNIT_STAT.DETECT_UNIT_RANGE);
       for (const a of G.UnitManager.overlapUnits(pos[0], pos[1], r)) {
-        if (a.IsDead() || a.Team === u.Team || !a.isUnit || a._currentState === UNIT_STATE.TOWN) continue;
+        if (a.IsDead() || a.Team === u.Team || !a.isUnit || a._currentState === UNIT_STATE.TOWN || a._invuln) continue;   // _invuln: 삼국 보스 전투 전
         const ap = a.GetActorPosition();
         const dd = d2(ap, pos);
         if (!(dd < best)) continue;
@@ -412,3 +412,6 @@ export function createBT(owner, type) {
   root.setUnitActor(owner);
   return root;
 }
+
+/** Same gathering branch used by the player AI, exposed for the in-engine motion test. */
+export function createGatheringBT(owner) { return BT.gathering(owner); }

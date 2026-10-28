@@ -3,7 +3,7 @@ import { G } from '../registry.js';
 import { Tables } from '../data/Tables.js';
 import { loadJSON } from '../../engine/assets.js';
 import { loadPrefab, instantiate, spriteNamesInTree } from '../../engine/prefab.js';
-import { Animator, drawTree } from '../../engine/components.js';
+import { Animator, drawTree, SpriteRenderer } from '../../engine/components.js';
 import { layoutText, drawText } from '../../engine/text.js';
 import { drawImage } from '../../engine/uidraw.js';
 import { applyBulletHit } from '../skill/Skill.js';
@@ -105,6 +105,7 @@ export class Effects {
     await G.assets.preloadSprites(clipSprites(G.assets, go));
     go.transform.lp = [pos[0], pos[1], 0];
     if (o.flip) go.transform.ls[0] *= -1;
+    if (o.range) go.transform.ls = [o.range, o.range, 1];   // InstantEffectActor.StartEffect(size): FlagRange circle radius
     for (const a of go.getInChildren(Animator)) a.speed = o.speed || 1;
     // EffectActor.Play: every ParticleSystem of the effect starts on spawn
     for (const g of go.walk()) if (g.ps) { g.ps.Play(); g.ps.wasActive = true; g.ps.d.simulationSpeed = (g.ps.d.simulationSpeed || 1); g.ps.speedMul = o.speed || 1; }
@@ -175,6 +176,48 @@ export class Bullets {
   } }
 }
 
+const BAR_MARGIN = 0.24;                        // gap between the head and the EXP bar (world units)
+/** world y of a pack unit's head top: its body sprite node + the first opaque row of its Idle frame (null until measured) */
+const HEAD = new Map();
+function headTop(u) {
+  const row = Tables.unit(u.Key);
+  const name = row?.npcArt?.frames?.Idle?.[0];
+  if (!name) return null;
+  if (HEAD.has(u.Key)) {
+    const v = HEAD.get(u.Key); if (v == null) return null;
+    // the body SpriteRenderer the pack art replaces (drawn below the unit origin in most prefabs)
+    if (!u._headNode) u._headNode = findPackBody(u.go.transform, u.go.spriteRemap) || u.go.transform;
+    const w = u._headNode.world();
+    return w[5] + v * Math.hypot(w[2], w[3]);
+  }
+  HEAD.set(u.Key, null);
+  const sp = G.assets.sprites[name];
+  if (!sp?.tex) return null;
+  const img = new Image();
+  img.onload = () => {
+    const c = document.createElement('canvas'); c.width = img.naturalWidth; c.height = img.naturalHeight;
+    const g = c.getContext('2d'); g.drawImage(img, 0, 0);
+    const a = g.getImageData(0, 0, c.width, c.height).data;
+    // first row at least ~36 px wide: a raised spear / glaive blade or a feather tip is not the head
+    let top = c.height;
+    for (let y = 0; y < c.height; y++) {
+      let n = 0;
+      for (let x = 0; x < c.width; x++) if (a[(y * c.width + x) * 4 + 3] > 40) n++;
+      if (n >= 36) { top = y; break; }
+    }
+    HEAD.set(u.Key, (c.height * (1 - sp.pivot[1]) - top) / (sp.ppu || 100));
+  };
+  img.src = encodeURI(sp.tex);
+  return null;
+}
+
+function findPackBody(t, remap) {
+  if (!remap) return null;
+  for (const c of t.go.components) if (c instanceof SpriteRenderer && c.sprite && remap(c.sprite, c.animationClip)) return t;
+  for (const ch of t.children) { const f = findPackBody(ch, remap); if (f) return f; }
+  return null;
+}
+
 /** World-space UI: floating numbers, simple talk bubbles, HP bars. */
 export class WorldUI {
   constructor() { this.nums = []; this.talks = []; }
@@ -200,16 +243,28 @@ export class WorldUI {
     this.talks = this.talks.filter(k => k.t < k.dur);
   }
   draw(renderer) {
-    // HP bars (WorldUIHPBar: 0.75 x 0.12 at scale 0.5, red fill, cyan shield)
+    // HP bars (WorldUIHPBar: 0.75 x 0.12 at scale 0.5, red fill, cyan shield); 삼국 챕터는 머리 끝 바로 위
+    const barAt = u => {
+      if (G.Chapter) { const top = headTop(u); if (top != null) return [u.transform.position[0], top + BAR_MARGIN + 0.03]; }
+      const p = u.UIGo.transform.position; return [p[0], p[1] + 1];
+    };
     for (const u of G.UnitManager.all) {
       if (!(u.hpBar.show > 0) || u.IsDead()) continue;
-      const p = u.UIGo.transform.position;
-      const w = 0.75 * 0.5, h = 0.12 * 0.5, x0 = p[0] - w / 2, y0 = p[1] + 1 - h / 2;
+      const p = barAt(u);
+      const w = 0.75 * 0.5, h = 0.12 * 0.5, x0 = p[0] - w / 2, y0 = p[1] - h / 2;
       const rate = Math.max(0, Math.min(1, u.GetHPRate()));
       renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0.1, g: 0.1, b: 0.1, a: 1, layer: 9, order: 0, sortY: -1e9 });
       renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 1, g: 0, b: 0, a: 1, layer: 9, order: 1, sortY: -1e9 });
       const sr = u.GetShieldRate();
       if (sr > 0.001) renderer.draw({ x: x0 + w * rate, y: y0, w: w * Math.min(sr, 1 - rate), h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0, g: 0.909, b: 1, a: 1, layer: 9, order: 2, sortY: -1e9 });
+    }
+    // 삼국 챕터: hero EXP bar under the HP bar (always shown for heroes)
+    if (G.Chapter) for (const u of G.UnitManager.HeroUnits) {
+      if (u.IsDead()) continue;
+      const p = barAt(u), rate = G.Chapter.expRate(u);
+      const w = 0.75 * 0.5, h = 0.05, x0 = p[0] - w / 2, y0 = p[1] - 0.06 / 2 - h - 0.012;
+      renderer.draw({ x: x0, y: y0, w, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 0.1, g: 0.1, b: 0.1, a: 1, layer: 9, order: 0, sortY: -1e9 });
+      renderer.draw({ x: x0, y: y0, w: w * rate, h, px: 0, py: 0, u0: 0, v0: 0, u1: 1, v1: 1, r: 1, g: 0.82, b: 0.2, a: 1, layer: 9, order: 1, sortY: -1e9 });
     }
     // WorldUIResurrection (1.5 x scale 0.5): white circle BG + green Radial360 fill from the top, clockwise
     for (const u of G.UnitManager.HeroUnits.concat(G.HeroManager.DeadHeroes)) {

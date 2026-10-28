@@ -31,12 +31,19 @@ async function main() {
     G.User.heroMax = Tables.define('PROLOGUE_HERO_COUNT');
   }
   let size = layout(renderer);
-  window.addEventListener('resize', () => { size = layout(renderer); });
+  window.addEventListener('resize', () => { size = layout(renderer); G.Chapter?.ui.resize(); });
   G.loadWorld = loadWorld;
 
-  if (params.has('new')) clearSave();
-  const save = !params.get('map') && hasSave() ? loadSave() : null;
-  const mapName = save ? save.map : (params.get('map') || 'World_prologue');
+  // ?pack=samguk (no ?map=): 1장 황건 소탕 — own map, own save profile (samguk.c1.<profile>), own UI; the original save is untouched
+  const chapter = params.get('pack') === 'samguk' && !params.get('map');
+  if (chapter) {
+    const { startChapter1 } = await import('./packs/chapter1/Chapter1.js');
+    await startChapter1({ stage, params });
+  }
+  if (params.has('new') && !chapter) clearSave();
+  const save = !chapter && !params.get('map') && hasSave() ? loadSave() : null;
+  const mapName = chapter ? G.MapManager.mapName : save ? save.map : (params.get('map') || 'World_prologue');
+  if (!chapter) {
   G.User.isPrologue = mapName === 'World_prologue';
   G.User.instantInvincibility = G.User.isPrologue;
   if (!G.User.isPrologue && !save) G.User.heroMax = Tables.define('DEFAULT_HERO_COUNT');
@@ -57,6 +64,7 @@ async function main() {
   setInterval(saveGame, 10000);
   window.addEventListener('beforeunload', saveGame);
   G.HeroManager.Control = true;
+  } else window.addEventListener('beforeunload', () => G.Chapter.save());
   window.__G = G;
 
   // ---------------------------------------------------------------- input
@@ -68,6 +76,7 @@ async function main() {
   canvas.addEventListener('pointerdown', e => { down = true; canvas.setPointerCapture(e.pointerId); const [x, y] = toCanvas(e); G.PrologueManager.onTouch();
     const cam = G.CameraManager, k = cam.size * 2 / G.UI.canvas.h;
     const wx = cam.position[0] + (x - G.UI.canvas.w / 2) * k, wy = cam.position[1] + (y - G.UI.canvas.h / 2) * k;
+    if (G.Chapter) { if (!G.Chapter.pointerDown(wx, wy) && !G.Chapter.paused) G.UI.pointerDown(x, y); return; }
     // an open popup takes the tap: the world (buildings) behind it is not clickable
     if (G.UI.hasModal() || !G.Buildings.pointerDown(wx, wy)) G.UI.pointerDown(x, y); });
   canvas.addEventListener('pointermove', e => { if (down) { const [x, y] = toCanvas(e); G.UI.pointerMove(x, y); } });
@@ -90,7 +99,8 @@ async function main() {
       J.isPointDown = (kx || ky) && G.HeroManager.control ? true : false;
       J.Direction = [kx, ky];
     }
-    stepWorld(dt);
+    G.Chapter?.update(dt);
+    if (!G.Chapter?.paused) stepWorld(dt);   // 필수 대화·시설 창 동안 게임 시간 정지
     G.CameraManager.update(dt);
     if (G.UI.hud) { G.HUD.bind(G.UI.hudFind); G.UI.updateHUD(dt); }
   }
@@ -124,7 +134,8 @@ async function main() {
     if (!G.SleepMode?.rendering && sleepFrame) { requestAnimationFrame(frame); return; }
 
     renderer.clear(0, 0, 0);
-    if (G.SleepMode?.rendering !== false) drawWorld(renderer, G.CameraManager, size.w / size.h);
+    if (G.SleepMode?.rendering !== false) drawWorld(renderer, G.CameraManager, size.w / size.h, G.Chapter ? r => G.Chapter.drawWorld(r) : null);
+    G.Chapter?.drawOverlay();
     // ---- UI pass (canvas units)
     renderer.begin();
     G.UI.draw(renderer);

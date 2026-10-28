@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import {UnitActor} from '../web/src/game/actor/UnitActor.js';
+import {UnitBody} from '../web/src/game/actor/UnitBody.js';
+import {G} from '../web/src/game/registry.js';
+import {Tables} from '../web/src/game/data/Tables.js';
+import {UNIT_STATE} from '../web/src/game/defs.js';
+import {Animator} from '../web/src/engine/components.js';
+import {GameObject} from '../web/src/engine/scene.js';
+import {makePackClip} from '../web/src/packs/customMotion.js';
+Tables.t={TableUnit:{test:{continuousGather:true},original:{}}};
+G.HeroManager={Control:true,Joystick:{isPointDown:false}};
+const skill={IsDelay:()=>false,CheckSkill:()=>true};
+const u={Key:'test',_currentSkill:skill,_gatheringSkill:skill,_currentState:UNIT_STATE.ACTION,IsDead:()=>false,IsStun:()=>false,UnitData:{},transform:{position:[0,0]},Target:{isResource:true,IsDead:()=>false,transform:{position:[-.7,0]}}};
+u.TryContinueGather=()=>UnitActor.prototype.TryContinueGather.call(u);
+let swings=0,hits=0;
+const clip=makePackClip('Hero','Gather',{ms:[83,84,83,83,84,83,83,84,100],hits:[500],loop:false});
+const go=new GameObject('body');const a=go.add(new Animator({anims:{g:clip}},{states:{Attack:{clip:'g'}}}));
+u.Body={animator:a,IsAttack:true};u.OnAttack=()=>{swings++;u.Body.IsAttack=true;};
+a.listeners.push(fn=>{if(fn==='OnAttackEvent')hits++;if(fn==='OnAttackEnd')UnitBody.prototype.OnAttackEnd.call({Actor:u});});
+a.play('Attack',0);for(let i=0;i<2300;i++)a.update(.001);
+assert.equal(swings,3);assert.equal(hits,3);assert.equal(a.state,'Attack');
+for(const [field,value] of [['IsMoving',true],['AutoMove',true],['IsCamp',true],['Control',false]]){const old=G.HeroManager[field];G.HeroManager[field]=value;assert.equal(u.TryContinueGather(),false,field);G.HeroManager[field]=old;}
+u.Target.IsDead=()=>true;assert.equal(u.TryContinueGather(),false);u.Target.IsDead=()=>false;
+u.Target.transform.position=[-2,0];assert.equal(u.TryContinueGather(),false);u.Target.transform.position=[-.7,0];
+u.Key='original';assert.equal(u.TryContinueGather(),false);
+console.log('PASS: 3 repeated real Animator cycles, 3 hits, no idle reset; move/camp/control/dead/out-of-range/original guards.');

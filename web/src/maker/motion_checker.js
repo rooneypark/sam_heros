@@ -13,7 +13,7 @@ async function main() {
   const stage = document.getElementById('boot');           // the engine canvas doubles as the effect stage
   const { renderer } = await bootEngine(stage, { hud: false });
   await loadSamgukOverrides();
-  const UNITS = [...await loadSamgukUnits(G.assets)];
+  const UNITS = [...originalUnits(G.assets), ...await loadSamgukUnits(G.assets)];
   await loadSamgukTiles(G.assets);
   const unitDef = key => UNITS.find(u => u.key === key);
   const view = createMotionView({ root: document.getElementById('motionView'), units: () => UNITS, unitDef, stage, renderer });
@@ -23,6 +23,7 @@ async function main() {
   const selected = requested === null ? UNITS.filter(u => u.source === 'samguk').map(u => u.key)
     : requested.split(',').filter(Boolean);
   for (const k of selected) view.add(k);
+  if (new URLSearchParams(location.search).get('test') === 'gather') view.testGather();
   status.textContent = `유닛 ${UNITS.length}종 · 삼국 ${UNITS.filter(u => u.source === 'samguk').length}종`;
   window.__G = G;
 }

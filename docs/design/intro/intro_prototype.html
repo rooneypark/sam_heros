@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>삼국히어로즈 인트로 시안</title>
+<style>
+  :root { --bg:#141110; --fg:#f3e9d8; --muted:#b9a88d; --line:#4a3a2a; --accent:#d9a447; }
+  @media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) { --bg:#f5efe4; --fg:#2a1d12; --muted:#6b5a44; --line:#d8c7ab; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font-family:'Malgun Gothic',sans-serif; display:flex; flex-wrap:wrap; gap:24px; justify-content:center; padding:16px; }
+  #stage { position:relative; width:min(390px, 92vw); aspect-ratio:9/19.5; background:#000; border-radius:18px; overflow:hidden; box-shadow:0 8px 30px rgba(0,0,0,.4); }
+  .side { max-width:420px; font-size:14px; line-height:1.6; }
+  .side h1 { font-size:20px; margin:4px 0 8px; } .side h2 { font-size:15px; margin:18px 0 6px; color:var(--accent); }
+  .side table { border-collapse:collapse; width:100%; font-size:13px; } .side td, .side th { border-bottom:1px solid var(--line); padding:4px 6px; text-align:left; vertical-align:top; }
+  .side .muted { color:var(--muted); font-size:12px; }
+  button { font:inherit; padding:8px 14px; border-radius:8px; border:1px solid var(--accent); background:#5a3d16; color:#fff; cursor:pointer; }
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<div class="side">
+  <h1>삼국히어로즈 타이틀 인트로 — 시안</h1>
+  <div class="muted">개발 시안(구현 확인용). 최종 그림·애니메이션은 디자이너 제작본으로 교체합니다. 장면 설명·타이밍은 같은 폴더의 STORYBOARD.md.</div>
+  <h2>재생</h2>
+  <button id="replay">다시 보기</button> <span class="muted">화면 탭: 연출 건너뛰기 → 한 번 더 탭하면 종료</span>
+  <h2>장면 순서 (초)</h2>
+  <table>
+    <tr><th>시간</th><th>장면</th></tr>
+    <tr><td>0.0</td><td>검은 화면</td></tr>
+    <tr><td>0.15~1.2</td><td>붉은 노을 하늘, 해가 튀어 오르며 커짐, 먹빛 산 2겹이 아래에서 올라옴, 불티 상승</td></tr>
+    <tr><td>0.9</td><td>관우: 화면 오른쪽 밖에서 왼쪽 자리로 질주 — 검은 잔상 3개 + 길게 늘어난 그림자가 몸을 따라 줄어듦 → 착지 찌그러짐·흙먼지 → 이름패 ‘관우 운장’</td></tr>
+    <tr><td>1.35</td><td>장비: 같은 방식으로 오른쪽 자리</td></tr>
+    <tr><td>1.85</td><td>유비: 가운데, 조금 크게</td></tr>
+    <tr><td>2.7</td><td>흰 섬광 + 로고 ‘삼국히어로즈’ 낙관처럼 크게 찍힘 + 화면 흔들림. 위 ‘도원의 세 영웅’, 아래 붉은 도장 ‘1장 황건 소탕’</td></tr>
+    <tr><td>3.4~</td><td>‘화면을 터치하세요’ 깜박임 → 탭하면 0.5초 페이드 후 게임(1장 제목·나레이션)</td></tr>
+  </table>
+</div>
+<script type="module">
+  import { playIntro } from '/web/src/packs/chapter1/introSplash.js';
+  const stage = document.getElementById('stage');
+  const run = () => { stage.innerHTML = ''; playIntro(stage, { root: '/samguk/' }).then(() => { stage.innerHTML = '<div style="color:#ffe6a8;text-align:center;margin-top:60%;font-size:18px">→ 게임 시작 (1장 제목 카드)</div>'; }); };
+  document.getElementById('replay').onclick = run;
+  run();
+</script>
+</body>
+</html>

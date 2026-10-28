@@ -106,7 +106,9 @@ export class UnitActor {
       }
     }
     // UserHero passive stats (training school ADDITION upgrades) for heroes in the world
-    if (this.Team === TEAM.PLAYER && !G.User.isPrologue) { applyTraining(this); applyFame(this); }
+    if (this.Team === TEAM.PLAYER && G.Chapter) G.Chapter.applyStats(this);   // 삼국 부대 훈련
+    else if (this.Team === TEAM.ENEMY && G.Chapter) G.Chapter.applyEnemyStats(this);   // 삼국 전용 일반 적 능력치
+    else if (this.Team === TEAM.PLAYER && !G.User.isPrologue) { applyTraining(this); applyFame(this); }
     if (this.UnitData.CurrentHP > this.UnitData.MaxHP) this.UnitData.CurrentHP = this.UnitData.MaxHP;
   }
 
@@ -234,6 +236,7 @@ export class UnitActor {
       const s = this._skills[i];
       s.UpdateSkillCondition();
       if (!s.CheckSkill()) continue;
+      if (G.Chapter && this.Team === TEAM.PLAYER && !G.Chapter.skillAllowed(this, s)) continue;   // 삼국 치유·버프 발동 조건
       this.CurrentSkill = s;
       let idx = -1;
       if (s.key === g?.defaultSkill) idx = 0;
@@ -282,6 +285,20 @@ export class UnitActor {
     this.Body.OnAttack(null, () => { this.CurrentSkill = null; this.SetState(UNIT_STATE.IDLE); });
     if (s.StartSkill(0, () => this.SetIdle(), ctx.index)) this.EnableEffect(td.castEffect, false, td.skillCastTime);
     else { this.SetIdle(); this.DisableEffect(); }
+  }
+
+  TryContinueGather() {
+    const s = this._currentSkill, target = this.Target, hm = G.HeroManager;
+    if (!Tables.unit(this.Key)?.continuousGather || s !== this._gatheringSkill || !s) return false;
+    if (this._currentState !== UNIT_STATE.ACTION || this.IsDead() || this.IsStun() || this.UnitData.InstantStop) return false;
+    if (!(hm?.Control || this.gatherPreview) || hm?.Joystick?.isPointDown || hm?.IsMoving || hm?.AutoMove || hm?.IsCamp) return false;
+    if (!target?.isResource || target.IsDead() || d2(this.transform.position, target.transform.position) > Math.fround(0.95)) return false;
+    if (s.IsDelay() || !s.CheckSkill()) return false;
+    this.Body.OnEvent = this.Body.OnEndEvent = null;
+    this.Body.IsAttack = false;
+    this.OnAttack(null, true);
+    this.Body.animator?.play('Attack', 0);
+    return true;
   }
 
   /** <OnAttack>g__InstantSkill|1 @0x3c3a374 */
@@ -361,7 +378,9 @@ export class UnitActor {
       G.InstantQuest?.add('MONSTER', 1);
       if (this.UnitData.EliteType && this.UnitData.EliteType !== 'NORMAL') G.InstantQuest?.add('ELITE_KILL', 1);
       if (this.UnitData.EliteType === 4) G.InstantQuest?.add('BOSS', 1);
-      if (G.MapManager.IsWorld) { G.Buildings?.drop(this); tryLoot(this, 2); monsterExp(this); }
+      // 삼국 챕터: no user EXP / meat / building drops — the chapter hands out hero EXP instead
+      if (G.Chapter) G.Chapter.onEnemyDead(this);
+      else if (G.MapManager.IsWorld) { G.Buildings?.drop(this); tryLoot(this, 2); monsterExp(this); }
       this.CCClear();
       if (G.User.isPrologue) {
         G.PrologueManager.MonsterKill++;
@@ -386,7 +405,7 @@ export class UnitActor {
         if (this.ShadowGo) this.ShadowGo.setActive(false);
         this.Body.Fade(0, 0.5, () => { this.DisableEffect(); G.UnitManager.despawn(this); });
       });
-    } else if (!G.User.isPrologue) {
+    } else if (!G.User.isPrologue && !G.Chapter) {   // 삼국 챕터: 필드 자동 부활 없음 (모닥불·전멸 복귀만)
       Timing.RunCoroutine(this._corField(G.UnitManager.ResurrectionTime), this, 'CorField');
     }
   }
@@ -412,7 +431,7 @@ export class UnitActor {
   Damage(damage, critical, attribute, show = true, trueDamage = false, addDps = true) {
     if (!this.Key || this._currentState === UNIT_STATE.DEAD) return 0;
     let tot = this.TotalStat();
-    if (tot.Invincibility) return 0;
+    if (tot.Invincibility || this._invuln) return 0;   // _invuln: 삼국 챕터 (boss before its fight, escorted villagers)
     if (this.Team === TEAM.PLAYER) {
       const bf = G.MapManager.BonfireActor;
       if (bf && bf.Activate && damage > 0) return 0;
@@ -444,7 +463,8 @@ export class UnitActor {
     let cur = tot.CurrentHP;
     if (damage > cur) damage = cur;
     if (cur - damage > tot.GetStat(S.HP)) damage = cur - tot.GetStat(S.HP);
-    if (damage > 0) tryLoot(this, 1);   // LOOT_TYPE.HIT
+    if (damage > 0 && !G.Chapter) tryLoot(this, 1);   // LOOT_TYPE.HIT
+    if (damage > 0 && G.Chapter) G.Chapter.lastCombat = Timing.time;   // 전투 판정 (최근 3초 유효 피해)
     this._showDamage(damage, critical, show);
     if (damage > 0) {
       if (this.AddUnitData.CurrentHP + this.AddUnitData.Shield > damage) {

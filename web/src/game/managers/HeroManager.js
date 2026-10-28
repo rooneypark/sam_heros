@@ -68,6 +68,14 @@ export class HeroManager {
   /** JoystickControl @0x1ed1734 */
   JoystickControl() {
     const j = this.Joystick;
+    // Joystick pointer up -> SetFlag(false) @0x1ed2198: FlagRange circle (ReturnDist + 1) at the group point
+    // (CheckCenter first: the group point snaps to the heroes' centre, so the ring spreads from the party)
+    if (this._wasDown && !j.isPointDown && this.GetHeroCount() > 0) {
+      const c = this.GetHeroCenterPos();
+      if (!(G.Fog && G.Fog.blocks(c[0], c[1]))) this.transform.position = [c[0], c[1]];
+      this.FlagEffect(this.transform.position, 0);
+    }
+    this._wasDown = j.isPointDown;
     this.arrow.active = j.isPointDown;
     if (!j.isPointDown || this.GetHeroCount() < 1) { this.heroGroupPointTrans.lp = [0, 0, 0]; return; }
     let [dx, dy] = j.Direction;
