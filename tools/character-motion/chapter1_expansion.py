@@ -29,7 +29,8 @@ for slug,name,uid,idle,run,atk in SPECS:
  root=R/'chapter-1'/slug;(root/'sources').mkdir(parents=True,exist_ok=True)
  framesBy={};meta={};targetFace=None
  for state,source,cols,rows in [('idle',idle,4,1),('run',run,3,2)]+([('basic-attack',atk,4,2)] if atk else []):
-  sourcefile=G/('exec-'+source+'.png');shutil.copy2(sourcefile,root/'sources'/(state+'.png'))
+  sourcefile=root/'sources'/(state+'.png')
+  if not sourcefile.exists():shutil.copy2(G/('exec-'+source+'.png'),sourcefile)
   sheet=Image.open(sourcefile).convert('RGBA');cw=sheet.width/cols;ch=sheet.height/rows
   cells=[sheet.crop((round(i%cols*cw),round(i//cols*ch),round((i%cols+1)*cw),round((i//cols+1)*ch))) for i in range(cols*rows)]
   faces=[face(im) for im in cells]
@@ -71,7 +72,9 @@ for slug,name,uid,idle,run,atk in SPECS:
  units['units'].append(u);gallery.append((slug,name,list(framesBy)))
  manifest[uid]={str(p.relative_to(R)):hashlib.sha256(p.read_bytes()).hexdigest() for p in root.rglob('frame-*.png')}
  (root/'README.md').write_text(f'# {name}\n\n2026-10-28 신규 검토본, 사용자 승인 전. 350×350 RGBA, 왼쪽, pivot(0.5,0.3).\n원본은 original, 숨쉬기4는 idle, 이동6은 run'+('、공격8은 basic-attack' if atk else '')+'. 각 폴더 GIF/개별프레임/시트/시간메타데이터 참조. sources는 내장 image_gen 제작 원본. 원작 애니메이션 분석값으로 주장하지 않는다.\n',encoding='utf8')
-arrow=Image.open(G/'exec-e7c5a835-42a4-4b4c-962e-63cf051e4cad.png').convert('RGBA');arrow=arrow.crop(arrow.getbbox());arrow=arrow.resize((65,round(arrow.height*65/arrow.width)),Image.Resampling.LANCZOS)
+arrow_source=R/'chapter-1/yellow-turban-archer/sources/arrow.png'
+if not arrow_source.exists():shutil.copy2(G/'exec-e7c5a835-42a4-4b4c-962e-63cf051e4cad.png',arrow_source)
+arrow=Image.open(arrow_source).convert('RGBA');arrow=arrow.crop(arrow.getbbox());arrow=arrow.resize((65,round(arrow.height*65/arrow.width)),Image.Resampling.LANCZOS)
 out=R/'chapter-1/yellow-turban-archer/projectile';out.mkdir(exist_ok=True);arrow.save(out/'arrow.png')
 (R/'content/samguk/units.json').write_text(json.dumps(units,ensure_ascii=False,indent=2),encoding='utf8')
 review=R/'chapter-1/expansion-review';review.mkdir(exist_ok=True)

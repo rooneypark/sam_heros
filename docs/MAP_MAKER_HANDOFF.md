@@ -1,3 +1,5 @@
+> **2026-10-28 맵·신규 캐릭터 인계:** [현재 리소스 위치와 다른 PC 실행 가이드](CHAPTER1_MAP_CHARACTERS_HANDOFF.md)를 먼저 읽는다. 황건 창병·궁병·대장장이·주모 4종 추가, 총15종. 신규4종과 맵 재작화는 검토본이며 아직 승인 전이다.
+
 > 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
 
 > 2026-10-28 늑대 최신 승인: chapter-1/yellow-turban-wolf에 축소 외형·숨쉬기·물기와 dog-reference-v7 이동6프레임(각80ms)을 반영. SG_M0002 모션체커/맵메이커 공통 자산. 이전 늑대는 DELETE_ME/wolf-before-approved-v7-2026-10-28 보존.
