@@ -648,6 +648,108 @@
       "shape": "area",
       "material": "art/environment/chapter-1/water-material.png",
       "shore": "#75c2d5"
+    },
+    {
+      "id": "sg2_market",
+      "name": "작은 채소 장터",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/market.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_meal_table",
+      "name": "주막 평상",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/meal_table.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_fishing",
+      "name": "강가 어구",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/fishing.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_woodshop",
+      "name": "벌목 작업대",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/woodshop.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_shrine",
+      "name": "길가 작은 사당",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/shrine.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
+    },
+    {
+      "id": "sg2_supply",
+      "name": "황건군 보급대",
+      "layer": "decoData",
+      "type": "single",
+      "sprite": "art/environment/chapter-1-polish/supply.png",
+      "ppu": 100,
+      "pivot": [
+        0.5,
+        0.12
+      ],
+      "blocks": false,
+      "footprint": [
+        1,
+        1
+      ]
     }
   ]
 }

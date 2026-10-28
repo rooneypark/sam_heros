@@ -1,0 +1,153 @@
+{
+  "liu-bei": {
+    "original_paths": [
+      "gather-natural-2026-10-28/liu-bei-review/frame-01.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-02.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-03.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-04.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-05.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-06.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-07.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-08.png",
+      "gather-natural-2026-10-28/liu-bei-review/frame-09.png"
+    ],
+    "delta_rgb": {
+      "dark": [
+        13.0,
+        11.0,
+        12.0
+      ],
+      "white": [
+        2.0,
+        1.0,
+        -3.0
+      ],
+      "skin": [
+        2.0,
+        3.0,
+        3.0
+      ],
+      "green": [
+        1.0,
+        1.0,
+        -2.0
+      ],
+      "gold": [
+        4.0,
+        -1.0,
+        0.0
+      ]
+    },
+    "alpha_geometry_preserved": true
+  },
+  "guan-yu": {
+    "original_paths": [
+      "new-motions-2026-10-28/guan-yu/gather/frame-01.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-02.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-03.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-04.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-05.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-06.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-07.png",
+      "new-motions-2026-10-28/guan-yu/gather/frame-08.png"
+    ],
+    "delta_rgb": {
+      "dark": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "green": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "red": [
+        1.0,
+        -1.0,
+        0.0
+      ],
+      "gold": [
+        0.0,
+        -1.0,
+        -2.0
+      ]
+    },
+    "alpha_geometry_preserved": true
+  },
+  "zhang-fei": {
+    "original_paths": [
+      "new-motions-2026-10-28/zhang-fei/gather/frame-01.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-02.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-03.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-04.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-05.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-06.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-07.png",
+      "new-motions-2026-10-28/zhang-fei/gather/frame-08.png"
+    ],
+    "delta_rgb": {
+      "dark": [
+        1.0,
+        1.0,
+        2.0
+      ],
+      "skin": [
+        0.0,
+        1.0,
+        -1.0
+      ],
+      "red": [
+        4.0,
+        0.0,
+        -2.0
+      ],
+      "gold": [
+        1.0,
+        7.0,
+        0.0
+      ],
+      "gray": [
+        8.5,
+        8.0,
+        9.0
+      ]
+    },
+    "alpha_geometry_preserved": true
+  },
+  "zhao-yun": {
+    "original_paths": [
+      "new-motions-2026-10-28/zhao-yun/gather/frame-01.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-02.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-03.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-04.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-05.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-06.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-07.png",
+      "new-motions-2026-10-28/zhao-yun/gather/frame-08.png"
+    ],
+    "delta_rgb": {
+      "dark": [
+        -10.0,
+        -13.5,
+        -15.0
+      ],
+      "white": [
+        2.0,
+        1.0,
+        2.0
+      ],
+      "skin": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "blue": [
+        0.0,
+        18.0,
+        0.0
+      ]
+    },
+    "alpha_geometry_preserved": true
+  }
+}

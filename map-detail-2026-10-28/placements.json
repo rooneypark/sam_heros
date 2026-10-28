@@ -1,0 +1,3362 @@
+[
+  {
+    "n": "sg2_logs",
+    "x": 26,
+    "y": 110,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 26,
+    "y": 104,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 29,
+    "y": 97,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 33,
+    "y": 99,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 41,
+    "y": 118,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 36,
+    "y": 120,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 29,
+    "y": 120,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 50,
+    "y": 106,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 45,
+    "y": 111,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 47,
+    "y": 103,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 66,
+    "y": 46,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 62,
+    "y": 53,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 57,
+    "y": 54,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 53,
+    "y": 51,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 57,
+    "y": 39,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 62,
+    "y": 42,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 64,
+    "y": 60,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 62,
+    "y": 67,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 55,
+    "y": 69,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 52,
+    "y": 64,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 54,
+    "y": 61,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 58,
+    "y": 57,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 61,
+    "y": 56,
+    "zone": "sg2_tavern"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 62,
+    "y": 79,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 64,
+    "y": 85,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 56,
+    "y": 86,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 53,
+    "y": 84,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 52,
+    "y": 77,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 56,
+    "y": 73,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 61,
+    "y": 77,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 78,
+    "y": 83,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 75,
+    "y": 88,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 69,
+    "y": 88,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 66,
+    "y": 85,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 66,
+    "y": 82,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 76,
+    "y": 78,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 80,
+    "y": 44,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 78,
+    "y": 50,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 70,
+    "y": 50,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 66,
+    "y": 44,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 71,
+    "y": 39,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 76,
+    "y": 40,
+    "zone": "sg2_blacksmith"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 96,
+    "y": 85,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 92,
+    "y": 91,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 87,
+    "y": 92,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 82,
+    "y": 88,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 83,
+    "y": 82,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 87,
+    "y": 80,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 102,
+    "y": 44,
+    "zone": "sg2_armory"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 99,
+    "y": 50,
+    "zone": "sg2_armory"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 93,
+    "y": 49,
+    "zone": "sg2_armory"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 91,
+    "y": 45,
+    "zone": "sg2_armory"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 101,
+    "y": 39,
+    "zone": "sg2_armory"
+  },
+  {
+    "n": "sg2_farm",
+    "x": 108,
+    "y": 61,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 97,
+    "y": 69,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 96,
+    "y": 64,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 94,
+    "y": 60,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 99,
+    "y": 54,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 103,
+    "y": 58,
+    "zone": "sg2_cottage"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 122,
+    "y": 37,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 121,
+    "y": 31,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 123,
+    "y": 26,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 130,
+    "y": 25,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 130,
+    "y": 51,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 122,
+    "y": 48,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 122,
+    "y": 41,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 119,
+    "y": 122,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 147,
+    "y": 33,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 142,
+    "y": 36,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 135,
+    "y": 26,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 143,
+    "y": 26,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 146,
+    "y": 45,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 140,
+    "y": 51,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 134,
+    "y": 46,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 143,
+    "y": 37,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 146,
+    "y": 123,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 144,
+    "y": 128,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_rack",
+    "x": 146,
+    "y": 133,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 140,
+    "y": 141,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 135,
+    "y": 139,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 45,
+    "y": 113,
+    "zone": "sg2_cage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 36,
+    "y": 118,
+    "zone": "sg2_cage"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 140,
+    "y": 49,
+    "zone": "sg2_cage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 134,
+    "y": 53,
+    "zone": "sg2_cage"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 129,
+    "y": 48,
+    "zone": "sg2_cage"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 165,
+    "y": 165,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 152,
+    "y": 165,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_jar",
+    "x": 152,
+    "y": 159,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_planks",
+    "x": 159,
+    "y": 159,
+    "zone": "sg2_tent"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 170,
+    "y": 168,
+    "zone": "sg2_barracks"
+  },
+  {
+    "n": "sg2_torch",
+    "x": 195,
+    "y": 193,
+    "zone": "sg2_altar"
+  },
+  {
+    "n": "sg2_banner",
+    "x": 185,
+    "y": 197,
+    "zone": "sg2_altar"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 28,
+    "y": 51,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 30,
+    "y": 44,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 22,
+    "y": 49,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 24,
+    "y": 42,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 22,
+    "y": 43,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 32,
+    "y": 44,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 29,
+    "y": 45,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 31,
+    "y": 42,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 23,
+    "y": 43,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 16,
+    "y": 47,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 27,
+    "y": 41,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 23,
+    "y": 46,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 24,
+    "y": 57,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 33,
+    "y": 52,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 34,
+    "y": 42,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 28,
+    "y": 48,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 35,
+    "y": 32,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 21,
+    "y": 53,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 27,
+    "y": 52,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 26,
+    "y": 49,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 50,
+    "y": 15,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 51,
+    "y": 19,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 53,
+    "y": 14,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 43,
+    "y": 23,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 58,
+    "y": 14,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 51,
+    "y": 22,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 57,
+    "y": 18,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 54,
+    "y": 20,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 55,
+    "y": 15,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 50,
+    "y": 17,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 32,
+    "y": 66,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 27,
+    "y": 74,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 34,
+    "y": 69,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 43,
+    "y": 69,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 35,
+    "y": 68,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 42,
+    "y": 60,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 39,
+    "y": 68,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 38,
+    "y": 80,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 36,
+    "y": 74,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 39,
+    "y": 70,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 41,
+    "y": 57,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 45,
+    "y": 67,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 37,
+    "y": 72,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 33,
+    "y": 54,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 74,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 67,
+    "y": 24,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 57,
+    "y": 32,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 60,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 65,
+    "y": 19,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 53,
+    "y": 30,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 61,
+    "y": 33,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 49,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 57,
+    "y": 20,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 59,
+    "y": 23,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 55,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 63,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 65,
+    "y": 34,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 67,
+    "y": 28,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 54,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 62,
+    "y": 23,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 66,
+    "y": 22,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 67,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 55,
+    "y": 23,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 56,
+    "y": 9,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 82,
+    "y": 17,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 70,
+    "y": 30,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 71,
+    "y": 30,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 82,
+    "y": 37,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 83,
+    "y": 29,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 80,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 79,
+    "y": 16,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 74,
+    "y": 38,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 79,
+    "y": 21,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 70,
+    "y": 24,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 78,
+    "y": 27,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 72,
+    "y": 27,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 81,
+    "y": 22,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 70,
+    "y": 13,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 84,
+    "y": 30,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 82,
+    "y": 20,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 80,
+    "y": 20,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 71,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 82,
+    "y": 15,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 73,
+    "y": 22,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 81,
+    "y": 28,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 75,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 106,
+    "y": 18,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 106,
+    "y": 30,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 107,
+    "y": 29,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 112,
+    "y": 26,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 113,
+    "y": 17,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 113,
+    "y": 21,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 102,
+    "y": 27,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 91,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 104,
+    "y": 22,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 99,
+    "y": 31,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 96,
+    "y": 32,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 105,
+    "y": 20,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 103,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 107,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 98,
+    "y": 32,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 99,
+    "y": 25,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 100,
+    "y": 28,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 103,
+    "y": 28,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 101,
+    "y": 41,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 109,
+    "y": 64,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 97,
+    "y": 53,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 113,
+    "y": 49,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 108,
+    "y": 63,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 109,
+    "y": 52,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 107,
+    "y": 61,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 109,
+    "y": 66,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 87,
+    "y": 51,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 106,
+    "y": 62,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 119,
+    "y": 63,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 117,
+    "y": 49,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 108,
+    "y": 48,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 118,
+    "y": 47,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 116,
+    "y": 74,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 119,
+    "y": 85,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 111,
+    "y": 88,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 118,
+    "y": 76,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 122,
+    "y": 75,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 108,
+    "y": 72,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 113,
+    "y": 78,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 117,
+    "y": 87,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 116,
+    "y": 73,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 106,
+    "y": 81,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 114,
+    "y": 86,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 122,
+    "y": 77,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 114,
+    "y": 75,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 109,
+    "y": 76,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 123,
+    "y": 79,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 114,
+    "y": 82,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 91,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 88,
+    "y": 94,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 103,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 86,
+    "y": 90,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 85,
+    "y": 108,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 91,
+    "y": 95,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 93,
+    "y": 96,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 91,
+    "y": 93,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 83,
+    "y": 98,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 85,
+    "y": 95,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 80,
+    "y": 97,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 87,
+    "y": 89,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 94,
+    "y": 102,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 77,
+    "y": 94,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 99,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 82,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 86,
+    "y": 102,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 84,
+    "y": 88,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 88,
+    "y": 99,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 102,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 49,
+    "y": 109,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 62,
+    "y": 98,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 68,
+    "y": 93,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 61,
+    "y": 108,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 60,
+    "y": 112,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 52,
+    "y": 106,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 56,
+    "y": 100,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 62,
+    "y": 100,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 51,
+    "y": 103,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 64,
+    "y": 97,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 60,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 61,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 49,
+    "y": 88,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 20,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 28,
+    "y": 86,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 22,
+    "y": 86,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 22,
+    "y": 96,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 30,
+    "y": 84,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 30,
+    "y": 83,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 22,
+    "y": 90,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 36,
+    "y": 82,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 26,
+    "y": 89,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 32,
+    "y": 83,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 26,
+    "y": 84,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 32,
+    "y": 86,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 27,
+    "y": 89,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 18,
+    "y": 94,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 22,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 29,
+    "y": 122,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 17,
+    "y": 117,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 35,
+    "y": 122,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 22,
+    "y": 115,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 11,
+    "y": 118,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 29,
+    "y": 118,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 39,
+    "y": 120,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 26,
+    "y": 112,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 17,
+    "y": 123,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 34,
+    "y": 120,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 22,
+    "y": 113,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 56,
+    "y": 119,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 62,
+    "y": 113,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 60,
+    "y": 118,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 62,
+    "y": 124,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 58,
+    "y": 111,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 64,
+    "y": 128,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 54,
+    "y": 121,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 52,
+    "y": 117,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 63,
+    "y": 119,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 52,
+    "y": 120,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 70,
+    "y": 125,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 59,
+    "y": 120,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 72,
+    "y": 118,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 67,
+    "y": 124,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 61,
+    "y": 121,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 57,
+    "y": 121,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 103,
+    "y": 130,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 101,
+    "y": 123,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 95,
+    "y": 132,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 98,
+    "y": 124,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 103,
+    "y": 124,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 104,
+    "y": 127,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 84,
+    "y": 115,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 136,
+    "y": 87,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 128,
+    "y": 78,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 130,
+    "y": 77,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 132,
+    "y": 98,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 120,
+    "y": 85,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 127,
+    "y": 95,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 118,
+    "y": 69,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 122,
+    "y": 85,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 130,
+    "y": 96,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 125,
+    "y": 97,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 144,
+    "y": 57,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 143,
+    "y": 62,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 137,
+    "y": 57,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 133,
+    "y": 72,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 135,
+    "y": 69,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 139,
+    "y": 67,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 139,
+    "y": 57,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 135,
+    "y": 51,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 150,
+    "y": 53,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 132,
+    "y": 68,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 139,
+    "y": 63,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 135,
+    "y": 67,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 141,
+    "y": 64,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 136,
+    "y": 71,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 148,
+    "y": 90,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 152,
+    "y": 90,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 154,
+    "y": 99,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 142,
+    "y": 89,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 152,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 146,
+    "y": 89,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 148,
+    "y": 94,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 154,
+    "y": 93,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 150,
+    "y": 102,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 144,
+    "y": 92,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 142,
+    "y": 96,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 156,
+    "y": 104,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 145,
+    "y": 102,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 146,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 147,
+    "y": 99,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 158,
+    "y": 104,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 149,
+    "y": 91,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 148,
+    "y": 93,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 150,
+    "y": 88,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 172,
+    "y": 107,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 159,
+    "y": 101,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 168,
+    "y": 104,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 167,
+    "y": 109,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 163,
+    "y": 110,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 159,
+    "y": 122,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 158,
+    "y": 103,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 171,
+    "y": 110,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 172,
+    "y": 117,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 149,
+    "y": 104,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 172,
+    "y": 112,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 163,
+    "y": 100,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 170,
+    "y": 111,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 161,
+    "y": 103,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 159,
+    "y": 108,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 172,
+    "y": 99,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 156,
+    "y": 95,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 162,
+    "y": 106,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 163,
+    "y": 104,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 119,
+    "y": 138,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 125,
+    "y": 147,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 113,
+    "y": 142,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 118,
+    "y": 139,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 118,
+    "y": 136,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 114,
+    "y": 133,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 115,
+    "y": 137,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 109,
+    "y": 141,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 107,
+    "y": 139,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 123,
+    "y": 140,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 114,
+    "y": 125,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 116,
+    "y": 129,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 109,
+    "y": 136,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 116,
+    "y": 132,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 146,
+    "y": 132,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 150,
+    "y": 133,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 154,
+    "y": 131,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 149,
+    "y": 138,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 146,
+    "y": 129,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 147,
+    "y": 132,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 159,
+    "y": 134,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 148,
+    "y": 133,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 141,
+    "y": 145,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 150,
+    "y": 125,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 152,
+    "y": 131,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 145,
+    "y": 123,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 150,
+    "y": 128,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 160,
+    "y": 131,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 145,
+    "y": 136,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 137,
+    "y": 155,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 136,
+    "y": 160,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 136,
+    "y": 158,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 129,
+    "y": 163,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 138,
+    "y": 156,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 139,
+    "y": 153,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 131,
+    "y": 156,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_flowers",
+    "x": 133,
+    "y": 148,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 144,
+    "y": 152,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 128,
+    "y": 160,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_oak",
+    "x": 144,
+    "y": 165,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 142,
+    "y": 167,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 146,
+    "y": 152,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 136,
+    "y": 157,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 139,
+    "y": 149,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_tree",
+    "x": 133,
+    "y": 152,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 135,
+    "y": 152,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 174,
+    "y": 143,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 170,
+    "y": 141,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 164,
+    "y": 147,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_dead_tree",
+    "x": 157,
+    "y": 135,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 167,
+    "y": 148,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_dead_tree",
+    "x": 159,
+    "y": 138,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 160,
+    "y": 137,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 184,
+    "y": 168,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 182,
+    "y": 163,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 175,
+    "y": 159,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 178,
+    "y": 161,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 172,
+    "y": 154,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 172,
+    "y": 156,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 185,
+    "y": 168,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 171,
+    "y": 185,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 199,
+    "y": 196,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 204,
+    "y": 187,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 202,
+    "y": 186,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_dead_tree",
+    "x": 202,
+    "y": 199,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 196,
+    "y": 193,
+    "zone": "grove"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 18,
+    "y": 207,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 24,
+    "y": 198,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 21,
+    "y": 200,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 23,
+    "y": 184,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 23,
+    "y": 182,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 28,
+    "y": 180,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 26,
+    "y": 181,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 29,
+    "y": 178,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 35,
+    "y": 190,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 34,
+    "y": 189,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 32,
+    "y": 190,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 33,
+    "y": 191,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 45,
+    "y": 176,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 44,
+    "y": 180,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 41,
+    "y": 181,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 54,
+    "y": 171,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 52,
+    "y": 172,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 53,
+    "y": 169,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 50,
+    "y": 172,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 55,
+    "y": 150,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 53,
+    "y": 151,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 54,
+    "y": 152,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 56,
+    "y": 148,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 57,
+    "y": 147,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 63,
+    "y": 160,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 61,
+    "y": 160,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 65,
+    "y": 143,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 66,
+    "y": 141,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 81,
+    "y": 144,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 77,
+    "y": 145,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 77,
+    "y": 130,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 75,
+    "y": 131,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 75,
+    "y": 129,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 78,
+    "y": 127,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 80,
+    "y": 127,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 81,
+    "y": 126,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 84,
+    "y": 123,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 83,
+    "y": 126,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 86,
+    "y": 136,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 88,
+    "y": 136,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 83,
+    "y": 139,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 84,
+    "y": 137,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 89,
+    "y": 114,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 89,
+    "y": 118,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 94,
+    "y": 112,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 92,
+    "y": 112,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 98,
+    "y": 109,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 125,
+    "y": 81,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 127,
+    "y": 80,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 129,
+    "y": 76,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 131,
+    "y": 76,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 143,
+    "y": 80,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 144,
+    "y": 79,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 142,
+    "y": 81,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 140,
+    "y": 84,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 140,
+    "y": 69,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 137,
+    "y": 66,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 138,
+    "y": 69,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 140,
+    "y": 66,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 145,
+    "y": 62,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 149,
+    "y": 60,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 148,
+    "y": 59,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 151,
+    "y": 54,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 152,
+    "y": 57,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 149,
+    "y": 56,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 153,
+    "y": 53,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 154,
+    "y": 51,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 155,
+    "y": 53,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 155,
+    "y": 49,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 158,
+    "y": 48,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 158,
+    "y": 51,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 159,
+    "y": 46,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 167,
+    "y": 39,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 172,
+    "y": 34,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 170,
+    "y": 34,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 175,
+    "y": 48,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 173,
+    "y": 49,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 179,
+    "y": 24,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 181,
+    "y": 25,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 183,
+    "y": 21,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 186,
+    "y": 21,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 182,
+    "y": 24,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 186,
+    "y": 19,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 189,
+    "y": 18,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 189,
+    "y": 16,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 194,
+    "y": 10,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 194,
+    "y": 12,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 201,
+    "y": 6,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 197,
+    "y": 8,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 200,
+    "y": 9,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_reeds",
+    "x": 201,
+    "y": 4,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 203,
+    "y": 4,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 203,
+    "y": 19,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_stones",
+    "x": 207,
+    "y": 16,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 201,
+    "y": 22,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 208,
+    "y": 14,
+    "zone": "riverbank"
+  },
+  {
+    "n": "sg2_cart",
+    "x": 33,
+    "y": 46,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_stump",
+    "x": 41,
+    "y": 46,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 33,
+    "y": 50,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 37,
+    "y": 50,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 41,
+    "y": 50,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 37,
+    "y": 54,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 112,
+    "y": 64,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 108,
+    "y": 68,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 112,
+    "y": 68,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 116,
+    "y": 68,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 88,
+    "y": 103,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_stump",
+    "x": 92,
+    "y": 103,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 88,
+    "y": 107,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 92,
+    "y": 107,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 84,
+    "y": 111,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 88,
+    "y": 111,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_cart",
+    "x": 27,
+    "y": 91,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_stump",
+    "x": 35,
+    "y": 91,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 27,
+    "y": 95,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 31,
+    "y": 95,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 31,
+    "y": 99,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_cart",
+    "x": 135,
+    "y": 103,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_stump",
+    "x": 143,
+    "y": 103,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_logs",
+    "x": 135,
+    "y": 107,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_barrel",
+    "x": 139,
+    "y": 107,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_sacks",
+    "x": 143,
+    "y": 107,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_grass",
+    "x": 135,
+    "y": 111,
+    "zone": "logging-supply"
+  },
+  {
+    "n": "sg2_bush",
+    "x": 139,
+    "y": 111,
+    "zone": "logging-supply"
+  }
+]

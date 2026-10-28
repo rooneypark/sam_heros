@@ -1,0 +1,1 @@
+Fresh imagegen from approved original, not arm patch. All 9 poses drawn together, both arms visible. Single scale 0.48148148148148145. Last recovery uses first pose exactly. Final palette correction follows. Previous guan-yu-redraw is retired, not referenced.

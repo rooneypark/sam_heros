@@ -1,0 +1,1545 @@
+{
+  "objects": [
+    {
+      "n": "market",
+      "x": 68,
+      "y": 55,
+      "zone": "village-market"
+    },
+    {
+      "n": "sacks",
+      "x": 71,
+      "y": 58,
+      "zone": "village-market"
+    },
+    {
+      "n": "jar",
+      "x": 68,
+      "y": 58,
+      "zone": "village-market"
+    },
+    {
+      "n": "flowers",
+      "x": 72,
+      "y": 55,
+      "zone": "village-market"
+    },
+    {
+      "n": "bush",
+      "x": 65,
+      "y": 52,
+      "zone": "village-market"
+    },
+    {
+      "n": "meal_table",
+      "x": 56,
+      "y": 64,
+      "zone": "tavern-courtyard"
+    },
+    {
+      "n": "jar",
+      "x": 59,
+      "y": 64,
+      "zone": "tavern-courtyard"
+    },
+    {
+      "n": "barrel",
+      "x": 56,
+      "y": 67,
+      "zone": "tavern-courtyard"
+    },
+    {
+      "n": "flowers",
+      "x": 55,
+      "y": 61,
+      "zone": "tavern-courtyard"
+    },
+    {
+      "n": "flowers",
+      "x": 59,
+      "y": 66,
+      "zone": "tavern-courtyard"
+    },
+    {
+      "n": "market",
+      "x": 93,
+      "y": 65,
+      "zone": "village-produce"
+    },
+    {
+      "n": "farm",
+      "x": 96,
+      "y": 66,
+      "zone": "village-produce"
+    },
+    {
+      "n": "farm",
+      "x": 89,
+      "y": 65,
+      "zone": "village-produce"
+    },
+    {
+      "n": "sacks",
+      "x": 92,
+      "y": 62,
+      "zone": "village-produce"
+    },
+    {
+      "n": "flowers",
+      "x": 95,
+      "y": 68,
+      "zone": "village-produce"
+    },
+    {
+      "n": "woodshop",
+      "x": 26,
+      "y": 61,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "logs",
+      "x": 28,
+      "y": 59,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "stump",
+      "x": 26,
+      "y": 64,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "cart",
+      "x": 25,
+      "y": 58,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "bush",
+      "x": 29,
+      "y": 62,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "grass",
+      "x": 24,
+      "y": 62,
+      "zone": "southern-woodlot"
+    },
+    {
+      "n": "woodshop",
+      "x": 61,
+      "y": 104,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "logs",
+      "x": 63,
+      "y": 102,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "stump",
+      "x": 61,
+      "y": 107,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "logs",
+      "x": 60,
+      "y": 101,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "barrel",
+      "x": 64,
+      "y": 105,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "oak",
+      "x": 59,
+      "y": 105,
+      "zone": "western-woodlot"
+    },
+    {
+      "n": "woodshop",
+      "x": 81,
+      "y": 31,
+      "zone": "smith-supplies"
+    },
+    {
+      "n": "logs",
+      "x": 84,
+      "y": 31,
+      "zone": "smith-supplies"
+    },
+    {
+      "n": "barrel",
+      "x": 81,
+      "y": 34,
+      "zone": "smith-supplies"
+    },
+    {
+      "n": "stones",
+      "x": 80,
+      "y": 28,
+      "zone": "smith-supplies"
+    },
+    {
+      "n": "grass",
+      "x": 84,
+      "y": 33,
+      "zone": "smith-supplies"
+    },
+    {
+      "n": "fishing",
+      "x": 84,
+      "y": 108,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "reeds",
+      "x": 86,
+      "y": 106,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "reeds",
+      "x": 83,
+      "y": 111,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "stones",
+      "x": 83,
+      "y": 105,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "barrel",
+      "x": 87,
+      "y": 109,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "grass",
+      "x": 82,
+      "y": 109,
+      "zone": "south-riverbank"
+    },
+    {
+      "n": "fishing",
+      "x": 91,
+      "y": 78,
+      "zone": "village-pond"
+    },
+    {
+      "n": "reeds",
+      "x": 87,
+      "y": 73,
+      "zone": "village-pond"
+    },
+    {
+      "n": "stones",
+      "x": 89,
+      "y": 80,
+      "zone": "village-pond"
+    },
+    {
+      "n": "flowers",
+      "x": 90,
+      "y": 75,
+      "zone": "village-pond"
+    },
+    {
+      "n": "grass",
+      "x": 88,
+      "y": 81,
+      "zone": "village-pond"
+    },
+    {
+      "n": "shrine",
+      "x": 28,
+      "y": 38,
+      "zone": "entrance-waypoint"
+    },
+    {
+      "n": "flowers",
+      "x": 30,
+      "y": 36,
+      "zone": "entrance-waypoint"
+    },
+    {
+      "n": "flowers",
+      "x": 28,
+      "y": 41,
+      "zone": "entrance-waypoint"
+    },
+    {
+      "n": "stones",
+      "x": 27,
+      "y": 35,
+      "zone": "entrance-waypoint"
+    },
+    {
+      "n": "bush",
+      "x": 31,
+      "y": 39,
+      "zone": "entrance-waypoint"
+    },
+    {
+      "n": "shrine",
+      "x": 123,
+      "y": 100,
+      "zone": "bridge-waypoint"
+    },
+    {
+      "n": "stones",
+      "x": 126,
+      "y": 99,
+      "zone": "bridge-waypoint"
+    },
+    {
+      "n": "flowers",
+      "x": 123,
+      "y": 103,
+      "zone": "bridge-waypoint"
+    },
+    {
+      "n": "bush",
+      "x": 123,
+      "y": 97,
+      "zone": "bridge-waypoint"
+    },
+    {
+      "n": "grass",
+      "x": 126,
+      "y": 101,
+      "zone": "bridge-waypoint"
+    },
+    {
+      "n": "supply",
+      "x": 139,
+      "y": 54,
+      "zone": "eastern-camp"
+    },
+    {
+      "n": "sacks",
+      "x": 142,
+      "y": 54,
+      "zone": "eastern-camp"
+    },
+    {
+      "n": "rack",
+      "x": 138,
+      "y": 57,
+      "zone": "eastern-camp"
+    },
+    {
+      "n": "barrel",
+      "x": 138,
+      "y": 51,
+      "zone": "eastern-camp"
+    },
+    {
+      "n": "grass",
+      "x": 142,
+      "y": 56,
+      "zone": "eastern-camp"
+    },
+    {
+      "n": "supply",
+      "x": 140,
+      "y": 169,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "sacks",
+      "x": 143,
+      "y": 169,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "torch",
+      "x": 138,
+      "y": 171,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "dead_tree",
+      "x": 137,
+      "y": 173,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "stones",
+      "x": 143,
+      "y": 171,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "supply",
+      "x": 180,
+      "y": 150,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "barrel",
+      "x": 182,
+      "y": 148,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "torch",
+      "x": 177,
+      "y": 147,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "stones",
+      "x": 179,
+      "y": 147,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "grass",
+      "x": 177,
+      "y": 145,
+      "zone": "northern-camp"
+    },
+    {
+      "n": "stones",
+      "x": 31,
+      "y": 28,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 33,
+      "y": 31,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 38,
+      "y": 23,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 36,
+      "y": 23,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 41,
+      "y": 21,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 45,
+      "y": 25,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 47,
+      "y": 24,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 44,
+      "y": 23,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 50,
+      "y": 29,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 46,
+      "y": 34,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 53,
+      "y": 97,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 55,
+      "y": 35,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 60,
+      "y": 81,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 72,
+      "y": 48,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 68,
+      "y": 46,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 69,
+      "y": 51,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 73,
+      "y": 52,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 71,
+      "y": 49,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 73,
+      "y": 53,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 73,
+      "y": 73,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 83,
+      "y": 78,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 87,
+      "y": 71,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 86,
+      "y": 85,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 92,
+      "y": 58,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 93,
+      "y": 58,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 100,
+      "y": 53,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 98,
+      "y": 51,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 98,
+      "y": 98,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 115,
+      "y": 54,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 113,
+      "y": 51,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 111,
+      "y": 112,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 112,
+      "y": 58,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 111,
+      "y": 58,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 113,
+      "y": 113,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 113,
+      "y": 114,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 120,
+      "y": 109,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 113,
+      "y": 53,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 122,
+      "y": 46,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 119,
+      "y": 58,
+      "zone": "path-verge"
+    },
+    {
+      "n": "flowers",
+      "x": 126,
+      "y": 52,
+      "zone": "path-verge"
+    },
+    {
+      "n": "stones",
+      "x": 155,
+      "y": 153,
+      "zone": "path-verge"
+    },
+    {
+      "n": "grass",
+      "x": 154,
+      "y": 152,
+      "zone": "path-verge"
+    },
+    {
+      "n": "bush",
+      "x": 165,
+      "y": 150,
+      "zone": "path-verge"
+    },
+    {
+      "n": "reeds",
+      "x": 22,
+      "y": 199,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 19,
+      "y": 204,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 19,
+      "y": 202,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 25,
+      "y": 182,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 30,
+      "y": 177,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 31,
+      "y": 177,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 40,
+      "y": 181,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 39,
+      "y": 182,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 37,
+      "y": 185,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 39,
+      "y": 166,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 39,
+      "y": 167,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 45,
+      "y": 175,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 47,
+      "y": 176,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 42,
+      "y": 179,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 47,
+      "y": 161,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 48,
+      "y": 158,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 49,
+      "y": 158,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 51,
+      "y": 170,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 50,
+      "y": 173,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 48,
+      "y": 173,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 53,
+      "y": 155,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 58,
+      "y": 165,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 58,
+      "y": 163,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 56,
+      "y": 167,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 54,
+      "y": 167,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 70,
+      "y": 151,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 68,
+      "y": 155,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 66,
+      "y": 154,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 67,
+      "y": 139,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 68,
+      "y": 140,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 70,
+      "y": 137,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 79,
+      "y": 127,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 80,
+      "y": 128,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 82,
+      "y": 141,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 86,
+      "y": 137,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 86,
+      "y": 122,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 87,
+      "y": 119,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 90,
+      "y": 116,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 101,
+      "y": 80,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 99,
+      "y": 80,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 101,
+      "y": 83,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 99,
+      "y": 83,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 98,
+      "y": 86,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 98,
+      "y": 111,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 97,
+      "y": 109,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 100,
+      "y": 107,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 104,
+      "y": 120,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 101,
+      "y": 122,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 100,
+      "y": 121,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 104,
+      "y": 104,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 121,
+      "y": 102,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 119,
+      "y": 104,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 117,
+      "y": 104,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 118,
+      "y": 88,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 119,
+      "y": 88,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 121,
+      "y": 87,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 130,
+      "y": 91,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 130,
+      "y": 93,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 134,
+      "y": 89,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 132,
+      "y": 88,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 129,
+      "y": 77,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 134,
+      "y": 75,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 132,
+      "y": 74,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 135,
+      "y": 85,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 139,
+      "y": 83,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 145,
+      "y": 76,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 144,
+      "y": 77,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 154,
+      "y": 69,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 154,
+      "y": 68,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 151,
+      "y": 71,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 151,
+      "y": 70,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 157,
+      "y": 49,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 157,
+      "y": 66,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 157,
+      "y": 64,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 169,
+      "y": 52,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 169,
+      "y": 53,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 166,
+      "y": 42,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 165,
+      "y": 41,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 170,
+      "y": 37,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 172,
+      "y": 35,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 175,
+      "y": 32,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 178,
+      "y": 44,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 174,
+      "y": 47,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 181,
+      "y": 41,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 181,
+      "y": 42,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 179,
+      "y": 45,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 193,
+      "y": 28,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 194,
+      "y": 30,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 189,
+      "y": 32,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 191,
+      "y": 32,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 191,
+      "y": 17,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 193,
+      "y": 14,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 195,
+      "y": 10,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 197,
+      "y": 11,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 198,
+      "y": 8,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "reeds",
+      "x": 199,
+      "y": 24,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "stones",
+      "x": 207,
+      "y": 14,
+      "zone": "shore-pocket"
+    },
+    {
+      "n": "grass",
+      "x": 205,
+      "y": 16,
+      "zone": "shore-pocket"
+    }
+  ],
+  "filled_junctions": [
+    {
+      "n": "sg2_yard",
+      "x": 48,
+      "y": 58
+    },
+    {
+      "n": "sg2_yard",
+      "x": 66,
+      "y": 61
+    },
+    {
+      "n": "sg2_yard",
+      "x": 54,
+      "y": 64
+    },
+    {
+      "n": "sg2_yard",
+      "x": 65,
+      "y": 55
+    },
+    {
+      "n": "sg2_yard",
+      "x": 54,
+      "y": 54
+    },
+    {
+      "n": "sg2_yard",
+      "x": 68,
+      "y": 63
+    },
+    {
+      "n": "sg2_yard",
+      "x": 56,
+      "y": 66
+    },
+    {
+      "n": "sg2_yard",
+      "x": 56,
+      "y": 56
+    },
+    {
+      "n": "sg2_yard",
+      "x": 55,
+      "y": 50
+    },
+    {
+      "n": "sg2_yard",
+      "x": 62,
+      "y": 67
+    },
+    {
+      "n": "sg2_yard",
+      "x": 50,
+      "y": 60
+    },
+    {
+      "n": "sg2_yard",
+      "x": 64,
+      "y": 69
+    },
+    {
+      "n": "sg2_yard",
+      "x": 52,
+      "y": 62
+    },
+    {
+      "n": "sg2_yard",
+      "x": 53,
+      "y": 63
+    },
+    {
+      "n": "sg2_yard",
+      "x": 53,
+      "y": 53
+    },
+    {
+      "n": "sg2_yard",
+      "x": 59,
+      "y": 69
+    },
+    {
+      "n": "sg2_yard",
+      "x": 55,
+      "y": 65
+    },
+    {
+      "n": "sg2_yard",
+      "x": 59,
+      "y": 49
+    },
+    {
+      "n": "sg2_yard",
+      "x": 61,
+      "y": 51
+    },
+    {
+      "n": "sg2_yard",
+      "x": 60,
+      "y": 55
+    },
+    {
+      "n": "sg2_yard",
+      "x": 67,
+      "y": 62
+    },
+    {
+      "n": "sg2_yard",
+      "x": 51,
+      "y": 61
+    },
+    {
+      "n": "sg2_yard",
+      "x": 69,
+      "y": 64
+    },
+    {
+      "n": "sg2_yard",
+      "x": 57,
+      "y": 67
+    },
+    {
+      "n": "sg2_yard",
+      "x": 58,
+      "y": 68
+    },
+    {
+      "n": "sg2_yard",
+      "x": 57,
+      "y": 57
+    },
+    {
+      "n": "sg2_yard",
+      "x": 63,
+      "y": 53
+    },
+    {
+      "n": "sg2_yard",
+      "x": 66,
+      "y": 66
+    },
+    {
+      "n": "sg2_yard",
+      "x": 66,
+      "y": 56
+    },
+    {
+      "n": "sg2_yard",
+      "x": 54,
+      "y": 59
+    },
+    {
+      "n": "sg2_yard",
+      "x": 68,
+      "y": 68
+    },
+    {
+      "n": "sg2_yard",
+      "x": 68,
+      "y": 58
+    },
+    {
+      "n": "sg2_yard",
+      "x": 56,
+      "y": 61
+    },
+    {
+      "n": "sg2_yard",
+      "x": 56,
+      "y": 51
+    },
+    {
+      "n": "sg2_yard",
+      "x": 55,
+      "y": 55
+    },
+    {
+      "n": "sg2_yard",
+      "x": 63,
+      "y": 68
+    },
+    {
+      "n": "sg2_yard",
+      "x": 62,
+      "y": 52
+    },
+    {
+      "n": "sg2_yard",
+      "x": 50,
+      "y": 55
+    },
+    {
+      "n": "sg2_yard",
+      "x": 65,
+      "y": 65
+    },
+    {
+      "n": "sg2_yard",
+      "x": 64,
+      "y": 54
+    },
+    {
+      "n": "sg2_yard",
+      "x": 52,
+      "y": 57
+    },
+    {
+      "n": "sg2_yard",
+      "x": 53,
+      "y": 58
+    },
+    {
+      "n": "sg2_yard",
+      "x": 59,
+      "y": 54
+    },
+    {
+      "n": "sg2_yard",
+      "x": 55,
+      "y": 60
+    },
+    {
+      "n": "sg2_yard",
+      "x": 58,
+      "y": 48
+    },
+    {
+      "n": "sg2_yard",
+      "x": 61,
+      "y": 66
+    },
+    {
+      "n": "sg2_yard",
+      "x": 61,
+      "y": 56
+    },
+    {
+      "n": "sg2_yard",
+      "x": 49,
+      "y": 59
+    },
+    {
+      "n": "sg2_yard",
+      "x": 60,
+      "y": 50
+    },
+    {
+      "n": "sg2_yard",
+      "x": 67,
+      "y": 67
+    },
+    {
+      "n": "sg2_yard",
+      "x": 67,
+      "y": 57
+    },
+    {
+      "n": "sg2_yard",
+      "x": 51,
+      "y": 56
+    },
+    {
+      "n": "sg2_yard",
+      "x": 69,
+      "y": 59
+    },
+    {
+      "n": "sg2_yard",
+      "x": 57,
+      "y": 62
+    },
+    {
+      "n": "sg2_yard",
+      "x": 57,
+      "y": 52
+    },
+    {
+      "n": "sg2_yard",
+      "x": 58,
+      "y": 53
+    },
+    {
+      "n": "sg2_yard",
+      "x": 60,
+      "y": 65
+    }
+  ]
+}

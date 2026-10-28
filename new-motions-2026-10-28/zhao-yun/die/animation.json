@@ -1,0 +1,19 @@
+{
+  "status": "review",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 1,
+  "durations_ms": [
+    1000
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "uniform_scale": 0.25505443234836706,
+  "crop_basis": "alpha > 128 bounds + 3px margin",
+  "content_width": 164
+}

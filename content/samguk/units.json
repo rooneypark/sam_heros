@@ -66,6 +66,17 @@
           ],
           "Die": [
             "liu-bei/die/frame-01.png"
+          ],
+          "Gather": [
+            "gather-finish-2026-10-28/liu-bei/frame-01.png",
+            "gather-finish-2026-10-28/liu-bei/frame-02.png",
+            "gather-finish-2026-10-28/liu-bei/frame-03.png",
+            "gather-finish-2026-10-28/liu-bei/frame-04.png",
+            "gather-finish-2026-10-28/liu-bei/frame-05.png",
+            "gather-finish-2026-10-28/liu-bei/frame-06.png",
+            "gather-finish-2026-10-28/liu-bei/frame-07.png",
+            "gather-finish-2026-10-28/liu-bei/frame-08.png",
+            "gather-finish-2026-10-28/liu-bei/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -110,6 +121,13 @@
               0.3
             ],
             "ppu": 100
+          },
+          "Gather": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
           }
         }
       },
@@ -200,6 +218,15 @@
             "isAlways": true,
             "atkCnt": false
           }
+        },
+        "gatheringSkill": {
+          "base": "Skill013001",
+          "state": "Gather",
+          "actions": [
+            {
+              "base": "SkillAction000003"
+            }
+          ]
         }
       },
       "levels": [
@@ -208,7 +235,7 @@
           "defaultSkill": "SG_U0001_defaultSkill",
           "skillA": "SG_U0001_skillA",
           "skillB": "SG_U0001_skillB",
-          "gatheringSkill": ""
+          "gatheringSkill": "SG_U0001_gatheringSkill"
         }
       ],
       "motion": {
@@ -335,6 +362,24 @@
           ],
           "loop": false,
           "hits": []
+        },
+        "Gather": {
+          "ms": [
+            83,
+            84,
+            83,
+            83,
+            84,
+            83,
+            83,
+            84,
+            100
+          ],
+          "hits": [
+            500
+          ],
+          "loop": false,
+          "continuous": true
         }
       },
       "motionTimingBasis": "delivered-animation-json"
@@ -398,11 +443,22 @@
             "guan-yu/skill-2/frame-04.png",
             "guan-yu/skill-2/frame-05.png",
             "guan-yu/skill-2/frame-06.png",
-            "guan-yu/skill-2/frame-07.png",
+            "corrections/2026-10-28/guan-skill2/frame-07.png",
             "guan-yu/skill-2/frame-08.png"
           ],
           "Die": [
             "guan-yu/die/frame-01.png"
+          ],
+          "Gather": [
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-01.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-02.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-03.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-04.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-05.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-06.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-07.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-08.png",
+            "gather-finish-2026-10-28/guan-yu-fresh/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -447,6 +503,13 @@
               0.3
             ],
             "ppu": 100
+          },
+          "Gather": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
           }
         }
       },
@@ -553,6 +616,15 @@
             "isAlways": false,
             "atkCnt": false
           }
+        },
+        "gatheringSkill": {
+          "base": "Skill019001",
+          "state": "Gather",
+          "actions": [
+            {
+              "base": "SkillAction000003"
+            }
+          ]
         }
       },
       "levels": [
@@ -561,7 +633,7 @@
           "defaultSkill": "SG_U0002_defaultSkill",
           "skillA": "SG_U0002_skillA",
           "skillB": "SG_U0002_skillB",
-          "gatheringSkill": ""
+          "gatheringSkill": "SG_U0002_gatheringSkill"
         }
       ],
       "motion": {
@@ -689,6 +761,24 @@
           ],
           "loop": false,
           "hits": []
+        },
+        "Gather": {
+          "ms": [
+            83,
+            84,
+            83,
+            83,
+            84,
+            83,
+            83,
+            84,
+            100
+          ],
+          "hits": [
+            500
+          ],
+          "loop": false,
+          "continuous": true
         }
       },
       "motionTimingBasis": "delivered-animation-json"
@@ -757,6 +847,17 @@
           ],
           "Die": [
             "zhang-fei/die/frame-01.png"
+          ],
+          "Gather": [
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-01.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-02.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-03.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-04.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-05.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-06.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-07.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-08.png",
+            "gather-finish-2026-10-28/zhang-fei-redraw/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -801,6 +902,13 @@
               0.3
             ],
             "ppu": 100
+          },
+          "Gather": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
           }
         }
       },
@@ -884,6 +992,15 @@
               }
             }
           ]
+        },
+        "gatheringSkill": {
+          "base": "Skill030001",
+          "state": "Gather",
+          "actions": [
+            {
+              "base": "SkillAction000003"
+            }
+          ]
         }
       },
       "levels": [
@@ -892,7 +1009,7 @@
           "defaultSkill": "SG_U0003_defaultSkill",
           "skillA": "SG_U0003_skillA",
           "skillB": "SG_U0003_skillB",
-          "gatheringSkill": ""
+          "gatheringSkill": "SG_U0003_gatheringSkill"
         }
       ],
       "motion": {
@@ -1020,6 +1137,24 @@
           ],
           "loop": false,
           "hits": []
+        },
+        "Gather": {
+          "ms": [
+            83,
+            84,
+            83,
+            83,
+            84,
+            83,
+            83,
+            84,
+            100
+          ],
+          "hits": [
+            500
+          ],
+          "loop": false,
+          "continuous": true
         }
       },
       "motionTimingBasis": "delivered-animation-json"
@@ -1085,6 +1220,20 @@
             "zhao-yun/skill-2/frame-06.png",
             "zhao-yun/skill-2/frame-07.png",
             "zhao-yun/skill-2/frame-08.png"
+          ],
+          "Gather": [
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-01.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-02.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-03.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-04.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-05.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-06.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-07.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-08.png",
+            "gather-finish-2026-10-28/zhao-yun-redraw/frame-09.png"
+          ],
+          "Die": [
+            "new-motions-2026-10-28/zhao-yun/die/frame-01.png"
           ]
         },
         "stateMeta": {
@@ -1122,6 +1271,20 @@
               0.3
             ],
             "ppu": 100
+          },
+          "Gather": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
+          },
+          "Die": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
           }
         }
       },
@@ -1237,6 +1400,31 @@
           "hits": [
             420
           ]
+        },
+        "Gather": {
+          "ms": [
+            83,
+            84,
+            83,
+            83,
+            84,
+            83,
+            83,
+            84,
+            100
+          ],
+          "hits": [
+            500
+          ],
+          "loop": false,
+          "continuous": true
+        },
+        "Die": {
+          "ms": [
+            1000
+          ],
+          "hits": [],
+          "loop": false
         }
       },
       "skills": {
@@ -1296,6 +1484,15 @@
             "skillDelay": 0,
             "isAlways": true
           }
+        },
+        "gatheringSkill": {
+          "base": "Skill001001",
+          "state": "Gather",
+          "actions": [
+            {
+              "base": "SkillAction000003"
+            }
+          ]
         }
       },
       "levels": [
@@ -1304,108 +1501,7 @@
           "defaultSkill": "SG_U0004_defaultSkill",
           "skillA": "SG_U0004_skillA",
           "skillB": "SG_U0004_skillB",
-          "gatheringSkill": ""
-        }
-      ],
-      "motionTimingBasis": "authored"
-    },
-    {
-      "id": "SG_N0001",
-      "name": "주민 · 여성",
-      "faction": "주민",
-      "base": "Unit000001",
-      "grade": "",
-      "gradeType": "NORMAL",
-      "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
-      "art": {
-        "icon": "chapter-1/village-woman/original/original.png",
-        "portrait": "chapter-1/village-woman/original/original.png",
-        "static": "chapter-1/village-woman/idle/frame-01.png",
-        "ppu": 100,
-        "pivot": [
-          0.5,
-          0.3
-        ],
-        "facing": "left",
-        "frames": {
-          "Idle": [
-            "chapter-1/village-woman/idle/frame-01.png",
-            "chapter-1/village-woman/idle/frame-02.png",
-            "chapter-1/village-woman/idle/frame-03.png",
-            "chapter-1/village-woman/idle/frame-04.png"
-          ],
-          "Move": [
-            "chapter-1/village-woman/run/frame-01.png",
-            "chapter-1/village-woman/run/frame-02.png",
-            "chapter-1/village-woman/run/frame-03.png",
-            "chapter-1/village-woman/run/frame-04.png",
-            "chapter-1/village-woman/run/frame-05.png",
-            "chapter-1/village-woman/run/frame-06.png"
-          ]
-        },
-        "stateMeta": {
-          "Idle": {
-            "pivot": [
-              0.5,
-              0.3
-            ],
-            "ppu": 100
-          },
-          "Move": {
-            "pivot": [
-              0.5,
-              0.3
-            ],
-            "ppu": 100
-          }
-        }
-      },
-      "motion": {
-        "Idle": {
-          "sequence": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "ms": [
-            300,
-            300,
-            300,
-            300
-          ],
-          "loop": true,
-          "hits": []
-        },
-        "Move": {
-          "sequence": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "ms": [
-            100,
-            100,
-            100,
-            100,
-            100,
-            100
-          ],
-          "loop": true,
-          "hits": []
-        }
-      },
-      "skills": {},
-      "levels": [
-        {
-          "level": 1,
-          "defaultSkill": "",
-          "skillA": "",
-          "skillB": "",
-          "gatheringSkill": ""
+          "gatheringSkill": "SG_U0004_gatheringSkill"
         }
       ],
       "motionTimingBasis": "authored"
@@ -1420,7 +1516,7 @@
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
         "icon": "chapter-1/village-boy/original/original.png",
-        "portrait": "chapter-1/village-boy/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/boy.png",
         "static": "chapter-1/village-boy/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
@@ -1521,7 +1617,7 @@
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
         "icon": "chapter-1/village-elder/original/original.png",
-        "portrait": "chapter-1/village-elder/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/elder.png",
         "static": "chapter-1/village-elder/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
@@ -1950,7 +2046,7 @@
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
         "icon": "chapter-1/guan-hai/original/original.png",
-        "portrait": "chapter-1/guan-hai/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/guan-hai.png",
         "static": "chapter-1/guan-hai/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
@@ -2176,7 +2272,7 @@
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
         "icon": "chapter-1/zhang-jiao/original/original.png",
-        "portrait": "chapter-1/zhang-jiao/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/zhang-jiao.png",
         "static": "chapter-1/zhang-jiao/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
@@ -2489,10 +2585,10 @@
           "Attack": [
             "chapter-1/yellow-turban-spearman/basic-attack/frame-01.png",
             "chapter-1/yellow-turban-spearman/basic-attack/frame-02.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-03.png",
+            "motion-cleanup-2026-10-28/SG_M0005/attack-03.png",
             "chapter-1/yellow-turban-spearman/basic-attack/frame-04.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-05.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-06.png",
+            "motion-cleanup-2026-10-28/SG_M0005/attack-05.png",
+            "motion-cleanup-2026-10-28/SG_M0005/attack-06.png",
             "chapter-1/yellow-turban-spearman/basic-attack/frame-07.png",
             "chapter-1/yellow-turban-spearman/basic-attack/frame-08.png"
           ]
@@ -2634,8 +2730,8 @@
             "chapter-1/yellow-turban-archer/basic-attack/frame-02.png",
             "chapter-1/yellow-turban-archer/basic-attack/frame-03.png",
             "chapter-1/yellow-turban-archer/basic-attack/frame-04.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-05.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-06.png",
+            "motion-cleanup-2026-10-28/SG_M0006/attack-05.png",
+            "motion-cleanup-2026-10-28/SG_M0006/attack-06.png",
             "chapter-1/yellow-turban-archer/basic-attack/frame-07.png",
             "chapter-1/yellow-turban-archer/basic-attack/frame-08.png"
           ]
@@ -2758,7 +2854,7 @@
       "gradeType": "NORMAL",
       "art": {
         "icon": "chapter-1/village-blacksmith/original/original.png",
-        "portrait": "chapter-1/village-blacksmith/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/blacksmith.png",
         "static": "chapter-1/village-blacksmith/original/original.png",
         "ppu": 100,
         "pivot": [
@@ -2780,7 +2876,26 @@
             "chapter-1/village-blacksmith/run/frame-04.png",
             "chapter-1/village-blacksmith/run/frame-05.png",
             "chapter-1/village-blacksmith/run/frame-06.png"
+          ],
+          "Work": [
+            "npc-work-2026-10-28/village-blacksmith/frame-01.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-02.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-03.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-04.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-05.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-06.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-07.png",
+            "npc-work-2026-10-28/village-blacksmith/frame-08.png"
           ]
+        },
+        "stateMeta": {
+          "Work": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
+          }
         }
       },
       "motion": {
@@ -2819,6 +2934,20 @@
           ],
           "loop": true,
           "hits": []
+        },
+        "Work": {
+          "ms": [
+            350,
+            160,
+            220,
+            100,
+            220,
+            180,
+            200,
+            350
+          ],
+          "hits": [],
+          "loop": true
         }
       },
       "motionTimingBasis": "authored",
@@ -2843,7 +2972,7 @@
       "gradeType": "NORMAL",
       "art": {
         "icon": "chapter-1/village-hostess/original/original.png",
-        "portrait": "chapter-1/village-hostess/original/original.png",
+        "portrait": "npc-portraits-2026-10-28/hostess.png",
         "static": "chapter-1/village-hostess/original/original.png",
         "ppu": 100,
         "pivot": [
@@ -2865,7 +2994,26 @@
             "chapter-1/village-hostess/run/frame-04.png",
             "chapter-1/village-hostess/run/frame-05.png",
             "chapter-1/village-hostess/run/frame-06.png"
+          ],
+          "Work": [
+            "npc-work-2026-10-28/village-hostess/frame-01.png",
+            "npc-work-2026-10-28/village-hostess/frame-02.png",
+            "npc-work-2026-10-28/village-hostess/frame-03.png",
+            "npc-work-2026-10-28/village-hostess/frame-04.png",
+            "npc-work-2026-10-28/village-hostess/frame-05.png",
+            "npc-work-2026-10-28/village-hostess/frame-06.png",
+            "npc-work-2026-10-28/village-hostess/frame-07.png",
+            "npc-work-2026-10-28/village-hostess/frame-08.png"
           ]
+        },
+        "stateMeta": {
+          "Work": {
+            "ppu": 100,
+            "pivot": [
+              0.5,
+              0.3
+            ]
+          }
         }
       },
       "motion": {
@@ -2904,6 +3052,20 @@
           ],
           "loop": true,
           "hits": []
+        },
+        "Work": {
+          "ms": [
+            300,
+            260,
+            300,
+            350,
+            500,
+            300,
+            300,
+            300
+          ],
+          "hits": [],
+          "loop": true
         }
       },
       "motionTimingBasis": "authored",
@@ -2918,6 +3080,75 @@
         }
       ],
       "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6"
+    },
+    {
+      "id": "SG_N0006",
+      "name": "무기고 경비병",
+      "faction": "주민",
+      "base": "Unit000001",
+      "grade": "",
+      "gradeType": "NORMAL",
+      "art": {
+        "icon": "npc-work-2026-10-28/armory-guard/frame-01.png",
+        "portrait": "npc-portraits-2026-10-28/guard.png",
+        "static": "npc-work-2026-10-28/armory-guard/frame-01.png",
+        "ppu": 100,
+        "pivot": [
+          0.5,
+          0.3
+        ],
+        "facing": "left",
+        "frames": {
+          "Idle": [
+            "npc-work-2026-10-28/armory-guard/frame-01.png"
+          ],
+          "Work": [
+            "npc-work-2026-10-28/armory-guard/frame-01.png",
+            "npc-work-2026-10-28/armory-guard/frame-02.png",
+            "npc-work-2026-10-28/armory-guard/frame-03.png",
+            "npc-work-2026-10-28/armory-guard/frame-04.png",
+            "npc-work-2026-10-28/armory-guard/frame-05.png",
+            "npc-work-2026-10-28/armory-guard/frame-06.png",
+            "npc-work-2026-10-28/armory-guard/frame-07.png",
+            "npc-work-2026-10-28/armory-guard/frame-08.png"
+          ]
+        }
+      },
+      "motion": {
+        "Idle": {
+          "ms": [
+            1000
+          ],
+          "hits": [],
+          "loop": true
+        },
+        "Work": {
+          "ms": [
+            4000,
+            700,
+            400,
+            450,
+            450,
+            550,
+            1000,
+            2000
+          ],
+          "hits": [],
+          "loop": true
+        }
+      },
+      "motionTimingBasis": "authored",
+      "skills": {},
+      "levels": [
+        {
+          "level": 1,
+          "defaultSkill": "",
+          "skillA": "",
+          "skillB": "",
+          "gatheringSkill": ""
+        }
+      ],
+      "memo": "무기고 비전투 경비 NPC. 경계/창날 손질/주변 살피기. 신규 검토본."
     }
   ]
 }

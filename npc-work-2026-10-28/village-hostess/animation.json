@@ -1,0 +1,17 @@
+{
+  "uniform_scale": 0.3644578313253012,
+  "feet_y": 244,
+  "frames": 8,
+  "ms": [
+    300,
+    260,
+    300,
+    350,
+    500,
+    300,
+    300,
+    300
+  ],
+  "status": "review",
+  "generator": "built-in imagegen"
+}
