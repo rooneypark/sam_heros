@@ -1,3 +1,5 @@
+> **2026-10-29 그림 작업 재시작:** 이미지 작업은 [새시안/README.md](새시안/README.md)부터 다시 시작한다. 캐릭터·몬스터·NPC·맵·모션·이펙트 기준(원작 측정값)과 유비 새 화풍 기준 시안이 있다. 새 그림은 승인 전까지 `새시안/작업/`에 두고 기존 실행 파일을 덮어쓰지 않는다.
+
 > 최신 유비 기준: 사용자가 compact-guard(팔꿈치를 굽혀 몸 가까이서 한 검을 두 손 파지) 원화를 승인함. 기준 characters/liu-bei/sources/two-hand-sword/compact-guard/original-350.png. 같은 폴더 prepared/의 숨쉬기4·이동6·공격8·스킬1/2 각8은 새 검토본이며 아직 실행 교체/모션 승인 전. 스킬 때만 두 번째 검 발도→교차 힐→납도→두 손 한 검 복귀.
 
 > 최신 검수 상태: 한 검 유비 원화만 승인. single-sword-motions 모션은 크기·비율 문제로 사용자 반려. 새 single-sword-redraw는 별도 미승인 비교본이며 도포 완전 고정 검수 미통과. 실행 등록은 아직 이전 파일이므로 승인본으로 오인하지 않는다. 상세 characters/liu-bei/sources/single-sword-redraw/README.md.
