@@ -1,0 +1,7 @@
+#c1 .dlg {background:#f6f3e7;color:#303632;border:3px solid #171a19;border-radius:14px;box-shadow:0 4px 0 #171a19;}
+#c1 .dlg .nm {background:#f3c541;border:2px solid #171a19;color:#171a19;padding:.15em .75em;border-radius:7px;font-weight:900;}
+#c1 .dlg .tx {line-height:1.65;padding:1.4em 1em 1.3em;}
+#c1 .dlg .nx {color:#008b66;}
+#c1 .dlg .sk {background:#303632;color:#f6f3e7;border:2px solid #171a19;}
+#c1 .dlg.narr {background:#303632;color:#f6f3e7;border-color:#171a19;}
+#c1 .win .txt,#c1 .win .note,#c1 .dlg .tx,#c1 .done .b {word-break:keep-all;overflow-wrap:break-word;}

@@ -1,4 +1,4 @@
-﻿// TextMeshPro (SDF) text layout over the exported TMP_FontAsset tables (re/extract/media/fonts.json).
+// TextMeshPro (SDF) text layout over the exported TMP_FontAsset tables (re/extract/media/fonts.json).
 // Glyph quads are expanded by the atlas padding exactly like TMP_Text.GenerateTextMesh.
 import { loadJSON } from './assets.js';
 

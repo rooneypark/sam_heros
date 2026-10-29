@@ -26,8 +26,8 @@
 
 ## 디자인 갱신 검토 자료
 
-- [네 장수 채집](../../gather-finish-2026-10-28/final-review.png)
-- [NPC 초상화 7종](../../npc-portraits-2026-10-28/review.png)
+- [네 장수 채집](../motion-guide/reviews/gather/final-review.png)
+- [NPC 초상화 7종](../motion-guide/reviews/npc-portraits/review.png)
 - [창병·궁병 공격 교정](../../motion-cleanup-2026-10-28/final-review.png)
 - [마을 소품·지형 정리](../chapter1-polish-village.png)
 

@@ -1,4 +1,4 @@
-﻿// HeroManager port (Update @0x1ed0678, GetHeroCenterPos @0x1ed13b0, JoystickControl @0x1ed1734, ...).
+// HeroManager port (Update @0x1ed0678, GetHeroCenterPos @0x1ed13b0, JoystickControl @0x1ed1734, ...).
 import { G } from '../registry.js';
 import { UNIT_STATE } from '../defs.js';
 import { GameObject } from '../../engine/scene.js';

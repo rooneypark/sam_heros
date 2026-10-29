@@ -1,4 +1,4 @@
-﻿// UnityEngine.UI.Image draw helpers (Simple / Sliced / Filled) for both world-space and screen-space canvases.
+// UnityEngine.UI.Image draw helpers (Simple / Sliced / Filled) for both world-space and screen-space canvases.
 // Units: the caller passes the canvas unit per sprite pixel (world canvas: 1/100, overlay canvas: 1 px of 1440x2560 ref).
 
 export function spriteBorder(assets, name) { return assets.sprites[name]?.border || [0, 0, 0, 0]; }

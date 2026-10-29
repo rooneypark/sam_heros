@@ -1,4 +1,28 @@
+> 최종 확정·정리: 유비 현재 최종본은 characters/liu-bei의 original/idle/run/basic-attack/skill-1/skill-2. 제작 근거 sources/final. 이전 유비 sources 시안 경로는 삭제되었으며 아래 과거 기록을 실행 근거로 사용하지 않는다. 자세한 현황 characters/liu-bei/README.md.
+
+> 최신 확정·실행 반영: 젊은 유비 짧은 상의 원화와 숨쉬기4/이동6/베기8/스킬1·2 각8 승인. characters/liu-bei/original, idle, run, basic-attack, skill-1, skill-2가 현재 실행 최종본. 이동은 youthful-short-tunic/motions/gait-review 기준. 체크섬 sources/youthful-short-tunic/FINAL_MANIFEST.json. 채집·사망·별도초상화는 이전 외형 그대로이며 이번 승인에 포함하지 않음.
+
+> 최신 유비 승인: youthful-short-tunic 숨쉬기·스킬1·스킬2 승인. 이동만 gait-review에서 조운 실제 관절 제작 코드 기준 재작업 검토. 기존 실행 등록은 유지.
+
+> 최신 유비 확정: youthful-short-tunic/motions/prepared의 idle4·skill-2 8 승인. skill-1 검끝 크롭 복원, run은 하체 교대에 독립적인 상체 바운스로 수정 검토 중.
+
+> 최신 유비 작업: youthful-short-tunic 새 원화 기반 숨쉬기4·이동6·베기8·스킬1/2 각8 검토본을 characters/liu-bei/sources/youthful-short-tunic/motions/prepared에 저장. 이전 확정본은 보존, 새 모션 미승인·실행 미교체. 제작명세는 해당 motions/README.md.
+
+> 최신 유비 승인: motion-rework/bounce-review/idle 숨쉬기4 최종 승인. 이동은 발만 움직이는 인상으로 비교 검토 중이며 미승인. 공격·스킬1·2 승인 유지.
+
+> 최신 유비 사용자 확정: compact-guard/motion-rework/prepared의 basic-attack, skill-1, skill-2 승인. 숨쉬기와 이동은 미승인 재작업: 숨쉬기는 하체 고정·상체 1회 바운스, 이동은 다리 교대와 동기화한 상체 2회 바운스. 도포 형태 고정은 상하 이동 금지가 아니다. 승인 공격 PNG는 변경하지 않는다.
+
+> 최신 유비 기준: 사용자가 compact-guard(팔꿈치를 굽혀 몸 가까이서 한 검을 두 손 파지) 원화를 승인함. 기준 characters/liu-bei/sources/two-hand-sword/compact-guard/original-350.png. 같은 폴더 prepared/의 숨쉬기4·이동6·공격8·스킬1/2 각8은 새 검토본이며 아직 실행 교체/모션 승인 전. 스킬 때만 두 번째 검 발도→교차 힐→납도→두 손 한 검 복귀.
+
+> 최신 검수 상태: 한 검 유비 원화만 승인. single-sword-motions 모션은 크기·비율 문제로 사용자 반려. 새 single-sword-redraw는 별도 미승인 비교본이며 도포 완전 고정 검수 미통과. 실행 등록은 아직 이전 파일이므로 승인본으로 오인하지 않는다. 상세 characters/liu-bei/sources/single-sword-redraw/README.md.
+
+> 최신 기준: 양쪽 허리에 밀착한 칼집2개, 한 검을 뽑아 든 유비 원화 승인. 기본자세/숨쉬기/이동/공격/스킬1·2는 single-sword-motions 기반으로 반영한 검토본. 스킬 발도→교차 힐→납도 흐름. 이전 두 검 기본자세와 이동 재작화 승인은 현재 외형 기준이 아님. 채집·사망·초상화는 이번 작업 범위에서 변경하지 않았음.
+
+> 최신 사용자 확정: 새 군주 외형의 이동 6프레임(run/) 전체 재작화본 승인. 상하체 합성본은 폐기하며 `sources/commander-motions/run-full-redraw/source.png`와 현재 run/ PNG를 기준으로 한다. 다른 새 모션의 최종 승인 여부와 구분한다.
+
 ## 2026-10-28 사용자 확정 — 모든 장수 제작 공통 기준
+
+> 유비는 후속 사용자 요청에 따라 새 군주 외형(금관·적금색 도포·자주색 깃)으로 원화와 모든 상태를 재작화한 검토본을 현재 폴더에 반영했다. 기존 모션의 순서·시간·타격 시점은 유지한다. 상세: `characters/liu-bei/sources/commander-motions/README.md`. 새 결과를 최종 승인으로 취급하지 않는다. 다른 장수 외형은 보존한다.
 
 사용자가 이번 유비·관우·장비·조운 채집 및 조운 사망 제작 방식을 이후 다른 장수에도 동일하게 적용하도록 지시했다.
 
@@ -14,7 +38,7 @@
 
 제작 방식 참고: `new-motions-2026-10-28/`의 공통 도끼 채집과 조운 사망. 이 지시는 이후 모든 장수의 제작 방식에 대한 확정이며, 과거 보류 지침보다 우선한다.
 
-> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `liu-bei/`, `guan-yu/`, `zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
+> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `characters/liu-bei/`, `characters/guan-yu/`, `characters/zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
 
 > 2026-10-28 최신 실행 반영: 유관장9모션과 장각 스킬2는 art/samguk/motions/2026-10-28/가 현재 맵메이커·모션체커 자산이며 content/samguk/units.json에 등록됨. MANIFEST.json 참조. 새 관우 공격은 접지Y245/pivot(0.5,0.3), 과거Y260 예외와 구분. 이전 원본은 보존.
 
@@ -24,17 +48,17 @@
 
 > **2026-10-27 최종 보강:** 신규 장수·모션 제작 전에 [캐릭터·모션 검수 보강](CHARACTER_MOTION_QA.md)을 먼저 읽는다. 현재 기본은 350×350 투명 PNG·왼쪽 시선이다. 아래 과거 400×440/640 규격, 오른쪽 시선, 이전 미승인 상태와 옛 생성기 경로는 제작 이력이며 현재 작업 지시로 사용하지 않는다. 해당 캐릭터 최신 승인 PNG·명세가 우선한다.
 
-> 조운 최종 승인: original/idle/run/portrait/basic-attack/skill-1/skill-2 모두 승인. 이동은 갑옷 밑단 곡선 마스크 교정본 6프레임. [최종 경로](../../zhao-yun/README.md). 이전 run-review 및 시안은 기준에서 제외.
+> 조운 최종 승인: original/idle/run/portrait/basic-attack/skill-1/skill-2 모두 승인. 이동은 갑옷 밑단 곡선 마스크 교정본 6프레임. [최종 경로](../../characters/zhao-yun/README.md). 이전 run-review 및 시안은 기준에서 제외.
 
-> 조운 최신 확정: 청공검 전용 original/idle/portrait/basic-attack/skill-1/skill-2 승인. 이동만 run-review에서 재검토. 이전 창 원화 및 시안은 제작 기준에서 제외. [조운 상태](../../zhao-yun/README.md).
+> 조운 최신 확정: 청공검 전용 original/idle/portrait/basic-attack/skill-1/skill-2 승인. 이동만 run-review에서 재검토. 이전 창 원화 및 시안은 제작 기준에서 제외. [조운 상태](../../characters/zhao-yun/README.md).
 
-> 조운 추가 승인: zhao-yun/original/original.png — 장창과 허리 청공검. 기본 원화만 확정, 모션 구성은 제안 단계.
+> 조운 추가 승인: characters/zhao-yun/original/original.png — 장창과 허리 청공검. 기본 원화만 확정, 모션 구성은 제안 단계.
 
 > 사망 최신 승인: 세 장수 die/frame-01.png — 대각선 엎드림, 얼굴 완전히 숨김, 뒷머리만 노출. 정지1장 350×350. 채집은 사용자 요청으로 보류.
 
 > 최신 확정: 장비 basic-attack/skill-1/skill-2 각8프레임과 세 장수 portrait/portrait.png 승인 완료. GIF 공통 팔레트 적용, 장비 공격·스킬1 색상 보정 완료. 최종 폴더 외 이전 작업은 DELETE_ME_intermediate에 격리(삭제 정책 차단). 최종PNG107장 체크섬 기준.
 
-> 2026-10-27 최신 승인: 장비 기본공격 8프레임은 `zhang-fei/basic-attack/` 최종본. 스킬1·2는 아직 검토 중이며 기본공격 승인과 구분한다.
+> 2026-10-27 최신 승인: 장비 기본공격 8프레임은 `characters/zhang-fei/basic-attack/` 최종본. 스킬1·2는 아직 검토 중이며 기본공격 승인과 구분한다.
 
 > 정리 완료: 이전 시안/보정/오른쪽 소스/생성기는 DELETE_ME_intermediate에 모았으며 수동 삭제 가능. 대표 최종PNG80장 검증 완료. 해당 폴더는 제작 기준으로 사용하지 않는다.
 
@@ -46,10 +70,10 @@
 
 2026-10-27 사용자 확정: 유비·관우 원본과 모든 모션, 장비 원본·숨쉬기·이동은 왼쪽 방향 최종본이다. 다음 신규 장수도 왼쪽 아래 대각 원화를 기준으로 한다. 오른쪽 방향은 엔진에서 전체 좌우 반전한다.
 
-- 대표 경로: 프로젝트 루트 liu-bei/, guan-yu/, zhang-fei/의 original/idle/run/basic-attack/skill-1/skill-2. 장비 공격·스킬은 아직 없음.
-- [유비 전체](../../liu-bei/preview/index.html), [관우 전체](../../guan-yu/preview/index.html), [장비 전체](../../zhang-fei/preview/index.html)를 실제 열어 확인한다.
+- 대표 경로: 프로젝트 루트 characters/liu-bei/, characters/guan-yu/, characters/zhang-fei/의 original/idle/run/basic-attack/skill-1/skill-2. 장비 공격·스킬은 아직 없음.
+- [유비 전체](../../characters/liu-bei/preview/index.html), [관우 전체](../../characters/guan-yu/preview/index.html), [장비 전체](../../characters/zhang-fei/preview/index.html)를 실제 열어 확인한다.
 - 유비 공격8/8/8, 관우7/8/8. 이동6, 숨쉬기4. 기존 타이밍과 비율 유지.
-- 관우 공격 정지공통 기준은 guan-yu/skill-1/frame-08.png. 기본공격1·7, 스킬1 1·7·8, 스킬2 1·8과 동일. 기존 original/idle/run과 공격 외형의 차이는 이번 반전에서 재설계하지 않았다.
+- 관우 공격 정지공통 기준은 characters/guan-yu/skill-1/frame-08.png. 기본공격1·7, 스킬1 1·7·8, 스킬2 1·8과 동일. 기존 original/idle/run과 공격 외형의 차이는 이번 반전에서 재설계하지 않았다.
 - 최종 체크섬: tools/character-motion/final-left-manifest.json. 이전 오른쪽 시안·보정 생성기·재작화 중간 폴더는 사용 중단했다. 사용자 요청 삭제는 자동 승인 검토에 차단되어 아직 남아 있다. 복구 기준은 현재 최종PNG와 Git 이력이다.
 
 ## 읽는 순서

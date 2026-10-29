@@ -1,4 +1,4 @@
-﻿// Behavior tree port (Node/Selector/Sequence + all condition/action nodes) from libil2cpp:
+// Behavior tree port (Node/Selector/Sequence + all condition/action nodes) from libil2cpp:
 //   Logic_BTFactory.CreateBT* @0x2041f8c.., BT_State.GetState* @0x3e7f914.., node Run() methods @0x3b78760..0x3b7cab0.
 // Game singletons are accessed through `G` (managers registry) to mirror MonoSingleton<T>.Instance.
 import { UNIT_STATE, TEAM } from '../defs.js';

@@ -1,4 +1,4 @@
-﻿// UnitManager port (UnitManager @0x22400bc.., CorUnitManagerBT @0x224ab64).
+// UnitManager port (UnitManager @0x22400bc.., CorUnitManagerBT @0x224ab64).
 import { G } from '../registry.js';
 import { Tables } from '../data/Tables.js';
 import { Timing } from '../core/Timing.js';

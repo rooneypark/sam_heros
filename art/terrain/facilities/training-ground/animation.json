@@ -1,0 +1,30 @@
+{
+  "status": "review",
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png"
+  ],
+  "ms": [
+    240,
+    150,
+    180,
+    120,
+    160,
+    200
+  ],
+  "canvas": [
+    512,
+    512
+  ],
+  "fixedBackground": true,
+  "npcWholeSpriteScale": 0.36,
+  "foot": [
+    225,
+    405
+  ],
+  "backgroundPixelCheck": true
+}

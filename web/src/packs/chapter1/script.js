@@ -1,9 +1,9 @@
 // 1장 황건 소탕 — 대사·목표·구역·테스트 수치.
 // 대사·목표 문구: docs/planning/scenarios/1장_황건소탕_상세명세.md, units/훈련담당병사.md (ID 그대로).
-// 구역 좌표: samguk/content/samguk/maps/1장_황건소탕.map.json 의 Buildings·maker.units 위치에 논리 영역을 매핑한 개발 값.
+// 구역 좌표: samguk/maps/chapter-1/map.json 의 Buildings·maker.units 위치에 논리 영역을 매핑한 개발 값.
 // TEST: 아래 TEST 블록은 미정 밸런스(미정사항.md)를 대신하는 **개발 테스트값**이다. 기획 확정값이 아니다.
 
-export const MAP_PATH = 'content/samguk/maps/1장_황건소탕.map.json';
+export const MAP_PATH = 'maps/chapter-1/map.json';
 export const MAP_NAME = '1장_황건소탕';
 
 export const TEST = {

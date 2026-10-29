@@ -1,4 +1,4 @@
-﻿// uGUI renderer for exported UI prefabs: RectTransform layout, Image (Simple/Sliced/Filled, preserveAspect),
+// uGUI renderer for exported UI prefabs: RectTransform layout, Image (Simple/Sliced/Filled, preserveAspect),
 // TextMeshProUGUI (SDF), CanvasGroup alpha, Button hit-testing. Canvas units = CanvasScaler reference pixels.
 import { drawImage } from './uidraw.js';
 import { layoutText, drawText } from './text.js';

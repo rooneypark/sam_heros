@@ -1,8 +1,10 @@
-> **2026-10-28 최신 통합:** 디자인·맵메이커·실제 나무 모션체커·인트로·게임 UI를 통합했습니다. [실행/전달 목록](docs/GITHUB_DELIVERY_2026-10-28.md)과 [UI 편집 원본·디자이너 가이드](art/ui/README.md)을 먼저 보세요. 관우 채집 활성은 `gather-finish-2026-10-28/guan-yu-fresh/`이며 폐기 경로를 재적용하지 않습니다. 제출본·시안은 최종 미술 승인과 구분합니다.
+> **현재 폴더 기준:** [캐릭터·지형·맵별 리소스 구조](docs/ASSET_LAYOUT.md)가 아래 과거 경로 안내보다 우선합니다. 실행 파일은 날짜별 폴더를 참조하지 않습니다.
+
+> **2026-10-28 최신 통합:** 디자인·맵메이커·실제 나무 모션체커·인트로·게임 UI를 통합했습니다. [실행/전달 목록](docs/GITHUB_DELIVERY_2026-10-28.md)과 [UI 편집 원본·디자이너 가이드](art/ui/README.md)을 먼저 보세요. 관우 채집 활성은 `characters/guan-yu/gather/`이며 폐기 경로를 재적용하지 않습니다. 제출본·시안은 최종 미술 승인과 구분합니다.
 
 > **2026-10-28 맵·신규 캐릭터 인계:** [현재 리소스 위치와 다른 PC 실행 가이드](docs/CHAPTER1_MAP_CHARACTERS_HANDOFF.md)를 먼저 읽는다. 황건 창병·궁병·대장장이·주모 4종 추가, 총15종. 신규4종과 맵 재작화는 검토본이며 아직 승인 전이다.
 
-> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `liu-bei/`, `guan-yu/`, `zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
+> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `characters/liu-bei/`, `characters/guan-yu/`, `characters/zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
 
 ## 맵메이커·모션 체커 — 다른 PC 실행
 
@@ -13,7 +15,7 @@ Python 3 설치 후 **run_maker.bat**, **run_motion_checker.bat**, **run_maps.ba
 
 > **최신 확정 2026-10-27:** 세 장수 왼쪽 원화/모션이 최종 기준. 현재 파일은 각 장수 루트 original/idle/run 및 승인 공격 폴더. 과거 오른쪽·400/640 규격·중간 보정 경로는 이력이며 재사용 금지. [현재 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)이 아래 과거 기록보다 우선합니다.
 
-> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
+> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `characters/guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
 
 > **2026-10-27 최신 기준:** 원본·idle·run·유비/관우 공격 출력은350×350, 발(175,245), PPU100, pivot(0.5,0.3), facing=right로 통일했다. 기존 모양을0.45배 균일 축소했으며 재생 시간은 유지했다. 아래400/640 규격은 이전 제작 기록이다. 관우 공격은 재작업 베이스이며 승인본이 아니다.
 
@@ -39,9 +41,9 @@ Python 3 설치 후 **run_maker.bat**, **run_motion_checker.bat**, **run_maps.ba
 ## 승인된 결과물
 >>>>>>> Stashed changes
 
-- [유비](liu-bei/README.md): idle / run
-- [관우](guan-yu/README.md): idle / run
-- [장비](zhang-fei/README.md): idle / run
+- [유비](characters/characters/liu-bei/README.md): idle / run
+- [관우](characters/characters/guan-yu/README.md): idle / run
+- [장비](characters/characters/zhang-fei/README.md): idle / run
 
 각 이동 폴더에 투명400×440 개별6프레임, 가로 시트, 프레임 보기, 일반/느린GIF와 animation.json이 있다. 이동18프레임은 최종 승인본과 픽셀 동일 검증 완료. 관우·장비 idle은 한 손으로 무기를 땅에 짚는 정지 자세, run은 양손 자세다. 유비 idle은 쌍검 준비 자세다.
 
@@ -89,6 +91,6 @@ Python 3 설치 후 **run_maker.bat**, **run_motion_checker.bat**, **run_maps.ba
 
 각 장수 original에 원본 정지 이미지를 보존했다. idle에는4프레임 숨쉬기를 추가했다. [숨쉬기 재생·명세](docs/motion-guide/idle-breathing.md). 이동 최종본은 변경하지 않았다.
 
-- 2026-10-26 유비 기본 공격·스킬1·스킬2 각8프레임 사용자 최종 승인. liu-bei/basic-attack, skill-1, skill-2 및 docs/motion-guide/liu-bei-combat.md에 보존.
+- 2026-10-26 유비 기본 공격·스킬1·스킬2 각8프레임 사용자 최종 승인. characters/liu-bei/basic-attack, skill-1, skill-2 및 docs/motion-guide/liu-bei-combat.md에 보존.
 
 - 다음 PC/세션에서 장수·모션 제작 전 [작업 이어가기](docs/motion-guide/COMBAT_HANDOFF.md)와 [새 장수 생성 조건](docs/motion-guide/CHARACTER_GENERATION_SPEC.md)을 읽는다. 머리·몸통·다리 width/height, 관절·파지·칼날 방향과 승인 상태를 확인한다.

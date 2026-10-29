@@ -1,4 +1,4 @@
-﻿// NavMesh (from the game's baked Detour tiles, re/extract/navmesh/*.json) + a NavMeshAgent approximation.
+// NavMesh (from the game's baked Detour tiles, re/extract/navmesh/*.json) + a NavMeshAgent approximation.
 // Path = A* over polygons + simple stupid funnel; agents steer along corners with Unity-like speed/acceleration
 // and separate from each other (approximating NavMeshAgent obstacle avoidance).
 

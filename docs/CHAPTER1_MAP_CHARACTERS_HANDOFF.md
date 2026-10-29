@@ -1,3 +1,5 @@
+> **현재 폴더 기준:** [캐릭터·지형·맵별 리소스 구조](ASSET_LAYOUT.md)가 아래 과거 경로 안내보다 우선합니다. 실행 파일은 날짜별 폴더를 참조하지 않습니다.
+
 # 황건소탕 맵·신규 캐릭터 작업 인계 — 2026-10-28
 
 다른 PC에서는 이 문서를 먼저 읽는다. **맵 재작화와 신규 4종은 사용자 검토 중**이다. 기존 유비·관우·장비·조운, 주민 3종, 늑대 등의 승인 상태와 구분한다. 제작 파일은 Git 저장소 안에 있으며 `.codex/generated_images`나 이전 PC의 절대 경로 없이 실행할 수 있다.
@@ -11,7 +13,7 @@
 5. 서버 주소의 포트를 그대로 사용하여 다음 페이지를 연다.
    - `/web/maker.html?samgukMap=1장_황건소탕`
    - `/web/motion.html?units=SG_M0005,SG_M0006,SG_N0004,SG_N0005` — 이번 신규 4종만 비교
-   - `/samguk/chapter-1/expansion-review/index.html` — 원본·전체 GIF·느린 GIF
+   - `/samguk/maps/chapter-1/review/characters/expansion-review/index.html` — 원본·전체 GIF·느린 GIF
 
 일반 실행에는 Node/npm/Pillow가 필요 없다. PNG 재포장 도구에만 Python Pillow, numpy, scipy가 필요하다.
 
@@ -19,17 +21,17 @@
 
 | 구분 | 저장소 상대 경로 | 역할 |
 |---|---|---|
-| 현재 전체 지도 | `content/samguk/maps/1장_황건소탕.map.json` | 맵메이커가 여는 현재 작업 원본 |
+| 현재 전체 지도 | `maps/chapter-1/map.json` | 맵메이커가 여는 현재 작업 원본 |
 | 지형 등록 | `content/samguk/tiles.json` | `sg2_` 공용 컴포넌트 40종 |
-| 지형 그림 | `art/environment/chapter-1/` | 자연·건물·군영·생활 소품 PNG 36장과 재질 PNG 3장 |
-| 지형 생성 원본 | `art/environment/chapter-1/sources/` | 자연/건물/소품/재질 원본 시트 |
+| 지형 그림 | `art/terrain/sources/base/` | 자연·건물·군영·생활 소품 PNG 36장과 재질 PNG 3장 |
+| 지형 생성 원본 | `art/terrain/sources/base/sources/` | 자연/건물/소품/재질 원본 시트 |
 | 캐릭터 공용 등록 | `content/samguk/units.json` | 총 15종, 맵메이커·모션체커가 같은 PNG 참조 |
-| 창병 | `chapter-1/yellow-turban-spearman/` | `SG_M0005` |
-| 궁병 | `chapter-1/yellow-turban-archer/` | `SG_M0006`; `projectile/arrow.png`는 실제 발사 화살 |
-| 대장장이 | `chapter-1/village-blacksmith/` | `SG_N0004` |
-| 주모 | `chapter-1/village-hostess/` | `SG_N0005` |
-| 신규 검토 모음 | `chapter-1/expansion-review/` | GIF 갤러리, `lineup.png`, 신규 프레임 체크섬 `manifest.json` |
-| 배치 확인 화면 | `docs/design/maps/chapter-1/expanded-village.png` | 대장간·주막 앞 주민 배치 캡처 |
+| 창병 | `characters/yellow-turban-spearman/` | `SG_M0005` |
+| 궁병 | `characters/yellow-turban-archer/` | `SG_M0006`; `projectile/arrow.png`는 실제 발사 화살 |
+| 대장장이 | `characters/village-blacksmith/` | `SG_N0004` |
+| 주모 | `characters/village-hostess/` | `SG_N0005` |
+| 신규 검토 모음 | `maps/chapter-1/review/characters/expansion-review/` | GIF 갤러리, `lineup.png`, 신규 프레임 체크섬 `manifest.json` |
+| 배치 확인 화면 | `maps/chapter-1/docs/expanded-village.png` | 대장간·주막 앞 주민 배치 캡처 |
 
 각 신규 캐릭터 폴더 구성:
 
@@ -83,8 +85,8 @@
 
 - `tools/character-motion/chapter1_expansion.py`: 신규 시트 재포장 도구. **재실행하면 신규 프레임·등록 JSON을 덮어쓴다.** 일반 실행/검토에는 필요 없다. 후속 수동 수정 후에는 무심코 재실행하지 않는다.
 - `tools/map-art/redraw_environment.py`: 현재 배치를 덮어쓰므로 재실행 금지. `package_chapter1.py`도 이전 맵 제작용이다.
-- `docs/design/maps/chapter-1/layout-before-*.map.json`은 복구 기록. 현재 맵 대신 로드하지 않는다.
-- `art/objects/chapter-1/`은 이전 건물 시안. 현재 공용 등록은 `art/environment/chapter-1/`만 사용한다.
+- `maps/chapter-1/docs/layout-before-*.map.json`은 복구 기록. 현재 맵 대신 로드하지 않는다.
+- `maps/chapter-1/archive/building-drafts/`은 이전 건물 시안. 현재 공용 등록은 `art/terrain/sources/base/`만 사용한다.
 - 저장 버튼으로 JSON에 저장한 뒤 PNG/등록JSON/맵JSON/문서를 함께 Commit·Push한다. 브라우저 자동저장만으로 다른 PC에 전달되지 않는다.
 
-관련 기준: [맵 재작화](design/maps/chapter-1/REDRAW.md), [기존 실행 안내](MAP_MAKER_HANDOFF.md), [캐릭터 검수](motion-guide/CHARACTER_MOTION_QA.md), [현재 장수 규칙](motion-guide/CURRENT_CHARACTER_RULES.md).
+관련 기준: [맵 재작화](../maps/maps/chapter-1/review/characters/docs/REDRAW.md), [기존 실행 안내](MAP_MAKER_HANDOFF.md), [캐릭터 검수](motion-guide/CHARACTER_MOTION_QA.md), [현재 장수 규칙](motion-guide/CURRENT_CHARACTER_RULES.md).

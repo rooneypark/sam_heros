@@ -7,7 +7,7 @@
 - 최신 사용자 지시 → 해당 캐릭터 최종 PNG와 승인 기록 → 현재 제작 기준 → 과거 문서 순으로 적용한다.
 - 기본 규격: 350×350 RGBA 투명 PNG, 왼쪽/왼쪽 아래 대각 시선, PPU100, pivot(0.5,0.3), 발 기준(175,245). 관우의 별도 승인된 공격 피벗 예외는 해당 명세를 따른다.
 - 원화 승인, 동작 승인, 위치 보정 승인, 전체 최종 승인을 구분한다. “동작은 좋다, 위치만 수정”이면 자세·크기·시간을 재생성하지 않는다.
-- [1장 최종본](../../chapter-1/README.md), [승인 체크섬](../../chapter-1/FINAL_MANIFEST.json), [재생 화면](../../chapter-1/index.html)이 이번 사례의 기준이다. DELETE_ME 안의 시안·생성기는 제작 기준이 아니다.
+- [1장 최종본](../../maps/maps/chapter-1/review/characters/review/characters/README.md), [승인 체크섬](../../maps/maps/chapter-1/review/characters/review/characters/FINAL_MANIFEST.json), [재생 화면](../../maps/maps/chapter-1/review/characters/review/characters/index.html)이 이번 사례의 기준이다. DELETE_ME 안의 시안·생성기는 제작 기준이 아니다.
 - 승인된 기존 유비·관우·장비·조운 및 1장 캐릭터는 변경 요청이 없는 한 보호한다.
 
 ## 원화에서 먼저 정할 값

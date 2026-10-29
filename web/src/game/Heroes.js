@@ -1,4 +1,4 @@
-﻿// UserHero / UserHeroData (AddHero @0x386e030, AddHeroPart, HeroLevelUp @0x3870bec) and the
+// UserHero / UserHeroData (AddHero @0x386e030, AddHeroPart, HeroLevelUp @0x3870bec) and the
 // UIHeroManagementPopup / UIHeroInformationPopup (hero tab: UIInformationHero.OnClickUpgrade @0x2c500fc).
 import { G } from './registry.js';
 import { Tables } from './data/Tables.js';

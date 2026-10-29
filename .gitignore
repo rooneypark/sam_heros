@@ -8,3 +8,6 @@ docs/design/production/redesign-reference-study.png
 # Python local runtime cache
 __pycache__/
 *.pyc
+
+# Superseded UI theme drafts; final package is art/ui/themes/samguk
+/DELETE_ME/ui-theme-intermediate/

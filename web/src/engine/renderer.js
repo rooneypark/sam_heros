@@ -1,4 +1,4 @@
-﻿// WebGL2 sprite batcher with Unity-like sorting (sorting layer -> order -> transparency sort axis Y).
+// WebGL2 sprite batcher with Unity-like sorting (sorting layer -> order -> transparency sort axis Y).
 // World space is Unity units; camera is orthographic (size = half of vertical extent).
 // Sprites are quads, or triangle meshes for tight-packed atlas sprites.
 

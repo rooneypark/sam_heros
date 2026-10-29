@@ -1,3 +1,5 @@
+> **현재 폴더 기준:** [캐릭터·지형·맵별 리소스 구조](ASSET_LAYOUT.md)가 아래 과거 경로 안내보다 우선합니다. 실행 파일은 날짜별 폴더를 참조하지 않습니다.
+
 # 디자인·도구·게임 UI GitHub 통합
 
 2026-10-28. 사용자의 GitHub 이관 요청과 디자이너 완료 인계에 따라 공유 작업 폴더의 현재 실행 스냅샷을 통합했다. 디자인/코드 전달이며 사용자 최종 미술 승인이나 전체 챕터 클리어 검증을 뜻하지 않는다.
@@ -22,9 +24,9 @@ Python3 설치 후 저장소 루트에서 실행한다. 기본 포트8134부터 
 |---|---|---|
 | 캐릭터·맵 등록 | content/samguk/units.json, tiles.json, maps/ | 현재 활성15종·61모션·372프레임 등록, 황건소탕 현맵 |
 | 채집 최종 전달 | gather-finish-2026-10-28/{liu-bei,guan-yu-fresh,zhang-fei-redraw,zhao-yun-redraw}/ | 네 장수 채집9장, 반복 중 Idle 끼임 교정·색 보정 |
-| NPC 초상화 | npc-portraits-2026-10-28/ | 소년·노인·주모·훈련병사·관해·장각·대장장이 |
+| NPC 초상화 | docs/motion-guide/reviews/npc-portraits/ | 소년·노인·주모·훈련병사·관해·장각·대장장이 |
 | 적 공격 교정 | motion-cleanup-2026-10-28/SG_M0005,SG_M0006/ | 창병·궁병의 잘린 몸 복원·이웃 프레임 조각 제거 |
-| 맵 소품·재질 | art/environment/chapter-1-polish/, art/environment/chapter-1/ | 소품6종·장식209개·흙57칸 보충·길/물가 경계 |
+| 맵 소품·재질 | art/terrain/sources/additions/, art/terrain/sources/base/ | 소품6종·장식209개·흙57칸 보충·길/물가 경계 |
 | 맵메이커·체커 | web/maker.html, motion.html, src/maker/ | 최신 삼국 자산 연결·실제 나무 타격·연속 채집 검수 |
 | 인트로 시안 | web/src/packs/chapter1/introSplash.js, docs/design/intro/ | 현재 시작 화면과 별도 재생 시안·스토리보드 |
 | 게임 UI | web/src/packs/chapter1/ui.js | 목표·자원·보스HP·대화/초상화·훈련/회복/복구·선택·완료·안내·월드 마커 |

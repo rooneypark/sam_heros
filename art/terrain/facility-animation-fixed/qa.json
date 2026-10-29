@@ -1,0 +1,17 @@
+{
+  "tavern": {
+    "frames": 6,
+    "background": "one immutable clean plate",
+    "lastEqualsFirst": true
+  },
+  "blacksmith": {
+    "frames": 6,
+    "background": "one immutable clean plate",
+    "lastEqualsFirst": true
+  },
+  "training-ground": {
+    "frames": 6,
+    "background": "one immutable clean plate",
+    "lastEqualsFirst": true
+  }
+}

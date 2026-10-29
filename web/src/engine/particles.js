@@ -1,4 +1,4 @@
-﻿// Shuriken ParticleSystem simulation (2D projection onto XY) from the exported modules
+// Shuriken ParticleSystem simulation (2D projection onto XY) from the exported modules
 // (InitialModule, EmissionModule bursts/rate, ShapeModule, Size/Color/Rotation/Velocity/Force/UV over lifetime)
 // and ParticleSystemRenderer (billboard / stretched, material texture + additive or alpha blend).
 

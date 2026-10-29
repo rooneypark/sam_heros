@@ -1,0 +1,17 @@
+{
+  "tavern": {
+    "decodedGifFrames": 6,
+    "roofChangedPixels": 0,
+    "groundChangedPixels": 0
+  },
+  "blacksmith": {
+    "decodedGifFrames": 6,
+    "roofChangedPixels": 0,
+    "groundChangedPixels": 0
+  },
+  "training-ground": {
+    "decodedGifFrames": 6,
+    "roofChangedPixels": 0,
+    "groundChangedPixels": 0
+  }
+}

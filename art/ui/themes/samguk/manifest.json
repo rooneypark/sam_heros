@@ -1,0 +1,41 @@
+{
+  "status": "developer-handoff",
+  "runtimeApplied": false,
+  "entry": "theme.css",
+  "requires": [
+    "../../chapter1/theme.css"
+  ],
+  "screens": [
+    "dialogue",
+    "training",
+    "locked",
+    "rest",
+    "bridge",
+    "choice",
+    "completion"
+  ],
+  "colors": {
+    "ink": "#171a19",
+    "paper": "#f6f3e7",
+    "gold": "#f3c541",
+    "jade": "#00b88b"
+  },
+  "unchanged": [
+    "joystick",
+    "HUD coordinates",
+    "HP/EXP mechanics",
+    "gameplay formulas",
+    "button handlers"
+  ],
+  "outOfScope": [
+    "canvas settings redesign"
+  ],
+  "preview": "/web/ui-proposal.html",
+  "assets": [
+    "tokens.css",
+    "panels.css",
+    "dialogue.css",
+    "completion.css",
+    "markers.css"
+  ]
+}

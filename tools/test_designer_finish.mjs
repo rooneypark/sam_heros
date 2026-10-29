@@ -2,7 +2,7 @@ import fs from 'node:fs';import assert from 'node:assert/strict';
 import {GridNav,BLOCKING_DECO,BLOCKING_FOOTPRINT} from '../web/src/engine/gridnav.js';
 import {SPEAKERS} from '../web/src/packs/chapter1/script.js';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const before=read('map-polish-2026-10-28/before.map.json'),after=read('content/samguk/maps/1장_황건소탕.map.json');
+const before=read('maps/chapter-1/history/polish/before.map.json'),after=read('maps/chapter-1/map.json');
 for(const k of ['mapData','waterData','blockData','Buildings','Spawners','FootSwitch','BonfirePos','npcs','maker','buildingDefs'])assert.deepEqual(after[k],before[k],k);
 const tiles=read('content/samguk/tiles.json').tiles;
 for(const t of tiles){if(t.blocks){BLOCKING_DECO.add(t.id);BLOCKING_FOOTPRINT.set(t.id,t.footprint||[1,1]);}if(t.sprite)assert(fs.existsSync(''+t.sprite));}

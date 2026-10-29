@@ -1,0 +1,14 @@
+{
+  "tavern": {
+    "frames": 6,
+    "roofPixelChanges": 0
+  },
+  "blacksmith": {
+    "frames": 6,
+    "roofPixelChanges": 0
+  },
+  "training-ground": {
+    "frames": 6,
+    "roofPixelChanges": 0
+  }
+}

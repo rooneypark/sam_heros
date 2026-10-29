@@ -1,0 +1,16 @@
+{
+  "componentChecksPassed": true,
+  "widths": [
+    390,
+    320
+  ],
+  "checks": [
+    "actual ChapterUI import",
+    "theme loading",
+    "callback",
+    "disabled",
+    "close",
+    "panel fit"
+  ],
+  "fullGameNote": "Seven states captured successfully on first run. Later full-game rerun timed out; full gameplay integration is not claimed."
+}

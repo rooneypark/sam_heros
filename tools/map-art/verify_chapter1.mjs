@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {GridNav,BLOCKING_DECO,BLOCKING_FOOTPRINT} from '../../web/src/engine/gridnav.js';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const before=read('docs/design/maps/chapter-1/layout-before-art.map.json');
-const after=read('content/samguk/maps/1장_황건소탕.map.json');
+const before=read('maps/chapter-1/docs/layout-before-art.map.json');
+const after=read('maps/chapter-1/map.json');
 for(const k of ['Buildings','FootSwitch','BonfirePos'])assert.deepEqual(after[k],before[k],k);
 // The character expansion intentionally replaces unit IDs, but keeps scenario topology and conditions.
 for (const [key,row] of Object.entries(before.buildingDefs)) {

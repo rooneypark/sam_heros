@@ -10,7 +10,7 @@ ROOT=Path(__file__).resolve().parents[1]
 class Handler(NoCache):
     def do_GET(self):
         if self.path == '/api/tool-health':
-            b=json.dumps({'root':str(ROOT),'app':'sam-heroes-tools'}).encode()
+            b=json.dumps({'root':str(ROOT),'app':'sam-heroes-tools','assetLayout':2}).encode()
             self.send_response(200);self.send_header('Content-Type','application/json');self.send_header('Content-Length',str(len(b)));self.end_headers();self.wfile.write(b)
         else:super().do_GET()
 mode=sys.argv[1] if len(sys.argv)>1 else 'maker'
@@ -20,7 +20,7 @@ for port in range(8134,8155):
     address=f'http://127.0.0.1:{port}'
     try:
         with urlopen(address+'/api/tool-health',timeout=.3) as response:info=json.load(response)
-        if info.get('root')==str(ROOT) and info.get('app')=='sam-heroes-tools':
+        if info.get('root')==str(ROOT) and info.get('app')=='sam-heroes-tools' and info.get('assetLayout')==2:
             webbrowser.open(address+page);sys.exit(0)
     except Exception:pass
     try:server=ThreadingHTTPServer(('127.0.0.1',port),partial(Handler,directory=str(ROOT)))

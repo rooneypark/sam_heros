@@ -1,4 +1,4 @@
-﻿// Instantiate exported prefab JSON (re/extract/prefabs/**) into the scene graph.
+// Instantiate exported prefab JSON (re/extract/prefabs/**) into the scene graph.
 // Built-in components become engine components; MonoBehaviours are kept as {script, fields} on go.scripts
 // so game classes can bind to them (go.script('UnitActor')).
 import { GameObject } from './scene.js';

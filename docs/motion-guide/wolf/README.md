@@ -1,6 +1,6 @@
 # 늑대 최종 모션 가이드
 
-2026-10-28 사용자 전체 승인. 유일한 제작 기준: ../../../chapter-1/yellow-turban-wolf/ 의 최종 PNG. DELETE_ME의 시안·생성기는 재사용하지 않는다.
+2026-10-28 사용자 전체 승인. 유일한 제작 기준: ../../../characters/yellow-turban-wolf/ 의 최종 PNG. DELETE_ME의 시안·생성기는 재사용하지 않는다.
 
 ## 규격 및 외형
 350×350 투명 RGBA, 왼쪽 아래 시선, PPU100, pivot(0.5,0.3), 접지 기준(175,245). 회색/아이보리 털, 노란 목수건, 큰 머리와 짧은 네 다리. 외형과 크기는 최종 original/original.png를 직접 열어 참고한다. 이동 기준으로 원화·숨쉬기·공격을 공통0.93배 축소한 상태까지 승인했다. 이 축소를 다시 적용하지 않는다. 모든 상태에 동일한 게임 배율을 사용한다.
@@ -25,5 +25,5 @@ GandalfHardcore Doggy Companion: https://gandalfhardcore.itch.io/2d-pixel-art-ma
 350 PNG와 접지/pivot, 상태 전환, 정상/느린 반복6→1, 원화 대비 머리·몸통·다리 크기, 색감·윤곽선, 발의 회수 궤적을 확인한다. GIF는 공통 팔레트로 생성한다. 크기만 수정할 때는 전 상태에 정해진 동일 축척을 적용하며 재작화하지 않는다. 승인 이동 PNG는 보존한다. 원화·숨쉬기·공격·이동의 화면상 자세 차이를 몸 크기 변화로 혼동하지 않는다.
 
 ## 최종 결과
-[전체 프레임](../../../chapter-1/yellow-turban-wolf/all-frames.png) · [전체 GIF](../../../chapter-1/yellow-turban-wolf/all-motions.gif) · [이동 정상/느린 비교](../../../chapter-1/yellow-turban-wolf/run-review.gif)
+[전체 프레임](../../../characters/yellow-turban-wolf/all-frames.png) · [전체 GIF](../../../characters/yellow-turban-wolf/all-motions.gif) · [이동 정상/느린 비교](../../../characters/yellow-turban-wolf/run-review.gif)
 SG_M0002, content/samguk/units.json에서 위 최종 폴더를 참조한다. 최종 해시: FINAL_MANIFEST.json.

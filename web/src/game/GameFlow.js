@@ -1,4 +1,4 @@
-﻿// UserTutorial / TutorialData runner and the prologue -> World_1 transition (HeroManager.CorDefeat @0x1e5b370).
+// UserTutorial / TutorialData runner and the prologue -> World_1 transition (HeroManager.CorDefeat @0x1e5b370).
 import { G } from './registry.js';
 import { Tables } from './data/Tables.js';
 import { Timing } from './core/Timing.js';

@@ -56,11 +56,11 @@ for slug,name,uid,idle,run,atk in SPECS:
   info={'size':[350,350],'pivot':[.5,.3],'root':[175,245],'facing':'left','ms':ms,'sourceScale':scale,'translations':offsets,'status':'review'}
   (folder/'animation.json').write_text(json.dumps(info,indent=2),encoding='utf8');framesBy[state]=out;meta[state]=info
  (root/'original').mkdir(exist_ok=True);framesBy['idle'][0].save(root/'original/original.png')
- art={'icon':f'chapter-1/{slug}/original/original.png','portrait':f'chapter-1/{slug}/original/original.png','static':f'chapter-1/{slug}/original/original.png','ppu':100,'pivot':[.5,.3],'facing':'left','frames':{}}
+ art={'icon':f'maps/chapter-1/review/characters/{slug}/original/original.png','portrait':f'maps/chapter-1/review/characters/{slug}/original/original.png','static':f'maps/chapter-1/review/characters/{slug}/original/original.png','ppu':100,'pivot':[.5,.3],'facing':'left','frames':{}}
  motion={}
  for folder,state in [('idle','Idle'),('run','Move'),('basic-attack','Attack')]:
   if folder not in framesBy:continue
-  n=len(framesBy[folder]);art['frames'][state]=[f'chapter-1/{slug}/{folder}/frame-{i+1:02}.png' for i in range(n)]
+  n=len(framesBy[folder]);art['frames'][state]=[f'maps/chapter-1/review/characters/{slug}/{folder}/frame-{i+1:02}.png' for i in range(n)]
   motion[state]={'sequence':list(range(1,n+1)),'ms':meta[folder]['ms'],'loop':state!='Attack','hits':[480] if state=='Attack' else []}
  u={'id':uid,'name':name,'faction':'군' if atk else '주민','base':'Unit000146' if atk else 'Unit000001','grade':'','gradeType':'NORMAL','art':art,'motion':motion,'motionTimingBasis':'authored','skills':{},'levels':[{'level':1,'defaultSkill':'','skillA':'','skillB':'','gatheringSkill':''}],'memo':'2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6'+('/공격8' if atk else '')}
  if atk:
@@ -68,16 +68,16 @@ for slug,name,uid,idle,run,atk in SPECS:
   action={'base':'SkillAction102000' if archer else 'SkillAction100000','patch':{'hitEffect':'','startEffect':''}}
   u['skills']={'defaultSkill':{'base':'Skill100000','state':'Attack','actions':[action],'patch':{'skillDistance':5.5 if archer else 2.0,'skillDelay':0,'skillCoolTime':0,'startEffect':'','castEffect':'','condition':''}}}
   u['levels'][0]['defaultSkill']=uid+'_defaultSkill'
-  if archer:u['projectileArt']={'sprite':'chapter-1/yellow-turban-archer/projectile/arrow.png','pivot':[.5,.5],'ppu':100,'facing':'left'}
+  if archer:u['projectileArt']={'sprite':'characters/yellow-turban-archer/projectile/arrow.png','pivot':[.5,.5],'ppu':100,'facing':'left'}
  units['units'].append(u);gallery.append((slug,name,list(framesBy)))
  manifest[uid]={str(p.relative_to(R)):hashlib.sha256(p.read_bytes()).hexdigest() for p in root.rglob('frame-*.png')}
  (root/'README.md').write_text(f'# {name}\n\n2026-10-28 신규 검토본, 사용자 승인 전. 350×350 RGBA, 왼쪽, pivot(0.5,0.3).\n원본은 original, 숨쉬기4는 idle, 이동6은 run'+('、공격8은 basic-attack' if atk else '')+'. 각 폴더 GIF/개별프레임/시트/시간메타데이터 참조. sources는 내장 image_gen 제작 원본. 원작 애니메이션 분석값으로 주장하지 않는다.\n',encoding='utf8')
-arrow_source=R/'chapter-1/yellow-turban-archer/sources/arrow.png'
+arrow_source=R/'characters/yellow-turban-archer/sources/arrow.png'
 if not arrow_source.exists():shutil.copy2(G/'exec-e7c5a835-42a4-4b4c-962e-63cf051e4cad.png',arrow_source)
 arrow=Image.open(arrow_source).convert('RGBA');arrow=arrow.crop(arrow.getbbox());arrow=arrow.resize((65,round(arrow.height*65/arrow.width)),Image.Resampling.LANCZOS)
-out=R/'chapter-1/yellow-turban-archer/projectile';out.mkdir(exist_ok=True);arrow.save(out/'arrow.png')
+out=R/'characters/yellow-turban-archer/projectile';out.mkdir(exist_ok=True);arrow.save(out/'arrow.png')
 (R/'content/samguk/units.json').write_text(json.dumps(units,ensure_ascii=False,indent=2),encoding='utf8')
-review=R/'chapter-1/expansion-review';review.mkdir(exist_ok=True)
+review=R/'maps/chapter-1/review/characters/expansion-review';review.mkdir(exist_ok=True)
 (review/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf8')
 html='<meta charset="utf-8"><title>황건소탕 신규 병종·주민</title><style>body{background:#17232c;color:#eee;font:16px system-ui;margin:24px}.row{display:flex;flex-wrap:wrap}figure{margin:8px;background:#e5edef;color:#123;border-radius:12px}img{width:280px}h2{margin-top:35px}figcaption{padding:10px;text-align:center}</style><h1>황건소탕 신규 병종 · 주민</h1><p>검토본 · 350×350 · 숨쉬기4 / 이동6 / 공격8 · 마지막→처음 반복</p>'
 for slug,name,folders in gallery:

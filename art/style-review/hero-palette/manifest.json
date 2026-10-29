@@ -1,0 +1,3517 @@
+{
+  "status": "applied-review",
+  "method": "RGB-only fixed shared palette, no frame fitting; alpha/size unchanged",
+  "heroFramesUnchanged": 175,
+  "assets": [
+    {
+      "path": "characters/armory-guard/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f56f7aadf709a85cf286cbc1172588111c37cb70cdf2cfb6836404e3fda7bb23",
+      "afterSha256": "f6e5057aed0a71b19b9f9fc3612f46351a416fb5b4f2cf724c5e954e87860cba",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "827e42ed45e853aa9cb2703b939439d7d9ed1658fad94444a6c804d9da538bb0",
+      "afterSha256": "021c15ecd1dee3a86a2b92cfec11c7e3e4accf21a55f792ed71af2ee2ac7689b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-01.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f56f7aadf709a85cf286cbc1172588111c37cb70cdf2cfb6836404e3fda7bb23",
+      "afterSha256": "f6e5057aed0a71b19b9f9fc3612f46351a416fb5b4f2cf724c5e954e87860cba",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-02.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d7380256ce438ee96da3183494575251b4b94c25dc0e6654de65e322eebe344c",
+      "afterSha256": "546bbc91e514ffa344082072713f1a0a30e3866249fc76bd79d2112219c86e1b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-03.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c56fd5b12e627b065145f19745cbb27d7cb0a495a0712f47d3b6ab90f2aa22c2",
+      "afterSha256": "891beb0426f0a1ea81c3b0b6f739a4a3145287d4522ab7f6210d6d4656eb20db",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-04.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d78d82477201766794df218cf91f9ca4ccaf515de8d9870517c1f06641554a18",
+      "afterSha256": "8f26ac98b31cf0b154df5f0f3c9484d098e533723ef01d9bb52ca8fd74af2bee",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-05.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6f2f2ac5cfa222ea4d3d183d0c4490eb32d30b5e491b918ee2214a7235b7fbb3",
+      "afterSha256": "2467b9dcdd3f6bdaa217cfd9359c699032483a8aa622edb441ee49bdb987dd91",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-06.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "12cd08e547676453ffc5d2356740a85df9968832a9bbe91c0e15f1e82a806e78",
+      "afterSha256": "52262e78d66bd319bd1ab6dab804724ea8a11b97a212c6791c5f26b5218c2fac",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-07.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8c4f080bc7a976c466a14317394197b03644d3160da5e8578f3f29af5c51b97b",
+      "afterSha256": "4fa978277df26b2e9c99996493a10fa5cdc845b0a89679b84b0b6ccc20e2599c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/armory-guard/work/frame-08.png",
+      "kind": "character",
+      "backup": "characters/armory-guard/archive/before-hero-palette/work/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f56f7aadf709a85cf286cbc1172588111c37cb70cdf2cfb6836404e3fda7bb23",
+      "afterSha256": "f6e5057aed0a71b19b9f9fc3612f46351a416fb5b4f2cf724c5e954e87860cba",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "b8148912f9947e1cafdeea5833e3c63928edd306e468d0bf5d297e2109c11835",
+      "afterSha256": "f76b3450d0789946309504fd89f0545bf0a8269ce434c0d5aa35305dcf23c98e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "b7c6048a6ca7f40b3f777bacf48d0d994743c8a2a141087184d31485cde07b28",
+      "afterSha256": "87a7677cfc04314edb4dae12fe78cbe9ed733ff508065c82090f144da81dd284",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7c41c4e5bce33a26c3222e49daff55205bbbfa10a76f57ac557ef2c014cb3afc",
+      "afterSha256": "cd9061b1fa7535d2629c844a438b210d3b33eaad8d23f1dc8b6e258800734372",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "de59cc55e966402392abac376abdf4fc7d8c0c226bee4612fb1da43e264846b4",
+      "afterSha256": "c7c1d04a6d9fc497f35a5baa8c5b3920a43e01e612d1e3aefa08472ca28f19c4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2ebc4c1c3922f4de1d549f90f463a990534df4cd9d520cc3bc915ff5531f4567",
+      "afterSha256": "49812fe75542ac304c957fd7362e244b610199e248f8829375f12382c18597e2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d57c2cfaa421b972070230c5d6b8d0be7af4ecf479b3c1e14a1bc0f56adc3099",
+      "afterSha256": "c1da27400a1c146e04a3ecbc037ce80e8086db06fbb44d52ef8e4cfc008a3ffc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "64637fbe9ae5d1f44a8d6f73035e90f7463072dc1523b98b7e78c40e169736d1",
+      "afterSha256": "9c8d187c833e958aca856b95c40ffba7eb92faa4fe7e29a21e82da26d1bf6beb",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d57c2cfaa421b972070230c5d6b8d0be7af4ecf479b3c1e14a1bc0f56adc3099",
+      "afterSha256": "c1da27400a1c146e04a3ecbc037ce80e8086db06fbb44d52ef8e4cfc008a3ffc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/original/original.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "33b05c51afec0048336e00b838f1d3b0fdb4b5b7f97d699b1725707b4f317596",
+      "afterSha256": "98df8b46b1f4feead8b8daf25695421b988e92d2719db2bd612c22e490d63903",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "78a1eaa25e357a4bc0b4b8a0b152f55e8be1273e83738ebe2cbf166f88c3fbd2",
+      "afterSha256": "8f94600a757040be1b194cf68d481f35b8fc3dd7f752bc16ee47cbf0c9627c8b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "9bb6ff7cec6e77f61a96333a8237d0c38edcf19aa98c822aa118efda73db79b8",
+      "afterSha256": "7c583b7d4b656096b49fedf2e99bfae54adfd6f8519032878c5b108f6e6b453e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "e3abb6f038c1b210ac9f1ce7c3b80554e02fc2c58b7198d1c8189d4ffc4678dc",
+      "afterSha256": "ee7f85977449b79b73a11c0b58200e26b02fb1acde4e20efd434dc1035f0dcb1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d04500f80b6dae280db0407124ee8bece3437efac9be1fca6e61965102c88897",
+      "afterSha256": "03bfb59e639417adfe83afdd35aa5ca540a97be3110e5fc3cd03e71239feec4c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "924224f7a025cd327fdfa95caeb13e01e3e48c6da03f69bd2dc7e558f9b5f5f2",
+      "afterSha256": "9ff2ccaae6f3106a073012c8c8186102d44640f578d2ce85d4d517c6ae362007",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7bafe08f4f44d71b050df7d073df4646f74e998b126e832b2970458f33872c97",
+      "afterSha256": "4a1bc70877d782d097acd4ee7a7d0d5345d8569bcb1f2f8ec4f7295963d1e3aa",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-01.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-02.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "670ed30ee25891c2957ae566e128b3395800fd3207c79af84c10daa44092734c",
+      "afterSha256": "b74e6df8327f5486731fef609a783a2e658453eb604e9a89f7114f69a5fbc9de",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-03.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1f5557b5908d147e62d58b16360e706f9c188da5da28f0d629031a13b50c27bf",
+      "afterSha256": "8b8099d5e182c5aeff144c1d5f12670a989bc3ae486895191c6e4ef8f7b1826b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-04.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7b743ed21d536f189157a834e8b0e30b8489b56a0cd3f72e32bbd1772a21cb3e",
+      "afterSha256": "6244bb0469fe5589b0359636636eb0d97a2e24af480e3d886b63e546ac8cdcfb",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-05.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "48c3f92fb73791b81938619cb297f0d47089348d7e520a30361f45eedab447e5",
+      "afterSha256": "71612d9ab6c9428e178d6c2ee576a2abe5b94b863844e3c5aa007a95e1fdbf11",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-06.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "cde6bf5f5a18bf6b8d09e4da54118f8a512b9930eb0100230d168b6776894079",
+      "afterSha256": "e88a6d0695ea285519eb20e201ef4624bf37d7b4ec533b08628be814114b464c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-07.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/guan-hai/skill-1/frame-08.png",
+      "kind": "character",
+      "backup": "characters/guan-hai/archive/before-hero-palette/skill-1/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8ac4f4febdbfda5e28fd8197f42666b56eb13eda4c4b916bcdc1172454c6ab20",
+      "afterSha256": "4c86339a09924b551f62fa41fc680a7a5c96917c4a9d39270571396c56226cea",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f137b6bd49c4d0705ae2c6cefb4bbc7caa7558a155ae0174f782b96ece05d777",
+      "afterSha256": "db381516b6f9dec6f85ba48cf309e7e433cb68d2c2b0a5020f4e3bfdce184a89",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "9588f4aed1818a83f30e71fc461a60ec33335f5aa7750debc12887fd2b01b5f4",
+      "afterSha256": "232cf165bcfc68fd6791c649a92545a12579eca26f2b699ad409ac6d4c942ff9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "31c484eefd10c0e3b6e6d47eb29b4baee0b4f45d17e1c5cf8485314d2af50fa7",
+      "afterSha256": "f9c395f9d086c6c7d0993ab0c3a1be3adc11c0923d5908007773896026d4184a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "9588f4aed1818a83f30e71fc461a60ec33335f5aa7750debc12887fd2b01b5f4",
+      "afterSha256": "232cf165bcfc68fd6791c649a92545a12579eca26f2b699ad409ac6d4c942ff9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/original/original.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f137b6bd49c4d0705ae2c6cefb4bbc7caa7558a155ae0174f782b96ece05d777",
+      "afterSha256": "db381516b6f9dec6f85ba48cf309e7e433cb68d2c2b0a5020f4e3bfdce184a89",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "eecb529c14be450513f17b64715627e69cbcd0ce16b096bff0cd02ba9517f387",
+      "afterSha256": "b3cb6225f99125b3ab402dcebce068a3beadf8a06bfd3a35a3578c6234e65ec6",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0a8d8ca833fb4609f166947248e399d81c2683e8ece39bba8e733b95c3ce1888",
+      "afterSha256": "207ed6e17e1fb4a76626349ed978b1ba9f2d8f27c7c5d399f4470550e539b32d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "235a10c3231d5021bb89ea6b324cd8fdaef6c95db8bd7cc922ccba98a115c6cb",
+      "afterSha256": "aa20aff9e1b8ad40b767f02c89b07f75dc08a0284278d77a7a74443f613a3b46",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1af73396fe84cd0cd639a7d455af64b52e8bce0f9e4791dbe973e28b0732f517",
+      "afterSha256": "33f35dd709a1357806225d9e1eb09d92c55331bf459cc0a486924097333afe2d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "b36b9d5f369577ad64d05005bbdb8ec7803c71263919ca41f879a475995479a4",
+      "afterSha256": "8a8e19c347d9c9046e968e96c35efa474cd3d57b7dcaf316608a101cf756516f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6cbbb68783c78193387c9dd4433b4c59d0c653707f8092c668e0fe19b213de5e",
+      "afterSha256": "599384f0c2ff706a984f9dd676636a3e806b925c9f5607d2b778af60d44ee2d3",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ecd37bc940095d0ace39355492c13693b5a57ab59363459dfbea478a6ffe86b7",
+      "afterSha256": "a2b498484b941ad5d91593ebc919ede82b72d61f135b9aa94f9083e147be5893",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2bc14631bab2e3689674b29fa5443e7933e2fd2fad3c4cd8393e418801f158eb",
+      "afterSha256": "e38ece4d978504a67b3bf29915d235577cb00e2916a028e82cc0f46dd1c5cadc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ac6a7dbf3cc772cd3b339e1a934e9b227237e8f56243bf78b0cd4bdb9ae17438",
+      "afterSha256": "624c9f7e5deb14c5fae6ff8d46606692c24d89fba686ca3514e5a5a76fc970e7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f94fd074c31b001ca69999dc354228f86605a65557c66ea12b9b7e845bbba201",
+      "afterSha256": "f97ee62216dc369865a596518f25626ebd22c8cfd79626444abbf6d0d668830c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ffae8ee789be4b2c17a7a0e7c156ae62b0043c2362c7d9ed28051c959bdd3a45",
+      "afterSha256": "b5938f3f4f3823dd19c699de449c8f826b1266d9ff39d8e5e4b6ad1192f19d6f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4d70f9e76b43b1b9bd68beb69c0adf721f8861c480ff5f870b8f8d8e87a6663c",
+      "afterSha256": "c96c4ec831b8a7edd6b5f6d73deab58f95c3a90cef16737a0334597e409f10e4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2ea65305a80933fcf8ddee23e82a08f3ee3d66f294de0ac89c4766b6f40c49c1",
+      "afterSha256": "14f28980137b9f0693658920bb26392a1d0b7bd7956a6b662468f6a8c8777535",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-07.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "bf98e11bb76e3686107449715b4cf33087025fd9bc21ecadfe9586f1185e60fe",
+      "afterSha256": "157e03e05a19a45faaac692c07f5010a95378ccb768ff1916897d611f878fb84",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-blacksmith/work/frame-08.png",
+      "kind": "character",
+      "backup": "characters/village-blacksmith/archive/before-hero-palette/work/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2bc14631bab2e3689674b29fa5443e7933e2fd2fad3c4cd8393e418801f158eb",
+      "afterSha256": "e38ece4d978504a67b3bf29915d235577cb00e2916a028e82cc0f46dd1c5cadc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a35a447bd1d7920c0a45e671774b0c85f39c0e911344936df1f0881ca50d100e",
+      "afterSha256": "508a96d2dc2875ae24b7141120f5070288ff4e1f16d62cf7f24d207540f8ae00",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2fca0912ad35966c3c06e40f3ea4e0fdbedc011cbfa5b37f08e253c6393d04eb",
+      "afterSha256": "bf64cc5614757216be19ce62d3f6ab5f69e16523bd32ee39a2f753a087206cc4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d78909625a100069f1eea18f598cac82b3913f3f2d5ba3c0b1d76bf74f17fc68",
+      "afterSha256": "67ac4b08759d0d17e347c6e84e8da6f40cddeab93412bf0fca45f8225c73f0ec",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2fca0912ad35966c3c06e40f3ea4e0fdbedc011cbfa5b37f08e253c6393d04eb",
+      "afterSha256": "bf64cc5614757216be19ce62d3f6ab5f69e16523bd32ee39a2f753a087206cc4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/original/original.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a35a447bd1d7920c0a45e671774b0c85f39c0e911344936df1f0881ca50d100e",
+      "afterSha256": "508a96d2dc2875ae24b7141120f5070288ff4e1f16d62cf7f24d207540f8ae00",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "19cdc1f0608470cad442bacb1a9348908c1001620898e40963e2076c33b1e45c",
+      "afterSha256": "703c18edd29de14be5ea1dbb1a360ced1b06ff7152b72e5e7d2025870353e248",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "91a475d4a2f0dbd3ee2a1e8f39df9c030bee1577bb944211bf8767323e1ac11d",
+      "afterSha256": "24c7f48d9db5af676192e3b9be52581c218eaa329c4c6da0a33b4211100e0d93",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "de7fb6e1615a0a6b89f0261acbf633c912abdba8793a57bd52709c42cc31ac94",
+      "afterSha256": "3df8ab74d89ce7efedc43ca7fe4d8603838ed85bc41d047724c326177aa4d685",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c41ad152de42bd7e456b433ad46e9d84f540ae000f3e9f0374d3d509d8c86333",
+      "afterSha256": "bb53c25c73b54da6b870f8b1b628def3c7ae23275b03127460df4ad280ae9a8e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "49f7230cf1a7d9d9cc901c33f3eee7834fc8cd2b345020691b2250f23b9fe791",
+      "afterSha256": "ce5bb559f5f4c427a2e7620e6881ce7386baa20e8f7f1b84795436fa50ce0252",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "24a948013f90f9d485e8a1c8a4a7f850213139076a0c1ea046320cbf7a14f63c",
+      "afterSha256": "c9c39a4975c9fe15fd1090c2c7f2c2b64cbc6ca2e70d0a011d63ecfee45828a1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-boy/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-boy/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "87e96d18a2f5ed8fe835117f282bcb6f726d935c9050d277a96725d81c08e282",
+      "afterSha256": "d1ec956080b88b0b5b254b3694c22b52fd3a9ed4d7268291f15c0e00208cb5ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c48a86eca215553c14aea39143442035721df8583c435292ed71cb9a43c79b52",
+      "afterSha256": "1f3c14d18cfe289f78fb0842f8c9915b57a9ca39bb05e4fa93f61aa85f2c0e4b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0a5e226a8c54eafef4eb2cb934a2ef3fc9bdbadfe114b79b5a3ee23ccc5bcb7e",
+      "afterSha256": "867f4a632f4250ba4a8b55186ac0b8e035928dea81ffa5779100c745fff72e70",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ae94d328282b1abc9e0f1aa9579590d3cc9fe77a75954375b10ba1438aadf864",
+      "afterSha256": "f41282732fbd43fd25b41c069c07148cb42a20012702c307c78ca77b063614ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0a5e226a8c54eafef4eb2cb934a2ef3fc9bdbadfe114b79b5a3ee23ccc5bcb7e",
+      "afterSha256": "867f4a632f4250ba4a8b55186ac0b8e035928dea81ffa5779100c745fff72e70",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/original/original.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c48a86eca215553c14aea39143442035721df8583c435292ed71cb9a43c79b52",
+      "afterSha256": "1f3c14d18cfe289f78fb0842f8c9915b57a9ca39bb05e4fa93f61aa85f2c0e4b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5f2b55d29fefe9a28106259e251cd98a729ef3456c2be13065458a141143313a",
+      "afterSha256": "430071bb764323b0f96fc21b9ff4c280eede816e970e3f08590aec0d971154e5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2ca2b99cd4e8dc0c670de4e6eb227cb573ffc02f9f82d9f745187fd612289d41",
+      "afterSha256": "cb9999566433f3bb66ce5c5180f68cf2b37b5dbc94d4faa33f6be30656e94430",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "55c3534e97e76adf05195e0b81d5e89a3741aa16ff08d96d9241377e6e231ddf",
+      "afterSha256": "3957afcf0d80ca9f3c06701783a66b6c8ea01f0e0a736edfab2f67a2c7e39d79",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f57b8a5370000eacc07f7cc714f658d04f071220d11e02f692c40c55a97b08aa",
+      "afterSha256": "a38a41bb72e8719e69e9fc804650cb603982860c6e4ce8ce2fa85648e42058a3",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7a6a2c3f01c0c336d4db011bcf72eaab7d2e9f70d2ba6549b20f63fd42e8e898",
+      "afterSha256": "4a75a5db36e30f9ffb72b165b37c5331eb32ac1755f2fe11958750dc9410abba",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "39f13dcefda87fbefe147c19f510f36ef6e1335bbfaefe9ab63327d980be1272",
+      "afterSha256": "b264032f9cd08cc6fb76997d79b64723b63a1b28482aa39ffc0a0aea0b773a9c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-elder/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-elder/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "47485635c321bd5b8a11ec427fbd6a02bd716672564d6ce0784ec7d9bae18881",
+      "afterSha256": "f3299825d928672a519e61a106c3ecaba5e730ca83807466c99e166b4499b549",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1e6076ae32cee2943bd6981de55731b4e9a5fe8578a3c7e3771285106fee4e26",
+      "afterSha256": "830ebafb292dcff2349ab1a55150110eb2f1c5749c503e5a3a9f0fe578b50751",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "e90cb399df90aa8b126516ea329156d896a8edcef83792ebb94b6182b0391a2c",
+      "afterSha256": "48fa3a3ee59d749a3d11336c6e20ded8aefd8f2fc0fe7795edcc4c78d5da3827",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2de9e89c11483e558b361c6ad1888bf9436f1eab46baee24f4c836a38b33ffe0",
+      "afterSha256": "22cae52a5b95ff67b6aeadb84fe0e21cd091bd47bad374ad0572cceea960f60a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "e90cb399df90aa8b126516ea329156d896a8edcef83792ebb94b6182b0391a2c",
+      "afterSha256": "48fa3a3ee59d749a3d11336c6e20ded8aefd8f2fc0fe7795edcc4c78d5da3827",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/original/original.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1e6076ae32cee2943bd6981de55731b4e9a5fe8578a3c7e3771285106fee4e26",
+      "afterSha256": "830ebafb292dcff2349ab1a55150110eb2f1c5749c503e5a3a9f0fe578b50751",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "df5420b2da6bad2f9f1ae857a5fdf7082fef74109a2e187843389108f9fbeed8",
+      "afterSha256": "6c48e460dbabf91ab60f06d36e9720df9c084255101b0e409a9c3420f0d29475",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "961c0a662d39ca49285fc419dcacfe6086b0986287397aacd0dd34b419f59d68",
+      "afterSha256": "adf6b2459b967968f548d29687b7f98dc27a3d878f0c740e4a7ca5d4e72bbc72",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7d2a3e04a9b3c9be847c16ccb12d9c1a1479c84570e95ab3cd3df5af9435ea84",
+      "afterSha256": "e38ba6dd4552e3f8af276ff63571022554e6e91dd1ef8871cb93d52c3410a372",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "18b733ed352e037960dfd49f5174f45f5004294bb65a9ec91f2cd081d91aafc0",
+      "afterSha256": "404bd5111b76d28e78afd5e4dc8aabd30a2b5953f3adfcea4741e0314e692023",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5c26fc2113564505141cd1859c792571d243894b4b9a14e9b7ad28c949dd6339",
+      "afterSha256": "968312285854d076158f50983c043b11a0db2b6de4dd7adf5f16efcbd72e8404",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "00195449415ff4cc4a79e248dd85f279191dbb171a764cd10806df7598b4f20d",
+      "afterSha256": "8f1782ce25a8d74c7f286a2f4d198bf2cf46d1e373bd56d2e40a0c653c7577dc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "dbb9dc44c4294aabaa457a89a536bc697b601a42eed9befedfd90eab467f7443",
+      "afterSha256": "56ccbfcfb6ac2775bb733422da7895d075550058a0844e66cf3a30571187d824",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "3c82d79b4ef42f6c461e3421a020f4aa032b5d0d9768147c52501c1ac815884a",
+      "afterSha256": "84fa0cf4a343e12b75c6a85b9f95b69d319f4cbe7287c6982cdab90e30aefe8a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6c3e1f49bb52def2644e8875598c11e512a6d9d4de99d574eddc8407f3c7d890",
+      "afterSha256": "72b0873e7dd79bd84d67b245c9e3afe6013c95f3a055c95b5f7acd2dd77dd9e1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4af706abf77f42d312db3676d3125f1cb8f32d26cc2938b21f6a1a0ae5f90397",
+      "afterSha256": "eb847afcd5a08bcfabde5bbef39806f6e287ca8044451d094d58ec588936ca1d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d54c8edec35bf4b6da34a9a410710120261b2b5ee6f17390d8f872afc5cd01a3",
+      "afterSha256": "18485d08f72dbbe8b985e9b75f803b2b4a4e2227bfa530dd823f2b7a7ee8acbe",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8abe038c0fede681623e179bdafd351ee1542021700d010a815090e34f15e820",
+      "afterSha256": "878c722e5c8c602433051d26dfe4270e5dc69abd725ef1be35ec15c2a804f186",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f2626c486f88ecd18204056e9363fd852ebff05937e95bed988c3894d36be8a6",
+      "afterSha256": "dc6acbb874e81af14b66b6228b5e992cb220e62c70d781a8d83cd678f1efc872",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-07.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d7c77edfc7bdace8a219de880f04504a2f58b01b539de40713178680ea88606f",
+      "afterSha256": "c1e896f22833bce057266cbb203f2f71385819e7e7ebb8bb76f6e818149805aa",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-hostess/work/frame-08.png",
+      "kind": "character",
+      "backup": "characters/village-hostess/archive/before-hero-palette/work/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "3c82d79b4ef42f6c461e3421a020f4aa032b5d0d9768147c52501c1ac815884a",
+      "afterSha256": "84fa0cf4a343e12b75c6a85b9f95b69d319f4cbe7287c6982cdab90e30aefe8a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0a0236a4d9619149e3382aa1cebe18e62e4cf33befd5fa9e59dc12916dfcd249",
+      "afterSha256": "1ff2220652ab0e77d087df618988e9d4175580195f8abfaf466de031976a8f36",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4ad571f7bf5cfbd81ca56e5b944d59e87335d77d60a220b2be3c97794c84d718",
+      "afterSha256": "079cdd2167b589881abc9acf13a28bfba9b6de76d1374874ad05323e9dda23f9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7a53899dfe37ddaf52a01732b30864701d392552efa4659a4c7bfdec2dfe1d90",
+      "afterSha256": "ddb3589876076e3eac16dd26a9fc8b05ef11d7b93567ed6aa1564dbf1aa64403",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4ad571f7bf5cfbd81ca56e5b944d59e87335d77d60a220b2be3c97794c84d718",
+      "afterSha256": "079cdd2167b589881abc9acf13a28bfba9b6de76d1374874ad05323e9dda23f9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/original/original.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0a0236a4d9619149e3382aa1cebe18e62e4cf33befd5fa9e59dc12916dfcd249",
+      "afterSha256": "1ff2220652ab0e77d087df618988e9d4175580195f8abfaf466de031976a8f36",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "00a9cdb29ce9665c180db2f0cbe2ff73b11d72e5eb2e0d60308f711e241b9593",
+      "afterSha256": "7dc8c43cfa5e44be1e3c74e419ac59bb4316b85aa92d99d6d67a72bc9a94e511",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8c614a56577293ee534cc2e7b9250ab4e52c33a9b88bacbdbabe8e5695115598",
+      "afterSha256": "e8f5d8539f35a8266be703db46744c9daba6e75f4cc8a18d67f72b3bdd9ff1ed",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "65f4e170b15650eb155d4df53db207ee5c738eb8388e15e6c18f1c8d53abfe04",
+      "afterSha256": "ebad05df5e672a33f80f663fd7b02accd47a334b8d901cc9a4b50b12ce4b6513",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "924d97f233dcb554028c9d6e2a6b906b03924e81faeb5239d02224e4176347bf",
+      "afterSha256": "5b7218e907c9fcb5b3a8d0c78dfefe045dbadb2d580d4fe1c152a1794e93288a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f8e915e7705f743e93b6f983552a7a3bb941c2e0d645767436e845a6a534e7bd",
+      "afterSha256": "558b1fccafaf207bc7e9d5805d2e4b7b8c080f25ff5136c143d85f634076e9b5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/village-woman/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/village-woman/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "38f3cb2de9afdbc31f9651240d512d646da007fd29ddc97bcb65a6d7eef7964d",
+      "afterSha256": "0f6b953c2ccb4360173c726a6c0e2ed5ab40e5d2f989e0118ff3122dc52c0470",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "132836e24ccc64373ef747c2c997ad59a08132419925ab58aed99f442ed7c4d5",
+      "afterSha256": "2c2ce4ff203ba7a6c4241c57954271ec3cad9d77e5a2eefcb6ee3c1804c00b32",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1d3c312b691c09a61c1b8cdd8f47e3b5ecd239e651900a3b652790ec61b9bcf3",
+      "afterSha256": "448b3f4e8b304be64675146d618f816d56ffa227862cc0093c4b25f9b7403fd3",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0ef6c383a3191ce381325fa64d42b34121395649e88ecca52891ea00d3150822",
+      "afterSha256": "61e996a941bd162b47315d1d281f9e02e45a6dcb02d3fb3c822075f0daa46659",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1fe03e174b24300ae130bb6753f18eaa5cc08bcd96a68cce3efd88967532ce55",
+      "afterSha256": "8e86111115f2800f37a3f2fa4b9b9861dcc8af3087263af84db9b06632e70720",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "b652364a0f661135ca3e8272460bbdd3ef4004e22ad699c5a28c5a7684ab1e9f",
+      "afterSha256": "2946f0e95f0b49197c67d80fa454328e7bf46d8438a9e2f63b5798dac8fcee1f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a6d31e54f3f74f4580b16f4ef2527420d09e2cc8bb56513ba6317f4f1c3dfce8",
+      "afterSha256": "27c963abcbebb41f5ecee2e1f0e86e897e80b90b3d675078fee9337dcb72a2d4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "132836e24ccc64373ef747c2c997ad59a08132419925ab58aed99f442ed7c4d5",
+      "afterSha256": "2c2ce4ff203ba7a6c4241c57954271ec3cad9d77e5a2eefcb6ee3c1804c00b32",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "132836e24ccc64373ef747c2c997ad59a08132419925ab58aed99f442ed7c4d5",
+      "afterSha256": "2c2ce4ff203ba7a6c4241c57954271ec3cad9d77e5a2eefcb6ee3c1804c00b32",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "132836e24ccc64373ef747c2c997ad59a08132419925ab58aed99f442ed7c4d5",
+      "afterSha256": "2c2ce4ff203ba7a6c4241c57954271ec3cad9d77e5a2eefcb6ee3c1804c00b32",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6579ff03d9a16f55cc09562e48f424ab1d8a5a179e6946fdb7e338ffc305e05b",
+      "afterSha256": "ceb7d304a388fb67b943fb4c65cc7e6beec84db0cab51b30b3534e2630247f17",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "cc1500e67549d7fd2453bbdd56e52345ca8d23616c7b058033259ce9d31d5882",
+      "afterSha256": "1e1dac12b53b163410895dda52a4fb3319d9cd66c6e0fdd8c9937129be9b1122",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6579ff03d9a16f55cc09562e48f424ab1d8a5a179e6946fdb7e338ffc305e05b",
+      "afterSha256": "ceb7d304a388fb67b943fb4c65cc7e6beec84db0cab51b30b3534e2630247f17",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/original/original.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "132836e24ccc64373ef747c2c997ad59a08132419925ab58aed99f442ed7c4d5",
+      "afterSha256": "2c2ce4ff203ba7a6c4241c57954271ec3cad9d77e5a2eefcb6ee3c1804c00b32",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ddeceb4d36dcec9385efed07d4da718697c559c1ed38762f67d5b6c3a93565c2",
+      "afterSha256": "0f824ed479894b54d2517e0f9d85227f6a725a0cd63e67b2082e67c000fba080",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a70957f2f73fce97b3861f22beeaf43f5fb638783c93ad19ea340ac37b66c69e",
+      "afterSha256": "5e9d8c5f01a51d9bcf8209b265d9caf9d9cde198c80c709195461c67d97bbe5c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "48e0dacded9450ceb616751af29b0c9d20541d0fd1aaea7ca5e4ddb8103f6f09",
+      "afterSha256": "11a6b6a23b597aff06969da8e72e6649fd14a7b66a6f3b9ec00393ba85ebe7b2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "58caea833ff2738e50a6a40f8b34740076d7e6a78c84b8521a9acdd5ef01c300",
+      "afterSha256": "b3aed4e4de44d08b205406e53181e3f33d2a7b922eb2e26317daa48daaa63817",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a5481b165b465597b2a9c8c5d7aadeb3b30c9547c6b4a95bb0e29a7b64197e52",
+      "afterSha256": "6cbbd3ffcf8ac92eda920ff61ff32c6a716e80c09af6823b5f94519f2fd53e74",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-archer/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-archer/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0be7c5a69574de3032b2997c75dcc0db3d02e374841b8a9084811c7806d46f90",
+      "afterSha256": "9b9f41ed69dd6fcfb5a63cc5f4061901359287a4e0e449e9a30881bf354f7d02",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a633f5e6b547813a8bb0f0c3cb45191dc3ffccf0397ba358943319b3733e4f84",
+      "afterSha256": "ee6801b86075119e27fcad1d868650aeceaa32a203b6164ec90bdc362b4e54b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2886ba9a8c49d4b344c435816bea83ad29cb12bb4bded3637fb2ecb5ae2a8c3d",
+      "afterSha256": "aee077b9dce8445b6d07b5b2151a0adfb31e7c4ccf5a2c0b4cfa5fe3488445bb",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "409d6c5bbf43f38d47502b8a2d3f9a16df5cf7c22147d24a76b3d94dbd0b10af",
+      "afterSha256": "f605232f6b84df3c39867fc2a95d549e513df9821fd918c7792a76aa1fdf536a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "e30dc1aa61505ae9c17579680029f8862078477082a47c430190df2ac13f936e",
+      "afterSha256": "683aea932cf9a8fb846ce546934d31bea801f709da8e38ce7390d6cbbb875be6",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5518f7635d490670a2c75e7a6db63ccf2094e89469a383744f7134af8b121631",
+      "afterSha256": "482f964315e1ba9db7ff7d67aef80c72bbcc0450f1abd4bd5458aaf2a290792a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "eba9c2b32ccca9711a6e85f8e6ee1c86c89dc4c5730236368699a13a90ea8a8d",
+      "afterSha256": "4dad2cbd6aeaead57f6f467a838e0fc80783e97a12570a8ebf32b0d8a41608f2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a633f5e6b547813a8bb0f0c3cb45191dc3ffccf0397ba358943319b3733e4f84",
+      "afterSha256": "ee6801b86075119e27fcad1d868650aeceaa32a203b6164ec90bdc362b4e54b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a633f5e6b547813a8bb0f0c3cb45191dc3ffccf0397ba358943319b3733e4f84",
+      "afterSha256": "ee6801b86075119e27fcad1d868650aeceaa32a203b6164ec90bdc362b4e54b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a633f5e6b547813a8bb0f0c3cb45191dc3ffccf0397ba358943319b3733e4f84",
+      "afterSha256": "ee6801b86075119e27fcad1d868650aeceaa32a203b6164ec90bdc362b4e54b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "03e2efea6803463d3027e14ee9896acd996ff3d8cd78a19f1b8e08b22b6ea114",
+      "afterSha256": "125acafb4b9c488d7fb5e0b3e38eb17be5222787afbda914c048cc4401e8db87",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "87bbcd539280bc05343525d4fdbef9490681dc449f08f577448d3be0feecb42a",
+      "afterSha256": "a7cd807eaf855a5d4ed6ce159541897bbe2db770e9aadb3684b9e125a3642968",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "03e2efea6803463d3027e14ee9896acd996ff3d8cd78a19f1b8e08b22b6ea114",
+      "afterSha256": "125acafb4b9c488d7fb5e0b3e38eb17be5222787afbda914c048cc4401e8db87",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/original/original.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a633f5e6b547813a8bb0f0c3cb45191dc3ffccf0397ba358943319b3733e4f84",
+      "afterSha256": "ee6801b86075119e27fcad1d868650aeceaa32a203b6164ec90bdc362b4e54b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "06c802a55587f7b1e49b630c576039e52fda5aeae93a8900cc797374ce2b7b80",
+      "afterSha256": "4a6aded0b3204675376821599878bdd511aec4cbdbc49ae6fd9c547aaf5f2152",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "153da8f04ec296b9de61ee4caabe3c8e4f68c843800520ab9d56257b1f5df0a0",
+      "afterSha256": "e7d5ae5f38561288e56ad1fd04b795ee436da79e7df0f7dc33541a77d40d0e76",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c4c94809280cadd6e9aeb363ca12b374b041035b1d21e5d7e99cb2d2cc6a2fde",
+      "afterSha256": "af3ac21486ac96c7862b8882290009327c4ce9f2b80d4deb87edc247cbd54728",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "19180c21084a442d8cd6b1276de9685c6921bd1035a8e079f52e26865ff93900",
+      "afterSha256": "714b740686c517b6f232e87e9b9652ccd83a1456e412cf59f31d4571586ff5f7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "18ac09e3b53d70c5aede35c66899edac780a5a00667fc2d4fd3e37b1412b94e0",
+      "afterSha256": "e6f268b3220d8292711bc1f0e3c2c4a47e88af296c3d308d7a430cabe7b5a48d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-soldier/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-soldier/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "60ebd33d3713487e98c882a3870dbec1405057ff1349452aadfe808d58b70084",
+      "afterSha256": "61c47c39dded3b53d58d0e29ac55b661e522148cb0100366895ce30eb517c3d0",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4412db2697c24a85ae14a511ac6acb1f35327061af2233151f61be2c7c387352",
+      "afterSha256": "3bf7d9d97fc9dcf476fa4e5e72427c9e08680dd1d1d2bf40850ba83c84d6142d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "9f9c9061c608c9385c0ac09be41e37d7745843b4accd3697065fb1e5725ed5f4",
+      "afterSha256": "6341e2d1c6cc1b0d029d257ccadbac392c5db26fced33ebf5bd3782e50609d99",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "eedf973ca740966942b49883cd7563d80c2a9bad14bcf91ea755328da06d3fa7",
+      "afterSha256": "79260e9a7b5862e289d3229857e175012ff4ef272509ab218869c298f7f3bf55",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "9e4c4cbad82d697c8015375d4294af1dcc7dccacce9487104d18f60eda2d259e",
+      "afterSha256": "b6bdcf7be6efd3010d204464686280045c03cfbc47e4304f0695b2ef42741201",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "cb03e140aaef3cc42c8c211faac583e9262dfacbfcec0d1755d08940edee8e2b",
+      "afterSha256": "d8144f0206d031d6f47183b1bd979b8ea53e4fb18147f13c699f4642756d36e7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "abb262b98ecefcbef0dbf9a8a89f09fc35b41c78225910cf9538bb701b656d47",
+      "afterSha256": "b6bf8414f9b185c1a91583910e200f6289f73a6f14c03369ad1d3daa82ef39d4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4412db2697c24a85ae14a511ac6acb1f35327061af2233151f61be2c7c387352",
+      "afterSha256": "3bf7d9d97fc9dcf476fa4e5e72427c9e08680dd1d1d2bf40850ba83c84d6142d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4412db2697c24a85ae14a511ac6acb1f35327061af2233151f61be2c7c387352",
+      "afterSha256": "3bf7d9d97fc9dcf476fa4e5e72427c9e08680dd1d1d2bf40850ba83c84d6142d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4412db2697c24a85ae14a511ac6acb1f35327061af2233151f61be2c7c387352",
+      "afterSha256": "3bf7d9d97fc9dcf476fa4e5e72427c9e08680dd1d1d2bf40850ba83c84d6142d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "189a78769f47bdc29f1cd457f04c314d51c9e5c773cb354b1fbab318b12fbd01",
+      "afterSha256": "4f5473d8b41f06f03df28dbe896c18629adf5aff18b2f0259ad53e0e162d6ab2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "63b17d5db322fd9847947aa38227e2e10aeb720305643a4612fd63ad6729bd5d",
+      "afterSha256": "0baa4a62b2ea6612331397b97748587d1a238e5ac406ae783639823b642dab24",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "189a78769f47bdc29f1cd457f04c314d51c9e5c773cb354b1fbab318b12fbd01",
+      "afterSha256": "4f5473d8b41f06f03df28dbe896c18629adf5aff18b2f0259ad53e0e162d6ab2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/original/original.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "4412db2697c24a85ae14a511ac6acb1f35327061af2233151f61be2c7c387352",
+      "afterSha256": "3bf7d9d97fc9dcf476fa4e5e72427c9e08680dd1d1d2bf40850ba83c84d6142d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "bafc2805ac2913ee239d96a2feb4921a6c5107d4413e6fd3f168cfaf7123b661",
+      "afterSha256": "f9148ed9f2eb84ea3601bff0fa8884dad815844eec64076d19ac4f81b1860fe5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "faa2cd59bf0ca2fa0b4c22349626d9dcd3f389e33f4bc9e478ef50f2a096f6c7",
+      "afterSha256": "cee3eb493aef9f9a4a2ffbb540584260fc354a75976b9765481af2167cf16b73",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f22b288ee8a41f2538569e785cb849731f1108b4f61c9c3df8c87f69eda4bd95",
+      "afterSha256": "b5e7624d71d34dedd53ba08ebe3d7ae67134e32239397f3b57779b95701bef37",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "83c761e12575121ac462fa9b99f814b99dc34584f09ea9090f4690fe98644a16",
+      "afterSha256": "100ccefae160917e47caa697981c34f77f8e6806ef3f86ad039d52f5fb399a3c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6e79734d4d13780fffade92232080db0ad9f9a33dd34be936b1e9bf9f7b6a972",
+      "afterSha256": "7888b8cfd5b531f6ad256a6713cfa2dce677530e856006f1618d61b3e52614c4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-spearman/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-spearman/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c01503e7d8e91485eedf96cd60ed883b43fa6a1e75ed6547b3621434d365d785",
+      "afterSha256": "4245bc6b396a37d8452ea9ffb325f3291dc957431604a808480328f33ef23678",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+      "afterSha256": "c713d5f3cf42c365b99219f8898800b4b913a893d7a6b1e0a6c5613de3bd85ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "29e0505762367ddf0077584a15ecf31300ee99d5a54909a4fb43d8c5d7d4a3d8",
+      "afterSha256": "4db0b2330e22d822cf9a204ca5a674cc6b52497cfc34ed520e812b4b9f176af3",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "dd5fde469dbc90234fe61e92807aa93d2825434b59a68d3f620cec9bbac1334c",
+      "afterSha256": "ab737276e0388ddf518f1e961a1ffff60a0d7f6dd47e630cc23d64b054d1355b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5a07c1e8a9b5f94cf50812f95075f361bde8ef6c0842eff6309ff98e5aaa64f4",
+      "afterSha256": "626546d3b05412d8c5574519e142e2a408f2acddf9754f7b5e48769dc7601134",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "57190f53619348d4caca69d7f0904d91883c8c6b60bb1ec87d96bab1bc763650",
+      "afterSha256": "a79ec44075fbc1a26a85ac3443917423be471b600628ecb262dc9e39b055071c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "13fe867f4cad0d1383fa0173e0b1448def120e960449db18b22703227ad72687",
+      "afterSha256": "2e7905a3ed635b26e6739c4ff21bbbd2981088d13f8343534b45b144ea4f3df9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+      "afterSha256": "c713d5f3cf42c365b99219f8898800b4b913a893d7a6b1e0a6c5613de3bd85ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+      "afterSha256": "c713d5f3cf42c365b99219f8898800b4b913a893d7a6b1e0a6c5613de3bd85ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+      "afterSha256": "c713d5f3cf42c365b99219f8898800b4b913a893d7a6b1e0a6c5613de3bd85ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7936713c3353f0fd8b11ba6d81e34d637bfc7cf2dbd23ac949123d44ea58f1d9",
+      "afterSha256": "a3c1787a9d9b3536be075e11429ae0783eee9138d0c2b25cd31a9d595a553397",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2bfdfc6118e8c0726bbec9ec8b58e5ad840ed6457333ad38ea37b4e4539337a8",
+      "afterSha256": "e536dae835b07201112624dc9e02e7237944cb0445c577d9a5f805b019c0143c",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "7936713c3353f0fd8b11ba6d81e34d637bfc7cf2dbd23ac949123d44ea58f1d9",
+      "afterSha256": "a3c1787a9d9b3536be075e11429ae0783eee9138d0c2b25cd31a9d595a553397",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/original/original.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "aff192045b5373d191f4bde3f7d4a41eb33fde86f476fbbbd1cdbe4acfa13e71",
+      "afterSha256": "c713d5f3cf42c365b99219f8898800b4b913a893d7a6b1e0a6c5613de3bd85ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "2a1fb3561d9f25b1effbb1150f0bdb46fde4f75c7677301f526e8384abfe540b",
+      "afterSha256": "3c4848698587aa15338cc3ee0a7609d662eac686ca6c37c381fcb0b7144cf825",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "58a9aaa07d3f05a791be96bd93905b3cf4fe898d0693f790487d830eeac60537",
+      "afterSha256": "3a98ac4c715570e2e204b2d09cdaf263b8c3457f8256623183c9a08b9194b38f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "f2a1c0dba84bc1d0e3febce3d3511f8c45d1d3a413fdf8e57354f102d192002e",
+      "afterSha256": "8682ae7ee38d4ed50dd746825f4893f9eb9d2e267541898b21e5460f7955f7a1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6f02c0466d0d4a1b6b715b20daaa8646809c47f6731685a1325e1829e3ced99f",
+      "afterSha256": "b50c8608a9751bda459bf0e8736268a964f61e3f5437a3262a9ce3cf58aaa5c5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ac21457b3f5b39a75dfb81077b508fe5203bf8b2e13a7223e74346b1a47be3a1",
+      "afterSha256": "dbf22ffa93e37ee8823415a3ae8c396f14f6e8472742cf9712f81cabf223c281",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/yellow-turban-wolf/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/yellow-turban-wolf/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "92db9028968f6321a065a510e162d2aa21e4aff35f74c89febea3c12d4cd949c",
+      "afterSha256": "6cefcf42978c81cf4ce81de3cfaab200eab81d6e24cc58f642abd510270401a5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-01.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-02.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a4cbadec3c57f2c8e0040ed7e46a03be33279e73b9572aee8c2d386b2971b3ed",
+      "afterSha256": "4c3360e177a1939a4b0507fd9996788753f49ededea808f83c2a3af31e5738bf",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-03.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "d203f3cb352e90f016e7a2caded58d61bbb4aeab0f1256fbeac461df72ca823c",
+      "afterSha256": "882fc507e83441f5e58967926da02c5518ce128450e6a32418a2b08fa5982bdd",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-04.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "01f639a18fa3a8bb08165653c440d00cce03b152d333aec8bbe29e53df888be2",
+      "afterSha256": "a2b5dcdf40d4f432a6c45a6bce7410cc452251af5421fd7b73f0dea2a40240fd",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-05.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8d6df5c74e5cf9dab4b4fb57f3d0c90ff6d448fd9de5cc9a6c3782d93770f37b",
+      "afterSha256": "881a4fcd3202f442310311ec66a04865020a5c9c9447ea8c6f80c845a3efda3b",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-06.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0ae857361d4100c4f0b72c61fda5ee90094e2e6b445447593e08f7cf65e3fc41",
+      "afterSha256": "c4c588334e176311423d58707fda01e3aae1fae84e8936cdf58ecd5e45574a31",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-07.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/basic-attack/frame-08.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/basic-attack/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/idle/frame-01.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/idle/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/idle/frame-02.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/idle/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c5b03c23be037f6e51527e78a112a1241676c8ee212223c497b64cf3c1bca8e3",
+      "afterSha256": "a67508b67eb4e79060373cc7eb2e6f9805b87b685a252e9755276c4d05f86452",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/idle/frame-03.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/idle/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6099006f3eefb4dea20e20abc8828fe5e5e3b06b49aa247d98fd2756bb5d1495",
+      "afterSha256": "c1fcdf1580923e3fa09eb54dcd60718d1ac64a9f949b3772d9ac6b86bc43e6b3",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/idle/frame-04.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/idle/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "c5b03c23be037f6e51527e78a112a1241676c8ee212223c497b64cf3c1bca8e3",
+      "afterSha256": "a67508b67eb4e79060373cc7eb2e6f9805b87b685a252e9755276c4d05f86452",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/original/original.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/original/original.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/portrait/portrait.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/portrait/portrait.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "ce959adbcb427e8c07ba59e56fe566d99ec230c6ce51c4ed6aab6afd9e4c52cc",
+      "afterSha256": "def2715e5e2eaa9e4f69d1213c088f209c6609fc9ab5d261ac29fe62cadb9385",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-01.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "649995ee3c3239c46b93fbd985f8cc054c617bc07a0c0e94327226360c8cf68d",
+      "afterSha256": "2aea3c1b59177c458767a0249ce2413eac94db6a8ab68ce302877cd349e295ad",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-02.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "19aad470fb461fac7737170c4c1f9e21377c8fb79101a8c13764f4d468095167",
+      "afterSha256": "8c664a3a8b95e912e032893e374b3ae60194287d4972b95bd31eaf6afe94f1fd",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-03.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "6f15e3c0fd24338a807f8eae9b876e27b24a730d946bc74063b951b993d01860",
+      "afterSha256": "a6e59860a98eae364080b2ad93aad3a3f41e27dc8311d63fd48acae743ddf29f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-04.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "91748b4f9a42e09a9849a5dc45958e897d9b4c48b0dbfdb2074dce4e1ebfb680",
+      "afterSha256": "f9889f97602445c89dc3c6a1d921355232ec225d7bd5d2e6ccb6b0ca450a7794",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-05.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "95139b9691c86ccb4bc395b37d1dc57c487ac5050e1d0a97a4dc8cc81de550a5",
+      "afterSha256": "220bdda12040092e7c2b0e0078e0ece479e768cc767100e40af952fc20149537",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/run/frame-06.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/run/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "a3cd547ee57ca612768a3111af1920bccbf89ad3bf7a057276adfcef6c95dcce",
+      "afterSha256": "05dddbfb821e09350295e1de51281b01e7d5167e8292bd0ebc5e7940004c0873",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-01.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-02.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "48fbdeb5a6c6285d62ffb2399d4212c3252dfdb3b60f178d7f413301ac003077",
+      "afterSha256": "6108ade971ce554ce5e7de32267f85ebb4f6cccaf0f77935557f690f8e6d4b59",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-03.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "bcaf4cee4a2186ba8a93db3595d9de48bd1f342ff66c516dc6f366d0cfd0b05d",
+      "afterSha256": "56045a04524a312386ba070daa8eda1f025ff1454e77758165df7611cf130e2f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-04.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8726d24f35a5f03e21ab1323ae9ca3bf123d2fe500eb6264965954633bb40b61",
+      "afterSha256": "838c99652c736287269e88f02890ae950ab7ee027b03d4ef5cd7316f5d7b7345",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-05.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "8437e4f6152558a79dcdb135afc34615f3c88f40cf244362f7b539e353fbc0a9",
+      "afterSha256": "3eecf1769dc7e1039e347f9a1495838dffec0746e2bc113df916e915ee00c55f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-06.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1c65fe6d781aa0adc83fe5f94ffc41fcb157aade2a15ecf8be308f2644394854",
+      "afterSha256": "7740dfcd2eed656b90d5a2eb6f90d406bb2754f76433dcd8e818265ccfc3e5b9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-07.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-1/frame-08.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-1/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-01.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-01.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-02.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-02.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "b18aca4fe5ec2009a8ac8fc45b2b4d070e887c6ed0b0b49bfdc2d29275770548",
+      "afterSha256": "d9ee96cf37d06280473db68f0122369b9f44011082927397051768b66d456c03",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-03.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-03.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "0877646a72e2e89d7abc6264d0f9be446f9a99af45c278c73c8380827b30a461",
+      "afterSha256": "c003537a492a0886157f1de40722dcdb87589dae5c7c9aa1a826c8971a320758",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-04.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-04.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "88df4ab2978c1ceef6510ca1c63841d2e8725cc33f8cf344bfac2a423dc1e1b7",
+      "afterSha256": "495d88ae8d2ac979e4d4ed065e9c3648cd650ca1f20e5610b6fc7951e776d6e1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-05.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-05.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "20da42d78e4cbd8d0b1701fa2cf9c66cc3401ed6caefe3f744a626c8f5c64665",
+      "afterSha256": "432fe9805c27ea00b462dc5fbde7b70b857dcc4049da0bc72196e0c75d3160c9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-06.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-06.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "1000ac2b94d3b0e082dba9cd6c32ffc011a2f1560e3405e0090ae548bfd3d98b",
+      "afterSha256": "b442d8d2e92311c9630fca2e41ed237d83524eab660c13828bbd2a0db0ee9f39",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-07.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-07.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "characters/zhang-jiao/skill-2/frame-08.png",
+      "kind": "character",
+      "backup": "characters/zhang-jiao/archive/before-hero-palette/skill-2/frame-08.png",
+      "size": [
+        350,
+        350
+      ],
+      "beforeSha256": "5dc11e6d613d120201b460f521e8cf4d49f10b71b3b24f70fdd08832b3d71f29",
+      "afterSha256": "c70afc9d2f856a684868b763cf5e866208750833efa20b6422b082ffc69cad1e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/altar/altar.png",
+      "kind": "terrain",
+      "backup": "art/terrain/altar/archive/before-hero-palette/altar.png",
+      "size": [
+        230,
+        232
+      ],
+      "beforeSha256": "6ebd5bc51f5e16573da10ce735dd399391a5bc04c788085e295d5018fbf1dd8c",
+      "afterSha256": "9bfd02928f26969d6f42d62cbac470a918ead0d0084677a9681eaa7f78bef675",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/armory/armory.png",
+      "kind": "terrain",
+      "backup": "art/terrain/armory/archive/before-hero-palette/armory.png",
+      "size": [
+        275,
+        261
+      ],
+      "beforeSha256": "6a5f3cb531b419a60444960895f7a6e3cfec940bb14948116046ecf5637099b1",
+      "afterSha256": "e69b00def7edac6847ec96d99a0bbff97c9b74b7c2df25c2e4f1b3472e37ac26",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/banner/banner.png",
+      "kind": "terrain",
+      "backup": "art/terrain/banner/archive/before-hero-palette/banner.png",
+      "size": [
+        85,
+        140
+      ],
+      "beforeSha256": "371a1d11c27a7bf3404ff07a4896a32cff16d3207c4c854c85f9144f66f349c6",
+      "afterSha256": "1d5fefc3aab644481c53f8e8ff70ae64637913c9e68755b335fa83230b359dc2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/barracks/barracks.png",
+      "kind": "terrain",
+      "backup": "art/terrain/barracks/archive/before-hero-palette/barracks.png",
+      "size": [
+        280,
+        299
+      ],
+      "beforeSha256": "4a83d3c469e44072b0269505cea596678e5620d1ae9fed2563c314d6d347e597",
+      "afterSha256": "fd00420786ab5e0513798388ae4d474432ab79c806c1b143facb2f2e93032d2a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/barrel/barrel.png",
+      "kind": "terrain",
+      "backup": "art/terrain/barrel/archive/before-hero-palette/barrel.png",
+      "size": [
+        55,
+        69
+      ],
+      "beforeSha256": "5fa0962fee21e9d891f68776acf3d3dc5207611b8cc9b6cbfc05e66ff004eb49",
+      "afterSha256": "cea01ba3a0a9044fed0290c17e28bcf00e513e7ac03d2bacabe73f3646a01290",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/blacksmith/blacksmith.png",
+      "kind": "terrain",
+      "backup": "art/terrain/blacksmith/archive/before-hero-palette/blacksmith.png",
+      "size": [
+        290,
+        270
+      ],
+      "beforeSha256": "b4846d9c668a87b9aca2653d59fbd5759d90d149c756637e9139f639125286fe",
+      "afterSha256": "7c0b698a69cd9ff3bc78fcb4221546cb72cb309e8e815a938f865aa7aaf4c9b8",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/boulder/boulder.png",
+      "kind": "terrain",
+      "backup": "art/terrain/boulder/archive/before-hero-palette/boulder.png",
+      "size": [
+        230,
+        158
+      ],
+      "beforeSha256": "0d48d10cedc64a01c77ba88ed365a475e17721d49954efbac2a97f0bbddc6626",
+      "afterSha256": "778d92c93fa806535efe4672d763ea430ea7d1872b5e69d4f6413e1199d0d092",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/bush/bush.png",
+      "kind": "terrain",
+      "backup": "art/terrain/bush/archive/before-hero-palette/bush.png",
+      "size": [
+        125,
+        85
+      ],
+      "beforeSha256": "a86b8b8f5013f625b2198cae2422bde17f215fb2573b55fe71be8bd8af56e956",
+      "afterSha256": "c51b76163cc2ba936efb9d9480ad2b61f1e6e1cf1718f51008948c26348b88f4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/cage/cage.png",
+      "kind": "terrain",
+      "backup": "art/terrain/cage/archive/before-hero-palette/cage.png",
+      "size": [
+        160,
+        146
+      ],
+      "beforeSha256": "df0094647d106d43f381dbf8327b660944460827db1f40c872bc6d7e2cc9bf26",
+      "afterSha256": "bb8a44b25cfcc078498377a3cd7ef0df9420f33794a8649c66bd2fdae0a3e4ae",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/cart/cart.png",
+      "kind": "terrain",
+      "backup": "art/terrain/cart/archive/before-hero-palette/cart.png",
+      "size": [
+        155,
+        116
+      ],
+      "beforeSha256": "8615b464b8e825272631af1622759f377638bfe7095c5a45367de33081214fa8",
+      "afterSha256": "d554b1460c59450a6db27fc486f01d0797f8647b7366e1db1382b895d6d024a1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/cottage/cottage.png",
+      "kind": "terrain",
+      "backup": "art/terrain/cottage/archive/before-hero-palette/cottage.png",
+      "size": [
+        275,
+        248
+      ],
+      "beforeSha256": "29aeef5882875bfc149b4351b4a42514c1f1b15e6b1d3dd4d3e11fca5d31f75c",
+      "afterSha256": "f33a8d30a8f4b6d4b418de13edebbb3b0415a2de8fc1b48e16b7a893a4f5e196",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/dead_tree/dead_tree.png",
+      "kind": "terrain",
+      "backup": "art/terrain/dead_tree/archive/before-hero-palette/dead_tree.png",
+      "size": [
+        160,
+        179
+      ],
+      "beforeSha256": "40f3cb2a271537bdf85d434a968445d2b736902aa109473cfa47bf2e038553f8",
+      "afterSha256": "94d06b0988e094e6349c25fe0cbf9ff203452d2ee2eca9638ac14fa283e06508",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/earth-material/earth-material.png",
+      "kind": "terrain",
+      "backup": "art/terrain/earth-material/archive/before-hero-palette/earth-material.png",
+      "size": [
+        724,
+        724
+      ],
+      "beforeSha256": "0d9e214ff6c0e2acf83cf85d960518b0c0e3dedfaba197ca90ae91f4c3b3f5a5",
+      "afterSha256": "c6f778aec349741f6c8992d6faeaad25e3ef9b72c4b7de50258e728f60dee79a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/farm/farm.png",
+      "kind": "terrain",
+      "backup": "art/terrain/farm/archive/before-hero-palette/farm.png",
+      "size": [
+        260,
+        162
+      ],
+      "beforeSha256": "8366e6f7f6eec229c08ae0f5c184c639f012be61a912df9e5f361593486f6927",
+      "afterSha256": "0a390764a2a105f2b53d3c01cccc76400e3e0d5f505fc6f5024cb813a49d0dcc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/fence_a/fence_a.png",
+      "kind": "terrain",
+      "backup": "art/terrain/fence_a/archive/before-hero-palette/fence_a.png",
+      "size": [
+        145,
+        99
+      ],
+      "beforeSha256": "f2ed10bd1fd1a61a770a3b8ef8c29276a96f7d305149ed4fca3fae810dd799fe",
+      "afterSha256": "0d77b1241ca00352909ae7a1c905114d27775dbd6bbb299ebf611c9ddc7a4d37",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/fence_b/fence_b.png",
+      "kind": "terrain",
+      "backup": "art/terrain/fence_b/archive/before-hero-palette/fence_b.png",
+      "size": [
+        145,
+        99
+      ],
+      "beforeSha256": "152c3a6a29999a14006c95f662517d655e7928a6f5737aa1458105b0e831c469",
+      "afterSha256": "f278575611e2ff79ec330bc041683e238dba695089b32d8b318e70a4856c467e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/fire/fire.png",
+      "kind": "terrain",
+      "backup": "art/terrain/fire/archive/before-hero-palette/fire.png",
+      "size": [
+        95,
+        117
+      ],
+      "beforeSha256": "d4aaf2e521da832ed4ec7223c89da2713d9b03111e29d971c114946b0bd449dc",
+      "afterSha256": "c04ef82f8b5c93173ed80cf842174f3bda5145806468b6ac6678989efef48f63",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/fishing/fishing.png",
+      "kind": "terrain",
+      "backup": "art/terrain/fishing/archive/before-hero-palette/fishing.png",
+      "size": [
+        235,
+        201
+      ],
+      "beforeSha256": "8e744732caaa595debf5fbfc51b98fa68fd20ced8bb576dc87b9ab652bd228bb",
+      "afterSha256": "23673d9f827599a598872df860a7c4f4903179e2b5142fa04b8e5fce1cac39cc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/flowers/flowers.png",
+      "kind": "terrain",
+      "backup": "art/terrain/flowers/archive/before-hero-palette/flowers.png",
+      "size": [
+        45,
+        32
+      ],
+      "beforeSha256": "3e9ec13346d28a867b83431b7a01ff30519966e0a0e07b56f3f75056a50f8efb",
+      "afterSha256": "50395227885c0a286fe44afbc16b657f0df44156aac727ba8a961719d172d787",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/grass-material/grass-material.png",
+      "kind": "terrain",
+      "backup": "art/terrain/grass-material/archive/before-hero-palette/grass-material.png",
+      "size": [
+        724,
+        724
+      ],
+      "beforeSha256": "9cf90455c37d97778763d290ffddb052e29251f91c6b3749869f82015ef3bff4",
+      "afterSha256": "ef3ad76d77072260f1308e5c429aa0832af84d3c489a457cdc36aba36ab4128a",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/grass/grass.png",
+      "kind": "terrain",
+      "backup": "art/terrain/grass/archive/before-hero-palette/grass.png",
+      "size": [
+        50,
+        38
+      ],
+      "beforeSha256": "a7c8efa9c7a7ac1ed8d54a7d3793e9bd5c4e645a75c99ae1a19f598aaf26d31d",
+      "afterSha256": "a7821c43c0c35ffda0628a1ba519aee7c174337b776f9f68c79db85a2ef92344",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/jar/jar.png",
+      "kind": "terrain",
+      "backup": "art/terrain/jar/archive/before-hero-palette/jar.png",
+      "size": [
+        55,
+        64
+      ],
+      "beforeSha256": "61655b59efe1706cc3a9f51fb327b8b7b7b273a363bdb31036cd5cddab38e175",
+      "afterSha256": "45c963b3764abc52b5265ed5e15c062db11e1c2e2a3b4a1243b1abd034ddbaf5",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/logs/logs.png",
+      "kind": "terrain",
+      "backup": "art/terrain/logs/archive/before-hero-palette/logs.png",
+      "size": [
+        105,
+        85
+      ],
+      "beforeSha256": "78100c48be880382e51934a9fb49ae4c2e56bdf138cdf12a718cd1a1319821c8",
+      "afterSha256": "a2e3c362b9e91dace8ad49180d78cd9abeb50ce1098e36bef40748d23878acf9",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/market/market.png",
+      "kind": "terrain",
+      "backup": "art/terrain/market/archive/before-hero-palette/market.png",
+      "size": [
+        284,
+        285
+      ],
+      "beforeSha256": "5213ecbd8ac37878f987e47848c4413150167c2174568be6ca8ae7691bbada70",
+      "afterSha256": "9452cfcb9804f0bc2083439b68b0de4e7256061c0e4fb3e5dbad41e7fd2f98fa",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/meal_table/meal_table.png",
+      "kind": "terrain",
+      "backup": "art/terrain/meal_table/archive/before-hero-palette/meal_table.png",
+      "size": [
+        225,
+        155
+      ],
+      "beforeSha256": "4a82c5b6ed651147c9133840f555d747a2e942eed85b07bace3eb2b54b81b4cd",
+      "afterSha256": "86fbcd70440dd34eeedb3e97497ed0debdb3381d0e97bd41bcce6eeb55d5cf11",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/mountain/mountain.png",
+      "kind": "terrain",
+      "backup": "art/terrain/mountain/archive/before-hero-palette/mountain.png",
+      "size": [
+        400,
+        268
+      ],
+      "beforeSha256": "1ba5673db30bbf7f66b7fadf54bf9703bebb77e1f0988acd296837edb7d744e1",
+      "afterSha256": "13bf346c348873eb01600b7010e5584403a3bb2b6122b8d71d06e975ad714612",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/oak/oak.png",
+      "kind": "terrain",
+      "backup": "art/terrain/oak/archive/before-hero-palette/oak.png",
+      "size": [
+        210,
+        211
+      ],
+      "beforeSha256": "2ed67643d6d27d4a3e4ec4ee074c581a5643ce5d97992ea37518f99fe255df13",
+      "afterSha256": "47bc5f818bd9c032c117dc66bdb184964b4357cc4f6ea096430b99d0ffb85cfd",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/planks/planks.png",
+      "kind": "terrain",
+      "backup": "art/terrain/planks/archive/before-hero-palette/planks.png",
+      "size": [
+        150,
+        126
+      ],
+      "beforeSha256": "31089c134ff0cf7531818d8b52494a555a01b1f946289a760f88af5c6f1a849f",
+      "afterSha256": "8a79c220507ab8c6d1e3bf731c4073e8d09afa111bf84bae9d9a57a719833b91",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/rack/rack.png",
+      "kind": "terrain",
+      "backup": "art/terrain/rack/archive/before-hero-palette/rack.png",
+      "size": [
+        110,
+        133
+      ],
+      "beforeSha256": "83f2c0593a1b62938959ba71bcb3b119e07384543e5b0413bc5fe8e66f69af2e",
+      "afterSha256": "9c820d860b82752a2aa942be3d3ff874a306feb04ce7b7f84f0ca3bee9735bc1",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/reeds/reeds.png",
+      "kind": "terrain",
+      "backup": "art/terrain/reeds/archive/before-hero-palette/reeds.png",
+      "size": [
+        75,
+        64
+      ],
+      "beforeSha256": "bb8402ad78eb6ce527b6bf2795da839fbb9ee2cdf057363037afe41938d2d262",
+      "afterSha256": "63107a5fd360a4853527b642f5e529b670995fd6222cc39aee94204ee09d8216",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/sacks/sacks.png",
+      "kind": "terrain",
+      "backup": "art/terrain/sacks/archive/before-hero-palette/sacks.png",
+      "size": [
+        100,
+        70
+      ],
+      "beforeSha256": "0a0dabd875a41a9ccd289376b177c7951fe62b3b1484d0fe34425d01a809bdfd",
+      "afterSha256": "066e8cde536bcc71769c78aceff3fa8442bd1635f1fbcaebebc3493f340fc986",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/shrine/shrine.png",
+      "kind": "terrain",
+      "backup": "art/terrain/shrine/archive/before-hero-palette/shrine.png",
+      "size": [
+        250,
+        239
+      ],
+      "beforeSha256": "6187bbf663ccb3bd98c2fc838bed34f89ecd85f73b333f6afa449b3880f09a4b",
+      "afterSha256": "3dd16afe0c4cacaee4c407e7d7296c1fd2834557e961a0b34d245dc13dc855c2",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/sign/sign.png",
+      "kind": "terrain",
+      "backup": "art/terrain/sign/archive/before-hero-palette/sign.png",
+      "size": [
+        70,
+        94
+      ],
+      "beforeSha256": "629eaf568c289a8c48e05b569c7fbba3e09e480bee8661fdada1ba4d4801845d",
+      "afterSha256": "f6a3d5d6fb8c67c9e9da4935c35dae7913374e57f3c440afdcf84ea68f338bdc",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/stones/stones.png",
+      "kind": "terrain",
+      "backup": "art/terrain/stones/archive/before-hero-palette/stones.png",
+      "size": [
+        65,
+        39
+      ],
+      "beforeSha256": "a3b61cae5b36e7462f5f3f2726ef210485e0d9c241fcd90d2de8cecf76fb1fd4",
+      "afterSha256": "75bf503b70ec7451f5ffaa493e7f3fe5ee2c3d6ebb89b4be2e38f20372ff13b7",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/stump/stump.png",
+      "kind": "terrain",
+      "backup": "art/terrain/stump/archive/before-hero-palette/stump.png",
+      "size": [
+        65,
+        43
+      ],
+      "beforeSha256": "ddf1027f416d44030fb3fa4457ee40cb2f3b73a6f95bc1c0b44f5b39aff65b16",
+      "afterSha256": "751311c4cb4fcb33df8dc6e8d6e6764a7906a008811281013360a14b0146d86e",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/supply/supply.png",
+      "kind": "terrain",
+      "backup": "art/terrain/supply/archive/before-hero-palette/supply.png",
+      "size": [
+        250,
+        262
+      ],
+      "beforeSha256": "5fa829a8e1f2908552f36423411c84a2d978bf5b4b4aa0158ba948d11a6b9436",
+      "afterSha256": "bee4eda6721d7269667bca653ec65e8ebd0ec42e6ad67d8960be4cd08ae9d831",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/tavern/tavern.png",
+      "kind": "terrain",
+      "backup": "art/terrain/tavern/archive/before-hero-palette/tavern.png",
+      "size": [
+        300,
+        284
+      ],
+      "beforeSha256": "2341fcc396bc6f90a035209360bf7019632d888f52f29220cff7a7ce1b671ae6",
+      "afterSha256": "e0dc6584fb84de1061c1ff9e29c8459ba7000f729fb2d9b0b8311d69df6ca502",
+      "alphaUnchanged": false,
+      "redrawn": true
+    },
+    {
+      "path": "art/terrain/tent/tent.png",
+      "kind": "terrain",
+      "backup": "art/terrain/tent/archive/before-hero-palette/tent.png",
+      "size": [
+        230,
+        160
+      ],
+      "beforeSha256": "4885c09b8f303f71c9a642300c05b6ad8efb163cb28be6c7a44c4d1b7343a3b3",
+      "afterSha256": "f99c66ad91b215b0df5594d640aa7b557dbb2bd25208e57db0447a31d70fdeb4",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/thorn/thorn.png",
+      "kind": "terrain",
+      "backup": "art/terrain/thorn/archive/before-hero-palette/thorn.png",
+      "size": [
+        100,
+        75
+      ],
+      "beforeSha256": "34051084a68677e49aa7ae70610ef141b58c6ffd8a1ac55efdb4d74b454b6f03",
+      "afterSha256": "670f4c82e012b1ef6533931c78167846365cce8e70d175270450ebd8a45970da",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/torch/torch.png",
+      "kind": "terrain",
+      "backup": "art/terrain/torch/archive/before-hero-palette/torch.png",
+      "size": [
+        65,
+        99
+      ],
+      "beforeSha256": "a8ac0ea5f7d731eb5c95e0cf00ae4acd9e272893fadc361565e55e7209a50dc9",
+      "afterSha256": "14a71eec507d7734d42c6d6b557b9a3c7d0ef0c4390d768c8921a435a3345394",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/tree/tree.png",
+      "kind": "terrain",
+      "backup": "art/terrain/tree/archive/before-hero-palette/tree.png",
+      "size": [
+        190,
+        196
+      ],
+      "beforeSha256": "3da497ab5deb078bbf6086f5f4c0480897b6102ccc682c164c1033a189a79bf1",
+      "afterSha256": "2424d478ff574ac2ef4b3efde1d5b62cf97dc23b368cbec9198a108ea21ef692",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/watchtower/watchtower.png",
+      "kind": "terrain",
+      "backup": "art/terrain/watchtower/archive/before-hero-palette/watchtower.png",
+      "size": [
+        195,
+        319
+      ],
+      "beforeSha256": "c7ad174a167749cb521ca3c014555fef32d766b542762887c6ff1d81b28a3554",
+      "afterSha256": "9d6c3ca1b35dde01b0625b8f00da3ffbcf1f111c6fa9b0ee76f497690c03ed2d",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/water-material/water-material.png",
+      "kind": "terrain",
+      "backup": "art/terrain/water-material/archive/before-hero-palette/water-material.png",
+      "size": [
+        724,
+        724
+      ],
+      "beforeSha256": "e78fb54fd7d11eabc409d6592f7508cc1de30c754deae8c580a84002e6e6bd15",
+      "afterSha256": "03fcbbae5a89f1185d1c78b9b3ed1db40306a0cd908fdeeac43f7bf61e35aa3f",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/well/well.png",
+      "kind": "terrain",
+      "backup": "art/terrain/well/archive/before-hero-palette/well.png",
+      "size": [
+        175,
+        141
+      ],
+      "beforeSha256": "789e0b5b1aa11ca95ea6aef95a7536aad9c57deb23b151e87c1ec4e9c620b808",
+      "afterSha256": "a31b710e7953095c721a71a760504294ed6406be5719dfc9de719cc172978100",
+      "alphaUnchanged": true,
+      "redrawn": false
+    },
+    {
+      "path": "art/terrain/woodshop/woodshop.png",
+      "kind": "terrain",
+      "backup": "art/terrain/woodshop/archive/before-hero-palette/woodshop.png",
+      "size": [
+        270,
+        215
+      ],
+      "beforeSha256": "c48a00442925bde7e532d13a2ae7eddca389eed88ae12cf68e95c9c0d1cc9b55",
+      "afterSha256": "cc389dfe932a67b9cf82d6078af6604f5981d06e2a5ea7ae4903e0ab210b0e71",
+      "alphaUnchanged": true,
+      "redrawn": false
+    }
+  ]
+}

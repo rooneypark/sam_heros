@@ -30,17 +30,17 @@ for group,src,rows,spec in groups:
   im=im.crop(box);im=im.resize((w,round(im.height*w/im.width)),Image.Resampling.LANCZOS);im.save(O/(slug+'.png'))
   blocks=slug in ['boulder','thorn','fence_a','fence_b','tavern','cottage','blacksmith','armory','barracks','watchtower','tent','cage','well','altar']
   foot=3 if slug in ['tavern','cottage','blacksmith','armory','barracks','tent','altar'] else 1
-  t=dict(id='sg2_'+slug,name=name,layer='blockData' if slug=='mountain' else 'decoData',type='single',sprite=f'art/environment/chapter-1/{slug}.png',ppu=120 if slug=='mountain' else 100,pivot=[.5,.18],blocks=blocks,footprint=[foot,foot])
+  t=dict(id='sg2_'+slug,name=name,layer='blockData' if slug=='mountain' else 'decoData',type='single',sprite=f'art/terrain/sources/base/{slug}.png',ppu=120 if slug=='mountain' else 100,pivot=[.5,.18],blocks=blocks,footprint=[foot,foot])
   if slug=='fence_a':t['pair']='sg2_fence_b'
   tiles.append(t)
 shutil.copy2(G/'exec-84085c7c-3189-4bea-a7e7-28f02f5e3f32.png',O/'sources/materials.png')
 im=Image.open(O/'sources/materials.png')
 for i,name in enumerate(['grass','earth','water']):im.crop((i*724,0,(i+1)*724,724)).save(O/(name+'-material.png'))
 for slug,name,layer,shape,mat in [('ground','초원','mapData','ground','grass'),('road','흙길','roadData','road','earth'),('yard','흙마당','roadData','area','earth'),('river','강·연못','waterData','area','water')]:
- tiles.append(dict(id='sg2_'+slug,name=name,layer=layer,type='material',shape=shape,material=f'art/environment/chapter-1/{mat}-material.png',shore='#75c2d5' if mat=='water' else '#b69871'))
+ tiles.append(dict(id='sg2_'+slug,name=name,layer=layer,type='material',shape=shape,material=f'art/terrain/sources/base/{mat}-material.png',shore='#75c2d5' if mat=='water' else '#b69871'))
 (R/'content/samguk/tiles.json').write_text(json.dumps({'tiles':tiles},ensure_ascii=False,indent=2),encoding='utf8')
-path=R/'content/samguk/maps/1장_황건소탕.map.json'
-backup=R/'docs/design/maps/chapter-1/layout-before-full-redraw.map.json'
+path=R/'maps/chapter-1/map.json'
+backup=R/'maps/chapter-1/docs/layout-before-full-redraw.map.json'
 if not backup.exists():shutil.copy2(path,backup)
 m=json.loads(backup.read_text(encoding='utf8'))
 for layer,new in [('mapData','ground'),('waterData','river'),('blockData','mountain')]:

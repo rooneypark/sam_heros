@@ -2,7 +2,7 @@
 
 > **최신 확정 2026-10-27:** 세 장수 왼쪽 원화/모션이 최종 기준. 현재 파일은 각 장수 루트 original/idle/run 및 승인 공격 폴더. 과거 오른쪽·400/640 규격·중간 보정 경로는 이력이며 재사용 금지. [현재 제작 기준](CURRENT_CHARACTER_RULES.md)이 아래 과거 기록보다 우선합니다.
 
-> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
+> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `characters/guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
 
 > **2026-10-27 최신 기준:** 원본·idle·run·유비/관우 공격 출력은350×350, 발(175,245), PPU100, pivot(0.5,0.3), facing=right로 통일했다. 기존 모양을0.45배 균일 축소했으며 재생 시간은 유지했다. 아래400/640 규격은 이전 제작 기록이다. 관우 공격은 재작업 베이스이며 승인본이 아니다.
 
@@ -24,8 +24,8 @@
 |---|---|
 | 유비 제작 명세 | [liu-bei-combat.md](liu-bei-combat.md) |
 | 관우 제작 명세 | [guan-yu-combat.md](guan-yu-combat.md) |
-| 유비 재생 | [combat-preview](../../liu-bei/combat-preview/index.html) |
-| 관우 재생 | [combat-preview](../../guan-yu/combat-preview/index.html) |
+| 유비 재생 | [combat-preview](../../characters/liu-bei/combat-preview/index.html) |
+| 관우 재생 | [combat-preview](../../characters/guan-yu/combat-preview/index.html) |
 | 기본 외형·정지 원본 | 각 장수 original/original.png |
 | 공격 원본 시트 | tools/character-motion/combat-sources (유비), guan-yu-combat-sources (관우) |
 | 분리·정렬 재현 | tools/character-motion/package_liu_bei_combat.py, package_guan_yu_combat.py |
@@ -40,7 +40,7 @@
 
 ## 실행
 
-PNG/GIF는 설치 없이 볼 수 있다. 프레임 재생 페이지는 HTML을 브라우저로 열거나 프로젝트 루트에서 `python -m http.server 8765` 후 `/guan-yu/combat-preview/index.html` 또는 `/liu-bei/combat-preview/index.html`을 연다.
+PNG/GIF는 설치 없이 볼 수 있다. 프레임 재생 페이지는 HTML을 브라우저로 열거나 프로젝트 루트에서 `python -m http.server 8765` 후 `/characters/guan-yu/combat-preview/index.html` 또는 `/characters/liu-bei/combat-preview/index.html`을 연다.
 
 재출력에 필요한 Python 패키지: Pillow, numpy, scipy. `python -m pip install Pillow numpy scipy`로 설치한다. 해당 패키징 스크립트를 프로젝트 루트에서 실행하면 현재 소스 시트를 다시 분리·정렬한다. **이미지 생성은 실행하지 않는다.** 승인 산출물 폴더를 덮어쓰므로 단순 확인을 위해 재실행할 필요는 없다. 수정 시 별도 후보 폴더와 상태를 사용한다.
 
@@ -72,7 +72,7 @@ PNG/GIF는 설치 없이 볼 수 있다. 프레임 재생 페이지는 HTML을 �
 
 
 ### 2026-10-27 기본 베기 복귀와 파지 마감
-기본공격 7번은 guan-yu/original/original.png와 픽셀 동일한 정지자세로 복귀한다. 손 겹침은 주변 빨간 픽셀 전체가 아닌 분리된 손 색상 영역을 선택하도록 수정했다. 봉 끝 중복·손 파지·잔상 속 옛 윤곽의 국소 마감은 guan-yu-weapon-correction/final-seams에 보관하며 correct_guan_weapon.py가 적용한다. 마스크 밖 픽셀 불변과 GIF 7/8/8프레임을 검증했다. 사용자 최종 승인 전 검토본이다.
+기본공격 7번은 characters/guan-yu/original/original.png와 픽셀 동일한 정지자세로 복귀한다. 손 겹침은 주변 빨간 픽셀 전체가 아닌 분리된 손 색상 영역을 선택하도록 수정했다. 봉 끝 중복·손 파지·잔상 속 옛 윤곽의 국소 마감은 guan-yu-weapon-correction/final-seams에 보관하며 correct_guan_weapon.py가 적용한다. 마스크 밖 픽셀 불변과 GIF 7/8/8프레임을 검증했다. 사용자 최종 승인 전 검토본이다.
 
 
 ### 잔상 최상단 합성 — 2026-10-27

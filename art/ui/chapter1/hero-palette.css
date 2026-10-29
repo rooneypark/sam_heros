@@ -1,0 +1,45 @@
+/* Shared with the approved flat-colour heroes. Visual overrides only:
+   no positions, dimensions, input rules, state selectors or timing changes. */
+#c1 {
+  --sg-ink:#171a19;
+  --sg-panel:#303632;
+  --sg-paper:#f6f3e7;
+  --sg-gold:#f3c541;
+  --sg-jade:#00b88b;
+  --sg-red:#ed5355;
+  --sg-muted:#a6aaa1;
+  color:var(--sg-paper);
+}
+#c1 .obj, #c1 .res, #c1 .dlg, #c1 .win .box, #c1 .mk .b {
+  background:var(--sg-panel);
+  border-color:var(--sg-ink);
+  box-shadow:inset 0 0 0 1px var(--sg-gold);
+}
+#c1 .obj .q, #c1 .win h3, #c1 .done .a, #c1 .title .a, #c1 .dlg .nx {
+  color:var(--sg-gold);
+}
+#c1 .dlg .nm {
+  background:var(--sg-gold);
+  color:var(--sg-ink);
+}
+#c1 .dlg.narr { background:var(--sg-panel); border-color:var(--sg-ink); }
+#c1 .dlg .sk { background:var(--sg-panel); border-color:var(--sg-ink); color:var(--sg-paper); }
+#c1 .win button, #c1 .done button {
+  background:var(--sg-jade);
+  color:var(--sg-ink);
+  border-color:var(--sg-ink);
+  box-shadow:none;
+}
+#c1 .win button.sub { background:#505b54; color:var(--sg-paper); }
+#c1 .win button:disabled { background:#454b46; color:var(--sg-muted); border-color:var(--sg-ink); }
+#c1 .win .note { color:#ffb69b; }
+#c1 .boss .bar { background:var(--sg-ink); border-color:var(--sg-ink); }
+#c1 .boss .fill { background:var(--sg-red); }
+#c1 .mk.hl .b { border-color:var(--sg-ink); box-shadow:inset 0 0 0 1px var(--sg-gold); }
+#c1 .mk.lock .b { border-color:var(--sg-ink); color:var(--sg-muted); box-shadow:inset 0 0 0 1px #657168; }
+#c1 .mk.check .b { border-color:var(--sg-ink); color:#83dfbc; box-shadow:inset 0 0 0 1px var(--sg-jade); }
+#c1 .obj .t.done::before { color:#83dfbc; }
+#c1 .hint div { background:var(--sg-panel); border-color:var(--sg-jade); }
+#c1 .toast div { background:var(--sg-panel); color:var(--sg-paper); }
+#c1 .tag { color:var(--sg-gold); }
+#c1 .title { background:var(--sg-ink); }

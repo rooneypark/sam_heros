@@ -1,0 +1,4 @@
+#c1 .done {background:rgba(26,43,34,.92);color:#f6f3e7;}
+#c1 .done .a {color:#f3c541;font-weight:900;text-shadow:2px 2px #171a19;font-size:1.65em;padding:0 1em;}
+#c1 .done .b {line-height:1.7;max-width:28em;}
+#c1 .done button {flex:0;min-width:50%;}

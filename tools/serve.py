@@ -14,6 +14,12 @@ from urllib.parse import unquote, urlparse
 
 SAMGUK = Path(os.environ.get('SAMGUK_REPO', Path(__file__).resolve().parents[1]))
 
+def map_file(name):
+    catalog = SAMGUK / 'maps' / 'catalog.json'
+    entries = json.loads(catalog.read_text(encoding='utf-8')) if catalog.exists() else {}
+    safe = re.sub(r'[\\/:*?"<>|]', '_', name).strip() or 'map'
+    return SAMGUK / entries.get(name, f'maps/custom/{safe}/map.json')
+
 
 class NoCache(SimpleHTTPRequestHandler):
     def end_headers(self):
@@ -22,6 +28,9 @@ class NoCache(SimpleHTTPRequestHandler):
 
     def translate_path(self, path):
         p = unquote(urlparse(path).path)
+        match = re.fullmatch(r'/api/maps/([^/]+)', p)
+        if match:
+            return str(map_file(match.group(1)))
         if p == '/samguk' or p.startswith('/samguk/'):
             rel = Path(*[s for s in p[len('/samguk'):].split('/') if s and s not in ('.', '..')])
             return str(SAMGUK / rel)
@@ -39,7 +48,7 @@ class NoCache(SimpleHTTPRequestHandler):
         except ValueError:
             self.send_error(400, 'invalid json')
             return
-        out = SAMGUK / 'content' / 'samguk' / 'maps' / f'{name}.map.json'
+        out = map_file(name)
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(json.dumps(doc, ensure_ascii=False, indent=1), encoding='utf-8')
         res = json.dumps({'path': str(out.relative_to(SAMGUK)).replace('\\', '/')}).encode()

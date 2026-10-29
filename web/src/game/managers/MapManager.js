@@ -1,4 +1,4 @@
-﻿// MapManager / MapGenerator / MonsterSpawner / FootSwitch port (world maps from re/extract/text/<map>.bytes).
+// MapManager / MapGenerator / MonsterSpawner / FootSwitch port (world maps from re/extract/text/<map>.bytes).
 import { G } from '../registry.js';
 import { Tables } from '../data/Tables.js';
 import { Timing } from '../core/Timing.js';

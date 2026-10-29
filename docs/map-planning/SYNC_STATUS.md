@@ -4,8 +4,8 @@
 
 ## 확인 자료
 
-- 아트 원본: `C:/Users/pms10/Documents/GitHub/sam_heros/`의 장수별 README·animation.json, 조운 approved-manifest.json, chapter-1/README.md·FINAL_MANIFEST.json.
-- [유닛 등록](../../samguk/content/samguk/units.json), [1장 맵](../../samguk/content/samguk/maps/1장_황건소탕.map.json).
+- 아트 원본: `C:/Users/pms10/Documents/GitHub/sam_heros/`의 장수별 README·animation.json, 조운 approved-manifest.json, maps/chapter-1/review/characters/README.md·FINAL_MANIFEST.json.
+- [유닛 등록](../../samguk/content/samguk/units.json), [1장 맵](../../samguk/maps/chapter-1/map.json).
 - 원작 액션 의미: `re/extract/tables/TableSkillAction.json`. 차용 base·시험 수치는 확정 밸런스로 승계하지 않는다.
 
 ## 장수·스킬

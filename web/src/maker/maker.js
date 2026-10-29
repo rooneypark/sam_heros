@@ -705,7 +705,7 @@ async function main() {
   let doc = null;
   if (params.get('samgukMap')) {
     const name = params.get('samgukMap');
-    const response = await fetch(`/samguk/content/samguk/maps/${encodeURIComponent(name)}.map.json`);
+    const response = await fetch(`/api/maps/${encodeURIComponent(name)}`);
     if (!response.ok) throw new Error(`맵 불러오기 실패: ${name}`);
     doc = D.normalize(await response.json(), name);
   }

@@ -10,9 +10,9 @@
       "gradeType": "NORMAL",
       "base": "Unit000013",
       "art": {
-        "icon": "liu-bei/original/original.png",
-        "portrait": "liu-bei/portrait/portrait.png",
-        "static": "liu-bei/idle/frame-01.png",
+        "icon": "characters/liu-bei/original/original.png",
+        "portrait": "characters/liu-bei/portrait/portrait.png",
+        "static": "characters/liu-bei/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -21,62 +21,62 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "liu-bei/idle/frame-01.png",
-            "liu-bei/idle/frame-02.png",
-            "liu-bei/idle/frame-03.png",
-            "liu-bei/idle/frame-04.png"
+            "characters/liu-bei/idle/frame-01.png",
+            "characters/liu-bei/idle/frame-02.png",
+            "characters/liu-bei/idle/frame-03.png",
+            "characters/liu-bei/idle/frame-04.png"
           ],
           "Move": [
-            "liu-bei/run/frame-01.png",
-            "liu-bei/run/frame-02.png",
-            "liu-bei/run/frame-03.png",
-            "liu-bei/run/frame-04.png",
-            "liu-bei/run/frame-05.png",
-            "liu-bei/run/frame-06.png"
+            "characters/liu-bei/run/frame-01.png",
+            "characters/liu-bei/run/frame-02.png",
+            "characters/liu-bei/run/frame-03.png",
+            "characters/liu-bei/run/frame-04.png",
+            "characters/liu-bei/run/frame-05.png",
+            "characters/liu-bei/run/frame-06.png"
           ],
           "Attack": [
-            "liu-bei/basic-attack/frame-01.png",
-            "liu-bei/basic-attack/frame-02.png",
-            "liu-bei/basic-attack/frame-03.png",
-            "liu-bei/basic-attack/frame-04.png",
-            "liu-bei/basic-attack/frame-05.png",
-            "liu-bei/basic-attack/frame-06.png",
-            "liu-bei/basic-attack/frame-07.png",
-            "liu-bei/basic-attack/frame-08.png"
+            "characters/liu-bei/basic-attack/frame-01.png",
+            "characters/liu-bei/basic-attack/frame-02.png",
+            "characters/liu-bei/basic-attack/frame-03.png",
+            "characters/liu-bei/basic-attack/frame-04.png",
+            "characters/liu-bei/basic-attack/frame-05.png",
+            "characters/liu-bei/basic-attack/frame-06.png",
+            "characters/liu-bei/basic-attack/frame-07.png",
+            "characters/liu-bei/basic-attack/frame-08.png"
           ],
           "Skill_01": [
-            "liu-bei/skill-1/frame-01.png",
-            "liu-bei/skill-1/frame-02.png",
-            "liu-bei/skill-1/frame-03.png",
-            "liu-bei/skill-1/frame-04.png",
-            "liu-bei/skill-1/frame-05.png",
-            "liu-bei/skill-1/frame-06.png",
-            "liu-bei/skill-1/frame-07.png",
-            "liu-bei/skill-1/frame-08.png"
+            "characters/liu-bei/skill-1/frame-01.png",
+            "characters/liu-bei/skill-1/frame-02.png",
+            "characters/liu-bei/skill-1/frame-03.png",
+            "characters/liu-bei/skill-1/frame-04.png",
+            "characters/liu-bei/skill-1/frame-05.png",
+            "characters/liu-bei/skill-1/frame-06.png",
+            "characters/liu-bei/skill-1/frame-07.png",
+            "characters/liu-bei/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "liu-bei/skill-2/frame-01.png",
-            "liu-bei/skill-2/frame-02.png",
-            "liu-bei/skill-2/frame-03.png",
-            "liu-bei/skill-2/frame-04.png",
-            "liu-bei/skill-2/frame-05.png",
-            "liu-bei/skill-2/frame-06.png",
-            "liu-bei/skill-2/frame-07.png",
-            "liu-bei/skill-2/frame-08.png"
+            "characters/liu-bei/skill-2/frame-01.png",
+            "characters/liu-bei/skill-2/frame-02.png",
+            "characters/liu-bei/skill-2/frame-03.png",
+            "characters/liu-bei/skill-2/frame-04.png",
+            "characters/liu-bei/skill-2/frame-05.png",
+            "characters/liu-bei/skill-2/frame-06.png",
+            "characters/liu-bei/skill-2/frame-07.png",
+            "characters/liu-bei/skill-2/frame-08.png"
           ],
           "Die": [
-            "liu-bei/die/frame-01.png"
+            "characters/liu-bei/die/frame-01.png"
           ],
           "Gather": [
-            "gather-finish-2026-10-28/liu-bei/frame-01.png",
-            "gather-finish-2026-10-28/liu-bei/frame-02.png",
-            "gather-finish-2026-10-28/liu-bei/frame-03.png",
-            "gather-finish-2026-10-28/liu-bei/frame-04.png",
-            "gather-finish-2026-10-28/liu-bei/frame-05.png",
-            "gather-finish-2026-10-28/liu-bei/frame-06.png",
-            "gather-finish-2026-10-28/liu-bei/frame-07.png",
-            "gather-finish-2026-10-28/liu-bei/frame-08.png",
-            "gather-finish-2026-10-28/liu-bei/frame-09.png"
+            "characters/liu-bei/gather/frame-01.png",
+            "characters/liu-bei/gather/frame-02.png",
+            "characters/liu-bei/gather/frame-03.png",
+            "characters/liu-bei/gather/frame-04.png",
+            "characters/liu-bei/gather/frame-05.png",
+            "characters/liu-bei/gather/frame-06.png",
+            "characters/liu-bei/gather/frame-07.png",
+            "characters/liu-bei/gather/frame-08.png",
+            "characters/liu-bei/gather/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -392,9 +392,9 @@
       "gradeType": "NORMAL",
       "base": "Unit000019",
       "art": {
-        "icon": "guan-yu/original/original.png",
-        "portrait": "guan-yu/portrait/portrait.png",
-        "static": "guan-yu/idle/frame-01.png",
+        "icon": "characters/guan-yu/original/original.png",
+        "portrait": "characters/guan-yu/portrait/portrait.png",
+        "static": "characters/guan-yu/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -403,62 +403,62 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "guan-yu/idle/frame-01.png",
-            "guan-yu/idle/frame-02.png",
-            "guan-yu/idle/frame-03.png",
-            "guan-yu/idle/frame-04.png"
+            "characters/guan-yu/idle/frame-01.png",
+            "characters/guan-yu/idle/frame-02.png",
+            "characters/guan-yu/idle/frame-03.png",
+            "characters/guan-yu/idle/frame-04.png"
           ],
           "Move": [
-            "guan-yu/run/frame-01.png",
-            "guan-yu/run/frame-02.png",
-            "guan-yu/run/frame-03.png",
-            "guan-yu/run/frame-04.png",
-            "guan-yu/run/frame-05.png",
-            "guan-yu/run/frame-06.png"
+            "characters/guan-yu/run/frame-01.png",
+            "characters/guan-yu/run/frame-02.png",
+            "characters/guan-yu/run/frame-03.png",
+            "characters/guan-yu/run/frame-04.png",
+            "characters/guan-yu/run/frame-05.png",
+            "characters/guan-yu/run/frame-06.png"
           ],
           "Attack": [
-            "guan-yu/basic-attack/frame-01.png",
-            "guan-yu/basic-attack/frame-02.png",
-            "guan-yu/basic-attack/frame-03.png",
-            "guan-yu/basic-attack/frame-04.png",
-            "guan-yu/basic-attack/frame-05.png",
-            "guan-yu/basic-attack/frame-06.png",
-            "guan-yu/basic-attack/frame-07.png",
-            "guan-yu/basic-attack/frame-08.png"
+            "characters/guan-yu/basic-attack/frame-01.png",
+            "characters/guan-yu/basic-attack/frame-02.png",
+            "characters/guan-yu/basic-attack/frame-03.png",
+            "characters/guan-yu/basic-attack/frame-04.png",
+            "characters/guan-yu/basic-attack/frame-05.png",
+            "characters/guan-yu/basic-attack/frame-06.png",
+            "characters/guan-yu/basic-attack/frame-07.png",
+            "characters/guan-yu/basic-attack/frame-08.png"
           ],
           "Skill_01": [
-            "guan-yu/skill-1/frame-01.png",
-            "guan-yu/skill-1/frame-02.png",
-            "guan-yu/skill-1/frame-03.png",
-            "guan-yu/skill-1/frame-04.png",
-            "guan-yu/skill-1/frame-05.png",
-            "guan-yu/skill-1/frame-06.png",
-            "guan-yu/skill-1/frame-07.png",
-            "guan-yu/skill-1/frame-08.png"
+            "characters/guan-yu/skill-1/frame-01.png",
+            "characters/guan-yu/skill-1/frame-02.png",
+            "characters/guan-yu/skill-1/frame-03.png",
+            "characters/guan-yu/skill-1/frame-04.png",
+            "characters/guan-yu/skill-1/frame-05.png",
+            "characters/guan-yu/skill-1/frame-06.png",
+            "characters/guan-yu/skill-1/frame-07.png",
+            "characters/guan-yu/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "guan-yu/skill-2/frame-01.png",
-            "guan-yu/skill-2/frame-02.png",
-            "guan-yu/skill-2/frame-03.png",
-            "guan-yu/skill-2/frame-04.png",
-            "guan-yu/skill-2/frame-05.png",
-            "guan-yu/skill-2/frame-06.png",
-            "corrections/2026-10-28/guan-skill2/frame-07.png",
-            "guan-yu/skill-2/frame-08.png"
+            "characters/guan-yu/skill-2/frame-01.png",
+            "characters/guan-yu/skill-2/frame-02.png",
+            "characters/guan-yu/skill-2/frame-03.png",
+            "characters/guan-yu/skill-2/frame-04.png",
+            "characters/guan-yu/skill-2/frame-05.png",
+            "characters/guan-yu/skill-2/frame-06.png",
+            "characters/guan-yu/skill-2/frame-07.png",
+            "characters/guan-yu/skill-2/frame-08.png"
           ],
           "Die": [
-            "guan-yu/die/frame-01.png"
+            "characters/guan-yu/die/frame-01.png"
           ],
           "Gather": [
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-01.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-02.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-03.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-04.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-05.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-06.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-07.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-08.png",
-            "gather-finish-2026-10-28/guan-yu-fresh/frame-09.png"
+            "characters/guan-yu/gather/frame-01.png",
+            "characters/guan-yu/gather/frame-02.png",
+            "characters/guan-yu/gather/frame-03.png",
+            "characters/guan-yu/gather/frame-04.png",
+            "characters/guan-yu/gather/frame-05.png",
+            "characters/guan-yu/gather/frame-06.png",
+            "characters/guan-yu/gather/frame-07.png",
+            "characters/guan-yu/gather/frame-08.png",
+            "characters/guan-yu/gather/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -791,9 +791,9 @@
       "gradeType": "NORMAL",
       "base": "Unit000030",
       "art": {
-        "icon": "zhang-fei/original/original.png",
-        "portrait": "zhang-fei/portrait/portrait.png",
-        "static": "zhang-fei/idle/frame-01.png",
+        "icon": "characters/zhang-fei/original/original.png",
+        "portrait": "characters/zhang-fei/portrait/portrait.png",
+        "static": "characters/zhang-fei/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -802,62 +802,62 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "zhang-fei/idle/frame-01.png",
-            "zhang-fei/idle/frame-02.png",
-            "zhang-fei/idle/frame-03.png",
-            "zhang-fei/idle/frame-04.png"
+            "characters/zhang-fei/idle/frame-01.png",
+            "characters/zhang-fei/idle/frame-02.png",
+            "characters/zhang-fei/idle/frame-03.png",
+            "characters/zhang-fei/idle/frame-04.png"
           ],
           "Move": [
-            "zhang-fei/run/frame-01.png",
-            "zhang-fei/run/frame-02.png",
-            "zhang-fei/run/frame-03.png",
-            "zhang-fei/run/frame-04.png",
-            "zhang-fei/run/frame-05.png",
-            "zhang-fei/run/frame-06.png"
+            "characters/zhang-fei/run/frame-01.png",
+            "characters/zhang-fei/run/frame-02.png",
+            "characters/zhang-fei/run/frame-03.png",
+            "characters/zhang-fei/run/frame-04.png",
+            "characters/zhang-fei/run/frame-05.png",
+            "characters/zhang-fei/run/frame-06.png"
           ],
           "Attack": [
-            "zhang-fei/basic-attack/frame-01.png",
-            "zhang-fei/basic-attack/frame-02.png",
-            "zhang-fei/basic-attack/frame-03.png",
-            "zhang-fei/basic-attack/frame-04.png",
-            "zhang-fei/basic-attack/frame-05.png",
-            "zhang-fei/basic-attack/frame-06.png",
-            "zhang-fei/basic-attack/frame-07.png",
-            "zhang-fei/basic-attack/frame-08.png"
+            "characters/zhang-fei/basic-attack/frame-01.png",
+            "characters/zhang-fei/basic-attack/frame-02.png",
+            "characters/zhang-fei/basic-attack/frame-03.png",
+            "characters/zhang-fei/basic-attack/frame-04.png",
+            "characters/zhang-fei/basic-attack/frame-05.png",
+            "characters/zhang-fei/basic-attack/frame-06.png",
+            "characters/zhang-fei/basic-attack/frame-07.png",
+            "characters/zhang-fei/basic-attack/frame-08.png"
           ],
           "Skill_01": [
-            "zhang-fei/skill-1/frame-01.png",
-            "zhang-fei/skill-1/frame-02.png",
-            "zhang-fei/skill-1/frame-03.png",
-            "zhang-fei/skill-1/frame-04.png",
-            "zhang-fei/skill-1/frame-05.png",
-            "zhang-fei/skill-1/frame-06.png",
-            "zhang-fei/skill-1/frame-07.png",
-            "zhang-fei/skill-1/frame-08.png"
+            "characters/zhang-fei/skill-1/frame-01.png",
+            "characters/zhang-fei/skill-1/frame-02.png",
+            "characters/zhang-fei/skill-1/frame-03.png",
+            "characters/zhang-fei/skill-1/frame-04.png",
+            "characters/zhang-fei/skill-1/frame-05.png",
+            "characters/zhang-fei/skill-1/frame-06.png",
+            "characters/zhang-fei/skill-1/frame-07.png",
+            "characters/zhang-fei/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "zhang-fei/skill-2/frame-01.png",
-            "zhang-fei/skill-2/frame-02.png",
-            "zhang-fei/skill-2/frame-03.png",
-            "zhang-fei/skill-2/frame-04.png",
-            "zhang-fei/skill-2/frame-05.png",
-            "zhang-fei/skill-2/frame-06.png",
-            "zhang-fei/skill-2/frame-07.png",
-            "zhang-fei/skill-2/frame-08.png"
+            "characters/zhang-fei/skill-2/frame-01.png",
+            "characters/zhang-fei/skill-2/frame-02.png",
+            "characters/zhang-fei/skill-2/frame-03.png",
+            "characters/zhang-fei/skill-2/frame-04.png",
+            "characters/zhang-fei/skill-2/frame-05.png",
+            "characters/zhang-fei/skill-2/frame-06.png",
+            "characters/zhang-fei/skill-2/frame-07.png",
+            "characters/zhang-fei/skill-2/frame-08.png"
           ],
           "Die": [
-            "zhang-fei/die/frame-01.png"
+            "characters/zhang-fei/die/frame-01.png"
           ],
           "Gather": [
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-01.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-02.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-03.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-04.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-05.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-06.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-07.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-08.png",
-            "gather-finish-2026-10-28/zhang-fei-redraw/frame-09.png"
+            "characters/zhang-fei/gather/frame-01.png",
+            "characters/zhang-fei/gather/frame-02.png",
+            "characters/zhang-fei/gather/frame-03.png",
+            "characters/zhang-fei/gather/frame-04.png",
+            "characters/zhang-fei/gather/frame-05.png",
+            "characters/zhang-fei/gather/frame-06.png",
+            "characters/zhang-fei/gather/frame-07.png",
+            "characters/zhang-fei/gather/frame-08.png",
+            "characters/zhang-fei/gather/frame-09.png"
           ]
         },
         "stateMeta": {
@@ -1168,9 +1168,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "zhao-yun/original/original.png",
-        "portrait": "zhao-yun/portrait/portrait.png",
-        "static": "zhao-yun/idle/frame-01.png",
+        "icon": "characters/zhao-yun/original/original.png",
+        "portrait": "characters/zhao-yun/portrait/portrait.png",
+        "static": "characters/zhao-yun/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -1179,61 +1179,61 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "zhao-yun/idle/frame-01.png",
-            "zhao-yun/idle/frame-02.png",
-            "zhao-yun/idle/frame-03.png",
-            "zhao-yun/idle/frame-04.png"
+            "characters/zhao-yun/idle/frame-01.png",
+            "characters/zhao-yun/idle/frame-02.png",
+            "characters/zhao-yun/idle/frame-03.png",
+            "characters/zhao-yun/idle/frame-04.png"
           ],
           "Move": [
-            "zhao-yun/run/frame-01.png",
-            "zhao-yun/run/frame-02.png",
-            "zhao-yun/run/frame-03.png",
-            "zhao-yun/run/frame-04.png",
-            "zhao-yun/run/frame-05.png",
-            "zhao-yun/run/frame-06.png"
+            "characters/zhao-yun/run/frame-01.png",
+            "characters/zhao-yun/run/frame-02.png",
+            "characters/zhao-yun/run/frame-03.png",
+            "characters/zhao-yun/run/frame-04.png",
+            "characters/zhao-yun/run/frame-05.png",
+            "characters/zhao-yun/run/frame-06.png"
           ],
           "Attack": [
-            "zhao-yun/basic-attack/frame-01.png",
-            "zhao-yun/basic-attack/frame-02.png",
-            "zhao-yun/basic-attack/frame-03.png",
-            "zhao-yun/basic-attack/frame-04.png",
-            "zhao-yun/basic-attack/frame-05.png",
-            "zhao-yun/basic-attack/frame-06.png",
-            "zhao-yun/basic-attack/frame-07.png"
+            "characters/zhao-yun/basic-attack/frame-01.png",
+            "characters/zhao-yun/basic-attack/frame-02.png",
+            "characters/zhao-yun/basic-attack/frame-03.png",
+            "characters/zhao-yun/basic-attack/frame-04.png",
+            "characters/zhao-yun/basic-attack/frame-05.png",
+            "characters/zhao-yun/basic-attack/frame-06.png",
+            "characters/zhao-yun/basic-attack/frame-07.png"
           ],
           "Skill_01": [
-            "zhao-yun/skill-1/frame-01.png",
-            "zhao-yun/skill-1/frame-02.png",
-            "zhao-yun/skill-1/frame-03.png",
-            "zhao-yun/skill-1/frame-04.png",
-            "zhao-yun/skill-1/frame-05.png",
-            "zhao-yun/skill-1/frame-06.png",
-            "zhao-yun/skill-1/frame-07.png",
-            "zhao-yun/skill-1/frame-08.png"
+            "characters/zhao-yun/skill-1/frame-01.png",
+            "characters/zhao-yun/skill-1/frame-02.png",
+            "characters/zhao-yun/skill-1/frame-03.png",
+            "characters/zhao-yun/skill-1/frame-04.png",
+            "characters/zhao-yun/skill-1/frame-05.png",
+            "characters/zhao-yun/skill-1/frame-06.png",
+            "characters/zhao-yun/skill-1/frame-07.png",
+            "characters/zhao-yun/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "zhao-yun/skill-2/frame-01.png",
-            "zhao-yun/skill-2/frame-02.png",
-            "zhao-yun/skill-2/frame-03.png",
-            "zhao-yun/skill-2/frame-04.png",
-            "zhao-yun/skill-2/frame-05.png",
-            "zhao-yun/skill-2/frame-06.png",
-            "zhao-yun/skill-2/frame-07.png",
-            "zhao-yun/skill-2/frame-08.png"
+            "characters/zhao-yun/skill-2/frame-01.png",
+            "characters/zhao-yun/skill-2/frame-02.png",
+            "characters/zhao-yun/skill-2/frame-03.png",
+            "characters/zhao-yun/skill-2/frame-04.png",
+            "characters/zhao-yun/skill-2/frame-05.png",
+            "characters/zhao-yun/skill-2/frame-06.png",
+            "characters/zhao-yun/skill-2/frame-07.png",
+            "characters/zhao-yun/skill-2/frame-08.png"
           ],
           "Gather": [
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-01.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-02.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-03.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-04.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-05.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-06.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-07.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-08.png",
-            "gather-finish-2026-10-28/zhao-yun-redraw/frame-09.png"
+            "characters/zhao-yun/gather/frame-01.png",
+            "characters/zhao-yun/gather/frame-02.png",
+            "characters/zhao-yun/gather/frame-03.png",
+            "characters/zhao-yun/gather/frame-04.png",
+            "characters/zhao-yun/gather/frame-05.png",
+            "characters/zhao-yun/gather/frame-06.png",
+            "characters/zhao-yun/gather/frame-07.png",
+            "characters/zhao-yun/gather/frame-08.png",
+            "characters/zhao-yun/gather/frame-09.png"
           ],
           "Die": [
-            "new-motions-2026-10-28/zhao-yun/die/frame-01.png"
+            "characters/zhao-yun/die/frame-01.png"
           ]
         },
         "stateMeta": {
@@ -1515,9 +1515,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "chapter-1/village-boy/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/boy.png",
-        "static": "chapter-1/village-boy/idle/frame-01.png",
+        "icon": "characters/village-boy/original/original.png",
+        "portrait": "characters/village-boy/portrait/portrait.png",
+        "static": "characters/village-boy/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -1526,18 +1526,18 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/village-boy/idle/frame-01.png",
-            "chapter-1/village-boy/idle/frame-02.png",
-            "chapter-1/village-boy/idle/frame-03.png",
-            "chapter-1/village-boy/idle/frame-04.png"
+            "characters/village-boy/idle/frame-01.png",
+            "characters/village-boy/idle/frame-02.png",
+            "characters/village-boy/idle/frame-03.png",
+            "characters/village-boy/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/village-boy/run/frame-01.png",
-            "chapter-1/village-boy/run/frame-02.png",
-            "chapter-1/village-boy/run/frame-03.png",
-            "chapter-1/village-boy/run/frame-04.png",
-            "chapter-1/village-boy/run/frame-05.png",
-            "chapter-1/village-boy/run/frame-06.png"
+            "characters/village-boy/run/frame-01.png",
+            "characters/village-boy/run/frame-02.png",
+            "characters/village-boy/run/frame-03.png",
+            "characters/village-boy/run/frame-04.png",
+            "characters/village-boy/run/frame-05.png",
+            "characters/village-boy/run/frame-06.png"
           ]
         },
         "stateMeta": {
@@ -1616,9 +1616,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "chapter-1/village-elder/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/elder.png",
-        "static": "chapter-1/village-elder/idle/frame-01.png",
+        "icon": "characters/village-elder/original/original.png",
+        "portrait": "characters/village-elder/portrait/portrait.png",
+        "static": "characters/village-elder/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -1627,18 +1627,18 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/village-elder/idle/frame-01.png",
-            "chapter-1/village-elder/idle/frame-02.png",
-            "chapter-1/village-elder/idle/frame-03.png",
-            "chapter-1/village-elder/idle/frame-04.png"
+            "characters/village-elder/idle/frame-01.png",
+            "characters/village-elder/idle/frame-02.png",
+            "characters/village-elder/idle/frame-03.png",
+            "characters/village-elder/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/village-elder/run/frame-01.png",
-            "chapter-1/village-elder/run/frame-02.png",
-            "chapter-1/village-elder/run/frame-03.png",
-            "chapter-1/village-elder/run/frame-04.png",
-            "chapter-1/village-elder/run/frame-05.png",
-            "chapter-1/village-elder/run/frame-06.png"
+            "characters/village-elder/run/frame-01.png",
+            "characters/village-elder/run/frame-02.png",
+            "characters/village-elder/run/frame-03.png",
+            "characters/village-elder/run/frame-04.png",
+            "characters/village-elder/run/frame-05.png",
+            "characters/village-elder/run/frame-06.png"
           ]
         },
         "stateMeta": {
@@ -1717,9 +1717,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "chapter-1/yellow-turban-soldier/original/original.png",
-        "portrait": "chapter-1/yellow-turban-soldier/original/original.png",
-        "static": "chapter-1/yellow-turban-soldier/idle/frame-01.png",
+        "icon": "characters/yellow-turban-soldier/original/original.png",
+        "portrait": "characters/yellow-turban-soldier/original/original.png",
+        "static": "characters/yellow-turban-soldier/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -1728,28 +1728,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/yellow-turban-soldier/idle/frame-01.png",
-            "chapter-1/yellow-turban-soldier/idle/frame-02.png",
-            "chapter-1/yellow-turban-soldier/idle/frame-03.png",
-            "chapter-1/yellow-turban-soldier/idle/frame-04.png"
+            "characters/yellow-turban-soldier/idle/frame-01.png",
+            "characters/yellow-turban-soldier/idle/frame-02.png",
+            "characters/yellow-turban-soldier/idle/frame-03.png",
+            "characters/yellow-turban-soldier/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/yellow-turban-soldier/run/frame-01.png",
-            "chapter-1/yellow-turban-soldier/run/frame-02.png",
-            "chapter-1/yellow-turban-soldier/run/frame-03.png",
-            "chapter-1/yellow-turban-soldier/run/frame-04.png",
-            "chapter-1/yellow-turban-soldier/run/frame-05.png",
-            "chapter-1/yellow-turban-soldier/run/frame-06.png"
+            "characters/yellow-turban-soldier/run/frame-01.png",
+            "characters/yellow-turban-soldier/run/frame-02.png",
+            "characters/yellow-turban-soldier/run/frame-03.png",
+            "characters/yellow-turban-soldier/run/frame-04.png",
+            "characters/yellow-turban-soldier/run/frame-05.png",
+            "characters/yellow-turban-soldier/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-01.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-02.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-03.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-04.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-05.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-06.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-07.png",
-            "chapter-1/yellow-turban-soldier/basic-attack/frame-08.png"
+            "characters/yellow-turban-soldier/basic-attack/frame-01.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-02.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-03.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-04.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-05.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-06.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-07.png",
+            "characters/yellow-turban-soldier/basic-attack/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -1881,9 +1881,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-28 사용자 승인 늑대 축소 외형 및 6프레임 달리기. Move 80ms x6. 파츠 분리 없는 재작화.",
       "art": {
-        "icon": "chapter-1/yellow-turban-wolf/original/original.png",
-        "portrait": "chapter-1/yellow-turban-wolf/original/original.png",
-        "static": "chapter-1/yellow-turban-wolf/idle/frame-01.png",
+        "icon": "characters/yellow-turban-wolf/original/original.png",
+        "portrait": "characters/yellow-turban-wolf/original/original.png",
+        "static": "characters/yellow-turban-wolf/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -1892,28 +1892,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/yellow-turban-wolf/idle/frame-01.png",
-            "chapter-1/yellow-turban-wolf/idle/frame-02.png",
-            "chapter-1/yellow-turban-wolf/idle/frame-03.png",
-            "chapter-1/yellow-turban-wolf/idle/frame-04.png"
+            "characters/yellow-turban-wolf/idle/frame-01.png",
+            "characters/yellow-turban-wolf/idle/frame-02.png",
+            "characters/yellow-turban-wolf/idle/frame-03.png",
+            "characters/yellow-turban-wolf/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/yellow-turban-wolf/run/frame-01.png",
-            "chapter-1/yellow-turban-wolf/run/frame-02.png",
-            "chapter-1/yellow-turban-wolf/run/frame-03.png",
-            "chapter-1/yellow-turban-wolf/run/frame-04.png",
-            "chapter-1/yellow-turban-wolf/run/frame-05.png",
-            "chapter-1/yellow-turban-wolf/run/frame-06.png"
+            "characters/yellow-turban-wolf/run/frame-01.png",
+            "characters/yellow-turban-wolf/run/frame-02.png",
+            "characters/yellow-turban-wolf/run/frame-03.png",
+            "characters/yellow-turban-wolf/run/frame-04.png",
+            "characters/yellow-turban-wolf/run/frame-05.png",
+            "characters/yellow-turban-wolf/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-01.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-02.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-03.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-04.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-05.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-06.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-07.png",
-            "chapter-1/yellow-turban-wolf/basic-attack/frame-08.png"
+            "characters/yellow-turban-wolf/basic-attack/frame-01.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-02.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-03.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-04.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-05.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-06.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-07.png",
+            "characters/yellow-turban-wolf/basic-attack/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -2045,9 +2045,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "chapter-1/guan-hai/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/guan-hai.png",
-        "static": "chapter-1/guan-hai/idle/frame-01.png",
+        "icon": "characters/guan-hai/original/original.png",
+        "portrait": "characters/guan-hai/portrait/portrait.png",
+        "static": "characters/guan-hai/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2056,38 +2056,38 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/guan-hai/idle/frame-01.png",
-            "chapter-1/guan-hai/idle/frame-02.png",
-            "chapter-1/guan-hai/idle/frame-03.png",
-            "chapter-1/guan-hai/idle/frame-04.png"
+            "characters/guan-hai/idle/frame-01.png",
+            "characters/guan-hai/idle/frame-02.png",
+            "characters/guan-hai/idle/frame-03.png",
+            "characters/guan-hai/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/guan-hai/run/frame-01.png",
-            "chapter-1/guan-hai/run/frame-02.png",
-            "chapter-1/guan-hai/run/frame-03.png",
-            "chapter-1/guan-hai/run/frame-04.png",
-            "chapter-1/guan-hai/run/frame-05.png",
-            "chapter-1/guan-hai/run/frame-06.png"
+            "characters/guan-hai/run/frame-01.png",
+            "characters/guan-hai/run/frame-02.png",
+            "characters/guan-hai/run/frame-03.png",
+            "characters/guan-hai/run/frame-04.png",
+            "characters/guan-hai/run/frame-05.png",
+            "characters/guan-hai/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/guan-hai/basic-attack/frame-01.png",
-            "chapter-1/guan-hai/basic-attack/frame-02.png",
-            "chapter-1/guan-hai/basic-attack/frame-03.png",
-            "chapter-1/guan-hai/basic-attack/frame-04.png",
-            "chapter-1/guan-hai/basic-attack/frame-05.png",
-            "chapter-1/guan-hai/basic-attack/frame-06.png",
-            "chapter-1/guan-hai/basic-attack/frame-07.png",
-            "chapter-1/guan-hai/basic-attack/frame-08.png"
+            "characters/guan-hai/basic-attack/frame-01.png",
+            "characters/guan-hai/basic-attack/frame-02.png",
+            "characters/guan-hai/basic-attack/frame-03.png",
+            "characters/guan-hai/basic-attack/frame-04.png",
+            "characters/guan-hai/basic-attack/frame-05.png",
+            "characters/guan-hai/basic-attack/frame-06.png",
+            "characters/guan-hai/basic-attack/frame-07.png",
+            "characters/guan-hai/basic-attack/frame-08.png"
           ],
           "Skill_01": [
-            "chapter-1/guan-hai/skill-1/frame-01.png",
-            "chapter-1/guan-hai/skill-1/frame-02.png",
-            "chapter-1/guan-hai/skill-1/frame-03.png",
-            "chapter-1/guan-hai/skill-1/frame-04.png",
-            "chapter-1/guan-hai/skill-1/frame-05.png",
-            "chapter-1/guan-hai/skill-1/frame-06.png",
-            "chapter-1/guan-hai/skill-1/frame-07.png",
-            "chapter-1/guan-hai/skill-1/frame-08.png"
+            "characters/guan-hai/skill-1/frame-01.png",
+            "characters/guan-hai/skill-1/frame-02.png",
+            "characters/guan-hai/skill-1/frame-03.png",
+            "characters/guan-hai/skill-1/frame-04.png",
+            "characters/guan-hai/skill-1/frame-05.png",
+            "characters/guan-hai/skill-1/frame-06.png",
+            "characters/guan-hai/skill-1/frame-07.png",
+            "characters/guan-hai/skill-1/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -2271,9 +2271,9 @@
       "gradeType": "NORMAL",
       "memo": "2026-10-27 최신 납품본. PNG·시간·피벗은 원본 메타데이터 유지. 전투 수치는 테스트용 기존 base이며 확정 밸런스가 아님.",
       "art": {
-        "icon": "chapter-1/zhang-jiao/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/zhang-jiao.png",
-        "static": "chapter-1/zhang-jiao/idle/frame-01.png",
+        "icon": "characters/zhang-jiao/original/original.png",
+        "portrait": "characters/zhang-jiao/portrait/portrait.png",
+        "static": "characters/zhang-jiao/idle/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2282,48 +2282,48 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/zhang-jiao/idle/frame-01.png",
-            "chapter-1/zhang-jiao/idle/frame-02.png",
-            "chapter-1/zhang-jiao/idle/frame-03.png",
-            "chapter-1/zhang-jiao/idle/frame-04.png"
+            "characters/zhang-jiao/idle/frame-01.png",
+            "characters/zhang-jiao/idle/frame-02.png",
+            "characters/zhang-jiao/idle/frame-03.png",
+            "characters/zhang-jiao/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/zhang-jiao/run/frame-01.png",
-            "chapter-1/zhang-jiao/run/frame-02.png",
-            "chapter-1/zhang-jiao/run/frame-03.png",
-            "chapter-1/zhang-jiao/run/frame-04.png",
-            "chapter-1/zhang-jiao/run/frame-05.png",
-            "chapter-1/zhang-jiao/run/frame-06.png"
+            "characters/zhang-jiao/run/frame-01.png",
+            "characters/zhang-jiao/run/frame-02.png",
+            "characters/zhang-jiao/run/frame-03.png",
+            "characters/zhang-jiao/run/frame-04.png",
+            "characters/zhang-jiao/run/frame-05.png",
+            "characters/zhang-jiao/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/zhang-jiao/basic-attack/frame-01.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-02.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-03.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-04.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-05.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-06.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-07.png",
-            "chapter-1/zhang-jiao/basic-attack/frame-08.png"
+            "characters/zhang-jiao/basic-attack/frame-01.png",
+            "characters/zhang-jiao/basic-attack/frame-02.png",
+            "characters/zhang-jiao/basic-attack/frame-03.png",
+            "characters/zhang-jiao/basic-attack/frame-04.png",
+            "characters/zhang-jiao/basic-attack/frame-05.png",
+            "characters/zhang-jiao/basic-attack/frame-06.png",
+            "characters/zhang-jiao/basic-attack/frame-07.png",
+            "characters/zhang-jiao/basic-attack/frame-08.png"
           ],
           "Skill_01": [
-            "chapter-1/zhang-jiao/skill-1/frame-01.png",
-            "chapter-1/zhang-jiao/skill-1/frame-02.png",
-            "chapter-1/zhang-jiao/skill-1/frame-03.png",
-            "chapter-1/zhang-jiao/skill-1/frame-04.png",
-            "chapter-1/zhang-jiao/skill-1/frame-05.png",
-            "chapter-1/zhang-jiao/skill-1/frame-06.png",
-            "chapter-1/zhang-jiao/skill-1/frame-07.png",
-            "chapter-1/zhang-jiao/skill-1/frame-08.png"
+            "characters/zhang-jiao/skill-1/frame-01.png",
+            "characters/zhang-jiao/skill-1/frame-02.png",
+            "characters/zhang-jiao/skill-1/frame-03.png",
+            "characters/zhang-jiao/skill-1/frame-04.png",
+            "characters/zhang-jiao/skill-1/frame-05.png",
+            "characters/zhang-jiao/skill-1/frame-06.png",
+            "characters/zhang-jiao/skill-1/frame-07.png",
+            "characters/zhang-jiao/skill-1/frame-08.png"
           ],
           "Skill_02": [
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-01.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-02.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-03.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-04.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-05.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-06.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-07.png",
-            "art/samguk/motions/2026-10-28/zhang-jiao/skill-2/frame-08.png"
+            "characters/zhang-jiao/skill-2/frame-01.png",
+            "characters/zhang-jiao/skill-2/frame-02.png",
+            "characters/zhang-jiao/skill-2/frame-03.png",
+            "characters/zhang-jiao/skill-2/frame-04.png",
+            "characters/zhang-jiao/skill-2/frame-05.png",
+            "characters/zhang-jiao/skill-2/frame-06.png",
+            "characters/zhang-jiao/skill-2/frame-07.png",
+            "characters/zhang-jiao/skill-2/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -2558,9 +2558,9 @@
       "grade": "",
       "gradeType": "NORMAL",
       "art": {
-        "icon": "chapter-1/yellow-turban-spearman/original/original.png",
-        "portrait": "chapter-1/yellow-turban-spearman/original/original.png",
-        "static": "chapter-1/yellow-turban-spearman/original/original.png",
+        "icon": "characters/yellow-turban-spearman/original/original.png",
+        "portrait": "characters/yellow-turban-spearman/original/original.png",
+        "static": "characters/yellow-turban-spearman/original/original.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2569,28 +2569,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/yellow-turban-spearman/idle/frame-01.png",
-            "chapter-1/yellow-turban-spearman/idle/frame-02.png",
-            "chapter-1/yellow-turban-spearman/idle/frame-03.png",
-            "chapter-1/yellow-turban-spearman/idle/frame-04.png"
+            "characters/yellow-turban-spearman/idle/frame-01.png",
+            "characters/yellow-turban-spearman/idle/frame-02.png",
+            "characters/yellow-turban-spearman/idle/frame-03.png",
+            "characters/yellow-turban-spearman/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/yellow-turban-spearman/run/frame-01.png",
-            "chapter-1/yellow-turban-spearman/run/frame-02.png",
-            "chapter-1/yellow-turban-spearman/run/frame-03.png",
-            "chapter-1/yellow-turban-spearman/run/frame-04.png",
-            "chapter-1/yellow-turban-spearman/run/frame-05.png",
-            "chapter-1/yellow-turban-spearman/run/frame-06.png"
+            "characters/yellow-turban-spearman/run/frame-01.png",
+            "characters/yellow-turban-spearman/run/frame-02.png",
+            "characters/yellow-turban-spearman/run/frame-03.png",
+            "characters/yellow-turban-spearman/run/frame-04.png",
+            "characters/yellow-turban-spearman/run/frame-05.png",
+            "characters/yellow-turban-spearman/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-01.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-02.png",
-            "motion-cleanup-2026-10-28/SG_M0005/attack-03.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-04.png",
-            "motion-cleanup-2026-10-28/SG_M0005/attack-05.png",
-            "motion-cleanup-2026-10-28/SG_M0005/attack-06.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-07.png",
-            "chapter-1/yellow-turban-spearman/basic-attack/frame-08.png"
+            "characters/yellow-turban-spearman/basic-attack/frame-01.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-02.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-03.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-04.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-05.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-06.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-07.png",
+            "characters/yellow-turban-spearman/basic-attack/frame-08.png"
           ]
         }
       },
@@ -2701,9 +2701,9 @@
       "grade": "",
       "gradeType": "NORMAL",
       "art": {
-        "icon": "chapter-1/yellow-turban-archer/original/original.png",
-        "portrait": "chapter-1/yellow-turban-archer/original/original.png",
-        "static": "chapter-1/yellow-turban-archer/original/original.png",
+        "icon": "characters/yellow-turban-archer/original/original.png",
+        "portrait": "characters/yellow-turban-archer/original/original.png",
+        "static": "characters/yellow-turban-archer/original/original.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2712,28 +2712,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/yellow-turban-archer/idle/frame-01.png",
-            "chapter-1/yellow-turban-archer/idle/frame-02.png",
-            "chapter-1/yellow-turban-archer/idle/frame-03.png",
-            "chapter-1/yellow-turban-archer/idle/frame-04.png"
+            "characters/yellow-turban-archer/idle/frame-01.png",
+            "characters/yellow-turban-archer/idle/frame-02.png",
+            "characters/yellow-turban-archer/idle/frame-03.png",
+            "characters/yellow-turban-archer/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/yellow-turban-archer/run/frame-01.png",
-            "chapter-1/yellow-turban-archer/run/frame-02.png",
-            "chapter-1/yellow-turban-archer/run/frame-03.png",
-            "chapter-1/yellow-turban-archer/run/frame-04.png",
-            "chapter-1/yellow-turban-archer/run/frame-05.png",
-            "chapter-1/yellow-turban-archer/run/frame-06.png"
+            "characters/yellow-turban-archer/run/frame-01.png",
+            "characters/yellow-turban-archer/run/frame-02.png",
+            "characters/yellow-turban-archer/run/frame-03.png",
+            "characters/yellow-turban-archer/run/frame-04.png",
+            "characters/yellow-turban-archer/run/frame-05.png",
+            "characters/yellow-turban-archer/run/frame-06.png"
           ],
           "Attack": [
-            "chapter-1/yellow-turban-archer/basic-attack/frame-01.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-02.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-03.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-04.png",
-            "motion-cleanup-2026-10-28/SG_M0006/attack-05.png",
-            "motion-cleanup-2026-10-28/SG_M0006/attack-06.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-07.png",
-            "chapter-1/yellow-turban-archer/basic-attack/frame-08.png"
+            "characters/yellow-turban-archer/basic-attack/frame-01.png",
+            "characters/yellow-turban-archer/basic-attack/frame-02.png",
+            "characters/yellow-turban-archer/basic-attack/frame-03.png",
+            "characters/yellow-turban-archer/basic-attack/frame-04.png",
+            "characters/yellow-turban-archer/basic-attack/frame-05.png",
+            "characters/yellow-turban-archer/basic-attack/frame-06.png",
+            "characters/yellow-turban-archer/basic-attack/frame-07.png",
+            "characters/yellow-turban-archer/basic-attack/frame-08.png"
           ]
         }
       },
@@ -2836,7 +2836,7 @@
       ],
       "memo": "2026-10-28 신규 검토본. 승인 전. 기본/숨쉬기4/이동6/공격8",
       "projectileArt": {
-        "sprite": "chapter-1/yellow-turban-archer/projectile/arrow.png",
+        "sprite": "characters/yellow-turban-archer/projectile/arrow.png",
         "pivot": [
           0.5,
           0.5
@@ -2853,9 +2853,9 @@
       "grade": "",
       "gradeType": "NORMAL",
       "art": {
-        "icon": "chapter-1/village-blacksmith/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/blacksmith.png",
-        "static": "chapter-1/village-blacksmith/original/original.png",
+        "icon": "characters/village-blacksmith/original/original.png",
+        "portrait": "characters/village-blacksmith/portrait/portrait.png",
+        "static": "characters/village-blacksmith/original/original.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2864,28 +2864,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/village-blacksmith/idle/frame-01.png",
-            "chapter-1/village-blacksmith/idle/frame-02.png",
-            "chapter-1/village-blacksmith/idle/frame-03.png",
-            "chapter-1/village-blacksmith/idle/frame-04.png"
+            "characters/village-blacksmith/idle/frame-01.png",
+            "characters/village-blacksmith/idle/frame-02.png",
+            "characters/village-blacksmith/idle/frame-03.png",
+            "characters/village-blacksmith/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/village-blacksmith/run/frame-01.png",
-            "chapter-1/village-blacksmith/run/frame-02.png",
-            "chapter-1/village-blacksmith/run/frame-03.png",
-            "chapter-1/village-blacksmith/run/frame-04.png",
-            "chapter-1/village-blacksmith/run/frame-05.png",
-            "chapter-1/village-blacksmith/run/frame-06.png"
+            "characters/village-blacksmith/run/frame-01.png",
+            "characters/village-blacksmith/run/frame-02.png",
+            "characters/village-blacksmith/run/frame-03.png",
+            "characters/village-blacksmith/run/frame-04.png",
+            "characters/village-blacksmith/run/frame-05.png",
+            "characters/village-blacksmith/run/frame-06.png"
           ],
           "Work": [
-            "npc-work-2026-10-28/village-blacksmith/frame-01.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-02.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-03.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-04.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-05.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-06.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-07.png",
-            "npc-work-2026-10-28/village-blacksmith/frame-08.png"
+            "characters/village-blacksmith/work/frame-01.png",
+            "characters/village-blacksmith/work/frame-02.png",
+            "characters/village-blacksmith/work/frame-03.png",
+            "characters/village-blacksmith/work/frame-04.png",
+            "characters/village-blacksmith/work/frame-05.png",
+            "characters/village-blacksmith/work/frame-06.png",
+            "characters/village-blacksmith/work/frame-07.png",
+            "characters/village-blacksmith/work/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -2971,9 +2971,9 @@
       "grade": "",
       "gradeType": "NORMAL",
       "art": {
-        "icon": "chapter-1/village-hostess/original/original.png",
-        "portrait": "npc-portraits-2026-10-28/hostess.png",
-        "static": "chapter-1/village-hostess/original/original.png",
+        "icon": "characters/village-hostess/original/original.png",
+        "portrait": "characters/village-hostess/portrait/portrait.png",
+        "static": "characters/village-hostess/original/original.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -2982,28 +2982,28 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "chapter-1/village-hostess/idle/frame-01.png",
-            "chapter-1/village-hostess/idle/frame-02.png",
-            "chapter-1/village-hostess/idle/frame-03.png",
-            "chapter-1/village-hostess/idle/frame-04.png"
+            "characters/village-hostess/idle/frame-01.png",
+            "characters/village-hostess/idle/frame-02.png",
+            "characters/village-hostess/idle/frame-03.png",
+            "characters/village-hostess/idle/frame-04.png"
           ],
           "Move": [
-            "chapter-1/village-hostess/run/frame-01.png",
-            "chapter-1/village-hostess/run/frame-02.png",
-            "chapter-1/village-hostess/run/frame-03.png",
-            "chapter-1/village-hostess/run/frame-04.png",
-            "chapter-1/village-hostess/run/frame-05.png",
-            "chapter-1/village-hostess/run/frame-06.png"
+            "characters/village-hostess/run/frame-01.png",
+            "characters/village-hostess/run/frame-02.png",
+            "characters/village-hostess/run/frame-03.png",
+            "characters/village-hostess/run/frame-04.png",
+            "characters/village-hostess/run/frame-05.png",
+            "characters/village-hostess/run/frame-06.png"
           ],
           "Work": [
-            "npc-work-2026-10-28/village-hostess/frame-01.png",
-            "npc-work-2026-10-28/village-hostess/frame-02.png",
-            "npc-work-2026-10-28/village-hostess/frame-03.png",
-            "npc-work-2026-10-28/village-hostess/frame-04.png",
-            "npc-work-2026-10-28/village-hostess/frame-05.png",
-            "npc-work-2026-10-28/village-hostess/frame-06.png",
-            "npc-work-2026-10-28/village-hostess/frame-07.png",
-            "npc-work-2026-10-28/village-hostess/frame-08.png"
+            "characters/village-hostess/work/frame-01.png",
+            "characters/village-hostess/work/frame-02.png",
+            "characters/village-hostess/work/frame-03.png",
+            "characters/village-hostess/work/frame-04.png",
+            "characters/village-hostess/work/frame-05.png",
+            "characters/village-hostess/work/frame-06.png",
+            "characters/village-hostess/work/frame-07.png",
+            "characters/village-hostess/work/frame-08.png"
           ]
         },
         "stateMeta": {
@@ -3089,9 +3089,9 @@
       "grade": "",
       "gradeType": "NORMAL",
       "art": {
-        "icon": "npc-work-2026-10-28/armory-guard/frame-01.png",
-        "portrait": "npc-portraits-2026-10-28/guard.png",
-        "static": "npc-work-2026-10-28/armory-guard/frame-01.png",
+        "icon": "characters/armory-guard/work/frame-01.png",
+        "portrait": "characters/armory-guard/portrait/portrait.png",
+        "static": "characters/armory-guard/work/frame-01.png",
         "ppu": 100,
         "pivot": [
           0.5,
@@ -3100,17 +3100,17 @@
         "facing": "left",
         "frames": {
           "Idle": [
-            "npc-work-2026-10-28/armory-guard/frame-01.png"
+            "characters/armory-guard/idle/frame-01.png"
           ],
           "Work": [
-            "npc-work-2026-10-28/armory-guard/frame-01.png",
-            "npc-work-2026-10-28/armory-guard/frame-02.png",
-            "npc-work-2026-10-28/armory-guard/frame-03.png",
-            "npc-work-2026-10-28/armory-guard/frame-04.png",
-            "npc-work-2026-10-28/armory-guard/frame-05.png",
-            "npc-work-2026-10-28/armory-guard/frame-06.png",
-            "npc-work-2026-10-28/armory-guard/frame-07.png",
-            "npc-work-2026-10-28/armory-guard/frame-08.png"
+            "characters/armory-guard/work/frame-01.png",
+            "characters/armory-guard/work/frame-02.png",
+            "characters/armory-guard/work/frame-03.png",
+            "characters/armory-guard/work/frame-04.png",
+            "characters/armory-guard/work/frame-05.png",
+            "characters/armory-guard/work/frame-06.png",
+            "characters/armory-guard/work/frame-07.png",
+            "characters/armory-guard/work/frame-08.png"
           ]
         }
       },

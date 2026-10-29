@@ -1,4 +1,4 @@
-﻿// ResourceSpawner / ResourceActor / ResourceBody, DropItem (DOTween sequence), UtilCraft.CorDropResource,
+// ResourceSpawner / ResourceActor / ResourceBody, DropItem (DOTween sequence), UtilCraft.CorDropResource,
 // UnitActor.DropResource and the user's resources / level (User.AddResource, User.AddExp).
 import { G } from '../registry.js';
 import { Tables } from '../data/Tables.js';

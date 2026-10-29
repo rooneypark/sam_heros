@@ -1,0 +1,35 @@
+{
+  "size": [
+    350,
+    350
+  ],
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "facing": "left",
+  "ms": [
+    350,
+    160,
+    220,
+    100,
+    220,
+    180,
+    200,
+    350
+  ],
+  "hits": [],
+  "loop": true,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "source": "content/samguk/units.json; existing approval unchanged"
+}

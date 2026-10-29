@@ -37,13 +37,13 @@ def leg_parts(h):
  return thigh,shin
 
 ROOT=Path(__file__).resolve().parents[2]
-OUT=ROOT/'zhao-yun/run'
+OUT=ROOT/'characters/zhao-yun/run'
 if (OUT/'frame-01.png').exists():
     raise SystemExit('Approved run protected. Copy renderer to an explicit review destination before rebuilding.')
 OUT.mkdir(exist_ok=True)
 S=4
 THIGH=[32,0,-30,-38,5,38];SHIN=[12,-8,-32,-78,-65,38];BOB=[0,-1,-3,0,-1,-3]
-original=Image.open(ROOT/'zhao-yun/original/original.png').convert('RGBA')
+original=Image.open(ROOT/'characters/zhao-yun/original/original.png').convert('RGBA')
 # Follow the lower edge of the armor, including its black outline. A horizontal
 # crop retained old trouser fragments on the sides and cut the central hem.
 HEM=[(142,222),(148,226),(153,228),(159,230),(165,231),(171,232),
@@ -87,7 +87,7 @@ comparisons=[]
 for i,f in enumerate(frames):
     c=Image.new('RGB',(700,390),'#e5ecee');d=ImageDraw.Draw(c)
     d.text((16,10),'유비 · 승인 이동',font=font,fill='#253441');d.text((366,10),'조운 · 이동 재작업',font=font,fill='#253441')
-    liu=Image.open(ROOT/f'liu-bei/run/frame-{i+1:02}.png').convert('RGBA')
+    liu=Image.open(ROOT/f'characters/liu-bei/run/frame-{i+1:02}.png').convert('RGBA')
     c.paste(liu,(0,35),liu);c.paste(f,(350,35),f);comparisons.append(c)
 def gif(frames,path,ms):
     train=Image.new('RGB',(frames[0].width,frames[0].height*len(frames)))

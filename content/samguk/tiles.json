@@ -5,7 +5,7 @@
       "name": "나무",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/tree.png",
+      "sprite": "art/terrain/tree/tree.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -22,7 +22,7 @@
       "name": "수풀",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/bush.png",
+      "sprite": "art/terrain/bush/bush.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -39,7 +39,7 @@
       "name": "이끼 바위",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/boulder.png",
+      "sprite": "art/terrain/boulder/boulder.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -56,7 +56,7 @@
       "name": "산등성이",
       "layer": "blockData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/mountain.png",
+      "sprite": "art/terrain/mountain/mountain.png",
       "ppu": 120,
       "pivot": [
         0.5,
@@ -73,7 +73,7 @@
       "name": "풀잎",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/grass.png",
+      "sprite": "art/terrain/grass/grass.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -90,7 +90,7 @@
       "name": "들꽃",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/flowers.png",
+      "sprite": "art/terrain/flowers/flowers.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -107,7 +107,7 @@
       "name": "그루터기",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/stump.png",
+      "sprite": "art/terrain/stump/stump.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -124,7 +124,7 @@
       "name": "작은 돌",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/stones.png",
+      "sprite": "art/terrain/stones/stones.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -141,7 +141,7 @@
       "name": "마른 나무",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/dead_tree.png",
+      "sprite": "art/terrain/dead_tree/dead_tree.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -158,7 +158,7 @@
       "name": "가시 덤불",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/thorn.png",
+      "sprite": "art/terrain/thorn/thorn.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -175,7 +175,7 @@
       "name": "갈대",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/reeds.png",
+      "sprite": "art/terrain/reeds/reeds.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -192,7 +192,7 @@
       "name": "짙은 나무",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/oak.png",
+      "sprite": "art/terrain/oak/oak.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -209,7 +209,7 @@
       "name": "주막",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/tavern.png",
+      "sprite": "art/terrain/tavern/tavern.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -226,7 +226,7 @@
       "name": "민가",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/cottage.png",
+      "sprite": "art/terrain/cottage/cottage.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -243,7 +243,7 @@
       "name": "대장간",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/blacksmith.png",
+      "sprite": "art/terrain/blacksmith/blacksmith.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -260,7 +260,7 @@
       "name": "무기고",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/armory.png",
+      "sprite": "art/terrain/armory/armory.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -277,7 +277,7 @@
       "name": "병영",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/barracks.png",
+      "sprite": "art/terrain/barracks/barracks.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -294,7 +294,7 @@
       "name": "초소",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/watchtower.png",
+      "sprite": "art/terrain/watchtower/watchtower.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -311,7 +311,7 @@
       "name": "야영막",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/tent.png",
+      "sprite": "art/terrain/tent/tent.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -328,7 +328,7 @@
       "name": "감옥",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/cage.png",
+      "sprite": "art/terrain/cage/cage.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -345,7 +345,7 @@
       "name": "목책 ↗",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/fence_a.png",
+      "sprite": "art/terrain/fence_a/fence_a.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -363,7 +363,7 @@
       "name": "목책 ↘",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/fence_b.png",
+      "sprite": "art/terrain/fence_b/fence_b.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -380,7 +380,7 @@
       "name": "우물",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/well.png",
+      "sprite": "art/terrain/well/well.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -397,7 +397,7 @@
       "name": "채소밭",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/farm.png",
+      "sprite": "art/terrain/farm/farm.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -414,7 +414,7 @@
       "name": "황건 깃발",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/banner.png",
+      "sprite": "art/terrain/banner/banner.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -431,7 +431,7 @@
       "name": "화로",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/torch.png",
+      "sprite": "art/terrain/torch/torch.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -448,7 +448,7 @@
       "name": "모닥불",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/fire.png",
+      "sprite": "art/terrain/fire/fire.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -465,7 +465,7 @@
       "name": "술독",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/jar.png",
+      "sprite": "art/terrain/jar/jar.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -482,7 +482,7 @@
       "name": "나무통",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/barrel.png",
+      "sprite": "art/terrain/barrel/barrel.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -499,7 +499,7 @@
       "name": "곡식 포대",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/sacks.png",
+      "sprite": "art/terrain/sacks/sacks.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -516,7 +516,7 @@
       "name": "보급 수레",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/cart.png",
+      "sprite": "art/terrain/cart/cart.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -533,7 +533,7 @@
       "name": "이정표",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/sign.png",
+      "sprite": "art/terrain/sign/sign.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -550,7 +550,7 @@
       "name": "무기 거치대",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/rack.png",
+      "sprite": "art/terrain/rack/rack.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -567,7 +567,7 @@
       "name": "제단",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/altar.png",
+      "sprite": "art/terrain/altar/altar.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -584,7 +584,7 @@
       "name": "부서진 판자",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/planks.png",
+      "sprite": "art/terrain/planks/planks.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -601,7 +601,7 @@
       "name": "장작",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1/logs.png",
+      "sprite": "art/terrain/logs/logs.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -619,7 +619,7 @@
       "layer": "mapData",
       "type": "material",
       "shape": "ground",
-      "material": "art/environment/chapter-1/grass-material.png",
+      "material": "art/terrain/grass-material/grass-material.png",
       "shore": "#b69871"
     },
     {
@@ -628,7 +628,7 @@
       "layer": "roadData",
       "type": "material",
       "shape": "road",
-      "material": "art/environment/chapter-1/earth-material.png",
+      "material": "art/terrain/earth-material/earth-material.png",
       "shore": "#b69871"
     },
     {
@@ -637,7 +637,7 @@
       "layer": "roadData",
       "type": "material",
       "shape": "area",
-      "material": "art/environment/chapter-1/earth-material.png",
+      "material": "art/terrain/earth-material/earth-material.png",
       "shore": "#b69871"
     },
     {
@@ -646,7 +646,7 @@
       "layer": "waterData",
       "type": "material",
       "shape": "area",
-      "material": "art/environment/chapter-1/water-material.png",
+      "material": "art/terrain/water-material/water-material.png",
       "shore": "#75c2d5"
     },
     {
@@ -654,7 +654,7 @@
       "name": "작은 채소 장터",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/market.png",
+      "sprite": "art/terrain/market/market.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -671,7 +671,7 @@
       "name": "주막 평상",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/meal_table.png",
+      "sprite": "art/terrain/meal_table/meal_table.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -688,7 +688,7 @@
       "name": "강가 어구",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/fishing.png",
+      "sprite": "art/terrain/fishing/fishing.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -705,7 +705,7 @@
       "name": "벌목 작업대",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/woodshop.png",
+      "sprite": "art/terrain/woodshop/woodshop.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -722,7 +722,7 @@
       "name": "길가 작은 사당",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/shrine.png",
+      "sprite": "art/terrain/shrine/shrine.png",
       "ppu": 100,
       "pivot": [
         0.5,
@@ -739,7 +739,7 @@
       "name": "황건군 보급대",
       "layer": "decoData",
       "type": "single",
-      "sprite": "art/environment/chapter-1-polish/supply.png",
+      "sprite": "art/terrain/supply/supply.png",
       "ppu": 100,
       "pivot": [
         0.5,

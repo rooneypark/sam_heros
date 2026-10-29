@@ -1,4 +1,4 @@
-﻿// SpriteRenderer, SortingGroup and Animator (sprite-frame/curve playback of the extracted AnimationClips).
+// SpriteRenderer, SortingGroup and Animator (sprite-frame/curve playback of the extracted AnimationClips).
 import { Component } from './scene.js';
 
 const crcTable = (() => {

@@ -1,0 +1,149 @@
+{
+  "tavern": {
+    "frames": 6,
+    "canvas": [
+      512,
+      512
+    ],
+    "durationMs": [
+      240,
+      160,
+      160,
+      120,
+      160,
+      200
+    ],
+    "registrationTranslations": [
+      [
+        0,
+        0,
+        1.0
+      ],
+      [
+        -5,
+        0,
+        0.9663
+      ],
+      [
+        -3,
+        0,
+        0.9722
+      ],
+      [
+        0,
+        0,
+        0.9787
+      ],
+      [
+        -4,
+        0,
+        0.9621
+      ],
+      [
+        -3,
+        0,
+        0.9853
+      ]
+    ],
+    "outsideWorkAreaPixelsUnchanged": true,
+    "firstLastIdentical": true
+  },
+  "blacksmith": {
+    "frames": 6,
+    "canvas": [
+      512,
+      512
+    ],
+    "durationMs": [
+      240,
+      160,
+      160,
+      120,
+      160,
+      200
+    ],
+    "registrationTranslations": [
+      [
+        0,
+        0,
+        1.0
+      ],
+      [
+        16,
+        0,
+        0.9567
+      ],
+      [
+        23,
+        -4,
+        0.7917
+      ],
+      [
+        -2,
+        11,
+        0.9622
+      ],
+      [
+        15,
+        10,
+        0.9416
+      ],
+      [
+        28,
+        10,
+        0.9584
+      ]
+    ],
+    "outsideWorkAreaPixelsUnchanged": true,
+    "firstLastIdentical": true
+  },
+  "training-ground": {
+    "frames": 6,
+    "canvas": [
+      512,
+      512
+    ],
+    "durationMs": [
+      240,
+      160,
+      160,
+      120,
+      160,
+      200
+    ],
+    "registrationTranslations": [
+      [
+        0,
+        0,
+        1.0
+      ],
+      [
+        5,
+        0,
+        0.7364
+      ],
+      [
+        14,
+        0,
+        0.7573
+      ],
+      [
+        -1,
+        20,
+        0.9361
+      ],
+      [
+        4,
+        20,
+        0.884
+      ],
+      [
+        20,
+        20,
+        0.9483
+      ]
+    ],
+    "outsideWorkAreaPixelsUnchanged": true,
+    "firstLastIdentical": true
+  }
+}

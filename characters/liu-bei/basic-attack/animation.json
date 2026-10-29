@@ -1,0 +1,23 @@
+{
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "ms": [
+    180,
+    100,
+    70,
+    60,
+    130,
+    90,
+    100,
+    180
+  ],
+  "loop": false
+}

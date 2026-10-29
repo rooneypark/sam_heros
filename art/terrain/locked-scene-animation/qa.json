@@ -1,0 +1,44 @@
+{
+  "tavern": {
+    "frames": 6,
+    "unchangedPixelsOutsideMotionSilhouettes": true,
+    "changedStaticPixelsPerFrame": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "firstLastEqual": true,
+    "method": "original integrated scene locked; in-scene NPC and tool silhouette masks"
+  },
+  "blacksmith": {
+    "frames": 6,
+    "unchangedPixelsOutsideMotionSilhouettes": true,
+    "changedStaticPixelsPerFrame": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "firstLastEqual": true,
+    "method": "original integrated scene locked; in-scene NPC and tool silhouette masks"
+  },
+  "training-ground": {
+    "frames": 6,
+    "unchangedPixelsOutsideMotionSilhouettes": true,
+    "changedStaticPixelsPerFrame": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "firstLastEqual": true,
+    "method": "original integrated scene locked; in-scene NPC and tool silhouette masks"
+  }
+}

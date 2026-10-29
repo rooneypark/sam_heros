@@ -61,3 +61,6 @@
 검토 화면 PNG는 이 소스의 결과 확인용으로만 갱신한다. PNG를 고친 것으로 UI 원본 작업을 완료했다고 보고하지 않는다.
 
 연결 검사는 `python tools/verify_ui_resources.py`. 브라우저 검사는 Node/npm과 Playwright 설치 후 서버를 켜고 `node tools/test_ui_design.mjs http://127.0.0.1:포트`로 실행한다. 별도 브라우저에서 훈련 CSS의 임시 변경이 적용되는지, 설정 레이아웃·개별 PNG를 실제로 읽는지 확인하며 디스크 원본은 수정하지 않는다.
+
+## 최신 조작 UI 개발 전달
+새 패널 테마는 [themes/samguk/README.md](themes/samguk/README.md). 실행 CSS와 시안, 검수 결과를 함께 보관하며 기존 게임에는 자동 적용하지 않는다.

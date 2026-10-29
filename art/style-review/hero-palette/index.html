@@ -1,0 +1,23 @@
+<!doctype html><html lang="ko"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>삼국히어로즈 공통 색감 검토</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#202824;color:#f6f3e7;font:15px/1.6 system-ui}header,main{max-width:1250px;margin:auto;padding:24px}h1{margin:0;color:#f3c541}h2{font-size:20px;margin-top:34px}p{max-width:900px}a{color:#8edbb9}button,select{font:inherit;padding:8px 16px;background:#f6f3e7;color:#171918;border:2px solid #171918;border-radius:8px}nav{display:flex;gap:20px;flex-wrap:wrap}.heroes,.motions,.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}.card{background:#e5edef;color:#17231b;border-radius:12px;overflow:hidden;text-align:center;padding:12px}.card img{max-width:100%;height:200px;object-fit:contain}.card .pair{display:grid;grid-template-columns:1fr 1fr;align-items:center}.pair img{width:100%;height:160px}.motions img{width:100%;height:auto;max-width:350px}.label{font-weight:700}.muted{color:#b6c7bd}.concept{max-width:470px;background:#e5edef;border-radius:12px;width:100%}.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.legend{display:flex;gap:20px}.legend span{padding:4px 10px;background:#343d36;border-radius:4px}
+</style>
+<header><h1>삼국히어로즈 공통 색감 검토</h1><p>승인 장수는 유지하고 NPC·몬스터·지형에 공통 색과 윤곽선 톤을 적용했습니다. 아래 각 쌍은 <b>왼쪽 이전 / 오른쪽 수정</b>입니다. 수정 결과는 검토본입니다.</p><nav><a href="#characters">캐릭터 비교</a><a href="#motion">모션 재생</a><a href="#terrain">지형 비교</a><a href="#liu">새 유비 시안</a><a href="/web/ui-review.html">게임 진행 UI</a></nav></header>
+<main><h2>변경하지 않은 기준 장수</h2><div class="heroes" id="heroes"></div>
+<h2 id="characters">NPC·몬스터 원화</h2><div class="grid" id="cast"></div>
+<h2 id="motion">현재 등록 모션</h2><p class="muted">실제 게임 프레임으로 만든 GIF입니다. 프레임 위치·크기·투명도·시간은 보존했습니다.</p><div class="toolbar"><label>캐릭터 <select id="unit" aria-label="캐릭터"></select></label></div><div class="motions" id="motions"></div>
+<h2 id="terrain">지형·건물</h2><p class="muted">주막은 재작화, 나머지는 색 보정입니다. 캔버스·PPU·피벗·맵 배치를 유지했습니다.</p><div class="grid" id="tiles"></div>
+<h2 id="liu">유비 주인공 시안 · 게임 미적용</h2><p>금관·적금색 겉옷·정돈된 수염으로 군주 인상을 보강했습니다. 쌍검과 짧은 하체를 유지하고 옥 장식으로 회복 역할을 암시했습니다. 승인 원본은 그대로입니다.</p><img class="concept" src="/samguk/characters/liu-bei/sources/commander-concept/concept.png" alt="새 유비 군주 시안"></main>
+<script type="module">
+const root='/samguk/';const report=await fetch('./manifest.json').then(r=>r.json());const {units}=await fetch(root+'content/samguk/units.json').then(r=>r.json());
+const names={'liu-bei':'유비','guan-yu':'관우','zhang-fei':'장비','zhao-yun':'조운'};
+function pic(path){const img=document.createElement('img');img.src=root+path;img.loading='lazy';return img}
+function card(label){const div=document.createElement('div');div.className='card';const title=document.createElement('div');title.textContent=label;title.className='label';div.append(title);return div}
+for(const [slug,name] of Object.entries(names)){const c=card(name);c.append(pic(`characters/${slug}/original/original.png`));document.querySelector('#heroes').append(c)}
+for(const asset of report.assets.filter(a=>a.path.endsWith('/original/original.png'))){const slug=asset.path.split('/')[1];const u=units.find(u=>u.art.icon?.includes('/'+slug+'/'));const c=card(u?.name||slug);const pair=document.createElement('div');pair.className='pair';pair.append(pic(asset.backup),pic(asset.path));c.append(pair);document.querySelector('#cast').append(c)}
+const tileDefs=await fetch(root+'content/samguk/tiles.json').then(r=>r.json());
+for(const asset of report.assets.filter(a=>a.kind==='terrain')){const t=tileDefs.tiles.find(t=>t.sprite===asset.path||t.material===asset.path);const c=card((t?.name||asset.path.split('/')[2])+(asset.redrawn?' · 재작화':''));const pair=document.createElement('div');pair.className='pair';pair.append(pic(asset.backup),pic(asset.path));c.append(pair);document.querySelector('#tiles').append(c)}
+const select=document.querySelector('#unit');for(const u of units.filter(u=>!Object.keys(names).some(n=>u.art.icon?.includes('/'+n+'/')))){const o=document.createElement('option');o.value=u.id;o.textContent=u.name;select.append(o)}
+function show(){const u=units.find(u=>u.id===select.value);const host=document.querySelector('#motions');host.replaceChildren();for(const [state,frames] of Object.entries(u.art.frames)){const folder=frames[0].slice(0,frames[0].lastIndexOf('/'));const c=card(state+' · '+frames.length+'프레임');c.append(pic(folder+'/preview.gif'));host.append(c)}}select.onchange=show;show();
+</script></html>

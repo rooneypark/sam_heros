@@ -11,7 +11,7 @@ for unit in u:
   for f in frames:
    b=(pack/f).read_bytes();assert b[:8]==b'\x89PNG\r\n\x1a\n';assert struct.unpack('>II',b[16:24])==(350,350),f;count+=1
   assert len(unit['motion'][state]['ms'])==len(frames)
-for f in ['content/samguk/units.json','content/samguk/tiles.json','content/samguk/maps/1장_황건소탕.map.json']:
+for f in ['content/samguk/units.json','content/samguk/tiles.json','maps/chapter-1/map.json']:
  def walk(v):
   if isinstance(v,dict):
    for z in v.values():walk(z)

@@ -1,10 +1,10 @@
-> 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
+> 2026-10-28 늑대 전체 최종 승인: maps/chapter-1/review/characters/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
 
 > **2026-10-27 최종 보강:** 신규 장수·모션 제작 전에 [캐릭터·모션 검수 보강](CHARACTER_MOTION_QA.md)을 먼저 읽는다. 현재 기본은 350×350 투명 PNG·왼쪽 시선이다. 아래 과거 400×440/640 규격, 오른쪽 시선, 이전 미승인 상태와 옛 생성기 경로는 제작 이력이며 현재 작업 지시로 사용하지 않는다. 해당 캐릭터 최신 승인 PNG·명세가 우선한다.
 
 > **최신 확정 2026-10-27:** 세 장수 왼쪽 원화/모션이 최종 기준. 현재 파일은 각 장수 루트 original/idle/run 및 승인 공격 폴더. 과거 오른쪽·400/640 규격·중간 보정 경로는 이력이며 재사용 금지. [현재 제작 기준](CURRENT_CHARACTER_RULES.md)이 아래 과거 기록보다 우선합니다.
 
-> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
+> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `characters/guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
 
 > **2026-10-27 최신 기준:** 원본·idle·run·유비/관우 공격 출력은350×350, 발(175,245), PPU100, pivot(0.5,0.3), facing=right로 통일했다. 기존 모양을0.45배 균일 축소했으며 재생 시간은 유지했다. 아래400/640 규격은 이전 제작 기록이다. 관우 공격은 재작업 베이스이며 승인본이 아니다.
 
@@ -49,7 +49,7 @@
 
 ## 기준 우선순위와 보관
 
-- 외형/움직임의 최종 기준: 루트의 [유비](../../liu-bei/README.md), [관우](../../guan-yu/README.md), [장비](../../zhang-fei/README.md)의 `idle`/`run` PNG와 GIF.
+- 외형/움직임의 최종 기준: 루트의 [유비](../../characters/liu-bei/README.md), [관우](../../characters/guan-yu/README.md), [장비](../../characters/zhang-fei/README.md)의 `idle`/`run` PNG와 GIF.
 - 구현 기준: `tools/character-motion/render.py`, 상체 원본 `parts-atlas.png`, 별도 기본자세 원본 `idle-sources`.
 - 이 폴더의 그림은 최종 파일로 만든 설명용 모음이다. 최종 원본을 대체하지 않는다. [파일 지문 기록](source-manifest.json)으로 어느 원본에서 만들었는지 확인한다.
 - 전체 미술 기준: [디자인 가이드](../DESIGN_GUIDE.md). 원작 자료는 [출처 기록](../design/references/original-game/README.md)에 있다.

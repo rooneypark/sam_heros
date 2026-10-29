@@ -2,7 +2,7 @@
 
 사용자: “다확정하고 이전 작업 자료 지워줘. 이걸로 유관장확정.”
 
-- 최종 자산은 liu-bei/, guan-yu/, zhang-fei/. 공통 런타임 units.json도 이 경로를 참조한다.
+- 최종 자산은 characters/liu-bei/, characters/guan-yu/, characters/zhang-fei/. 공통 런타임 units.json도 이 경로를 참조한다.
 - original/idle/run 및 승인 기본공격/스킬1/스킬2/portrait/die를 보존한다.
 - 기본공격·스킬1·스킬2는 세 장수 모두 각8프레임. 관우 새 세트 접지Y245, 과거Y260/7프레임은 재사용하지 않는다.
 - 장비 기본공격·스킬1은 RGB 색상만 원본 기준으로 보정한 최종본. 알파·위치·크기·타이밍·잔상은 보존했다.

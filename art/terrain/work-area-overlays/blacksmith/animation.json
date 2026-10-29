@@ -1,0 +1,65 @@
+{
+  "status": "review",
+  "frames": 6,
+  "ms": [
+    240,
+    160,
+    160,
+    120,
+    160,
+    200
+  ],
+  "canvas": [
+    512,
+    512
+  ],
+  "background": "background.png",
+  "overlays": [
+    "work-01.png",
+    "work-02.png",
+    "work-03.png",
+    "work-04.png",
+    "work-05.png",
+    "work-06.png"
+  ],
+  "uniformScale": 0.42,
+  "position": [
+    151,
+    214
+  ],
+  "wholeWorkAreaRegistration": [
+    [
+      0,
+      0
+    ],
+    [
+      15,
+      0
+    ],
+    [
+      32,
+      0
+    ],
+    [
+      1,
+      33
+    ],
+    [
+      18,
+      33
+    ],
+    [
+      39,
+      33
+    ]
+  ],
+  "changedBackgroundPixels": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "fixedWorkstationFromSourceY": 360
+}

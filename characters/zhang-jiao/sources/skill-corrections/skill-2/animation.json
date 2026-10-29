@@ -1,0 +1,89 @@
+{
+  "status": "review-not-approved",
+  "cell": [
+    350,
+    350
+  ],
+  "frame_count": 8,
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png",
+    "frame-07.png",
+    "frame-08.png"
+  ],
+  "durations_ms": [
+    200,
+    120,
+    100,
+    70,
+    100,
+    120,
+    140,
+    250
+  ],
+  "facing": "left",
+  "foot_anchor": [
+    175,
+    245
+  ],
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "ppu": 100,
+  "alpha_cleanup": [
+    {
+      "frame": 1,
+      "changed_alpha_pixels": 0,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 2,
+      "changed_alpha_pixels": 23980,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 3,
+      "changed_alpha_pixels": 23375,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 4,
+      "changed_alpha_pixels": 24323,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 5,
+      "changed_alpha_pixels": 25066,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 6,
+      "changed_alpha_pixels": 24536,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 7,
+      "changed_alpha_pixels": 0,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    },
+    {
+      "frame": 8,
+      "changed_alpha_pixels": 0,
+      "rgb_changes": 0,
+      "alpha_ge_200_changes": 0
+    }
+  ],
+  "source": "characters/zhang-jiao/skill-2"
+}

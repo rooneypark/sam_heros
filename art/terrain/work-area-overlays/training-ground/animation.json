@@ -1,0 +1,67 @@
+{
+  "status": "review",
+  "frames": 6,
+  "ms": [
+    240,
+    160,
+    160,
+    120,
+    160,
+    200
+  ],
+  "canvas": [
+    512,
+    512
+  ],
+  "background": "background.png",
+  "overlays": [
+    "work-01.png",
+    "work-02.png",
+    "work-03.png",
+    "work-04.png",
+    "work-05.png",
+    "work-06.png"
+  ],
+  "uniformScale": 0.4,
+  "position": [
+    73,
+    203
+  ],
+  "wholeWorkAreaRegistration": [
+    [
+      0,
+      0
+    ],
+    [
+      43,
+      0
+    ],
+    [
+      59,
+      0
+    ],
+    [
+      -1,
+      64
+    ],
+    [
+      44,
+      64
+    ],
+    [
+      63,
+      64
+    ]
+  ],
+  "changedBackgroundPixels": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "fixedWorkstationFromSourceY": null,
+  "fixedFurnitureMask": null,
+  "fullSwordPreserved": true
+}

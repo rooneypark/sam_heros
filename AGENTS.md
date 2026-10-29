@@ -1,14 +1,24 @@
-> **2026-10-28 GitHub 통합 우선:** 최신 실행·UI 재검토 경로는 [통합 안내](docs/GITHUB_DELIVERY_2026-10-28.md). 관우 채집은 `gather-finish-2026-10-28/guan-yu-fresh/`가 활성입니다. 아래 과거 채집 경로·옛 생성기는 현재 등록을 덮어쓰는 근거로 사용하지 않습니다.
+> 최신 유비 기준: 사용자가 compact-guard(팔꿈치를 굽혀 몸 가까이서 한 검을 두 손 파지) 원화를 승인함. 기준 characters/liu-bei/sources/two-hand-sword/compact-guard/original-350.png. 같은 폴더 prepared/의 숨쉬기4·이동6·공격8·스킬1/2 각8은 새 검토본이며 아직 실행 교체/모션 승인 전. 스킬 때만 두 번째 검 발도→교차 힐→납도→두 손 한 검 복귀.
+
+> 최신 검수 상태: 한 검 유비 원화만 승인. single-sword-motions 모션은 크기·비율 문제로 사용자 반려. 새 single-sword-redraw는 별도 미승인 비교본이며 도포 완전 고정 검수 미통과. 실행 등록은 아직 이전 파일이므로 승인본으로 오인하지 않는다. 상세 characters/liu-bei/sources/single-sword-redraw/README.md.
+
+> 최신 기준: 양쪽 허리에 밀착한 칼집2개, 한 검을 뽑아 든 유비 원화 승인. 기본자세/숨쉬기/이동/공격/스킬1·2는 single-sword-motions 기반으로 반영한 검토본. 스킬 발도→교차 힐→납도 흐름. 이전 두 검 기본자세와 이동 재작화 승인은 현재 외형 기준이 아님. 채집·사망·초상화는 이번 작업 범위에서 변경하지 않았음.
+
+> 최신 사용자 확정: 새 군주 외형의 이동 6프레임(run/) 전체 재작화본 승인. 상하체 합성본은 폐기하며 `sources/commander-motions/run-full-redraw/source.png`와 현재 run/ PNG를 기준으로 한다. 다른 새 모션의 최종 승인 여부와 구분한다.
+
+> **현재 폴더 기준:** [캐릭터·지형·맵별 리소스 구조](docs/ASSET_LAYOUT.md)가 아래 과거 경로 안내보다 우선합니다. 실행 파일은 날짜별 폴더를 참조하지 않습니다.
+
+> **2026-10-28 GitHub 통합 우선:** 최신 실행·UI 재검토 경로는 [통합 안내](docs/GITHUB_DELIVERY_2026-10-28.md). 관우 채집은 `characters/guan-yu/gather/`가 활성입니다. 아래 과거 채집 경로·옛 생성기는 현재 등록을 덮어쓰는 근거로 사용하지 않습니다.
 
 > **2026-10-28 모든 장수 제작 공통 기준 확정:** 사용자는 이번 유관장조운 제작 방식을 다른 장수에도 동일하게 적용하도록 지시했다. 제작 전에 [최신 장수 공통 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)의 맨 위 항목을 따른다. imagegen + 실제 원화 참조, 크기·형태·색·선 일관성, 발/파지점 정렬, 직접 픽셀 보정 허용, 도구 연결 검수가 핵심이다.
 
 > **2026-10-28 맵·신규 캐릭터 인계:** [현재 리소스 위치와 다른 PC 실행 가이드](docs/CHAPTER1_MAP_CHARACTERS_HANDOFF.md)를 먼저 읽는다. 황건 창병·궁병·대장장이·주모 4종 추가, 총15종. 신규4종과 맵 재작화는 검토본이며 아직 승인 전이다.
 
-> 2026-10-28 늑대 전체 최종 승인: chapter-1/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
+> 2026-10-28 늑대 전체 최종 승인: maps/chapter-1/review/characters/yellow-turban-wolf, 크기 보정 포함. 가이드 docs/motion-guide/wolf/README.md. 이전 작업은 DELETE_ME/wolf-finalized-2026-10-28.
 
-> 2026-10-28 늑대 최신 승인: chapter-1/yellow-turban-wolf에 축소 외형·숨쉬기·물기와 dog-reference-v7 이동6프레임(각80ms)을 반영. SG_M0002 모션체커/맵메이커 공통 자산. 이전 늑대는 DELETE_ME/wolf-before-approved-v7-2026-10-28 보존.
+> 2026-10-28 늑대 최신 승인: maps/chapter-1/review/characters/yellow-turban-wolf에 축소 외형·숨쉬기·물기와 dog-reference-v7 이동6프레임(각80ms)을 반영. SG_M0002 모션체커/맵메이커 공통 자산. 이전 늑대는 DELETE_ME/wolf-before-approved-v7-2026-10-28 보존.
 
-> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `liu-bei/`, `guan-yu/`, `zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
+> **2026-10-28 최신 전체 승인·정리:** 유비·관우·장비 최종본은 루트 `characters/liu-bei/`, `characters/guan-yu/`, `characters/zhang-fei/`에 통합했다. 맵메이커·모션체커도 같은 파일을 참조한다. 장비 공격·스킬1 색상 보정, 불꽃 방어 버프까지 승인. 기본공격·스킬1·2 각8장, 접지(175,245), 왼쪽 시선. 이전 경로·승인 보류·관우 Y260/7프레임 안내보다 우선한다. 체크섬: `docs/motion-guide/FINAL_HEROES_2026-10-28.json`. 늑대 신규 재작업은 이 승인에 포함하지 않는다.
 
 > 2026-10-28 최신 실행 반영: 유관장9모션과 장각 스킬2는 art/samguk/motions/2026-10-28/가 현재 맵메이커·모션체커 자산이며 content/samguk/units.json에 등록됨. MANIFEST.json 참조. 새 관우 공격은 접지Y245/pivot(0.5,0.3), 과거Y260 예외와 구분. 이전 원본은 보존.
 
@@ -22,14 +32,14 @@
 
 > 최신 확정: 장비 basic-attack/skill-1/skill-2 각8프레임과 세 장수 portrait/portrait.png 승인 완료. GIF 공통 팔레트 적용, 장비 공격·스킬1 색상 보정 완료. 최종 폴더 외 이전 작업은 DELETE_ME_intermediate에 격리(삭제 정책 차단). 최종PNG107장 체크섬 기준.
 
-> 2026-10-27 최신 승인: 장비 기본공격 8프레임은 `zhang-fei/basic-attack/` 최종본. 스킬1·2는 아직 검토 중이며 기본공격 승인과 구분한다.
+> 2026-10-27 최신 승인: 장비 기본공격 8프레임은 `characters/zhang-fei/basic-attack/` 최종본. 스킬1·2는 아직 검토 중이며 기본공격 승인과 구분한다.
 
 > 정리 완료: 이전 시안/보정/오른쪽 소스/생성기는 DELETE_ME_intermediate에 모았으며 수동 삭제 가능. 대표 최종PNG80장 검증 완료. 해당 폴더는 제작 기준으로 사용하지 않는다.
 
 ## 최우선 최신 확정 — 2026-10-27 왼쪽 방향
-유비·관우 원화와 모든 모션, 장비 원화·숨쉬기·이동은 왼쪽 방향 최종 승인본이다. 다음 장수도 왼쪽 아래 대각, art.facing=left로 제작한다. 현재 기준은 docs/motion-guide/CURRENT_CHARACTER_RULES.md이며 아래 오른쪽 기준과 과거 경로 안내보다 우선한다. 대표 자산은 liu-bei/, guan-yu/, zhang-fei/의 original/idle/run 및 승인된 공격 폴더. 중간 시안은 사용 중단했으나 삭제 명령이 정책상 차단되어 파일이 남아 있다. 공격·스킬1·스킬2는 각7~8프레임.350×350, 기본 발(175,245), 관우 승인 공격만(175,260) 예외. 최종 파일을 재반전하지 않는다.
+유비·관우 원화와 모든 모션, 장비 원화·숨쉬기·이동은 왼쪽 방향 최종 승인본이다. 다음 장수도 왼쪽 아래 대각, art.facing=left로 제작한다. 현재 기준은 docs/motion-guide/CURRENT_CHARACTER_RULES.md이며 아래 오른쪽 기준과 과거 경로 안내보다 우선한다. 대표 자산은 characters/liu-bei/, characters/guan-yu/, characters/zhang-fei/의 original/idle/run 및 승인된 공격 폴더. 중간 시안은 사용 중단했으나 삭제 명령이 정책상 차단되어 파일이 남아 있다. 공격·스킬1·스킬2는 각7~8프레임.350×350, 기본 발(175,245), 관우 승인 공격만(175,260) 예외. 최종 파일을 재반전하지 않는다.
 
-> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
+> **2026-10-27 최신 확정:** 관우 공격7·스킬1 8·스킬2 8은 `characters/guan-yu/combat-redraw-v1/idle-unified-350/` 사용자 승인본이다. 이전 미승인/교정본 안내보다 우선한다. 다음 장수는 [현재 장수 제작 기준](docs/motion-guide/CURRENT_CHARACTER_RULES.md)을 먼저 읽는다. 이 관우 공격 세트만 발(175,260) 예외이며 신규 장수 기본은(175,245)다.
 
 # 프로젝트 디자인 지침
 
@@ -58,18 +68,18 @@
 
 ## 최신 사용자 확정 — 2026-10-26 (이전 모션 보류 문구보다 우선)
 - 다음 장수 또는 모션 작업 전에 반드시 [모션 제작 기준](docs/motion-guide/README.md), 상세 명세와 검수 문서를 읽고 그 안의 승인18프레임·반복GIF·관절 그림을 직접 확인한다. 기존 캐릭터의 최종 PNG가 기준이며 문서용 관절 표시는 아트에 포함하지 않는다. 새 결과는 승인 전 기존 기준을 교체하지 않는다.
-- 기본 외형·이동 최종본: [유비](liu-bei/README.md), [관우](guan-yu/README.md), [장비](zhang-fei/README.md). 오른쪽 아래 대각 이동 6프레임. 캐릭터 작업 시 각 폴더의 PNG를 직접 확인한다.
+- 기본 외형·이동 최종본: [유비](characters/characters/liu-bei/README.md), [관우](characters/characters/guan-yu/README.md), [장비](characters/characters/zhang-fei/README.md). 오른쪽 아래 대각 이동 6프레임. 캐릭터 작업 시 각 폴더의 PNG를 직접 확인한다.
 - docs/design에는 참고자료만 둔다. 이전 시안·모션 버전은 사용자 요청으로 삭제했다. 최종 재현 자료는 tools/character-motion에 있다.
 - 하체는 승인된 닫힌 곡선 형태와 상체에 맞춘 선 굵기 유지. 유비 다리 폭은 축소하지 않은 원래 굵기. 장비 양다리 후방 위치 유지.
 - 다음 모션 제작은 사용자가 재개 요청했으며 구체적인 종류를 정한 뒤 진행한다. 기본자세와 이동 최종본은 새 모션을 만들 때 덮어쓰지 않는다.
 
-- 기본자세와 이동의 무기 파지 구분: guan-yu/idle, zhang-fei/idle은 한 손으로 세운 무기 끝을 땅에 짚는다. run은 양손. 재생성 시 idle-sources 원본을 사용하여 두 손 자세로 덮어쓰지 않는다. 폴더는 liu-bei, guan-yu, zhang-fei 및 idle/run 영문 표기만 사용한다.
+- 기본자세와 이동의 무기 파지 구분: characters/guan-yu/idle, characters/zhang-fei/idle은 한 손으로 세운 무기 끝을 땅에 짚는다. run은 양손. 재생성 시 idle-sources 원본을 사용하여 두 손 자세로 덮어쓰지 않는다. 폴더는 liu-bei, guan-yu, zhang-fei 및 idle/run 영문 표기만 사용한다.
 
 - 2026-10-26 숨쉬기 추가 요청: 원본 정지 이미지는 각 장수 original/original.png에 보존한다. idle은4프레임 숨쉬기 최종 승인본이다 (2026-10-26 사용자 확정). [숨쉬기 명세](docs/motion-guide/idle-breathing.md) 참조. 관우·장비 하반신·무기·무기 쥔 주먹은 고정, 나머지 상체만 작은 상하1회 주기. 기존 이동 승인 상태와 구분한다.
 
-- 2026-10-26 사용자 요청으로 유비 기본공격(두검 찌르기), 스킬1(가슴 앞 교차), 스킬2(머리 위 교차)를 각8프레임으로 제작하고 사용자가 최종 승인했다. liu-bei/basic-attack, skill-1, skill-2 참조. 2026-10-26 최종 승인본이며 원작 분석 데이터가 아니다. 기존 original/idle/run 승인본을 대체하지 않는다.
+- 2026-10-26 사용자 요청으로 유비 기본공격(두검 찌르기), 스킬1(가슴 앞 교차), 스킬2(머리 위 교차)를 각8프레임으로 제작하고 사용자가 최종 승인했다. characters/liu-bei/basic-attack, skill-1, skill-2 참조. 2026-10-26 최종 승인본이며 원작 분석 데이터가 아니다. 기존 original/idle/run 승인본을 대체하지 않는다.
 
-- 2026-10-26 관우 기본 베기, 스킬1 대각 두 번 베기(X 잔상), 스킬2 크게 들어 내려찍기 각8프레임 검토본을 제작했다. guan-yu/basic-attack, skill-1, skill-2에 보관. 승인 전이며 기존 original/idle/run 및 유비 승인본을 변경하지 않는다.
+- 2026-10-26 관우 기본 베기, 스킬1 대각 두 번 베기(X 잔상), 스킬2 크게 들어 내려찍기 각8프레임 검토본을 제작했다. characters/guan-yu/basic-attack, skill-1, skill-2에 보관. 승인 전이며 기존 original/idle/run 및 유비 승인본을 변경하지 않는다.
 
 - 다음 PC/세션에서 장수·모션 제작 전 [작업 이어가기](docs/motion-guide/COMBAT_HANDOFF.md)와 [새 장수 생성 조건](docs/motion-guide/CHARACTER_GENERATION_SPEC.md)을 읽는다. 머리·몸통·다리 width/height, 관절·파지·칼날 방향과 승인 상태를 확인한다.
 =======
@@ -103,7 +113,7 @@
 기본공격·스킬1·스킬2는 각각7~8프레임으로 제작한다. 다음 신규 장수에도 적용한다. 준비·공격·복귀 흐름에 맞춰7장 또는8장을 선택하고, 프레임 수를 채우기 위한 불필요한 모핑은 만들지 않는다. 기존 승인 관우7/8/8, 유비8/8/8은 유지한다. 상세 기준은 docs/motion-guide/CURRENT_CHARACTER_RULES.md를 따른다.
 
 ## 1장 캐릭터 전체 최종 승인 — 2026-10-27
-chapter-1/README.md와 FINAL_MANIFEST.json이 주민3종·늑대·졸병·관해·장각의 최종 기준이다. 모든21모션 승인. 이전 시안과 생성기는 DELETE_ME/chapter-1-intermediate-2026-10-27로 이동했으며 재사용하지 않는다. 최종 original 및 frame PNG를 보존한다.
+maps/chapter-1/review/characters/README.md와 FINAL_MANIFEST.json이 주민3종·늑대·졸병·관해·장각의 최종 기준이다. 모든21모션 승인. 이전 시안과 생성기는 DELETE_ME/chapter-1-intermediate-2026-10-27로 이동했으며 재사용하지 않는다. 최종 original 및 frame PNG를 보존한다.
 
 ## 신규 캐릭터·모션 검수 보강
 다음 장수/몬스터 제작 전에 docs/motion-guide/CHARACTER_MOTION_QA.md를 읽는다. 의복 단순화와 디테일 삭제를 구분하고, 머리·몸통·하체·무기 치수를 기록한다. 이동은 다리 굵기·관절 길이·골반 간격을 각각 조정한다. 위치만 수정 요청이면 재생성 없이 접지점 기준 정수 이동을 우선한다. 승인 상태와 최종 체크섬을 보존한다.
@@ -112,6 +122,14 @@ chapter-1/README.md와 FINAL_MANIFEST.json이 주민3종·늑대·졸병·관해
 ## 2026-10-28 최신 맵 제작 규칙
 - 원작 우르르 용병단 지형의 색감·색상·상대 크기·디테일 밀도를 시각적으로 대조한다. 화려한 일러스트나 과도한 목재/지붕 묘사로 대체하지 않는다.
 - 황건소탕은 기존 원작 지형지물 그림을 그대로 남기지 않고 삼국지 시나리오에 맞는 새 공용 자산으로 교체한다. 자연·잔디·흙길·물·산도 포함한다.
-- 현재 검토본은 art/environment/chapter-1/, content/samguk/tiles.json의 sg2_ 등록, docs/design/maps/chapter-1/REDRAW.md. 이전 art/objects/chapter-1/과 sg_ 별칭 방식은 현재 맵 제작 기준이 아니다.
+- 현재 검토본은 art/terrain/sources/base/, content/samguk/tiles.json의 sg2_ 등록, maps/chapter-1/docs/REDRAW.md. 이전 maps/chapter-1/archive/building-drafts/과 sg_ 별칭 방식은 현재 맵 제작 기준이 아니다.
 - 구출·전투 진행과 자원 개수는 유지하고 시각적 간섭과 통행을 검수한다. 새 맵 그림은 사용자 검토 전 최종 승인 처리하지 않는다.
+
+## 모든 리소스 공통 화풍 — 사용자 확정
+
+유비 최신 외형 요청: 금관·붉은 보석·적금색 겉옷·자주색 깃·정돈된 수염의 새 시안으로 모든 모션을 재작화했다. 현재 `characters/liu-bei/`의 원화·숨쉬기4·이동6·공격/스킬 각8·채집9·사망1·초상화는 이 외형의 검토본이다. 타이밍·히트 이벤트·등록값은 유지. 이전 승인본은 `characters/liu-bei/archive/before-commander/`이며 자동 복원하지 않는다. 결과물 최종 승인은 아직 아니다. 제작/정렬 기록은 `characters/liu-bei/sources/commander-motions/README.md`를 따른다.
+
+현재 색감 통일 검토본은 `art/style-review/hero-palette/` 참조. 사용자 선택에 따라 NPC·몬스터 225 PNG는 RGB만 보정하고 크기·알파·모션을 보존했다. 지형 45 PNG 중 주막 1종은 재작화했으며 나머지는 공통 색 보정이다. 진행 UI는 `art/ui/chapter1/hero-palette.css`. 실행 경로에 반영했지만 결과물 최종 승인은 아직 아니다. 유관장조운 기존 원본·프레임은 유지하며 새 유비는 `characters/liu-bei/sources/commander-concept/concept.png` 검토 시안이다. 보정 전 원본은 각 자산 `archive/before-hero-palette/`에 보존. `python tools/verify_hero_palette.py`로 검사한다.
+
+앞으로 캐릭터·몬스터·NPC·지형·건물·소품·UI·이펙트 등 모든 리소스는 승인된 장수 원본을 시각 기준으로 삼아 색상계열, 채도, 명도, 윤곽선의 색·굵기·선명도, 명암 단계와 디테일 밀도를 통일한다. 개별 그림이 예쁜 것보다 같은 게임의 리소스로 보이는 것이 우선이다. 제작 전에 관련 승인 원본을 직접 열어 대조하고, 제작 후 실제 게임 표시 크기에서 캐릭터와 배경을 함께 비교한다. 캐릭터별 고유 색상과 식별성은 유지하되 다른 팔레트·과도한 그라데이션·재질 묘사·잔선으로 화풍을 분리하지 않는다. 기존 승인 자산을 이 규칙만으로 임의 변경하지 않는다. 상세 기준은 docs/DESIGN_GUIDE.md의 공통 색감·밀도 규칙을 따른다.
 
