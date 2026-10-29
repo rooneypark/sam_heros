@@ -1,0 +1,22 @@
+[
+  {
+    "character": "liu-bei",
+    "current": "liu-bei/original-350.png",
+    "status": "latest-color-corrected"
+  },
+  {
+    "character": "guan-yu",
+    "current": "guan-yu/revision-2/original-350.png",
+    "status": "approved"
+  },
+  {
+    "character": "zhao-yun",
+    "current": "zhao-yun/revision-2/original-350.png",
+    "status": "approved"
+  },
+  {
+    "character": "zhang-fei",
+    "current": "zhang-fei/final/original-350.png",
+    "status": "user-approved-original"
+  }
+]

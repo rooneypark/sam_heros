@@ -1,0 +1,19 @@
+{
+  "status": "user-approved-original",
+  "revision": "revision-2",
+  "scale": 0.24635036496350365,
+  "bodyTopSource": 428,
+  "footAnchor": [
+    175,
+    245
+  ],
+  "size": [
+    350,
+    350
+  ],
+  "method": "native imagegen redraw with original roster + approved Liu",
+  "runtimeChanged": false,
+  "sha256": "c5ef70d1ba32b32dc31e568ee8c9ceaff6b1f4d63579a771949ccd0e97fe1120",
+  "approvedDate": "2026-10-29",
+  "motionApproved": false
+}

@@ -1,0 +1,20 @@
+{
+  "status": "user-approved-original",
+  "approvedDate": "2026-10-29",
+  "bodyHeightApprox": 135,
+  "size": [
+    350,
+    350
+  ],
+  "footAnchor": [
+    175,
+    245
+  ],
+  "scale": 0.21915584415584416,
+  "bodyTopSource": 365,
+  "soleSource": 981,
+  "source": "imagegen approved angular short beard and swept rear hair",
+  "runtimeChanged": false,
+  "motionApproved": false,
+  "sha256": "2fec8e8ac1845f10738494d7e0a8a237c4b7ee58135b4133a9d91e4cee766ddc"
+}

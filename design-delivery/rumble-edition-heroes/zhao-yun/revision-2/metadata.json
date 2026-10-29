@@ -1,0 +1,15 @@
+{
+  "status": "user-approved-original",
+  "supersedes": "../original-350.png",
+  "bodyHeightApprox": 135,
+  "footAnchor": [
+    175,
+    245
+  ],
+  "sourceBodyTop": 210,
+  "scale": 0.17023959646910466,
+  "method": "native imagegen, original roster + approved Liu only; no prior rejected character reference",
+  "runtimeChanged": false,
+  "approvedDate": "2026-10-29",
+  "motionApproved": false
+}

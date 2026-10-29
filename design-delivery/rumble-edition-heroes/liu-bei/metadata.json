@@ -1,0 +1,30 @@
+{
+  "character": "liu-bei",
+  "name": "유비",
+  "status": "requested-color-correction-complete",
+  "canvas": [
+    350,
+    350
+  ],
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.3
+  ],
+  "footAnchor": [
+    175,
+    245
+  ],
+  "bodyHeightApprox": 135,
+  "bodyTopSource": 295,
+  "soleSource": 953,
+  "feetCenterSource": 680,
+  "scale": 0.20516717325227962,
+  "offset": [
+    35,
+    49
+  ],
+  "method": "native imagegen with approved Liu reference; uniform resize only",
+  "runtimeReplaced": false,
+  "sha256": "1698cbdbafe6007160685a655e8dc0069be61b0ee4a111793363b39337436dd5"
+}
