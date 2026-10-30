@@ -1,0 +1,92 @@
+{
+  "method": "Manual visual approximate landmarks, idle frame1, main hair volume included; crown, hat projection, bun, ponytail, weapon excluded. Body means below chin including legs. Selected eight readable humanoids, not all humanoids. Boundary error approx +/-3 original pixels.",
+  "heroes": [
+    {
+      "id": 1,
+      "name": "히로",
+      "head_top": 116,
+      "chin": 177,
+      "foot": 245,
+      "head_px": 61,
+      "body_px": 68,
+      "head_percent": 47.3
+    },
+    {
+      "id": 17,
+      "name": "널스 아이비",
+      "head_top": 130,
+      "chin": 180,
+      "foot": 245,
+      "head_px": 50,
+      "body_px": 65,
+      "head_percent": 43.5
+    },
+    {
+      "id": 37,
+      "name": "타이거 카라",
+      "head_top": 125,
+      "chin": 181,
+      "foot": 245,
+      "head_px": 56,
+      "body_px": 64,
+      "head_percent": 46.7
+    },
+    {
+      "id": 53,
+      "name": "핑크엑스 시아",
+      "head_top": 125,
+      "chin": 187,
+      "foot": 247,
+      "head_px": 62,
+      "body_px": 60,
+      "head_percent": 50.8
+    },
+    {
+      "id": 58,
+      "name": "이웃 왕자",
+      "head_top": 144,
+      "chin": 187,
+      "foot": 247,
+      "head_px": 43,
+      "body_px": 60,
+      "head_percent": 41.7
+    },
+    {
+      "id": 59,
+      "name": "프로스트 시빌라",
+      "head_top": 134,
+      "chin": 185,
+      "foot": 245,
+      "head_px": 51,
+      "body_px": 60,
+      "head_percent": 45.9
+    },
+    {
+      "id": 82,
+      "name": "건블레이드 배럿",
+      "head_top": 117,
+      "chin": 178,
+      "foot": 248,
+      "head_px": 61,
+      "body_px": 70,
+      "head_percent": 46.6
+    },
+    {
+      "id": 86,
+      "name": "용사 히로",
+      "head_top": 116,
+      "chin": 178,
+      "foot": 244,
+      "head_px": 62,
+      "body_px": 66,
+      "head_percent": 48.4
+    }
+  ],
+  "liu_approved_source": {
+    "head_top": 253,
+    "chin": 735,
+    "foot": 1245,
+    "head_percent": 48.6,
+    "crown_inclusive_head_percent": 57.0
+  }
+}

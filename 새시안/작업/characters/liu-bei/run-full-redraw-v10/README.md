@@ -1,0 +1,8 @@
+# 두 번째 점프 연결 정리 v10 — 검토본
+
+> 2026-10-30: 미승인·작업 중단. 이전 폴더 정리 후 1~4 프레임 의존성은 base-frames/에 보존. preferred-earlier-reference.png는 사용자가 선호했던 이전 시트이며 최종 승인본이 아니다.
+
+사용자가 표시한 두 번째 점프 자세 전신을 ImageGen으로 다시 그림. 손 아래의 복잡한 다리 윤곽을 없애고 도포 자락 복원, 뒤 왼발은 옷자락 아래로 연결. 첫 4프레임은 v9 유지. 5·6은 새 전신 그림, 파츠 합성 없음. 공중은 같은 그림의 8px 정수 이동. 공통 축척·기존 타이밍 유지. 실행 미교체.
+
+## Built-in ImageGen 프롬프트
+Redraw bottom-middle and bottom-right full character poses of this exact 3x2 Liu Bei sprite sheet to clean anatomy. Preserve other four cells and character design/scale. BOTH bottom middle and bottom right must have SAME right-leading leg pose. Current bottom-middle rear left leg has a cluttered white/black stack immediately below hands, incorrectly at belly height. Fix: restore uninterrupted dark-maroon gold-trimmed LEFT coat flap below hands. Rear LEFT leg must emerge BELOW that coat hem, not from hands or belly: one small white trouser segment and single simple black shoe bent back, screen-left behind leading leg, partly occluded naturally. No stacked rings, no extra knee/foot outlines. Foreground RIGHT thigh emerges beneath screen-right coat flap and short white shin extends diagonally forward down-left toward body CENTER, with normal small black shoe. Clear hip-knee-toe direction. This is a short hopping step, not kick. Leading right shoe stays center, rear left shoe just behind/left; never switch to screen-left leading leg. Both leg widths lengths and shoe sizes unchanged. Preserve face hair crown upper body twohand sword scabbards and clothes style. Draw whole corrected poses cohesively, no cutout collage. No glow, true transparent background, 1536x1024 six equally sized cells. Bottom right identical leg pose to bottom middle, only body slightly higher.

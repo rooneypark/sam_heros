@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-30",
+  "status": "review except approved Liu Bei original",
+  "files": [
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/guan-yu-350.png",
+      "sha256": "459838ad68a289b6d8d787498f505fb0b91a8eb7f79e9d752cfec891e99b7a8a"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/guan-yu-source.png",
+      "sha256": "d7f24a02c2bf1c51100433a67fb5040a14c2f202e46ccdc60f974cbd97b6df06"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/hiro-350.png",
+      "sha256": "6c5653a1bf23781fb21232024af7b70a3b19dd87a04e4a6b9991c211c13bc58f"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/lineup-2x.png",
+      "sha256": "53543b8c137817a964eb0e822ffe8fc8672d564dd796103b4b0fbda86cb228ad"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/lineup-actual.png",
+      "sha256": "c3dc566670a3187b2236fbc1227749dd03cfba7b68358e291463e46c61701de3"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/liu-bei-350.png",
+      "sha256": "7d910f51569358366a872eda6b80e6bcb68a789d23a8e0f2e9e7694141b99fcb"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/zhang-fei-350.png",
+      "sha256": "7a3ba49960e9e18faa86cf1053bcc1f6ea9c6a2f4e99887a99f9ee9236e1fc00"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/zhang-fei-source.png",
+      "sha256": "dc1462cb8c456ecda3a96b6ca8762c2172d12930881de499874d68310ec57672"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/zhao-yun-350.png",
+      "sha256": "106ff3be71741206c4ea2a1ff581e41a18b5a140b90ad5d98803c96d00a27bf6"
+    },
+    {
+      "path": "작업/characters/hero-lineup-v3-dark-zhang/zhao-yun-source.png",
+      "sha256": "11cceafa172fb9a8440b64e097ea2de9266a5195215ac48ef32ca1273636f9c1"
+    },
+    {
+      "path": "작업/characters/liu-bei/hiro-body-v1/liu-small-forelock-v7.png",
+      "sha256": "af8b51840ea9ddd59316efe147640b6083f315b68b1660ee67890c63fea47041"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/base-frames/frame-01.png",
+      "sha256": "26dd0cd51c6000a83a240d2dc7f38904c75beb2aa3f377f0a45d3e1eeb7a54f8"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/base-frames/frame-02.png",
+      "sha256": "46897655cc7eb424028443adba15c4fe2729662291284d26331736e6613ea5b0"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/base-frames/frame-03.png",
+      "sha256": "ac30cff130365b67b5c92dd8154d657b2dbcbee49cb8007b9ce518eb539554d1"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/base-frames/frame-04.png",
+      "sha256": "375b452bc982f81370be1d77239eab83001bea043dd79bacc797507f8f78e3b4"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-01.png",
+      "sha256": "26dd0cd51c6000a83a240d2dc7f38904c75beb2aa3f377f0a45d3e1eeb7a54f8"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-02.png",
+      "sha256": "46897655cc7eb424028443adba15c4fe2729662291284d26331736e6613ea5b0"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-03.png",
+      "sha256": "ac30cff130365b67b5c92dd8154d657b2dbcbee49cb8007b9ce518eb539554d1"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-04.png",
+      "sha256": "375b452bc982f81370be1d77239eab83001bea043dd79bacc797507f8f78e3b4"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-05.png",
+      "sha256": "aba98272d2ce59f1dfe4c21bcc8e97fb0c30ef550344a1e95104ab79be9347b4"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/frame-06.png",
+      "sha256": "ed7cfc95c5d00a8d2c6b1dc7b995a04af5f46ce124eafc9534def57367efcfb9"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/jump-comparison.png",
+      "sha256": "551d5017ffb26ddc3b03a847c96b706e52561f5f9277d099a667176bd4162f29"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/preferred-earlier-reference.png",
+      "sha256": "22330dbacb6228995c1af9f24dbfd4737f4bf7ebf6c4f9eee572e1e66ab4f759"
+    },
+    {
+      "path": "작업/characters/liu-bei/run-full-redraw-v10/source.png",
+      "sha256": "7b77f564c57e99dbc3925cf88595baed17dda2887f210c05ffa74aede8c3b3f2"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/all-12-lineup-2x.png",
+      "sha256": "0cf6d9a78e89cff0eb872260fa676e3c672f9c15099bde7eebd248a1b636ff57"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/all-12-lineup.png",
+      "sha256": "7090951e7e876192bce8505f867a054fea9117766dea58e06351fa619b2e6790"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/armory-guard/concept-350.png",
+      "sha256": "526f16d31f2a2f98e4606661d1a9512e87d306c31cf4518fb5f194cb7ed9ffba"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/guan-hai/concept-350.png",
+      "sha256": "a34cb1cb69ace663afe032f91c5cc116f3ff5e52ace6d97089ca7c5aa0bdd19f"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/monster-lineup.png",
+      "sha256": "722e0f99c7f20fdc2645fe683615c64d85b3bbfa746354514b0552adddbfe202"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/monster-source.png",
+      "sha256": "62ad2a24001495c86ebe4ac92a1f3322f1f0fdc43cbe5b5cd6fb2c389bbd8456"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/npc-lineup.png",
+      "sha256": "c69cae7514837b13045bd404c43d05e6a728d7e63ff03a71704d061dec1b6157"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/npc-source.png",
+      "sha256": "4512bd9cc4dba9ebafacfa89896a7cabc953cc6426627970fb41bb7abbda3ef1"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/village-blacksmith/concept-350.png",
+      "sha256": "0c2c96fec17ffcbd7bc0ccd1658bf87595bff3fa0837cd16be9a8da9c1ca02b6"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/village-boy/concept-350.png",
+      "sha256": "d9df6c535daadac403174a30a982730338ccc53881f1a189d6b64676ab107927"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/village-elder/concept-350.png",
+      "sha256": "5695e8fc4211afc8d8c8c7d97a7ebf48808df2984d3341e3c0c11299bca5e4cc"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/village-hostess/concept-350.png",
+      "sha256": "a5d5449d95609538a81dd66c679fb0b1b423df6e3818c92e969746f3aa532a2f"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/village-woman/concept-350.png",
+      "sha256": "226d265ae32e386f47441b42e19ba770448aec6625b7af14a87c3a502ddda618"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/yellow-turban-archer/concept-350.png",
+      "sha256": "8cfbece35261d8df1223eca091859da4c3c0becb5e5c68260dda6b11c18d14fc"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/yellow-turban-soldier/concept-350.png",
+      "sha256": "0c66269799b5ee307a5a4a4ddc01ca0f4e3edb108530ef95eb7b99f8da17b8a9"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/yellow-turban-spearman/concept-350.png",
+      "sha256": "63b5fc644f202feae192925d63da51f40183594540ef55c8c959022b09b6716d"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/yellow-turban-wolf/concept-350.png",
+      "sha256": "50965269ed7be6bdecb76639fd1f59c569806dad973fd8445b2da9712c63ec99"
+    },
+    {
+      "path": "작업/npc-monster-concepts-v1/zhang-jiao/concept-350.png",
+      "sha256": "5b2c5eeca38fd022deadfd13945d00990bb28a83de32b891c6c5929c48cf4b09"
+    }
+  ]
+}

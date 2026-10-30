@@ -1,0 +1,21 @@
+{
+  "frames": [
+    "frame-01.png",
+    "frame-02.png",
+    "frame-03.png",
+    "frame-04.png",
+    "frame-05.png",
+    "frame-06.png"
+  ],
+  "durations": [
+    83,
+    83,
+    83,
+    83,
+    83,
+    83
+  ],
+  "loop": true,
+  "status": "review",
+  "method": "Full-body redraw; common scale, no old-part composites. Each airborne pose held with 8px height difference."
+}

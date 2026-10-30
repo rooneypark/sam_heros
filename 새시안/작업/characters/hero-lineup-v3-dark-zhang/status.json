@@ -1,0 +1,10 @@
+{
+  "status": "review",
+  "motion": "paused by user",
+  "ground": [
+    175,
+    245
+  ],
+  "height_target": 135,
+  "note": "Weapon excluded from body height. Hiro original resolution unchanged; other concept full images uniformly scaled, no body-part reshaping."
+}

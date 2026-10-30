@@ -1,0 +1,98 @@
+[
+  {
+    "key": "village-hostess",
+    "name": "주모",
+    "height_target": 115,
+    "body_height_source_estimate": 435,
+    "scale": 0.26436781609195403,
+    "status": "review"
+  },
+  {
+    "key": "village-elder",
+    "name": "노인",
+    "height_target": 112,
+    "body_height_source_estimate": 390,
+    "scale": 0.28717948717948716,
+    "status": "review"
+  },
+  {
+    "key": "village-boy",
+    "name": "소년",
+    "height_target": 95,
+    "body_height_source_estimate": 330,
+    "scale": 0.2878787878787879,
+    "status": "review"
+  },
+  {
+    "key": "village-blacksmith",
+    "name": "대장장이",
+    "height_target": 120,
+    "body_height_source_estimate": 430,
+    "scale": 0.27906976744186046,
+    "status": "review"
+  },
+  {
+    "key": "armory-guard",
+    "name": "경비병",
+    "height_target": 120,
+    "body_height_source_estimate": 400,
+    "scale": 0.3,
+    "status": "review"
+  },
+  {
+    "key": "village-woman",
+    "name": "아낙",
+    "height_target": 112,
+    "body_height_source_estimate": 390,
+    "scale": 0.28717948717948716,
+    "status": "review"
+  },
+  {
+    "key": "yellow-turban-wolf",
+    "name": "늑대",
+    "height_target": 75,
+    "body_height_source_estimate": 220,
+    "scale": 0.3409090909090909,
+    "status": "review"
+  },
+  {
+    "key": "yellow-turban-soldier",
+    "name": "황건 졸병",
+    "height_target": 120,
+    "body_height_source_estimate": 290,
+    "scale": 0.41379310344827586,
+    "status": "review"
+  },
+  {
+    "key": "yellow-turban-spearman",
+    "name": "황건 창병",
+    "height_target": 120,
+    "body_height_source_estimate": 300,
+    "scale": 0.4,
+    "status": "review"
+  },
+  {
+    "key": "yellow-turban-archer",
+    "name": "황건 궁병",
+    "height_target": 120,
+    "body_height_source_estimate": 290,
+    "scale": 0.41379310344827586,
+    "status": "review"
+  },
+  {
+    "key": "guan-hai",
+    "name": "관해",
+    "height_target": 165,
+    "body_height_source_estimate": 380,
+    "scale": 0.4342105263157895,
+    "status": "review"
+  },
+  {
+    "key": "zhang-jiao",
+    "name": "장각",
+    "height_target": 160,
+    "body_height_source_estimate": 360,
+    "scale": 0.4444444444444444,
+    "status": "review"
+  }
+]
